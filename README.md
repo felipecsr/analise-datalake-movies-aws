@@ -1,19 +1,25 @@
-## Apresentação
+# Felipe Reis 🤘
 
-Olá, sou Felipe Reis. Tenho 40 anos e possuo cerca de 20 anos de experiência profissional. Atualmente moro em Guaratinguetá/SP
+## Sobre mim
 
+![Foto de perfil](https://drive.google.com/file/d/1R3Cq0MIKPhg0s4RIKJvF7uczD75reaCq/view?usp=sharing)
 
-Minha formação é em Ciências Sociais pela UNESP de Araraquara. Ao longo da minha carreira, trabalhei tanto em grandes multinacionais quanto em startups de tecnologia, além de ter atuado no terceiro setor. Essas experiências me permitiram desempenhar papéis em Administração e Finanças, sempre com foco em agregar valor às organizações.
+- **📍 Localização**: Guaratinguetá/ SP
 
-Nos últimos anos, foquei minha atuação em Controladoria, cuidando de relatórios para investidores e modelagens econômico-financeiras, o que despertou meu interesse pelo mundo dos dados e me levou a iniciar uma nova trajetória na área de Ciência de Dados.
+- **🏫 Instituição de Ensino**: Universidade Virtual do Estado de São Paulo - Univesp
 
-Atualmente, estou iniciando um estágio na Compass UOL, onde busco aprender de forma prática e pragmática as bases de ciência de dados, aplicando meus conhecimentos anteriores para me tornar um profissional mais completo na área.
+- **📚 Curso Atual**: Ciência de Dados (4o. semestre, de 8)
 
-Além das trilhas oferecidas no Scholarship, já vinha praticando SQL com Big Query, iniciando aprendizados sobre Python e suas possibilidades, e gosto bastante de "arte" da Visualização de Dados, que já vinha praticando nos meus papéis nas empresas, para oferecer melhores tomadas de decisão para os gestores de forma simples e didática!
+- **🎓 Formações anteriores**: Ciências Sociais (UNESP, 2008), Controladoria de Empresas (UNIP, 2012), Empreendedorismo em Negócios Sociais (Artemísia, 2012)
 
-Além da minha carreira, sou entusiasta da música e sempre que tenho um momento, pratico instrumentos diversos, violão, bateria, guitarra, baixo, e percussões. Estou aprendendo a como registrar gravações multipistas, mixagem e masterização, numa pegada de home-studio.
+- **💼 Experiência**: 20 anos de experiência em Administração e Finanças, em multinacionais, pequenas empresas e 3o. setor. Foco recente em Modelagem Econômico-Financeira e Controladoria - em 3 startups de tecnologia
 
-**Instituição de ensino**: Universidade Virtual do Estado de São Paulo - UNIVESP, turma 2023-2. Atualmente no semestre 4 de 8.
+- **👨‍💻 Conhecimentos**: Excel/ Sheets avançado, SQL, BigQuery, Looker. Engatinhando em Python.
+
+- **🎯 Objetivos no programa de bolsas**: aprender aspectos práticos do profissional da ciência e engenharia de dados, aprendizados e aperfeiçoamentos técnicos, efetivação na empresa.
+
+- **🚴‍♂️ Hobbies**: Amo música e toco alguns instrumentos. Realizo ensaios com a banda e pequenas gravações em casa 💛 Além disso tenho praticado natação e musculação em dias alternados e está sendo ótimo para o corpo e mente!
+
 
 ## Sprints 
 
