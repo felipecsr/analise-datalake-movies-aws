@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-![Foto de perfil](https://drive.google.com/file/d/1R3Cq0MIKPhg0s4RIKJvF7uczD75reaCq/view?usp=sharing)
+![Foto de perfil](img/perfil.png)
 
 - **📍 Localização**: Guaratinguetá/ SP
 
@@ -13,6 +13,8 @@
 - **🎓 Formações anteriores**: Ciências Sociais (UNESP, 2008), Controladoria de Empresas (UNIP, 2012), Empreendedorismo em Negócios Sociais (Artemísia, 2012)
 
 - **💼 Experiência**: 20 anos de experiência em Administração e Finanças, em multinacionais, pequenas empresas e 3o. setor. Foco recente em Modelagem Econômico-Financeira e Controladoria - em 3 startups de tecnologia
+
+- **💼 Perfil Linkedin**: (https://www.linkedin.com/in/felipecsr/)
 
 - **👨‍💻 Conhecimentos**: Excel/ Sheets avançado, SQL, BigQuery, Looker. Engatinhando em Python.
 
