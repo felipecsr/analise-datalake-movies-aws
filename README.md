@@ -1,26 +1,19 @@
-
-# Instruções
-
-Neste arquivo você fará a sua apresentação, assim como a organização geral das suas entregas ao longo das Sprints. Esperamos que haja, minimamente:
- 
-- Uma seção de apresentação, com informações como cidade de residência, instituição de ensino, curso e semestre atual, experiências na área de tecnologia (se houver), hobbies e outras informações que você julgar importante para os monitores.
-
-- Uma ou mais seções para descrever o que estiver aprendendo (resumo), de maneira estruturada. Na medida que você avança no programa de bolsas, deverá alimentar para criar um portfólio de seus estudos.
-
-- De forma opcional, sugerimos que você adicione uma foto ao seu perfil do GitHub, pois utilizamos tal informação para facilitar a sua identificação ao longo do processo. Lembre-se que a informação é pública, tal qual você pode testar no exemplo do repositório da [
-The Apache Software Foundation](https://github.com/apache.png?size=250).
-
-
-Para cada Sprint, crie um arquivo README.md na respectiva pasta. Este arquivo será o relato da sua entrega. Considere organizar neste arquivo a entrega do desafio, a apresentação dos códigos desenvolvidos, imagens que evidenciam a execução (se necessário) e as imagens dos certificados dos cursos solicitados.
-
-
-Veja um modelo de estrutura básica a seguir:
-
-___
-
 ## Apresentação
 
-Olá, sou ...
+Olá, sou Felipe Reis. Tenho 40 anos e possuo cerca de 20 anos de experiência profissional. Atualmente moro em Guaratinguetá/SP
+
+
+Minha formação é em Ciências Sociais pela UNESP de Araraquara. Ao longo da minha carreira, trabalhei tanto em grandes multinacionais quanto em startups de tecnologia, além de ter atuado no terceiro setor. Essas experiências me permitiram desempenhar papéis em Administração e Finanças, sempre com foco em agregar valor às organizações.
+
+Nos últimos anos, foquei minha atuação em Controladoria, cuidando de relatórios para investidores e modelagens econômico-financeiras, o que despertou meu interesse pelo mundo dos dados e me levou a iniciar uma nova trajetória na área de Ciência de Dados.
+
+Atualmente, estou iniciando um estágio na Compass UOL, onde busco aprender de forma prática e pragmática as bases de ciência de dados, aplicando meus conhecimentos anteriores para me tornar um profissional mais completo na área.
+
+Além das trilhas oferecidas no Scholarship, já vinha praticando SQL com Big Query, iniciando aprendizados sobre Python e suas possibilidades, e gosto bastante de "arte" da Visualização de Dados, que já vinha praticando nos meus papéis nas empresas, para oferecer melhores tomadas de decisão para os gestores de forma simples e didática!
+
+Além da minha carreira, sou entusiasta da música e sempre que tenho um momento, pratico instrumentos diversos, violão, bateria, guitarra, baixo, e percussões. Estou aprendendo a como registrar gravações multipistas, mixagem e masterização, numa pegada de home-studio.
+
+**Instituição de ensino**: Universidade Virtual do Estado de São Paulo - UNIVESP, turma 2023-2. Atualmente no semestre 4 de 8.
 
 ## Sprints 
 
@@ -29,13 +22,14 @@ Olá, sou ...
 3. [Sprint 3](Sprint%203/README.md)
 4. ...
 
-___
+## Aprendizados
+
+**Sprint 1 - Git e Terminal Linux**
+Durante essa primeira sprint, consegui rodar meu primeiro script em shell e fiquei muito satisfeito com o resultado, principalmente após superar algumas dificuldades iniciais. Embora o script ainda possa ser otimizado, especialmente em termos de legibilidade e uso de variáveis, foi uma experiência bastante enriquecedora.
+
+Já sou usuário de Linux há alguns anos, com uma familiaridade básica com o terminal. No entanto, após essa sprint, sinto-me muito mais confiante para explorar e utilizar uma variedade maior de comandos pelo terminal.
+
+Além disso, comecei a aprender Git do zero, criando minha conta no GitHub. Já tinha ouvido falar e experimentado conceitos como branches, commits, pushes e merges em experiências anteriores, mas não entendia profundamente como tudo se conectava. Fiquei bastante satisfeito ao finalmente compreender esses conceitos e vê-los funcionando de forma prática no meu dia a dia.
 
 
-# Dicas
-
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-APENAS UM TESTE PARA COMMITAR
+**Sprint 2 - (...)**
