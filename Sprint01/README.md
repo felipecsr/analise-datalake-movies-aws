@@ -34,10 +34,12 @@
 - Git e Github do básico ao avançado (com gist e Github Pages) / Udemy
   
   
-# 🧠 Aprendizados
-**Git e Terminal Linux**
+# 🧠 Desafio
+**Git e Terminal Linux**  
 Durante essa primeira sprint, consegui rodar meu primeiro script em shell e fiquei muito satisfeito com o resultado, principalmente após superar algumas dificuldades iniciais. Embora o script ainda possa ser otimizado, especialmente em termos de legibilidade e uso de variáveis, foi uma experiência bastante enriquecedora.
 
 Já sou usuário de Linux há alguns anos, com uma familiaridade básica com o terminal. No entanto, após essa sprint, sinto-me muito mais confiante para explorar e utilizar uma variedade maior de comandos pelo terminal.
 
 Além disso, comecei a aprender Git do zero, criando minha conta no GitHub. Já tinha ouvido falar e experimentado conceitos como branches, commits, pushes e merges em experiências anteriores, mas não entendia profundamente como tudo se conectava. Fiquei bastante satisfeito ao finalmente compreender esses conceitos e vê-los funcionando de forma prática no meu dia a dia.
+
+[Confira o 'readme' do desafio aqui!](desafio/README.md)
