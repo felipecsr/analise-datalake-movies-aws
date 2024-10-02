@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-![Foto de perfil](img/perfil.png)
+![Foto de perfil](img/perfil.jpg)
 
 - **📍 Localização**: Guaratinguetá/ SP
 
