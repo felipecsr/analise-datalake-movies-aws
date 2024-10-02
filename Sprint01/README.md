@@ -1,10 +1,8 @@
 # 💻 Exercícios
 
-1. Executável em Shell para realizar o processamento das vendas
-[Script - processamento_de_vendas.sh](exercicios/processamento_de_vendas.sh)
+1. [Executável em Shell para realizar o processamento das vendas](exercicios/processamento_de_vendas.sh)
   
-2. Executável em Shell para realizar a consolidação dos relatórios extraídos, num relatório final
-[Script - consolidador_de_processamento_de_vendas.sh](exercicios/consolidador_de_processamento_de_vendas.sh)
+2. [Executável em Shell para realizar a consolidação dos relatórios processados, em único relatório (final)](exercicios/consolidador_de_processamento_de_vendas.sh)
   
   
 # 📷 Evidências
@@ -29,9 +27,9 @@
   
 # 📜 Certificados
 
-- Linux para Desenvolvedores (c/ terminal, Shell, Apache e +) / Udemy
+- [Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)](certificados/Linux.jpg)
 
-- Git e Github do básico ao avançado (com gist e Github Pages) / Udemy
+- [Git e Github do básico ao avançado (com gist e Github Pages)](certificados/Git.jpg)
   
   
 # 🧠 Desafio

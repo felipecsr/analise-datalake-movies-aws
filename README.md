@@ -1,26 +1,28 @@
-# Felipe Reis 🤘
+# Felipe Reis 🔬🧬🎲🎲🤘
 
 ## Sobre mim
 
-![Foto de perfil](img/perfil.jpg)
+   ![Foto de perfil](img/perfil.jpg)
 
-- **📍 Localização**: Guaratinguetá/ SP
+- **📍 Localização atual**: Guaratinguetá/ SP
 
-- **🏫 Instituição de Ensino**: Universidade Virtual do Estado de São Paulo - Univesp
+- **🏫 Instituição de ensino**: Universidade Virtual do Estado de São Paulo - Univesp
 
-- **📚 Curso Atual**: Ciência de Dados (4o. semestre, de 8)
+- **📚 Curso atual**: Bacharelado em Ciência de Dados (4o. semestre, de 8)
 
-- **🎓 Formações anteriores**: Ciências Sociais (UNESP, 2008), Controladoria de Empresas (UNIP, 2012), Empreendedorismo em Negócios Sociais (Artemísia, 2012)
+- **🎓 Formações anteriores**: Ciências Sociais (UNESP, Araraquara, 2008), Controladoria de Empresas (UNIP, São Paulo, Campus Paraíso, 2012), Empreendedorismo em Negócios Sociais (Artemísia, São Paulo, 2012)
 
-- **💼 Experiência**: 20 anos de experiência em Administração e Finanças, em multinacionais, pequenas empresas e 3o. setor. Foco recente em Modelagem Econômico-Financeira e Controladoria - em 3 startups de tecnologia
+- **💼 Experiência**: 20 anos de experiência em Administração e Finanças, circulando por multinacionais, pequenas empresas e também no 3o. setor. Foco recente em Modelagem Econômico-Financeira e Controladoria - em 3 startups de tecnologia 😃
 
-- **💼 Perfil Linkedin**: https://www.linkedin.com/in/felipecsr/
+- **💼 Perfil linkedin**: https://www.linkedin.com/in/felipecsr/
 
-- **👨‍💻 Conhecimentos**: Excel/ Sheets avançado, SQL, BigQuery, Looker. Engatinhando em Python.
+- **👨‍💻 Conhecimentos**: Excel/ Sheets avançado, SQL, BigQuery, Looker Studio, Metabase. Engatinhando em Python.
 
-- **🎯 Objetivos no programa de bolsas**: aprender aspectos práticos do profissional da ciência e engenharia de dados, aprendizados e aperfeiçoamentos técnicos, efetivação na empresa.
+- **🎯 Objetivos no programa de bolsas**: aprender aspectos práticos do profissional das ciência e engenharia de dados. Aprendizados e aperfeiçoamentos técnicos (me encantam as análises preditivas!) e, se possível, efetivação na Compass UOL. 
 
 - **🚴‍♂️ Hobbies**: Amo música e toco alguns instrumentos. Realizo ensaios com a banda e pequenas gravações em casa 💛 Além disso tenho praticado natação e musculação em dias alternados e está sendo ótimo para o corpo e mente!
+
+- **🤍 Trabalhos voluntários**: *Atualmente*: APAE - Guaratinguetá (2024) || *Anteriormente*: [House of Genius (2015-2017)](http://houseofgenius.org/), Rotary Club Guaratinguetá (2000-2002)
 
 
 ## Sprints 
