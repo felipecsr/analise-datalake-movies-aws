@@ -18,7 +18,7 @@
 
 - **👨‍💻 Conhecimentos**: Excel/ Sheets avançado, SQL, BigQuery, Looker Studio, Metabase. Engatinhando em Python.
 
-- **🎯 Objetivos no programa de bolsas**: aprender aspectos práticos do profissional das ciência e engenharia de dados. Aprendizados e aperfeiçoamentos técnicos (me encantam as análises preditivas!) e, se possível, efetivação na Compass UOL. 
+- **🎯 Objetivos no programa de bolsas**: adquirir conhecimento prático nas áreas de ciência e engenharia de dados, com foco em aprimorar habilidades técnicas. Tenho interesse especial em análises preditivas e visualização de dados para embasar tomadas de decisão. Além disso, busco, se possível, uma oportunidade de efetivação na Compass UOL
 
 - **🚴‍♂️ Hobbies**: Amo música e toco alguns instrumentos. Realizo ensaios com a banda e pequenas gravações em casa 💛 Além disso tenho praticado natação e musculação em dias alternados e está sendo ótimo para o corpo e mente!
 
