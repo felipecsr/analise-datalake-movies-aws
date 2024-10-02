@@ -25,4 +25,4 @@
 
 ## Sprints 
 
-1. [Sprint 1](Sprint01/README.md)
+1. [Sprint01](Sprint01/README.md)
