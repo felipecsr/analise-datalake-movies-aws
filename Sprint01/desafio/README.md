@@ -186,8 +186,8 @@ cat /home/fcsr/Documentos/Nabucodonossor-workspace/PB-FELIPE-REIS/Sprint01/desaf
 ---
 # 🔁 Seções Relacionadas
 
-[Confira o conteúdo da pasta exercícios com os scripts](/Sprint01/exercicios/exercicios/)  
+[Confira o conteúdo da pasta exercícios com os scripts](/PB-FELIPE-REIS/Sprint01/exercicios/)  
 
-[Confira o conteúdo da pasta evidências com prints de alguns momentos](/Sprint01/evidencias/evidencias/)
+[Confira o conteúdo da pasta evidências com prints de alguns momentos](/PB-FELIPE-REIS/Sprint01/evidencias/)
 
 
