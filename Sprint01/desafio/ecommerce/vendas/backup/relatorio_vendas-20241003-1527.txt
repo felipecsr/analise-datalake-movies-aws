@@ -1,0 +1,27 @@
+
+Relatório de Vendas
+===================
+
+Data do sistema operacional: 
+2024/10/03 15:27
+
+Primeiro registro de venda:
+1,piano,4,2119.63,01/01/2023
+
+Último registro de venda:
+15,flauta,3,2365.54,31/12/2023
+
+Quantidade total de itens diferentes vendidos: 
+5
+
+As primeiras 10 linhas do arquivo (incluindo o cabeçalho):
+id,produto,quantidade,preço,data
+1,piano,4,2119.63,01/01/2023
+2,piano,1,1712.52,27/01/2023
+3,bateria,1,1714.03,22/02/2023
+4,bateria,3,552.61,20/03/2023
+5,piano,3,2787.37,15/04/2023
+6,guitarra,2,2025.46,11/05/2023
+7,flauta,2,888.02,06/06/2023
+8,violino,4,553.88,02/07/2023
+9,bateria,1,2255.72,28/07/2023
