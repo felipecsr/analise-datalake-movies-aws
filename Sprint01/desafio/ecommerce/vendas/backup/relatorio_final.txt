@@ -1,0 +1,108 @@
+
+Relatório de Vendas
+===================
+
+Data do sistema operacional: 
+2024/10/01 15:27
+
+Primeiro registro de venda:
+1,camiseta,2,29.90,01/01/2023
+
+Último registro de venda:
+88,monitor yamaha hs5,2,990.00,31/01/2023
+
+Quantidade total de itens diferentes vendidos: 
+66
+
+As primeiras 10 linhas do arquivo (incluindo o cabeçalho):
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+
+Relatório de Vendas
+===================
+
+Data do sistema operacional: 
+2024/10/03 15:27
+
+Primeiro registro de venda:
+1,piano,4,2119.63,01/01/2023
+
+Último registro de venda:
+15,flauta,3,2365.54,31/12/2023
+
+Quantidade total de itens diferentes vendidos: 
+5
+
+As primeiras 10 linhas do arquivo (incluindo o cabeçalho):
+id,produto,quantidade,preço,data
+1,piano,4,2119.63,01/01/2023
+2,piano,1,1712.52,27/01/2023
+3,bateria,1,1714.03,22/02/2023
+4,bateria,3,552.61,20/03/2023
+5,piano,3,2787.37,15/04/2023
+6,guitarra,2,2025.46,11/05/2023
+7,flauta,2,888.02,06/06/2023
+8,violino,4,553.88,02/07/2023
+9,bateria,1,2255.72,28/07/2023
+
+Relatório de Vendas
+===================
+
+Data do sistema operacional: 
+2024/10/04 15:27
+
+Primeiro registro de venda:
+1,Toyota Corolla,2,126553.61,01/01/2023
+
+Último registro de venda:
+15,BMW Série 3,2,191526.2,31/12/2023
+
+Quantidade total de itens diferentes vendidos: 
+5
+
+As primeiras 10 linhas do arquivo (incluindo o cabeçalho):
+id,produto,quantidade,preço,data
+1,Toyota Corolla,2,126553.61,01/01/2023
+2,BMW Série 3,2,218393.59,27/01/2023
+3,Toyota Corolla,2,223417.5,22/02/2023
+4,Chevrolet Camaro,1,226993.89,20/03/2023
+5,Chevrolet Camaro,2,110553.88,15/04/2023
+6,BMW Série 3,2,104534.9,11/05/2023
+7,Honda Civic,2,85856.94,06/06/2023
+8,Honda Civic,2,136016.9,02/07/2023
+9,Honda Civic,2,115551.78,28/07/2023
+
+Relatório de Vendas
+===================
+
+Data do sistema operacional: 
+2024/10/05 15:27
+
+Primeiro registro de venda:
+1,feijão,7,46.88,01/01/2023
+
+Último registro de venda:
+15,arroz,13,24.28,31/12/2023
+
+Quantidade total de itens diferentes vendidos: 
+5
+
+As primeiras 10 linhas do arquivo (incluindo o cabeçalho):
+id,produto,quantidade,preço,data
+1,feijão,7,46.88,01/01/2023
+2,farinha,17,30.63,27/01/2023
+3,arroz,15,43.67,22/02/2023
+4,azeite,12,28.65,20/03/2023
+5,azeite,12,19.52,15/04/2023
+6,macarrão,5,22.33,11/05/2023
+7,macarrão,6,44.94,06/06/2023
+8,macarrão,20,47.79,02/07/2023
+9,feijão,11,48.76,28/07/2023

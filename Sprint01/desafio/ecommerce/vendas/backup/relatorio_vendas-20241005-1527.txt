@@ -1,0 +1,27 @@
+
+Relatório de Vendas
+===================
+
+Data do sistema operacional: 
+2024/10/05 15:27
+
+Primeiro registro de venda:
+1,feijão,7,46.88,01/01/2023
+
+Último registro de venda:
+15,arroz,13,24.28,31/12/2023
+
+Quantidade total de itens diferentes vendidos: 
+5
+
+As primeiras 10 linhas do arquivo (incluindo o cabeçalho):
+id,produto,quantidade,preço,data
+1,feijão,7,46.88,01/01/2023
+2,farinha,17,30.63,27/01/2023
+3,arroz,15,43.67,22/02/2023
+4,azeite,12,28.65,20/03/2023
+5,azeite,12,19.52,15/04/2023
+6,macarrão,5,22.33,11/05/2023
+7,macarrão,6,44.94,06/06/2023
+8,macarrão,20,47.79,02/07/2023
+9,feijão,11,48.76,28/07/2023
