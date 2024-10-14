@@ -1,43 +1,43 @@
+# 💻 Exercícios
 
-# Instruções
+1. [Executável em Shell para realizar o processamento das vendas](exercicios/processamento_de_vendas.sh)
+  
+2. [Executável em Shell para realizar a consolidação dos relatórios processados, em único relatório (final)](exercicios/consolidador_de_processamento_de_vendas.sh)
+  
+  
+# 📷 Evidências
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+1. Após realizar o executável, rodei como teste e obtive o seguinte resultado (esperado!), utilizando os parâmetros "-xe"
+    ![Evidencia 01](evidencias/01Comprovacao_do_script_rodando_com_parametro_de_execucao.png)
+  
+2. Quando tive certeza que o executável estava funcional, parti para o agendamento
+    ![Evidencia 02](evidencias/02Comprovacao_de_agendamentos.png)
+  
+3. Monitorei o sucesso do agendamento, através do log do serviço crontab
+    ![Evidencia 03](evidencias/03Log_de_execucao_do_agendamento_grifado.png)
+  
+4. Também monitorei o sucesso da execução do agendamento, com um "antes e depois" na estrutura de diretórios e os produtos desejados
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+    **Antes**
+    ![Evidencia 04](evidencias/04Estrutura_de_pastas_antes_de_rodar_o_agendamento.png)
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+    **Depois**
+    ![Evidencia 05](evidencias/05Estrutura_apos_agendamento_rodar.png)
+  
+  
+# 📜 Certificados
 
+- [Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)](certificados/Linux.jpg)
 
-# Exercícios
+- [Git e Github do básico ao avançado (com gist e Github Pages)](certificados/Git.jpg)
+  
+  
+# 🧠 Desafio
+**Git e Terminal Linux**  
+Durante essa primeira sprint, consegui rodar meu primeiro script em shell e fiquei muito satisfeito com o resultado, principalmente após superar algumas dificuldades iniciais. Embora o script ainda possa ser otimizado, especialmente em termos de legibilidade e uso de variáveis, foi uma experiência bastante enriquecedora.
 
+Já sou usuário de Linux há alguns anos, com uma familiaridade básica com o terminal. No entanto, após essa sprint, sinto-me muito mais confiante para explorar e utilizar uma variedade maior de comandos pelo terminal.
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+Além disso, comecei a aprender Git do zero, criando minha conta no GitHub. Já tinha ouvido falar e experimentado conceitos como branches, commits, pushes e merges em experiências anteriores, mas não entendia profundamente como tudo se conectava. Fiquei bastante satisfeito ao finalmente compreender esses conceitos e vê-los funcionando de forma prática no meu dia a dia.
 
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
-
-
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
-
-
+[Confira o 'readme' do desafio aqui!](desafio/README.md)
