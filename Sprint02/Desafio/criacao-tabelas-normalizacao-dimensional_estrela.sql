@@ -1,51 +1,53 @@
--- Criar tabela DimCliente
-CREATE TABLE DimCliente (
-    idCliente INT PRIMARY KEY,
-    nomeCliente VARCHAR(100),
-    cidadeCliente VARCHAR(100),
-    estadoCliente VARCHAR(50),
-    paisCliente VARCHAR(50)
-);
+-- View: Fato Locacao
+CREATE VIEW Fato_Locacao AS
+SELECT 
+    l.idLocacao,
+    l.idCliente,
+    l.idCarro,
+    l.idcombustivel,
+    l.idVendedor,
+    l.dataLocacao,
+    l.horaLocacao,
+    l.qtDiaria,
+    l.vlrDiaria,
+    l.dataEntrega,
+    l.horaEntrega
+FROM Locacao l;
 
--- Criar tabela DimCarro
-CREATE TABLE DimCarro (
-    idCarro INT PRIMARY KEY,
-    kmCarro INT,
-    classiCarro VARCHAR(50),
-    marcaCarro VARCHAR(50),
-    modeloCarro VARCHAR(50),
-    anoCarro INT
-);
+-- View: Dimensão Cliente
+CREATE VIEW Dim_Cliente AS
+SELECT 
+    c.idCliente,
+    c.nomeCliente,
+    c.cidadeCliente,
+    c.estadoCliente,
+    c.paisCliente
+FROM Cliente c;
 
--- Criar tabela DimCombustivel
-CREATE TABLE DimCombustivel (
-    idcombustivel INT PRIMARY KEY,
-    tipoCombustivel VARCHAR(50)
-);
+-- View: Dimensão Carro
+CREATE VIEW Dim_Carro AS
+SELECT 
+    car.idCarro,
+    car.kmCarro,
+    car.classiCarro,
+    car.marcaCarro,
+    car.modeloCarro,
+    car.anoCarro
+FROM Carro car;
 
--- Criar tabela DimVendedor
-CREATE TABLE DimVendedor (
-    idVendedor INT PRIMARY KEY,
-    nomeVendedor VARCHAR(100),
-    sexoVendedor SMALLINT,
-    estadoVendedor VARCHAR(50)
-);
+-- View: Dimensão Combustível
+CREATE VIEW Dim_Combustivel AS
+SELECT 
+    comb.idcombustivel,
+    comb.tipoCombustivel
+FROM Combustivel comb;
 
--- Criar tabela FatoLocacao
-CREATE TABLE FatoLocacao (
-    idLocacao INT PRIMARY KEY,
-    idCliente INT,
-    idCarro INT,
-    idcombustivel INT,
-    idVendedor INT,
-    dataLocacao DATE,
-    horaLocacao TIME,
-    qtDiaria INT,
-    vlrDiaria DECIMAL(10, 2),
-    dataEntrega DATE,
-    horaEntrega TIME,
-    FOREIGN KEY (idCliente) REFERENCES DimCliente(idCliente),
-    FOREIGN KEY (idCarro) REFERENCES DimCarro(idCarro),
-    FOREIGN KEY (idcombustivel) REFERENCES DimCombustivel(idcombustivel),
-    FOREIGN KEY (idVendedor) REFERENCES DimVendedor(idVendedor)
-);
+-- View: Dimensão Vendedor
+CREATE VIEW Dim_Vendedor AS
+SELECT 
+    v.idVendedor,
+    v.nomeVendedor,
+    v.sexoVendedor,
+    v.estadoVendedor
+FROM Vendedor v;
+
