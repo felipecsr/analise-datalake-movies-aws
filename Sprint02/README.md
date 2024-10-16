@@ -63,7 +63,7 @@ Aqui abaixo seguem as evidências relacionadas aos exercícios 1 ao 16:
 
 - [SQL para Análise de Dados: do básico ao avançado](/Sprint02/certificados/SQL.png)
 
-- [AWS Skill Builder: Sales Accreditation] >> falta o print⚠️
+- [AWS Skill Builder: Sales Accreditation](/Sprint02/certificados/AWS.png)
   
   
 # 🧠 Desafio
