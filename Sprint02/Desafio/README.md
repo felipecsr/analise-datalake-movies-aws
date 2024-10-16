@@ -72,7 +72,7 @@ CREATE TABLE Locacao (
 
 A representação visual deste esquema relacional ficou a seguinte:
 
-![visualização do esquema relacional após normalização](/PB-FELIPE-REIS/Sprint02/evidencias/normalizacao-mod-relacional.png)  
+![visualização do esquema relacional após normalização](../evidencias/normalizacao-mod-relacional.png)  
 **OBS**: a `tb_locacao` à direita da imagem foi a tabela dada de início no desafio, ou seja, a origem para a normalização e relacionamento.
 
 **OBS'**: nas sintaxes de criação das novas tabelas, já há a definição do formato de cada coluna, como hora, data, 2 casas decimais, inteiros, texto, etc.
@@ -142,7 +142,7 @@ FROM Vendedor v;
   
 A representação visual deste esquema dimensional ficou a seguinte:
 
-![visualização do esquema dimensional - estrela](/PB-FELIPE-REIS/Sprint02/evidencias/mod-dimensional_estrela.png)
+![visualização do esquema dimensional - estrela](../evidencias/mod-dimensional_estrela.png)
 
 ---
 
