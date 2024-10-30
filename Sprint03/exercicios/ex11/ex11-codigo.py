@@ -1,3 +1,4 @@
+#importação de biblioteca JSON
 import json
 
 #utilizei sem o caminho, exatamente como funcionou no ex da Udemy - porém para funcionar aqui no VSCode precisei colocar o caminho relativo
