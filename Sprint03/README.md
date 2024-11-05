@@ -34,6 +34,10 @@ Os resultados esperados são os códigos Python, que seguem abaixo:
 24. [Código do exercício 24](exercicios/ex_secao_3_e_4/ex24/ex24-codigo.py)
 25. [Código do exercício 25](exercicios/ex_secao_3_e_4/ex25/ex25-codigo.py)  
 
+<br/>
+
+⚠️ *[Aqui neste link, nas respectivas pastas](exercicios/ex_secao_3_e_4/) poderão ser observadas as 25 evidências, prints de tela com a mensagem de sucesso na execução do código e testes de execução!*
+
 ## Segundo bloco de exercícios - ETL
 
 Os resultados esperados estão no código Python e textos, que seguem abaixo:
@@ -48,42 +52,27 @@ Os resultados esperados estão no código Python e textos, que seguem abaixo:
 <br/>
 
 # 📷 Evidências
+Nesta sprint 03, além das evidências dos exercícios 1 ao 25, temos algumas telas preparatórias para a resolução do desafio, abaixo:
 
-Aqui abaixo seguem as evidências relacionadas aos exercícios 1 ao 16:
 
+1. Instalação do Jupyter Notebook, via Anaconda![Print da instalção do Anaconda, opção Jupyter Notebook](evidencias/01-install_anaconda_jupyter.png)
 
-1. Sucesso na query do exercício 1 ![Sucesso na Código do do exercício  1](evidencias/ex01-sucesso.png)    
+<br/>
 
-2. Sucesso na query do exercício 2  ![Sucesso na Código do do exercício  2](evidencias/ex02-sucesso.png)    
+2. Teste do Jupyter Notebook ![Tela do Jupyter Notebook, evidenciando que foi corretamente instalado e carregado](evidencias/01-jupyter_notebook-ok.png)
 
-3. Sucesso na query do exercício 3  ![Sucesso na Código do do exercício  3](evidencias/ex03-sucesso.png)    
+<br/>
 
-4. Sucesso na query do exercício 4  ![Sucesso na Código do do exercício  4](evidencias/ex04-sucesso.png)    
+3. Instalação da extensão Jupyter no VSCode, afim de comparação de usabilidade ![Tela extensão Jupyter no VSCode, afim de comparação de usabilidade](evidencias/01-VScode_ext_jupyter.png)
 
-5. Sucesso na query do exercício 5  ![Sucesso na Código do do exercício  5](evidencias/ex05-sucesso.png)    
+<br/>
 
-6. Sucesso na query do exercício 6  ![Sucesso na Código do do exercício  6](evidencias/ex06-sucesso.png)   
+4. Tela de uso do Jupyter Notebook no VSCode ![Tela extensão Jupyter no VSCode, afim de comparação de usabilidade](evidencias/01-VSCode_jupyter_notebook.png)
 
-7. Sucesso na query do exercício 7  ![Sucesso na Código do do exercício  7](evidencias/ex07-sucesso.png)    
+<br/>
 
-8. Sucesso na query do exercício 8  ![Sucesso na Código do do exercício  8](evidencias/ex08-sucesso.png)  
+5. E para o cumprimento do desafio, além do Notebook instalado, confirmei a instalação das bibliotecas Pandas e MatplotLib, antes de iniciar a confeção dos códigos. Havia instalado as bibliotecas via Anaconda e precisei reinstalar pois ao utilizar no ambiente do VSCode por algum motivo não consegui aproveitar a instalação prévia. Mas contornei instalando via Pip, diretamente pelo terminal do VSCode ![Instalação bibliotecas Python para execução do desafio](evidencias/02-desafio_etapa1_confirmacao_bibliotecas.png)
 
-9. Sucesso na query do exercício 9  ![Sucesso na Código do do exercício  9](evidencias/ex09-sucesso.png)   
-
-10. Sucesso na query do exercício 10 ![Sucesso na Código do do exercício  10](evidencias/ex10-sucesso.png)  
-
-11. Sucesso na query do exercício 11 ![Sucesso na Código do do exercício  11](evidencias/ex11-sucesso.png)  
-
-12. Sucesso na query do exercício 12 ![Sucesso na Código do do exercício  12](evidencias/ex12-sucesso.png)  
-
-13. Sucesso na query do exercício 13 ![Sucesso na Código do do exercício  13](evidencias/ex13-sucesso.png)  
-
-14. Sucesso na query do exercício 14 ![Sucesso na Código do do exercício  14](evidencias/ex14-sucesso.png)  
-
-15. Sucesso na query do exercício 15 ![Sucesso na Código do do exercício  15](evidencias/ex15-sucesso.png)  
-
-16. Sucesso na query do exercício 16 ![Sucesso na Código do do exercício  16](evidencias/ex16-sucesso.png)  
-  
 <br/>
 
 # 📜 Certificados

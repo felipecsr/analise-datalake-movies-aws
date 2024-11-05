@@ -1,161 +1,151 @@
 
-# 🎯 Objetivo 1234
+# 🎯 Objetivo
 
-Este README documenta a criação de tabelas e views para dois tipos de modelagem de dados: **relacional** e **dimensional**.   
-O objetivo aqui é explicar o racional e implementação de cada modelo, destacando ao final similaridades nos esquemas mas também suas diferenças teóricas.
+Este README documenta a resuloção do desafio da Sprint 03.  
+Trata-se de um `ETL` **(Extração, tratamento e carregamento)**, ou seja: acesso de leitura via Python, extração de dados de um CSV (dataset), tratamentos de duplicidades e tipos de dados, e disponibilização para análise.  
+Na etapa de `análise dos dados`, através de bibliotecas típicas de análise de dados, chegamos em listas, valores, gráficos, para responder 7 questões (etapa 2 a 8 do desafio). 
 
----
+<br/>
 
-# 📊 Modelagens
+# 🎲📝📚 ETL
 
-### 1️⃣ Modelagem Relacional
+### Veriricação e tratamento de inconsistências
 
-Para desenvolver o modelo relacional, analisei todas as colunas da tabela fornecida no desafio, organizando-as conforme os níveis de normalização exigidos. Depois de rascunhar a estrutura inicial, segui para o código e criei as tabelas de acordo com o esquema relacional. 
+Foi necessário percorrer o *dataset* verificando se para todas as colunas existiam dados, e verificar, assim, a consistência do conjunto de dados. Neste tópico, três linhas foram capturadas pelo teste, onde através de análise visual da tabela, constatei que apenas uma delas necessitava de tratamento, a linha 10472.
 
-De forma um pouco mais detalhada, a normalização passou por entender os menores valores, pensar como telas de um ERP e separá-los pelas chaves primárias já informadas (o que facilitou a escolha das tabelas); também ligá-los através de chaves estrageiras.
+Esse tratamento foi através da função `shift` (que alinha os dados para a coluna seguinte, à direita) e inserção de um 'NaN' na segunda coluna que não possuia a informação adequada.
 
-#### SQL - Modelagem Relacional
+```python
+# Tratamento da linha 10472 para corrigir a inconsistência
+import pandas as pd
 
-```sql
--- Criar tabela Cliente
-CREATE TABLE Cliente (
-    idCliente INT PRIMARY KEY,
-    nomeCliente VARCHAR(100),
-    cidadeCliente VARCHAR(100),
-    estadoCliente VARCHAR(50),
-    paisCliente VARCHAR(50)
-);
+# Ler o arquivo CSV
+data = pd.read_csv('googleplaystore.csv')
 
--- Criar tabela Carro
-CREATE TABLE Carro (
-    idCarro INT PRIMARY KEY,
-    kmCarro INT,
-    classiCarro VARCHAR(50),
-    marcaCarro VARCHAR(50),
-    modeloCarro VARCHAR(50),
-    anoCarro INT
-);
+# Função para corrigir a linha 10472
+def corrigir_linha_10472(df):
+    idx = 10472  # Índice da linha a ser corrigida
+    if idx in df.index:
+        print(f"Linha antes da correção:\n{df.loc[idx]}\n")
+        
+        # Manter o conteúdo da primeira coluna e preencher a segunda com 'NaN'
+        df.loc[idx, df.columns[1:]] = df.loc[idx, df.columns[:-1]].astype(str).shift(1)
+        df.loc[idx, 'Category'] = 'NaN'
+        
+        print(f"Linha após a correção:\n{df.loc[idx]}\n")
+    else:
+        print("Linha 10472 não encontrada no DataFrame.")
+    
+    return df
 
--- Criar tabela Combustivel
-CREATE TABLE Combustivel (
-    idcombustivel INT PRIMARY KEY,
-    tipoCombustivel VARCHAR(50)
-);
+# Aplicar a correção na linha 10472
+data = corrigir_linha_10472(data)
 
--- Criar tabela Vendedor
-CREATE TABLE Vendedor (
-    idVendedor INT PRIMARY KEY,
-    nomeVendedor VARCHAR(100),
-    sexoVendedor SMALLINT,
-    estadoVendedor VARCHAR(50)
-);
+# Bloco de código para testar o DataFrame e confirmar que a linha 10472 foi tratada
+def testar_dataframe_corrigido(df):
+    # Verifica se a linha 10472 tem 13 elementos, incluindo NaNs, e imprime um resumo
+    linha_10472 = df.loc[10472]
+    num_elementos = len(linha_10472)  # Conta todos os elementos, incluindo NaNs
+    print(f"Contagem de elementos na linha 10472 após correção: {num_elementos}")
+    if num_elementos == df.shape[1]:
+        print("Linha 10472 foi tratada corretamente e não é mais inconsistente.")
+    else:
+        print("Linha 10472 ainda apresenta inconsistências.")
 
--- Criar tabela Locacao
-CREATE TABLE Locacao (
-    idLocacao INT PRIMARY KEY,
-    idCliente INT,
-    idCarro INT,
-    idcombustivel INT,
-    idVendedor INT,
-    dataLocacao DATETIME,
-    horaLocacao TIME,
-    qtDiaria INT,
-    vlrDiaria DECIMAL(10, 2),
-    dataEntrega DATE,
-    horaEntrega TIME,
-    FOREIGN KEY (idCliente) REFERENCES Cliente(idCliente),
-    FOREIGN KEY (idCarro) REFERENCES Carro(idCarro),
-    FOREIGN KEY (idcombustivel) REFERENCES Combustivel(idcombustivel),
-    FOREIGN KEY (idVendedor) REFERENCES Vendedor(idVendedor)
-);
+# Testar o DataFrame
+testar_dataframe_corrigido(data)
 ```
+<br/>
 
-A representação visual deste esquema relacional ficou a seguinte:
 
-![visualização do esquema relacional após normalização](../evidencias/normalizacao-mod-relacional.png)  
-**OBS**: a `tb_locacao` à direita da imagem foi a tabela dada de início no desafio, ou seja, a origem para a normalização e relacionamento.
+### Tratamento de duplicidades e formatos dos dados
 
-**OBS'**: nas sintaxes de criação das novas tabelas, já há a definição do formato de cada coluna, como hora, data, 2 casas decimais, inteiros, texto, etc.
+Neste bloco de código, buscamos através da função `drop_duplicates`a remoção de linhas idênticas, e na sequência através das funções `astype` e `replace` a conversão dos formatos desejados, separando strings e valores inteiros e float.
 
----
+``` python
+# Bloco de código para tratamentos adicionais no DataFrame
 
-### 2️⃣ Modelagem Dimensional (Esquema Estrela)
+# Remover duplicidades
+data = data.drop_duplicates()
 
-No esquema estrela, temos uma tabela de **fatos** que registra os eventos (neste caso, locações), enquanto as tabelas de **dimensão** descrevem entidades como clientes, carros, combustíveis e vendedores.
+# Tratar a coluna 'Price': converter para string, remover o símbolo '$' e converter para float
+data['Price'] = data['Price'].astype(str).str.replace('$', '', regex=False).astype(float)
 
-#### SQL - Modelo Dimensional (através de `VIEWS`)
+# Converter a coluna 'Reviews' para float e depois para int, tratando erros
+data['Reviews'] = pd.to_numeric(data['Reviews'], errors='coerce').fillna(0).astype(int)
 
-```sql
--- View: Fato Locacao
-CREATE VIEW Fato_Locacao AS
-SELECT 
-    l.idLocacao,
-    l.idCliente,
-    l.idCarro,
-    l.idcombustivel,
-    l.idVendedor,
-    l.dataLocacao,
-    l.horaLocacao,
-    l.qtDiaria,
-    l.vlrDiaria,
-    l.dataEntrega,
-    l.horaEntrega
-FROM Locacao l;
+# Exibir mensagem de sucesso
+def verificar_tratamentos(df):
+    print("Tratamentos realizados com sucesso:")
+    print(f"Total de linhas após remoção de duplicidades: {df.shape[0]}")
+    print(f"Tipo de dados da coluna 'Price': {df['Price'].dtype}")
+    print(f"Tipo de dados da coluna 'Reviews': {df['Reviews'].dtype}")
 
--- View: Dimensão Cliente
-CREATE VIEW Dim_Cliente AS
-SELECT 
-    c.idCliente,
-    c.nomeCliente,
-    c.cidadeCliente,
-    c.estadoCliente,
-    c.paisCliente
-FROM Cliente c;
-
--- View: Dimensão Carro
-CREATE VIEW Dim_Carro AS
-SELECT 
-    car.idCarro,
-    car.kmCarro,
-    car.classiCarro,
-    car.marcaCarro,
-    car.modeloCarro,
-    car.anoCarro
-FROM Carro car;
-
--- View: Dimensão Combustível
-CREATE VIEW Dim_Combustivel AS
-SELECT 
-    comb.idcombustivel,
-    comb.tipoCombustivel
-FROM Combustivel comb;
-
--- View: Dimensão Vendedor
-CREATE VIEW Dim_Vendedor AS
-SELECT 
-    v.idVendedor,
-    v.nomeVendedor,
-    v.sexoVendedor,
-    v.estadoVendedor
-FROM Vendedor v;
+# Verificar o DataFrame após os tratamentos
+verificar_tratamentos(data)
 ```
-  
-A representação visual deste esquema dimensional ficou a seguinte:
+<br/>
+<br/>
 
-![visualização do esquema dimensional - estrela](../evidencias/mod-dimensional_estrela.png)
 
----
+# 🔎📊 Análise dos Dados (item 2 ao 8)
 
-## 📝 Similaridades e Diferenças Entre as Modelagens
+Nesta etapa, itens 2 ao 8, resolvemos 'exercícios' onde o objetivo era a obtençao de respostas através das análises dos dados, gerando listas de nomes/ valores, e gráficos.
 
-Embora estejamos trabalhando com duas modelagens diferentes, o resultado final do SQL acabou ficando bastante parecido.  
-Isso se deve ao fato de que as tabelas no modelo relacional foram bem normalizadas, e no esquema dimensional, as views espelham diretamente essas tabelas, o que manteve a estrutura organizada de forma semelhante.
+### Aqui um exemplo, como o item 2 desta etapa do desafio:
+Com o *dataframe* pré-tratado e pronto para as análises, geramos um gráfico para obtenção da resposta desejada.
 
-A grande diferença entre os dois modelos está no propósito e na forma de uso:  
+```python
+import matplotlib.pyplot as plt
 
-- na **modelagem relacional**, o foco é a normalização, com o objetivo de reduzir redundâncias e organizar os dados em entidades bem definidas, garantindo consistência e integridade ao longo do tempo.;   
-- na **modelagem dimensional**, o foco é otimizar consultas analíticas e agregações, separando eventos (fatos) das entidades descritivas (dimensões), o que facilita análises rápidas e eficientes, especialmente em ambientes, por exemplo de BI.  
+# Converter a coluna 'Installs' para string e remover caracteres indesejados apenas se necessário
+data['Installs'] = data['Installs'].astype(str).str.replace(',', '').str.replace('+', '').astype(int)
 
-Mesmo com a semelhança no SQL, o uso de views no esquema dimensional serve justamente para simplificar a análise de dados, enquanto no modelo relacional o foco é a manutenção da integridade e consistência da informação.
+# Selecionar os top 5 apps por número de instalações
+top_5_apps = data.sort_values(by='Installs', ascending=False).head(5)
+
+# Criar o gráfico de barras
+plt.figure(figsize=(10, 6))
+bars = plt.bar(top_5_apps['App'], top_5_apps['Installs'], color='skyblue')
+plt.title('Top 5 Apps por Número de Instalações')
+plt.xlabel('Apps')
+plt.ylabel('Número de Instalações')
+plt.xticks(rotation=45)
+
+# Adicionar os números de instalações em cada barra
+for bar in bars:
+    yval = bar.get_height()
+    plt.text(bar.get_x() + bar.get_width()/2, yval, f'{yval:,}', va='bottom', ha='center')
+
+plt.tight_layout()
+plt.show()
+```
+Gráfico em resposta do exercício:
+
+![Gráfico gerado](/PB-FELIPE-REIS/Sprint03/evidencias/ev_desafio/ex2.png)
+
+<br/>
+
+## 🪐 Jupyter notebook - arquivo do desafio na íntegra
+
+⚠️ **[Neste link conseguiremos acessar](/PB-FELIPE-REIS/Sprint03/Desafio/desafio.ipynb) o arquivo notebook na íntegra com todos os códigos e respectivas respostas.**
+<br/>
+
+    Como é esperado desse tipo de documento (*.ipynb), há blocos de código, as respectivas respostas de cada bloco e separações entre esses blocos através de markdowns 📝  
+
+    Achei interessante esse recurso do Notebook, que permite uma organização e modularização do código. Compreendi que essa funcionalidade é comumente utilizada para a organização de materiais de estudos, apostilagens, tutoriais, etc. 💡 Isso fez muito sentido para mim! 
+
+<br/>
+
+# 📌 Considerações finais sobre a sprint 03
+
+Essa sprint, para mim, foi até aqui a mais desafiadora. 💪
+Senti-me parcialmente pronto para as lógicas a serem aplicadas, seja no tema de ETL, seja nos aspectos mais analíticos dos dados. No entanto, ao lidar com a linguagem de programação e a possibilidade de orientação a objetos, percebi que meu poder de abstração precisa ser ainda mais desenvolvido. E achei ótima essa oportunidade! 🌱
+
+A sprint foi cansativa, mas extremamente recompensadora, especialmente no que diz respeito ao desenvolvimento do mindset do cientista de dados. 🧠✨
+
+Compreendi também a importância do ETL, um trabalho que, aparentemente, é mais designado aos Engenheiros de Dados. Com tratamentos bem realizados, a chance de realizar análises de dados com mais qualidade e assertividade é proporcionalmente maior! 📊
+
+Por fim, senti uma inclinação maior pela análise de dados do que pela parte de engenharia. É algo que vou manter em mente e observar mais de perto conforme avanço na bolsa de estudos e nas próximas sprints. 🔍
 
 ---
