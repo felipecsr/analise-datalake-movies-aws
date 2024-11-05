@@ -122,7 +122,7 @@ plt.show()
 ```
 Gráfico em resposta do exercício:
 
-![Gráfico gerado](/PB-FELIPE-REIS/Sprint03/evidencias/ev_desafio/ex2.png)
+![Gráfico gerado](../evidencias/ev_desafio/ex2.png)
 
 <br/>
 
