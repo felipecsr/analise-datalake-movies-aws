@@ -128,7 +128,7 @@ Gráfico em resposta do exercício:
 
 ## 🪐 Jupyter notebook - arquivo do desafio na íntegra
 
-⚠️ **[Neste link conseguiremos acessar](/PB-FELIPE-REIS/Sprint03/Desafio/desafio.ipynb) o arquivo notebook na íntegra com todos os códigos e respectivas respostas.**
+⚠️ **[Neste link conseguiremos acessar](../Desafio/desafio.ipynb) o arquivo notebook na íntegra com todos os códigos e respectivas respostas.**
 <br/>
 
     Como é esperado desse tipo de documento (*.ipynb), há blocos de código, as respectivas respostas de cada bloco e separações entre esses blocos através de markdowns 📝  
