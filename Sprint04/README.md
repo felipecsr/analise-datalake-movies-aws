@@ -1,7 +1,7 @@
 # 💻 Exercícios
 
-Nesta Sprint 04, tratamos de Python - acerca da programação funcional -, e iniciamos aprendizados sobre Docker!
-Para a parte de Python, realizamos alguns exercícios:
+Nesta Sprint 04, tratamos de Python - acerca da programação funcional -, e iniciamos aprendizados sobre Docker!  
+Para a parte de Python, realizamos alguns exercícios, abaixo.
 
 ## Bloco de exercícios Python 🐍
 
@@ -70,7 +70,7 @@ Para os aprendizados básicos sobre Docker, imagens, containers, sintaxes, temos
 # 📜 Certificados
 
 - [Python 3 - Curso Completo do Básico ao Avançado](certificados/Python.png)
-- [Docker para Desenvolvedores (com Docker Swarm e Kubernetes)](certificados/xxxxx.png)
+- [Docker para Desenvolvedores (com Docker Swarm e Kubernetes)](certificados/docker.png)
 - [AWS Partner: Accreditation (technical)](certificados/xxxxx.png)
 
 <br/>  
