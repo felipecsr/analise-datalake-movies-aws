@@ -72,6 +72,7 @@ Para os aprendizados básicos sobre Docker, imagens, containers, sintaxes, temos
 - [Python 3 - Curso Completo do Básico ao Avançado](certificados/Python.png)
 - [Docker para Desenvolvedores (com Docker Swarm e Kubernetes)](certificados/docker.png)
 - [AWS Partner: Accreditation (technical)](certificados/AWS.png)
+- [AWS Technical Essentials](certificados/AWS2.png)
 
 <br/>  
   
