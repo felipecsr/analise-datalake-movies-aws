@@ -147,8 +147,8 @@ Site funcionando através do endpoint e download do arquivo ocorrendo![Bucket va
 
 # 📜 Certificados
 
-- AWS Cloud Quest![AWS Cloud Quest](certificados/Badge-Quest-Praticioner.png)
-- [Preparatório para AWS Certified Cloud Practitioner](certificados/docker.png)
+- [AWS Cloud Quest](certificados/Badge-Quest-Praticioner.png)
+- [Preparatório para AWS Certified Cloud Practitioner](certificados/AWS_preparação.png)
 
 <br/>  
   
