@@ -1,12 +1,35 @@
 
 # 🎯 Objetivo
 
-Este README documenta a resolução do desafio da Sprint 05.  
-O desafio consistiu na manipulação de dados utilizando Python e a AWS S3 para armazenamento, processamento e análise. Foi dividido em duas etapas principais: envio e leitura de arquivos no S3, além do tratamento, filtragem e criação de indicadores a partir dos dados.
+Este README, da sprint 06, é o primeiro de cinco etapas que compõem o **Desafio Final Programa de Bolsas da Compass UOL**.  
 
----
+De forma concisa, o desafio, que começa na sprint 06 e termina na sprint 10, consiste na criação de dashboards para análise de dados provenientes de um Data Lake - que estamos começando a construir.  
+Todo o processo envolverá a troca de arquivos locais, execução de scripts em ambiente local e na nuvem, extração de dados de APIs públicas, com o objetivo final de integrar ao Console AWS, e lá criar visualizações analíticas.  
 
-# Etapa 1
+Nesta sprint, recebemos dois arquivos `csv` contendo dados sobre filmes e séries, com informações diversas desse universo. Inicialmente, fomos orientados a explorar esses dados, levando em consideração as possibilidades adicionais que surgirão ao extrair informações via API do [site TMDB](https://www.themoviedb.org/?language=pt-br). Após a análise do conjunto de dados e das [possibilidades de dados extraíveis do TMDB](../Desafio/Lista%20de%20possibilidades%20TMBD%20-%20Preparado%20por%20Felipe%20Reis%20-%20Planilhas%20Google.pdf), o ponto de partida dos trabalhos seria a elaboração de perguntas a serem respondidas ao final do desafio, que orientarão todo o processo. A seguir, apresentamos algumas perguntas direcionadoras.
+
+Para a minha squad, número 2, o tema é **Crime e Guerra**.
+
+## ❓ Perguntas direcionadoras do desafio
+
+1) Dentro do segmento `Crime/ Guerra`, quais os 10 ou 20 filmes mais votados(`numeroVotos`) e melhores votados (`notaMedia`)?
+
+2) Destes, existe algum ator ou atriz (`nomeArtista`) que aparece em mais de um filme?
+
+    *Obs: eventualmente inverter 2 e 1, para caso a amostragem seja inviável nessa disposição apresentada.* 
+
+3) Destes, quais os atores/atrizes que estão vivos (`anoFalecimento`), de acordo com a base?
+
+4) Destes, com os dados agregados do TMDB, quais são os filmes com melhor resultado (`revenue` - `budget`), ou seja que a receita cobre o orçamento?
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 ## 🗂️ Criação do Bucket e Upload de Arquivo
 
