@@ -25,6 +25,24 @@ Para a minha squad, número 2, o tema é **Crime e Guerra**.
 
 <br/>
 <br/>
+Etapas:
+
+
+1) criei o script e testei localmente
+2) criei o dockerfile
+3) criei o shell que encapsulou o docker, por conta de o código que está dentro qque é a execução do container com parâmetros de pegar e sobrepor a pasta da aws com chave e credencial
+4) criei container
+    4.1) docker build -t data-lake-uploader .  
+            Explicação:
+            -t data-lake-uploader: Nomeia a imagem como data-lake-uploader.
+            .: Refere-se ao diretório atual como fonte para o Dockerfile.
+
+
+    4.2) 
+5) executei o shell
+
+
+
 <br/>
 <br/>
 <br/>
