@@ -25,6 +25,8 @@ Após a análise do conjunto de dados e das [possibilidades de dados extraíveis
 
 4) Destes, com os dados agregados do TMDB, quais são os filmes com melhor resultado (`revenue` - `budget`), ou seja que a receita cobre o orçamento?
 
+5) Outra análise que é possível é de valor médio de orçamento x receita (ou diferença = resultado), na linha do tempo, talvez anualmente ou por décadas.
+
 <br/>
 
 ## ▶️ Resolução do desafio!
