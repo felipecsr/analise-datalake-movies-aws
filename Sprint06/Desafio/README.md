@@ -3,12 +3,15 @@
 
 Este README, da sprint 06, é o primeiro de cinco etapas que compõem o **Desafio Final Programa de Bolsas da Compass UOL**.  
 
-De forma concisa, o desafio, que começa na sprint 06 e termina na sprint 10, consiste na criação de dashboards para análise de dados provenientes de um Data Lake - que estamos começando a construir.  
-Todo o processo envolverá a troca de arquivos locais, execução de scripts em ambiente local e na nuvem, extração de dados de APIs públicas, com o objetivo final de integrar ao Console AWS, e lá criar visualizações analíticas.  
+**O desafio, em resumo**, (que começa na sprint 06 e termina na sprint 10) consiste na criação de dashboards para análise de dados provenientes de um Data Lake - que estamos começando a construir nesta sprint. Todo o processo envolverá a troca de arquivos locais, execução de scripts em ambiente local e na nuvem, extração de dados de APIs públicas, tratamentos diversos, com o objetivo final de integrar ao Console AWS, e lá criar visualizações analíticas.  
 
-Nesta sprint, recebemos dois arquivos `csv` contendo dados sobre filmes e séries, com informações diversas desse universo. Inicialmente, fomos orientados a explorar esses dados, levando em consideração as possibilidades adicionais que surgirão ao extrair informações via API do [site TMDB](https://www.themoviedb.org/?language=pt-br). Após a análise do conjunto de dados e das [possibilidades de dados extraíveis do TMDB](../Desafio/Lista%20de%20possibilidades%20TMBD%20-%20Preparado%20por%20Felipe%20Reis%20-%20Planilhas%20Google.pdf), o ponto de partida dos trabalhos seria a elaboração de perguntas a serem respondidas ao final do desafio, que orientarão todo o processo. A seguir, apresentamos algumas perguntas direcionadoras.
+**Como primeira etapa do desafio**, nesta sprint, recebemos dois arquivos `csv` contendo dados sobre filmes e séries, com informações diversas desse universo. Inicialmente, fomos orientados a explorar esses dados, levando em consideração as possibilidades adicionais que surgirão ao extrair informações via API do [site TMDB](https://www.themoviedb.org/?language=pt-br).   
 
-Para a minha squad, número 2, o tema é **Crime e Guerra**.
+Após a análise do conjunto de dados e das [possibilidades de dados extraíveis do TMDB](../Desafio/Lista%20de%20possibilidades%20TMBD%20-%20Preparado%20por%20Felipe%20Reis%20-%20Planilhas%20Google.pdf), o ponto de partida dos trabalhos seria a elaboração de perguntas a serem respondidas ao final do desafio, que orientarão todo o processo. A seguir, apresentamos algumas perguntas direcionadoras.
+
+>Para a minha squad, número 2, o tema são séries e filmes do gênero **Crime e Guerra**.
+
+<br/>
 
 ## ❓ Perguntas direcionadoras do desafio
 
@@ -22,249 +25,221 @@ Para a minha squad, número 2, o tema é **Crime e Guerra**.
 
 4) Destes, com os dados agregados do TMDB, quais são os filmes com melhor resultado (`revenue` - `budget`), ou seja que a receita cobre o orçamento?
 
-
-<br/>
-<br/>
-Etapas:
-
-
-1) criei o script e testei localmente
-2) criei o dockerfile
-3) criei o shell que encapsulou o docker, por conta de o código que está dentro qque é a execução do container com parâmetros de pegar e sobrepor a pasta da aws com chave e credencial
-4) criei container
-    4.1) docker build -t data-lake-uploader .  
-            Explicação:
-            -t data-lake-uploader: Nomeia a imagem como data-lake-uploader.
-            .: Refere-se ao diretório atual como fonte para o Dockerfile.
-
-
-    4.2) 
-5) executei o shell
-
-
-
-<br/>
-<br/>
 <br/>
 
+## ▶️ Resolução do desafio!
 
+### 🐍 Criação do script em Python
 
-## 🗂️ Criação do Bucket e Upload de Arquivo
+A primeira etapa foi a criação do script com o seguinte escopo:
 
-Nesta etapa, o objetivo foi criar um bucket na AWS S3 e realizar o upload de um arquivo CSV para este bucket.
+- **Configura variáveis** com o nome do bucket S3 e os caminhos dos arquivos CSV.
+- **Lê e valida** os arquivos CSV com `pandas`.
+- **Verifica e cria** o bucket S3 caso não exista.
+- **Faz upload** dos arquivos CSV para o S3.
 
-### Criação do Bucket
+*Obs: realizei o teste localmente antes da criação e execução do container, para primeiro teste.*
 
 ```python
 import boto3
-from botocore.exceptions import ClientError
+from botocore.exceptions import ProfileNotFound
+import pandas as pd
+from pathlib import Path
+from datetime import datetime
 
-# Configurações iniciais
-s3 = boto3.client('s3', region_name='us-east-1')
-bucket_name = 'bucket-desafio-sprint05'
+# Configurações principais
+BUCKET_NAME = "desafio-filmes-series"
 
-def create_bucket(bucket_name):
+# Gerar automaticamente os caminhos de pasta com base na data atual
+today = datetime.now()
+year, month, day = today.strftime("%Y"), today.strftime("%m"), today.strftime("%d")
+RAW_PATH_MOVIES = f"Raw/Local/CSV/Movies/{year}/{month}/{day}/movies.csv"
+RAW_PATH_SERIES = f"Raw/Local/CSV/Series/{year}/{month}/{day}/series.csv"
+
+# Função para carregar credenciais explicitamente
+def load_credentials():
     try:
-        s3.create_bucket(Bucket=bucket_name)
-        print(f"Bucket '{bucket_name}' criado com sucesso!")
-    except ClientError as e:
-        print(f"Erro ao criar o bucket: {e}")
-```
-**Função Utilizada:** `create_bucket` - Criação do bucket utilizando boto3, que pertence ao grupo de funções de interação com S3.
+        session = boto3.Session(profile_name=None)  # Usar o perfil padrão
+        print("Credenciais carregadas do perfil padrão.")
+    except ProfileNotFound:
+        raise Exception("Não foi possível carregar credenciais do perfil padrão.")
 
-### Upload do Arquivo
-
-```python
-csv_file_path = 'CAT202306.csv'
-
-def upload_file_to_s3(local_file_path, bucket_name, s3_key, content_type=None):
+# Função para upload de arquivos ao S3
+def upload_to_s3(file_path, bucket, key):
+    print(f"Tentando fazer upload do arquivo {file_path} para s3://{bucket}/{key}")
+    s3_client = boto3.client('s3')
     try:
-        extra_args = {'ContentType': content_type} if content_type else {}
-        s3.upload_file(local_file_path, bucket_name, s3_key, ExtraArgs=extra_args)
-        print(f"Arquivo '{local_file_path}' enviado para '{bucket_name}/{s3_key}'!")
-    except ClientError as e:
-        print(f"Erro ao enviar o arquivo: {e}")
-```
-**Função Utilizada:** `upload_file_to_s3` - Realiza o upload de arquivos locais para o bucket no S3.
+        s3_client.upload_file(file_path, bucket, key)
+        print(f"Arquivo {file_path} enviado com sucesso para s3://{bucket}/{key}")
+    except Exception as e:
+        raise Exception(f"Erro ao enviar {file_path} para o S3: {e}")
 
-### Execução Principal
+# Função para verificar/criar bucket
+def ensure_bucket_exists(bucket_name):
+    print(f"Verificando se o bucket '{bucket_name}' existe...")
+    s3_client = boto3.client('s3')
+    try:
+        # Verificar se o bucket existe
+        s3_client.head_bucket(Bucket=bucket_name)
+        print(f"Bucket '{bucket_name}' já existe.")
+    except boto3.exceptions.botocore.exceptions.ClientError as e:
+        error_code = e.response['Error']['Code']
+        if error_code == '404':
+            print(f"Bucket '{bucket_name}' não encontrado. Criando...")
+            try:
+                # Verificar a região e ajustar o LocationConstraint
+                region = s3_client.meta.region_name
+                if region == "us-east-1":
+                    s3_client.create_bucket(Bucket=bucket_name)
+                else:
+                    s3_client.create_bucket(
+                        Bucket=bucket_name,
+                        CreateBucketConfiguration={
+                            'LocationConstraint': region
+                        }
+                    )
+                print(f"Bucket '{bucket_name}' criado com sucesso.")
+            except Exception as create_error:
+                raise Exception(f"Erro ao criar o bucket: {create_error}")
+        elif error_code == '403':
+            print(f"Permissão negada para verificar o bucket '{bucket_name}'.")
+            raise
+        else:
+            raise Exception(f"Erro ao verificar o bucket: {e}")
 
-```python
+# Função para validar os arquivos locais
+def validate_files(*file_paths):
+    print("Validando a existência dos arquivos...")
+    for file_path in file_paths:
+        if not Path(file_path).is_file():
+            print(f"Erro: Arquivo {file_path} não encontrado.")
+            return False
+    print("Todos os arquivos foram encontrados.")
+    return True
+
+# Função para leitura e validação de dados
+def read_and_validate_csv(file_path):
+    print(f"Tentando ler o arquivo {file_path} com pandas...")
+    try:
+        # Ler o arquivo CSV especificando o separador | e desativar "low_memory"
+        df = pd.read_csv(file_path, sep="|", low_memory=False)
+        print(f"Arquivo {file_path} carregado com sucesso. Total de registros: {len(df)}")
+        return df
+    except Exception as e:
+        print(f"Erro ao ler o arquivo {file_path}: {e}")
+        return None
+
+# Função principal
 def main():
-    create_bucket(bucket_name)
-    upload_file_to_s3(csv_file_path, bucket_name, 'CAT202306.csv', content_type='text/csv')
+    print("Iniciando o script...")
+    
+    # Carregar credenciais explicitamente
+    load_credentials()
 
-if __name__ == '__main__':
+    # Caminhos locais dos arquivos CSV
+    local_movies_path = "data/movies.csv"
+    local_series_path = "data/series.csv"
+
+    # Validar se os arquivos existem
+    if not validate_files(local_movies_path, local_series_path):
+        print("Erro: Alguns arquivos não foram encontrados. Encerrando.")
+        return
+
+    # Ler os arquivos CSV e validar o conteúdo
+    print("Lendo e validando os arquivos CSV...")
+    movies_df = read_and_validate_csv(local_movies_path)
+    series_df = read_and_validate_csv(local_series_path)
+
+    # Caso algum arquivo não tenha sido lido, interrompe o processo
+    if movies_df is None or series_df is None:
+        print("Erro: Não foi possível ler os arquivos CSV. Upload interrompido.")
+        return
+
+    # Verificar e criar o bucket, se necessário
+    ensure_bucket_exists(BUCKET_NAME)
+
+    # Upload para o S3
+    print("Iniciando upload para o S3...")
+    success = True
+    try:
+        upload_to_s3(local_movies_path, BUCKET_NAME, RAW_PATH_MOVIES)
+    except Exception as e:
+        success = False
+        print(f"Falha no upload de {local_movies_path}: {e}")
+    
+    try:
+        upload_to_s3(local_series_path, BUCKET_NAME, RAW_PATH_SERIES)
+    except Exception as e:
+        success = False
+        print(f"Falha no upload de {local_series_path}: {e}")
+
+    if success:
+        print("Upload concluído com sucesso!")
+    else:
+        print("Erro: Um ou mais uploads falharam. Verifique os logs acima.")
+
+# Executar o script
+if __name__ == "__main__":
     main()
 ```
-Essa estrutura organiza a execução sequencial das tarefas principais.
 <br/>
 
-### Evidências da  criação do Bucket com suscesso!
+### 🐋 Criação do Dockerfile
+As instruções do desafio solicitam a criação de um container para execução do script acima, com intenção de isolar os efeitos do ambiente local, garantindo possibilidade de replicar (via container) em qualquer máquina!
 
-![bucket criado com sucesso via terminal](../evidencias/desafio/3-bucket_criado_terminal.png)
+```dockerfile
+# Usar imagem base completa do Python
+FROM python:3.9
 
-![bucket criado com sucesso no console](../evidencias/desafio/1-bucket_criado.png)
+# Instalar dependências Python
+RUN pip install --no-cache-dir pandas boto3
 
+# Definir diretório de trabalho no container
+WORKDIR /app
 
-<br/>
+# Copiar os arquivos do projeto para o container
+COPY . /app
 
-
-# Etapa 2
-
-## 📊 Processamento, Filtragem e Geração de Indicadores
-
-Nesta etapa, o foco foi na manipulação e tratamento dos dados armazenados no bucket S3, utilizando o pandas e o boto3. O objetivo foi criar dois novos arquivos (tratado e filtrado) e um relatório de indicadores em no formato `xlsx` - com abas e os indicadores separados.
-
-### Carregamento de Arquivo no S3
-
-```python
-import pandas as pd
-import boto3
-from botocore.exceptions import ClientError
-
-# Configurações iniciais
-bucket_name = 'bucket-desafio-sprint05'
-input_file_key = 'CAT202306.csv'
-s3 = boto3.client('s3', region_name='us-east-1')
-
-# Passos principais:
-try:
-    response = s3.get_object(Bucket=bucket_name, Key=input_file_key)
-    df = pd.read_csv(response['Body'], encoding='utf-8', sep=';')
-    print("Arquivo carregado com sucesso!")
-except ClientError as e:
-    raise Exception(f"Erro ao obter o arquivo do S3: {e}")
+# Comando padrão para executar o script Python
+CMD ["python", "script.py"]
 ```
-**Função Utilizada:** Leitura de arquivo com `get_object` (interação com S3) e `read_csv` (pandas) para carregar os dados no DataFrame.  
 
-**Obs**: utilizando as funções acima, tivemos otimização sem a necessidade de salvar o arquivo localmente para depois realizar a leitura e criação do dataframe. O tamanho da base original propiciou realizar isso com o equipamento que tenho com suas limitações de processamento. Noutro cenário poderia ser diferente.
+*Obs: pensei em utilizar a imagem do Python 3.9 Slim, para otimizar ainda o espaço de armazenamento, mas conversando com o monitor Gilson, entendemos que os megabytes que economizaria, não seriam suficientemente relevantes - além de complexizar um pouco a instalação de bibliotecas. Segui com a versão normal, o Python 3.9.*
 
-### Tratamento dos Dados
+<br/>
 
-#### Conversão de Valores
+### 🐚 Encapsulamento com Shell
 
-```python
-print("Realizando tratamentos nos dados...")
-df = df.fillna('NULL')  # Substituição de células em branco
+Ao final improvisei criando um script Shell para encapsular uma execução de terminal que foi necessária, pra mim, por conta das credenciais de login da AWS, via SSO. 
+
+Por algum motivo que não consegui ainda compreender, minhas chaves quando atualizadas ficam num "cache virtual" e não no arquivo de texto `credentials` e `config`. Para contornar, precisaria sempre executar o Docker (run) com mais alguns parâmetros. Para facilitar a execução, encapsulei!
+
+```shell
+#!/bin/bash
+
+docker run \
+  -e AWS_ACCESS_KEY_ID="$AWS_ACCESS_KEY_ID" \
+  -e AWS_SECRET_ACCESS_KEY="$AWS_SECRET_ACCESS_KEY" \
+  -e AWS_SESSION_TOKEN="$AWS_SESSION_TOKEN" \
+  -v "$(pwd)/data:/app/data" \
+  data-lake-uploader
 ```
-**Função Utilizada:** `fillna` (pandas) - Grupo de funções de conversão, utilizado para substituir valores nulos por "NULL".
+<br/>
+
+### 🤖 Criação do container e execução
+
+Após os códigos criados, bastou a criação do container em si, e a sua execução através do Shell. O container ao ser executado, automaticamente executa o script Python. Ao verificarmos o bucket criado, os arquivos armazenados na estrutura de pastas sugerida nas instruções, concluí que atingi o ponto final neste desafio!
+
+>Estrutura de pastas:
+![estrutura para filmes](../evidencias/desafio/estrutura-movies.png)
+![estrutura para series](../evidencias/desafio/estrutura-series.png)
 
 <br/>
 
-#### Manipulação de Strings
+## 📌 Considerações finais sobre a Sprint 06
 
-```python
-df = df.replace(to_replace=r'\{ñ class\}|\{ñ Class\}', value='NULL', regex=True)
-df = df.apply(lambda x: x.str.strip() if x.dtype == 'object' else x)  # Remoção de espaços
-```
-**Funções Utilizadas:** `replace` e `apply` - Grupo de funções de strings para substituições e remoção de espaços extras.
+A Sprint 06 foi marcada pela integração entre várias tecnologias e pela construção de um pipeline completo de dados, desde a manipulação inicial de arquivos locais até o upload para o S3, com o uso de contêineres Docker para garantir a reprodutibilidade e consistência do ambiente de execução. Essa etapa foi fundamental para consolidar o aprendizado em Python, pandas e AWS, especialmente ao lidar com grandes volumes de dados e interagir diretamente com os serviços da nuvem, utilizando o `boto3`.
 
-<br/>
+Além disso, foi uma oportunidade de aplicar conhecimentos adquiridos anteriormente, como a utilização de credenciais no AWS SSO e a automação do processo de execução do script em diferentes máquinas via Docker. A criação de uma estrutura eficiente de pastas e o uso de contêineres demonstraram a importância de um ambiente controlado e facilmente replicável, fundamental para garantir o sucesso no gerenciamento de dados em nuvem.
 
-#### Conversão de Datas
-
-```python
-date_columns = ['Data Acidente', 'Data Nascimento']
-for col in date_columns:
-    if col in df.columns:
-        df[col] = pd.to_datetime(df[col], format='%d/%m/%Y', errors='coerce')
-```
-**Função Utilizada:** `to_datetime` - Conversão de datas para o formato brasileiro, pertencente ao grupo de funções de manipulação de datas.
-
-<br/>
-
-#### Criação de Colunas
-
-```python
-if 'Data Nascimento' in df.columns and 'Data Acidente' in df.columns:
-    df['Idade no momento do acidente'] = ((df['Data Acidente'] - df['Data Nascimento']).dt.days // 365).astype('Int64')
-```
-**Função Utilizada:** Cálculo de idade com base em datas utilizando operações entre colunas de DataFrame, grupo de funções de manipulação de datas.
-
-<br/>
-
-### Salvando Dados Tratados no S3
-
-```python
-output_treated_key = 'outputs/CAT202306-tratado.csv'
-s3.put_object(Bucket=bucket_name, Key=output_treated_key, Body=df.to_csv(index=False, sep=';', encoding='utf-8'))
-print("Arquivo tratado salvo no S3!")
-```
-**Função Utilizada:** `put_object` - Salva o arquivo tratado de volta ao S3.
-
-<br/>
-
-## Filtragem e Geração de Indicadores
-
-### Filtragem
-
-```python
-# Exemplo de filtro por condições lógicas
-filtered_df = df[df['CBO'].notnull() & (df['Relevância'] > df['Relevância'].mean())]
-```
-**Função Utilizada:** Expressões lógicas (`&`, `notnull`) - Grupo de cláusulas lógicas para aplicar filtros nas amostras.
-
-<br/>
-
-### Indicadores
-
-```python
-# Estatísticas e distribuição por sexo
-sexo_distribuicao = df.groupby('Sexo').size().reset_index(name='Contagem')
-```
-**Função Utilizada:** `groupby` e `size` - Grupo de funções de agregação para calcular estatísticas e distribuição.
-
-<br/>
-
-### Exportação
-
-```python
-# Salvando indicadores em Excel
-with pd.ExcelWriter('indicadores.xlsx') as writer:
-    sexo_distribuicao.to_excel(writer, sheet_name='Distribuição Sexo', index=False)
-
-s3.upload_file('indicadores.xlsx', bucket_name, 'outputs/indicadores.xlsx')
-print("Indicadores exportados para Excel!")
-```
-**Função Utilizada:** `to_excel` (pandas) e `upload_file` (boto3) - Exportação e envio ao S3.
-
-<br/>
-
-### Evidências da análise realizada e outputs gerados com suscesso!
-
-![bucket criado com sucesso via terminal](../evidencias/desafio/4-analise_gerada_terminal.png)
-
-![bucket criado com sucesso no console](../evidencias/desafio/2-outputs.png)
-
-
-<br/>
-
----
-
-<br/>
-
-# 📌 Considerações finais sobre a Sprint 05
-
-Essa sprint foi desafiadora, especialmente pela integração entre Python, pandas e AWS S3, através do `AWSCLI` (AWS Command-line Interfae ). Com ela, pude aprofundar meus conhecimentos em:
-
-- Manipulação de grandes volumes de dados utilizando pandas.
-- Utilização do boto3 para interagir com a AWS.
-- Criação de pipelines de dados eficientes e escaláveis.
-- Pude seguir na utilização de python reforçando suas sintaxes, especilamente no uso de cada um dos grupos direcionados como obrigatórios nas instruções do desafio proposto, conforme a tabela abaixo.  
-
-<br/>
-
-| **Tipo de Função**                        | **Função no Código**                             | **Breve Explicação**                                                                 |
-|-------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------|
-| Função de Conversão (4.4)                 | `fillna` e `to_datetime`                        | Tratamento de valores nulos e conversão de dados para formato específico.          |
-| Função de String (4.6)                    | `replace` e `apply`                             | Manipulação e limpeza de strings, incluindo substituição e remoção de espaços.     |
-| Função de Data (4.5)                      | `to_datetime` e cálculo de diferença de datas   | Conversão de colunas de texto para datas e cálculo de idade.                       |
-| Função Condicional (4.3)                  | Cálculo de médias e aplicação de condições      | Criação de rótulos e condições baseadas em cálculos específicos.                   |
-| Cláusula com Operadores Lógicos (4.1)     | `&`, `notnull`                                  | Filtragem de dados utilizando expressões lógicas para selecionar amostras.         |
-| Funções de Agregação (4.2)                | `groupby`, `size` e agregações diversas         | Agrupamento e cálculo de estatísticas descritivas.                                 |
-
-
-<br/>
-
-Estou animado para continuar aprendendo e aplicar esses conhecimentos em projetos futuros. 🚀
+Estou satisfeito com o progresso realizado até aqui, tanto no desenvolvimento técnico quanto na compreensão do fluxo de trabalho. Esta sprint me preparou para os desafios seguintes e para aprofundar meu entendimento sobre pipelines de dados e integração com a AWS. Estou motivado para seguir adiante e continuar expandindo meus conhecimentos enquanto trabalho nas próximas etapas do projeto. 🚀

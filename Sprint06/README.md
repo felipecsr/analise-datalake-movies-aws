@@ -1,161 +1,185 @@
 # 💻 Exercícios
 
-Nesta Sprint 05, nos aprofundamos ainda mais no universo da AWS. Embora já estivéssemos realizando cursos e trilhas sobre a proposta de valor da `Amazon Web Services` e suas funcionalidades, agora tivemos a oportunidade de praticar diretamente no console da AWS. A plataforma é robusta e oferece soluções para empresas de todos os portes, desde pequenas até gigantes. 🚀
+Nesta sprint 06, iniciamos a primeira etapa de construção do **Desafio Final** do Programa de Bolsas da Compass UOL - a primeira de 5 etapas.
+Ademais, seguimos com, até agora, o maior aprofundamento no **Console AWS** e seus diversos serviços para computação em nuvem. 
 
-Após completar dois cursos sugeridos — o `AWS Cloud Quest` (um jogo que simula desafios do dia a dia de um servidor de TI, com a utilização de várias soluções da AWS) e o curso preparatório para a certificação `AWS Certified Cloud Practitioner` —, entrei no exercício proposto para esta sprint.
+Agora foi o momento de exercitarmos mais um pouco no `AWS S3` e seus buckets, `AWS Athena` com consultas em SQL, e por fim `AWS Lambda` com execução de scripts em python sem a necessidade de um servidor, o chamado serviço *serverless*.
 
-## Exercício com AWS S3 🗃️
+## Exercício com AWS Athena 🦉
 
-O exercício consistia em criar um bucket no serviço `S3` da AWS, com algumas especificações, e realizar o upload de arquivos: um `index.html`, um `nomes.csv`, e um `404.html`. O objetivo era configurar um [site estático, acessível através de um endpoint](http://bucket-exercicio-sprint05.s3-website-us-east-1.amazonaws.com/) . Abaixo estão as etapas e as evidências com comentários explicativos:
+O exercício consistiu acessar o arquivo `nomes.csv` que estava alocado no *bucket* do `AWS S3` (da sprint 05), e realizar consultas em SQL. Para isso criamos um banco de dados, e importamos o `csv` como tabela diretamente do `AWS S3` para `AWS Athena`.
 
-### Etapas:
-
-1.  Instalação da biblioteca boto3, um SDK oficial da AWS para Python
-![instalação boto3](evidencias/ex/01-boto3_install.png)
-
-<br/>
-
-2.  Instalação da ferramenta AWS CLI (Command Line Interface), que realiza o login via SSO, para que boto3 possa realizar sua função de integração do local com ambiente AWS
-![instalação awscli](evidencias/ex/02-awscli_install.png)
+Parametrização para salvar queries na pasta indicada, dentro do armazenamento do `AWS S3`:
+![configuração de alocação de queries do Athena na pasta indicada no S3](../Sprint06/evidencias/3-lab_aws_athena/1-queries_results_location.png)
 
 <br/>
 
-3.  Configuração e estabelecimento de login via SSO
-![configuração awscli credenciais](evidencias/ex/03-aws_config_credentials.png)
-![configuração awscli - sso](evidencias/ex/04-awscli-sso-config.png)
+Evidência do banco de dado e tabela criadas no `AWS Athena`, com origem no armazenamento de `AWS S3`:
+![criação de banco de dados no Athena e tabela origem S3](../Sprint06/evidencias/3-lab_aws_athena/2-meubanco_tabela-nomescsv.png)
+
+<br/>
+Após esta configuração inicial do serviço, realizei duas consultas com os seguintes parâmetros e retorno.
+
+**Consulta 1**: 
+``` sql
+select nome 
+from meubanco.nomes_csv 
+where ano = 1999 
+order by total limit 15;
+```
+Com o seguinte resultado, no [link que leva ao `csv`](../Sprint06/exercicios/3-lab_aws_athena/query1_results.csv).
 
 <br/>
 
-4.  Aqui o scrpit que cria o bucket, define site estático, e configura política de publicização do site.
-``` python
-import boto3
+**Consulta 2** : 
+``` sql
+WITH decadas AS (
+    SELECT
+        nome,
+        total,
+        ano,
+        FLOOR((ano - 1950) / 10) * 10 + 1950 AS decada
+    FROM meubanco.nomes_csv
+    WHERE ano >= 1950
+),
+ContagemPorDecada AS (
+    SELECT
+        decada,
+        nome,
+        SUM(total) AS total_uso
+    FROM Decadas
+    GROUP BY decada, nome
+),
+RankedNomes AS (
+    SELECT
+        decada,
+        nome,
+        total_uso,
+        RANK() OVER (PARTITION BY decada ORDER BY total_uso DESC) AS rank
+    FROM ContagemPorDecada
+)
+SELECT
+    decada,
+    nome,
+    total_uso
+FROM RankedNomes
+WHERE rank <= 3
+ORDER BY decada, rank;
+```
+Com o seguinte resultado, no [link que leva ao `csv`](../Sprint06/exercicios/3-lab_aws_athena/query2_results.csv).
+
+<br/>
+
+## Exercício com AWS Lambda ⚡
+
+No exercício com `AWS Lambda`, a idéia foi aproveitar o mesmo `nomes.csv`para ser base de uma função simples em `Python 3.9` que objetiva contar quantas linhas há no arquivo.
+
+![deploy com código](../Sprint06/evidencias/4-lab_aws_lambda/1-deploy.png)
+
+Somos conduzidos até um erro proposital, já que não existe a `biblioteca pandas`nativa naquela versão do python. 
+
+![erro de falta de pandas!](../Sprint06/evidencias/4-lab_aws_lambda/2-pandas-error.png)
+
+E ajustamos isso criando um container que terá essas bibliotecas necessárias. Após isso, compactamos as bibliotecas num `.zip` e subimos ao Lambda, num formato de camada.
+
+![esquema visual da camada configurada dentro do lambda](../Sprint06/evidencias/4-lab_aws_lambda/4-funcao-lambda-com-camada-esquema.png)
+
+![confirmação da configuração da camada](../Sprint06/evidencias/4-lab_aws_lambda/3-pandas-layer.png)
+
+
+Após isso ainda, configuramos essa camada, para que a execução do código consiga extrair o que necessita da camada com a biblioteca, e por fim o código é executado com sucesso.
+
+![função python executada com sucesso!](../Sprint06/evidencias/4-lab_aws_lambda/6-response.png)
+
+Aqui é possível verificar o script em python com a necessidade da biblioteca.
+
+```python
 import json
-from botocore.exceptions import ClientError
+import pandas as pd
+import boto3
 
-# Criando cliente S3
-s3 = boto3.client('s3', region_name='us-east-1')
-
-# Nome do bucket e arquivos a serem carregados
-bucket_name = 'bucket-exercicio-sprint05'
-index_document = 'index.html'
-error_document = '404.html'
-index_file_path = 'index.html'
-csv_file_path = 'nomes.csv'
-error_file_path = '404.html'
-
-# Função para criar o bucket
-def create_bucket(bucket_name):
+def lambda_handler(event, context):
+    # Inicializa o cliente S3
+    s3_client = boto3.client('s3')
+    
+    # Nome do bucket e arquivo no S3
+    bucket_name = 'bucket-exercicio-sprint05'
+    s3_file_name = 'dados/nomes.csv'
+    
     try:
-        s3.create_bucket(Bucket=bucket_name)
-        print(f"Bucket '{bucket_name}' criado com sucesso!")
-    except ClientError as e:
-        print(f"Erro ao criar o bucket: {e}")
-
-# Função para habilitar hospedagem de site estático
-def enable_static_website(bucket_name, index_document, error_document):
-    try:
-        s3.put_bucket_website(
-            Bucket=bucket_name,
-            WebsiteConfiguration={
-                'IndexDocument': {'Suffix': index_document},
-                'ErrorDocument': {'Key': error_document}
-            }
-        )
-        print(f"Hospedagem de site estático habilitada para o bucket '{bucket_name}'!")
-    except ClientError as e:
-        print(f"Erro ao configurar a hospedagem de site estático: {e}")
-
-# Função para desabilitar o bloqueio de acesso público
-def disable_public_access_block(bucket_name):
-    try:
-        s3.put_public_access_block(
-            Bucket=bucket_name,
-            PublicAccessBlockConfiguration={
-                'BlockPublicAcls': False,
-                'IgnorePublicAcls': False,
-                'BlockPublicPolicy': False,
-                'RestrictPublicBuckets': False
-            }
-        )
-        print(f"Bloqueio de acesso público desabilitado para o bucket '{bucket_name}'!")
-    except ClientError as e:
-        print(f"Erro ao desabilitar o bloqueio de acesso público: {e}")
-
-# Função para configurar a política de acesso público
-def set_bucket_policy(bucket_name):
-    policy = {
-        "Version": "2012-10-17",
-        "Statement": [
-            {
-                "Sid": "PublicReadGetObject",
-                "Effect": "Allow",
-                "Principal": "*",
-                "Action": ["s3:GetObject"],
-                "Resource": [f"arn:aws:s3:::{bucket_name}/*"]
-            }
-        ]
-    }
-    try:
-        policy_json = json.dumps(policy)
-        s3.put_bucket_policy(Bucket=bucket_name, Policy=policy_json)
-        print(f"Política de acesso público configurada para o bucket '{bucket_name}'!")
-    except ClientError as e:
-        print(f"Erro ao configurar a política de bucket: {e}")
-
-# Função para fazer o upload de um arquivo para o bucket
-def upload_file_to_s3(local_file_path, bucket_name, s3_key, content_type=None):
-    try:
-        extra_args = {}
-        if content_type:
-            extra_args['ContentType'] = content_type
-        s3.upload_file(local_file_path, bucket_name, s3_key, ExtraArgs=extra_args)
-        print(f"Arquivo '{local_file_path}' enviado com sucesso para '{bucket_name}/{s3_key}'!")
-    except ClientError as e:
-        print(f"Erro ao enviar o arquivo {local_file_path} para o S3: {e}")
-
-# Função para realizar o upload de arquivos
-def upload_files():
-    upload_file_to_s3(index_file_path, bucket_name, 'index.html', content_type='text/html')
-    upload_file_to_s3(csv_file_path, bucket_name, 'dados/nomes.csv', content_type='text/csv')
-    upload_file_to_s3(error_file_path, bucket_name, '404.html', content_type='text/html')
-
-# Função principal
-def main():
-    create_bucket(bucket_name)
-    enable_static_website(bucket_name, index_document, error_document)
-    disable_public_access_block(bucket_name)
-    set_bucket_policy(bucket_name)
-    upload_files()
-
-if __name__ == '__main__':
-    main()
-
+        # Debug: Mensagem para identificar progresso
+        print(f"Tentando acessar o arquivo {s3_file_name} no bucket {bucket_name}")
+        
+        # Obtém o objeto do S3
+        objeto = s3_client.get_object(Bucket=bucket_name, Key=s3_file_name)
+        
+        # Lê o arquivo CSV
+        df = pd.read_csv(objeto['Body'], sep=',')
+        rows = len(df)
+        
+        # Retorna o número de linhas
+        return {
+            'statusCode': 200,
+            'body': f"Este arquivo tem {rows} linhas."
+        }
+    
+    except Exception as e:
+        # Retorna um erro em caso de falha
+        print(f"Erro ao processar: {e}")
+        return {
+            'statusCode': 500,
+            'body': f"Erro ao processar o arquivo: {str(e)}"
+        }
 ```
 
-5.  E por fim, as evidências do bucket (via console) vazio, depois com o bucket criado, os arquivos que subiram, e as comprovações de que o código foi bem sucessido nas parametrizações todas solicitadas.  
+<br/>
+
+E aqui abaixo o dockerfile que foi direcionado nas instruções do exercício.
+
+```dockerfile
+FROM amazonlinux:2023
+RUN yum update -y
+RUN yum install -y \
+python3-pip \
+zip
+RUN yum -y clean all
+```
+<br/>
+
+Além de, por fim, [o arquivo .zip, que foi alocado](../Sprint06/exercicios/4-lab_aws_lambda/minha-camada-pandas.zip) como camada no AWS Lambda
 
 <br/>
 
-Bucket vazio![Bucket vazio](evidencias/ex/05-empty_bucket.png)
-Bucket criado com sucesso![Bucket vazio](evidencias/ex/06-0-bucket_criado_via_script.png)
-Bucket com objetos![Bucket vazio](evidencias/ex/07-objects_in_bucket.png)
-Bucket com sua política criada com sucesso![Bucket vazio](evidencias/ex/06-1-policy.png)
-Bucket com site estático configurado com sucesso![Bucket vazio](evidencias/ex/06-2-static.png)
-Site funcionando através do endpoint e download do arquivo ocorrendo![Bucket vazio](evidencias/ex/08-index-ok_downloading-csv.png)
+## Limpeza 🗑️
+
+Ao final é solicitada a limpeza dos buckets criados até então, na intenção de não gerar cobranças desnecessárias no `Console AWS`.
+
+![limpeza de bucket](../Sprint06/evidencias/5-lab_aws_limpeza_recursos/bucket-vazio.png)
 
 <br/>
 
 # 📜 Certificados
 
-- [AWS Cloud Quest](certificados/Badge-Quest-Praticioner.png)
-- [Preparatório para AWS Certified Cloud Practitioner](certificados/AWS_preparação.png)
+- [Fundamentals of Analytics - Part 1](../Sprint06/certificados/Analyticsp1.png)
+- [Fundamentals of Analytics - Part 2](../Sprint06/certificados/Analyticsp2.png)
+- [Introduction to Amazon Athena](../Sprint06/certificados/Athena.png)
+- [Amazon EMR](../Sprint06/certificados/EMR.png)
+- [AWS Glue Getting Started](../Sprint06/certificados/Glue.png)
+- [Getting Started with Amazon Redshift](../Sprint06/certificados/Redshift.png)
+- [Best Practices for Data Warehousing with Amazon Redshift](../Sprint06/certificados/Redshift-DW.png)
+- [Serverless Analytics](../Sprint06/certificados/Analyticsp1.png)
+- [Amazon QuickSight - Getting Started](../Sprint06/certificados/QuickSight.png)
 
 <br/>  
   
 # 🧠 Desafio
-**Amazon Web Services e S3**  
-Descobrir o AWS S3 foi como abrir uma porta para um universo de possibilidades que eu nem sabia que estavam ao meu alcance. Imagine ter um espaço na nuvem que não só guarda seus arquivos, mas também os organiza, protege e disponibiliza de formas que facilitam muito o trabalho, seja para algo simples como armazenar backups ou para projetos mais robustos como sites e análises de dados. É como se tudo que você precisa para lidar com armazenamento estivesse ali, pronto para ser usado com um clique ou algumas linhas de código.
+**AWS S3, Containers e Python 3.9: Automatizando o Pipeline de Dados**  
+O desafio dessa sprint foi uma experiência interessante e desafiadora no uso de AWS S3 e containers, com um foco em automação e estruturação de dados na nuvem. O objetivo foi organizar e enviar dois arquivos CSV, movies.csv e series.csv, para um bucket no S3, seguindo uma estrutura específica que foi detalhada nos slides do desafio. Esses arquivos foram alocados em uma zona de raw data, criando um ponto inicial para análises futuras.
 
-O que mais me encantou foi a simplicidade combinada com a sofisticação. Criar um bucket e configurar as permissões é algo super direto, mas, ao mesmo tempo, dá para fazer coisas incríveis, como hospedar um site estático ou definir políticas de acesso detalhadas. Sem falar nas classes de armazenamento, que ajustam os custos e a performance conforme a necessidade. Para alguém que está começando a explorar a AWS, é fácil se apaixonar pela ideia de ter uma ferramenta tão poderosa e acessível como o S3 ao alcance das mãos.
+O que realmente me impressionou nesta sprint foi a orientação para utilizar um container com Python 3.9. Essa abordagem, ao invés de usar o ambiente local, foi uma maneira muito eficiente de garantir que o código tivesse as dependências necessárias e funcionasse de maneira consistente em diferentes ambientes. Além disso, ao utilizar um container, a solução ficou mais "flat", sem depender das configurações específicas da minha máquina, o que facilita a replicação em diferentes contextos, seja para testes ou produção.
+
+Por fim, um script em Python foi criado para automatizar todo o processo: desde a criação do bucket no S3, passando pela estruturação das pastas, até o upload dos arquivos CSV. A simplicidade e a eficiência dessa automação não só simplificaram o processo como também ajudaram a entender melhor como integrar os diferentes componentes da AWS em um fluxo de trabalho coeso e bem estruturado.
+
+Essa sprint, com sua combinação de serviços da AWS e containers, me mostrou como é possível trabalhar de maneira mais ágil e escalável, sem depender de configurações locais, garantindo flexibilidade e controle sobre os dados na nuvem.
 
 [Confira o 'readme' do desafio aqui!](Desafio/README.md)
