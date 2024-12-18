@@ -1,162 +1,137 @@
-# 💻 Exercícios 🔴
+# 💻 Exercícios
 
-Nesta sprint 07, iniciamos a primeira etapa de construção do **Desafio Final** do Programa de Bolsas da Compass UOL - a primeira de 5 etapas.
-Ademais, seguimos com, até agora, o maior aprofundamento no **Console AWS** e seus diversos serviços para computação em nuvem. 
+Nesta sprint 07, seguimos com a segunda etapa de construção do **Desafio Final** do Programa de Bolsas da Compass UOL - a etapa 2 de 5.
 
-Agora foi o momento de exercitarmos mais um pouco no `AWS S3` e seus buckets, `AWS Athena` com consultas em SQL, e por fim `AWS Lambda` com execução de scripts em python sem a necessidade de um servidor, o chamado serviço *serverless*.
+Nesta sprint o tema principal é o `Apache Spark`e suas utilizações para manipulação e análise de dados. Entre suas principais características está o processamento distribuído e paralelo, que é essencial para volumes na ordem dos gigabytes e terabytes, os Data Lakes. Há outras características importantes também como:
 
-## Exercício com AWS Athena 🦉
-
-O exercício consistiu acessar o arquivo `nomes.csv` que estava alocado no *bucket* do `AWS S3` (da sprint 05), e realizar consultas em SQL. Para isso criamos um banco de dados, e importamos o `csv` como tabela diretamente do `AWS S3` para `AWS Athena`.
-
-Parametrização para salvar queries na pasta indicada, dentro do armazenamento do `AWS S3`:
-![configuração de alocação de queries do Athena na pasta indicada no S3](../Sprint06/evidencias/3-lab_aws_athena/1-queries_results_location.png)
+- escalabilidade horizontal;
+- integração com Python e SQL;
+- aceita dados semi e não estruturados - além, claro, dos estruturados;
+- trabalha (entre outras) com extensões como `ORC` e `Parquet` que são otimizadas para velocidade de processamento e compactação no armazenamento;
+- integráveis com serviços em nuvem, com a AWS.
 
 <br/>
 
-Evidência do banco de dado e tabela criadas no `AWS Athena`, com origem no armazenamento de `AWS S3`:
-![criação de banco de dados no Athena e tabela origem S3](../Sprint06/evidencias/3-lab_aws_athena/2-meubanco_tabela-nomescsv.png)
+Abaixo veremos os exercícios realizados nesta sprint.
+
+## 1 - Exercício: Contador de Palavras com Apache Spark ✨ e Jupyter Lab 🪐
+
+O objetivo deste exercício foi utlizarmos o `Pyspark`para uma análise simples, de contagem de palavras num determinado arquivo - o README da nossa sprint. Em outras palavras, ao invés da original do `Apache Spark`, a linguagem `Scala`, utilizaremos o Pyspark, que de forma nativa também, têm Python e SQL como possibilidades.
+
+### 1.1 - Preparação do Docker
+
+1. Pull da imagem Docker + Jupyter
+![Docker Image](../Sprint07/evidencias/ex5-spark-jupyter/1-dockerpull.png)
 
 <br/>
-Após esta configuração inicial do serviço, realizei duas consultas com os seguintes parâmetros e retorno.
 
-**Consulta 1**: 
-``` sql
-select nome 
-from meubanco.nomes_csv 
-where ano = 1999 
-order by total limit 15;
+2. Execução do Jupyter, via docker, com os parâmetros de porta e path ajustados 
+
+``` Shell
+docker run -it --rm \
+    -p 8888:8888 \
+    -v /home/fcsr/Documentos/Nabucodonossor-workspace/PB-FELIPE-REIS/Sprint07/exercicios/5-Apache_Spark_Contador_de_Palavras:/home/jovyan/work \
+    jupyter/all-spark-notebook
 ```
-Com o seguinte resultado, no [link que leva ao `csv`](../Sprint06/exercicios/3-lab_aws_athena/query1_results.csv).
+
+![Jupyter via Docker](../Sprint07/evidencias/ex5-spark-jupyter/2-jupyter_via_docker.png)
+
+![Jupyter no navegador](../Sprint07/evidencias/ex5-spark-jupyter/3-jupyter_interface.png)
 
 <br/>
 
-**Consulta 2** : 
-``` sql
-WITH decadas AS (
-    SELECT
-        nome,
-        total,
-        ano,
-        FLOOR((ano - 1950) / 10) * 10 + 1950 AS decada
-    FROM meubanco.nomes_csv
-    WHERE ano >= 1950
-),
-ContagemPorDecada AS (
-    SELECT
-        decada,
-        nome,
-        SUM(total) AS total_uso
-    FROM Decadas
-    GROUP BY decada, nome
-),
-RankedNomes AS (
-    SELECT
-        decada,
-        nome,
-        total_uso,
-        RANK() OVER (PARTITION BY decada ORDER BY total_uso DESC) AS rank
-    FROM ContagemPorDecada
-)
-SELECT
-    decada,
-    nome,
-    total_uso
-FROM RankedNomes
-WHERE rank <= 3
-ORDER BY decada, rank;
-```
-Com o seguinte resultado, no [link que leva ao `csv`](../Sprint06/exercicios/3-lab_aws_athena/query2_results.csv).
+3. Testes de execução da Spark Session e reflexo entre diretório do docker e meu ambiente local: sucesso!
+
+![teste jupyter](../Sprint07/evidencias/ex5-spark-jupyter/4-teste_jupyter.png)
+
+![teste jupyter](../Sprint07/evidencias/ex5-spark-jupyter/5-reflexo_docker_local.png)
 
 <br/>
 
-## Exercício com AWS Lambda ⚡
+### 1.2 - Execução dos comandos via Pyspark + Resultado
 
-No exercício com `AWS Lambda`, a idéia foi aproveitar o mesmo `nomes.csv`para ser base de uma função simples em `Python 3.9` que objetiva contar quantas linhas há no arquivo.
-
-![deploy com código](../Sprint06/evidencias/4-lab_aws_lambda/1-deploy.png)
-
-Somos conduzidos até um erro proposital, já que não existe a `biblioteca pandas`nativa naquela versão do python. 
-
-![erro de falta de pandas!](../Sprint06/evidencias/4-lab_aws_lambda/2-pandas-error.png)
-
-E ajustamos isso criando um container que terá essas bibliotecas necessárias. Após isso, compactamos as bibliotecas num `.zip` e subimos ao Lambda, num formato de camada.
-
-![esquema visual da camada configurada dentro do lambda](../Sprint06/evidencias/4-lab_aws_lambda/4-funcao-lambda-com-camada-esquema.png)
-
-![confirmação da configuração da camada](../Sprint06/evidencias/4-lab_aws_lambda/3-pandas-layer.png)
-
-
-Após isso ainda, configuramos essa camada, para que a execução do código consiga extrair o que necessita da camada com a biblioteca, e por fim o código é executado com sucesso.
-
-![função python executada com sucesso!](../Sprint06/evidencias/4-lab_aws_lambda/6-response.png)
-
-Aqui é possível verificar o script em python com a necessidade da biblioteca.
-
-```python
-import json
-import pandas as pd
-import boto3
-
-def lambda_handler(event, context):
-    # Inicializa o cliente S3
-    s3_client = boto3.client('s3')
-    
-    # Nome do bucket e arquivo no S3
-    bucket_name = 'bucket-exercicio-sprint05'
-    s3_file_name = 'dados/nomes.csv'
-    
-    try:
-        # Debug: Mensagem para identificar progresso
-        print(f"Tentando acessar o arquivo {s3_file_name} no bucket {bucket_name}")
-        
-        # Obtém o objeto do S3
-        objeto = s3_client.get_object(Bucket=bucket_name, Key=s3_file_name)
-        
-        # Lê o arquivo CSV
-        df = pd.read_csv(objeto['Body'], sep=',')
-        rows = len(df)
-        
-        # Retorna o número de linhas
-        return {
-            'statusCode': 200,
-            'body': f"Este arquivo tem {rows} linhas."
-        }
-    
-    except Exception as e:
-        # Retorna um erro em caso de falha
-        print(f"Erro ao processar: {e}")
-        return {
-            'statusCode': 500,
-            'body': f"Erro ao processar o arquivo: {str(e)}"
-        }
+1. Execução do docker no modo interativo
+```bash
+docker run -it --rm \
+    -v /home/fcsr/Documentos/Nabucodonossor-workspace/PB-FELIPE-REIS/Sprint07/exercicios/5-Apache_Spark_Contador_de_Palavras:/home/jovyan/work \
+    jupyter/all-spark-notebook /bin/bash
 ```
 
 <br/>
 
-E aqui abaixo o dockerfile que foi direcionado nas instruções do exercício.
+2. Download do README.md para o diretório do docker
+```bash
+wget --header="Authorization: token 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" \
+https://raw.githubusercontent.com/felipecsr/PB-FELIPE-REIS/refs/heads/main/README.md -O /home/jovyan/work/README.md
+```
+>  **Obs:** *foi necessário criar um token via interface do Github, que utilizei na execução do wget no terminal, e apesar de descrito aqui no código/ documentalão/ print, já foi deletado/ expirado e por isso mantive.*
 
-```dockerfile
-FROM amazonlinux:2023
-RUN yum update -y
-RUN yum install -y \
-python3-pip \
-zip
-RUN yum -y clean all
+![wget sucesso](../Sprint07/evidencias/ex5-spark-jupyter/6-wget.png)
+
+<br/>
+
+3. Código contador de palavras executado no Pyspark
+
+``` python
+import os
+import glob
+import shutil
+from pyspark.sql import SparkSession
+
+# 1. Inicializar a SparkSession
+spark = SparkSession.builder \
+    .appName("Word Count Exercise") \
+    .master("local[*]") \
+    .getOrCreate()
+
+# 2. Definir o caminho absoluto do arquivo README.md
+file_path = "/home/jovyan/work/README.md"
+
+# 3. Carregar o arquivo README.md como RDD
+rdd = spark.sparkContext.textFile(file_path)
+
+# 4. Contar as palavras no arquivo (preservando a ordem de primeira aparição)
+word_counts_with_order = (rdd.flatMap(lambda line: line.split())    # Quebra linhas em palavras
+                              .zipWithIndex()                      # Associa cada palavra a seu índice global
+                              .map(lambda word_idx: (word_idx[0], (1, word_idx[1])))  # Formato (palavra, (1, índice))
+                              .reduceByKey(lambda acc, val: (acc[0] + val[0], min(acc[1], val[1])))  # Soma contagens, mantém o menor índice
+                              .sortBy(lambda word_idx: word_idx[1][1])  # Ordena pelo índice de aparição
+                              .map(lambda word_idx: (word_idx[0], word_idx[1][0])))  # Resultado final: (palavra, contagem)
+
+# 5. Converter para DataFrame
+word_counts_df = word_counts_with_order.toDF(["word", "count"])
+
+# 6. Salvar como CSV em uma única partição
+temp_output_path = "/home/jovyan/work/results/temp_word_counts"
+word_counts_df.coalesce(1).write.csv(temp_output_path, header=True, mode="overwrite")
+
+# 7. Renomear o arquivo CSV gerado para um nome mais intuitivo
+csv_part_file = glob.glob(temp_output_path + "/part-*.csv")[0]  # Busca o arquivo CSV na pasta
+final_csv_file = "/home/jovyan/work/results/word_counts_final.csv"
+
+shutil.move(csv_part_file, final_csv_file)  # Renomeia o arquivo
+shutil.rmtree(temp_output_path)  # Remove a pasta temporária
+
+print(f"Contagem de palavras concluída e salva como um único arquivo CSV em {final_csv_file}")
 ```
 <br/>
 
-Além de, por fim, [o arquivo .zip, que foi alocado](../Sprint06/exercicios/4-lab_aws_lambda/minha-camada-pandas.zip) como camada no AWS Lambda
+Além do código acima, registrei a execução do script via Docker > Pyspark:
+![sucesso script](../Sprint07/evidencias/ex5-spark-jupyter/7-pyspark-sucesso.png)
 
-<br/>
 
-## Limpeza 🗑️
+4. Resultado obtido
 
-Ao final é solicitada a limpeza dos buckets criados até então, na intenção de não gerar cobranças desnecessárias no `Console AWS`.
+E por fim, neste exercício, o resultado obtido de acordo com o que desenvolvi no script foi um arquivo `csv` que pode ser [consultado aqui neste link](../Sprint07/exercicios/5-Apache_Spark/results/word_counts_final.csv).
 
-![limpeza de bucket](../Sprint06/evidencias/5-lab_aws_limpeza_recursos/bucket-vazio.png)
+> **Obs:** *foi interessante verificar, durante as diversas tentativas de resolução do exercício, o retorno do Spark com arquivos 'particionados', por exemplo 2 arquivos.crc (com os metadados) e outros 2 arquivos.csv - que é demonstração cabal de sua form distribuída de processamentos!*
 
-<br/>
+<br/><br/><br/>
+
+## 2 - Exercício: TMDB
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # 📜 Certificados
 
