@@ -126,12 +126,73 @@ E por fim, neste exercício, o resultado obtido de acordo com o que desenvolvi n
 
 > **Obs:** *foi interessante verificar, durante as diversas tentativas de resolução do exercício, o retorno do Spark com arquivos 'particionados', por exemplo 2 arquivos.crc (com os metadados) e outros 2 arquivos.csv - que é demonstração cabal de sua form distribuída de processamentos!*
 
-<br/><br/><br/>
+<br/>
 
-## 2 - Exercício: TMDB
+## 2 - Exercício: TMDB 🍿📽️
+Neste exercício, o objetivo foi realizar uma consulta ao agregador de informações de filmes e séries, [TMDB (The Movie Data Base)](https://www.themoviedb.org/?language=pt-BR), via sua API pública.
+
+1. Foi criada uma conta gratuita com meus dados pessoais;
+2. Depois solicitei a liberação de uma chave e token, através da área voltada para desenvolvedores - com êxito!
+3. Construí um código semelhante ao do exemplo do exercício, apenas para teste simples.
+```python
+import requests
+import pandas as pd
+from IPython.display import display
+from dotenv import load_dotenv
+import os
+
+# Carregar variáveis de ambiente do arquivo .env
+load_dotenv()
+
+# Obter a chave de API do TMDB
+api_key = os.getenv("TMDB_API_KEY")
+
+# Verificar se a chave foi carregada corretamente
+if not api_key:
+    raise ValueError("Chave de API não encontrada. Verifique o arquivo .env.")
+
+# URL da API (ajustado para Crime e Guerra)
+url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
+
+# Fazer a requisição
+response = requests.get(url)
+data = response.json()
+
+# Lista para armazenar os filmes
+filmes = []
+
+# Coletar os primeiros 30 registros diretamente
+for movie in data['results'][:30]:
+    df = {
+        'Título': movie['title'],
+        'Data de Lançamento': movie['release_date'],
+        'Visão Geral': movie['overview'],
+        'Votos': movie['vote_count'],
+        'Média de Votos': movie['vote_average']
+    }
+    filmes.append(df)
+
+# Criar DataFrame
+df = pd.DataFrame(filmes)
+
+# Exibir DataFrame
+display(df)
+```
+> **Obs:** pesquisando utilizei uma biblioteca e método que tornam as chaves ocultas no código, para dar mais segurança e praticidade. Trata-se do biblioteca `dotenv`. O funcionamento é simples: cria-se um arquivo .env que terá a chave/ senha  /  o código consulta este arquivo e consulta a senha apenas na memória (de forma oculta ao usuário) e a ligação com a API fica funcional. E para que não suba para o repositorio no `commit` utilizei o `.gitignore`.  
+
+<br/>
+
+4. Tivemos êxito na consulta, que ficou disponível no próprio terminal através da função `display`.
+![consulta API TMDB](../Sprint07/evidencias/ex6-TMDB/display-sucessp.png)
+
+<br/><br/>
+
+## 3 - Exercício: AWS Glue 🔻🔎📊
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
 
 # 📜 Certificados
 
