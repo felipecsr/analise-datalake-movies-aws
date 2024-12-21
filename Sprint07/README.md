@@ -189,33 +189,155 @@ display(df)
 
 ## 3 - Exercício: AWS Glue 🔻🔎📊
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Neste exercício trabalhamos com diversos serviços AWS: IAM, S3, Lake Formation, CloudWatch, Athena - mas especialmente, o AWS Glue.
 
+O exercício consistiu num exemplo de ETL, desde um `.csv` com particionamento em diretórios e sub-diretórios temáticos, conversões de texto, conversões para `.json`, até a criação de tabela com `schema` adequado disponível para análise por *queries* em `SQL`. 
 
+Vamos às etapas:
+
+### 3.1 - Criação de bucket no S3
+
+A primeira criação de um *bucket* no S3, afim de armazenar um `.csv` de diversas linhas, com frequencia de nomes registrados em cartório, num determinado espaço de tempo nos EUA.
+
+### 3.2 - Criação de função (role) no IAM
+
+Uma vez que o arquivo foi armazenado adequadamente, foi necessário criar uma funçao/ escopo no AWS IAM (Identity and Access Management) que nos valeu de acessos integrados entre os serviços que a seguir serão citados.
+
+### 3.3 - Tratamento do arquivo e conversões
+
+Já, então, no AWS Glue, criamos um script em `python` executado via `Spark`, com uso de determinadas sintaxes típicas de execução do código via `AWS Lambda`. O script objetivou a realização de tratamentos de palavras, particionamentos no momento de criação de diretórios, e quebras do conteúdo em diversos arquivos `.json`.
+
+``` python
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from awsglue.dynamicframe import DynamicFrame
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+from pyspark.sql.functions import upper
+
+## @params: [JOB_NAME, S3_INPUT_PATH, S3_TARGET_PATH]
+args = getResolvedOptions(sys.argv, ['JOB_NAME', 'S3_INPUT_PATH', 'S3_TARGET_PATH'])
+
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+job.init(args['JOB_NAME'], args)
+
+source_file = args['S3_INPUT_PATH']
+target_path = args['S3_TARGET_PATH']
+
+# Definir o schema do arquivo CSV
+schema = StructType([
+    StructField("nome", StringType(), True),
+    StructField("sexo", StringType(), True),  # Letra única
+    StructField("total", IntegerType(), True),
+    StructField("ano", IntegerType(), True)  # Ano como inteiro
+])
+
+# Ler o arquivo CSV com o schema definido
+df = spark.read.csv(source_file, schema=schema, header=True)
+
+# 1. Imprimir o schema do DataFrame
+print("[INFO] Schema do DataFrame lido:")
+df.printSchema()
+
+# 2. Converter a coluna "nome" para maiúsculas
+uppercase_df = df.withColumn("nome", upper(df["nome"]))
+print("[INFO] Coluna 'nome' convertida para maiúsculas.")
+
+# 3. Contar as linhas do DataFrame
+row_count = uppercase_df.count()
+print(f"[INFO] Número total de linhas no DataFrame: {row_count}")
+
+# 4. Contar os nomes agrupados por "ano" e "sexo", ordenados pelo ano mais recente
+grouped_df = uppercase_df.groupBy("ano", "sexo").count().orderBy(uppercase_df["ano"].desc())
+print("[INFO] Contagem de nomes agrupados por ano e sexo (ano mais recente primeiro):")
+grouped_df.show()
+
+# 5. Encontrar o nome feminino mais registrado e o ano correspondente
+most_female_name = uppercase_df.filter(uppercase_df["sexo"] == "F") \
+    .groupBy("nome", "ano") \
+    .sum("total") \
+    .orderBy("sum(total)", ascending=False) \
+    .first()
+if most_female_name:
+    print(f"[INFO] Nome feminino mais registrado: {most_female_name['nome']} em {most_female_name['ano']}")
+else:
+    print("[INFO] Nenhum registro encontrado para sexo feminino.")
+
+# 6. Encontrar o nome masculino mais registrado e o ano correspondente
+most_male_name = uppercase_df.filter(uppercase_df["sexo"] == "M") \
+    .groupBy("nome", "ano") \
+    .sum("total") \
+    .orderBy("sum(total)", ascending=False) \
+    .first()
+if most_male_name:
+    print(f"[INFO] Nome masculino mais registrado: {most_male_name['nome']} em {most_male_name['ano']}")
+else:
+    print("[INFO] Nenhum registro encontrado para sexo masculino.")
+
+# 7. Total de registros por ano (apenas os 10 primeiros, ordenados por ano crescente)
+yearly_totals_df = uppercase_df.groupBy("ano").sum("total").orderBy("ano").limit(10)
+print("[INFO] Total de registros por ano (10 primeiros, ordenados por ano crescente):")
+yearly_totals_df.show()
+
+# 8. Escrever o DataFrame resultante com "nome" em maiúsculas no S3 em formato JSON
+uppercase_df.write.mode("overwrite").option("spark.sql.sources.partitionOverwriteMode", "dynamic").partitionBy("sexo", "ano").json(target_path)
+
+print("[INFO] Processamento concluído e dados salvos no S3.")
+
+job.commit()
+```
+
+### 3.4 - Evidências do ETL + evidências das funççoes `print()` solicitadas no código
+
+Como a execução via Glue não é idêntica à de um `terminal bash`, recorremos ao `AWS CloudWatch` para observar as respostas típicas de terminal, solciitadas no código, que responderam às perguntas elaboradas no exercício.
+
+**Sucesso na execução do script**
+![sucesso etl](../Sprint07/evidencias/ex7-awsglue/1-script-etl-sucesso.png)
+
+**Diretórios, sub-duretórios, arquivo JSON (como exemplo, pois foram diversas pastas criadas semelhantes a esta)**
+![json sucesso](../Sprint07/evidencias/ex7-awsglue/4-dir-gender-year-json.png)
+> Obs: no topo da página é possível visualizar o caminho dos diretórios, conforme instrução do exercício, e um [exemplo de JSON gerado](../Sprint07/exercicios/7-AWSGlueLab/part-00001-fa44f7c2-2782-4a85-9300-9c500beae0d0.c000.json).
+
+**Respostas geradas para visualização no "Terminal"**
+![info schema](../Sprint07/evidencias/ex7-awsglue/5-info-schema.png)
+
+![total de linhas dataframe](../Sprint07/evidencias/ex7-awsglue/7-info-df-lines.png)
+
+![cotagem por sexo e ano](../Sprint07/evidencias/ex7-awsglue/8-show-count-per-gender-year.png)
+
+![maiores valores de contagem para sexo feminino](../Sprint07/evidencias/ex7-awsglue/9-info-top-count-per-gender-F.png)
+
+![maiores valores de contagem para sexo masculino](../Sprint07/evidencias/ex7-awsglue/10-info-top-count-per-gender-M.png)
+
+![Top 10 por ano](../Sprint07/evidencias/ex7-awsglue/11-info-top10-count-per-year.png)
+
+### 3.5 - Criação de Crawler de automação
+
+Nesta ultima etapa do exercício criamos um Crawler (uma espécie de automação/ rastreador), que pode agir a cada interação do arquivo no S3, com agendamento ou manualmente. Neste exercício, manualmente, criamos uma tabela no Banco de dados, que pode ser acessado diretamente (e integradamente) via Athena, simulando uma consulta `SQL`.
+
+![crawler criado sucesso](../Sprint07/evidencias/ex7-awsglue/12-Crawler-sucesso.png)
+
+![teste acesso via Athena sucesso](../Sprint07/evidencias/ex7-awsglue/13-athena-sucesso.png)
+
+<br/>
 
 # 📜 Certificados
 
-- [Fundamentals of Analytics - Part 1](../Sprint06/certificados/Analyticsp1.png)
-- [Fundamentals of Analytics - Part 2](../Sprint06/certificados/Analyticsp2.png)
-- [Introduction to Amazon Athena](../Sprint06/certificados/Athena.png)
-- [Amazon EMR](../Sprint06/certificados/EMR.png)
-- [AWS Glue Getting Started](../Sprint06/certificados/Glue.png)
-- [Getting Started with Amazon Redshift](../Sprint06/certificados/Redshift.png)
-- [Best Practices for Data Warehousing with Amazon Redshift](../Sprint06/certificados/Redshift-DW.png)
-- [Serverless Analytics](../Sprint06/certificados/Analyticsp1.png)
-- [Amazon QuickSight - Getting Started](../Sprint06/certificados/QuickSight.png)
+- [Formação Spark com Pyspark: o Curso Completo](../Sprint06/certificados/Analyticsp1.png)
+
 
 <br/>  
   
 # 🧠 Desafio
-**AWS S3, Containers e Python 3.9: Automatizando o Pipeline de Dados**  
-O desafio dessa sprint foi uma experiência interessante e desafiadora no uso de AWS S3 e containers, com um foco em automação e estruturação de dados na nuvem. O objetivo foi organizar e enviar dois arquivos CSV, movies.csv e series.csv, para um bucket no S3, seguindo uma estrutura específica que foi detalhada nos slides do desafio. Esses arquivos foram alocados em uma zona de raw data, criando um ponto inicial para análises futuras.
+**TMDB, API JSON e Data Lake com AWS S3: Integração e Expansão de Dados**  
+Nesta etapa do desafio, o foco principal foi a integração de dados externos, utilizando a API pública do TMDB (The Movie Database) para extrair informações detalhadas sobre filmes e séries. O objetivo é enriquecer os dados raw já existentes no bucket "desafio-filmes-series" no S3, consolidando-os em um Data Lake robusto e preparado para análises futuras.
 
-O que realmente me impressionou nesta sprint foi a orientação para utilizar um container com Python 3.9. Essa abordagem, ao invés de usar o ambiente local, foi uma maneira muito eficiente de garantir que o código tivesse as dependências necessárias e funcionasse de maneira consistente em diferentes ambientes. Além disso, ao utilizar um container, a solução ficou mais "flat", sem depender das configurações específicas da minha máquina, o que facilita a replicação em diferentes contextos, seja para testes ou produção.
-
-Por fim, um script em Python foi criado para automatizar todo o processo: desde a criação do bucket no S3, passando pela estruturação das pastas, até o upload dos arquivos CSV. A simplicidade e a eficiência dessa automação não só simplificaram o processo como também ajudaram a entender melhor como integrar os diferentes componentes da AWS em um fluxo de trabalho coeso e bem estruturado.
-
-Essa sprint, com sua combinação de serviços da AWS e containers, me mostrou como é possível trabalhar de maneira mais ágil e escalável, sem depender de configurações locais, garantindo flexibilidade e controle sobre os dados na nuvem.
+A abordagem incluiu não apenas a extração de dados, mas também o início de uma estruturação automatizada de pipeline. Essa integração garante que os dados coletados sigam um padrão consistente e sejam organizados de forma escalável para as próximas etapas do projeto.
 
 [Confira o 'readme' do desafio aqui!](Desafio/README.md)
