@@ -476,7 +476,7 @@ for genre_index, genre in enumerate(genres):
             logging.error(f"Erro ao criar cronograma {schedule_name}: {e}")
 ```
 
-![evidência dos agendamentos](../evidencias/desafio/scheduler.png)
+![evidência dos agendamentos](../evidencias/desafio/1-scheduler.png)
 
 ### Armazenamento no S3:
 
