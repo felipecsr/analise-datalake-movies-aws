@@ -329,7 +329,7 @@ Nesta ultima etapa do exercício criamos um Crawler (uma espécie de automação
 
 # 📜 Certificados
 
-- [Formação Spark com Pyspark: o Curso Completo](../Sprint06/certificados/Analyticsp1.png)
+- [Formação Spark com Pyspark: o Curso Completo](../Sprint07/certificados/spark.png)
 
 
 <br/>  

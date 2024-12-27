@@ -1,0 +1,144 @@
+[
+    {
+        "id_tmdb": 31432,
+        "title": "The Four Horsemen of the Apocalypse",
+        "release_date": "1921-03-06",
+        "overview": "Set in the years before and during World War I, this epic tale tells the story of a rich Argentine family, one of its two descending branches being half of French heritage, the other being half German. Following the death of the family patriarch, the man's two daughters and their families resettle to France and Germany, respectively. In time the Great War breaks out, putting members of the family on opposing sides.",
+        "poster_path": "/262nYFe45BxX22M9TPhB4BwEqby.jpg",
+        "backdrop_path": "/rOedMeXSSCYl6taw7ectpUQpVg.jpg",
+        "production_companies": [
+            {
+                "name": "Metro Pictures Corporation",
+                "id": 16101
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0012190",
+        "original_language": "en",
+        "popularity": 10.286,
+        "status": "Released",
+        "tagline": "AN EPIC OF REALISM With its great scenes of Argentine-its intimate views of Parisian life-its titanic battle scenes-its massive settings-its tremendous realism-its faithful reproduction of the vital story-its mighty drama-its soul stirring romance.",
+        "video": false
+    },
+    {
+        "id_tmdb": 249900,
+        "title": "The Old Wives' Tale",
+        "release_date": "1921-01-01",
+        "overview": "A woman leaves her husband to run a Paris boarding house, and reunites with her sister after the war.",
+        "poster_path": null,
+        "backdrop_path": "/73DzfBSCJN3kWDeMkaoKB8LeB0J.jpg",
+        "production_companies": [
+            {
+                "name": "Ideal Films",
+                "id": 83954
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0012521",
+        "original_language": "en",
+        "popularity": 1.305,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 447556,
+        "title": "The Four Feathers",
+        "release_date": "1921-05-01",
+        "overview": "When a British army officer, Harry Faversham, resigns his commission on the eve of his regiment's departure for service in the Sudan he is sent four white feathers of cowardice by his comrades and fiancee. In an attempt to redeem himself, Faversham travels out to the Sudan where he saves the lives of his former comrades.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Stoll Picture Productions",
+                "id": 46645
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0012189",
+        "original_language": "en",
+        "popularity": 0.878,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 155867,
+        "title": "The Miracle at the Vistula",
+        "release_date": "1921-03-16",
+        "overview": "Eastern Borderlands, 1919. The Bolsheviks, taking part in the Polish-Russian war, appear at the Granowski manor house. It's a story based on the war of 1920, which ended with the Battle of Warsaw going down in history as the \"Miracle on the Vistula\". The film was commissioned by the Propaganda Department of the Ministry of Military Affairs and has survived only in fragments (just 53 minutes out of the 2-hour-long film).",
+        "poster_path": "/qDHeJyWQbbx5UFRXR5Yf1KoowpZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Orient-Film",
+                "id": 174533
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0924216",
+        "original_language": "pl",
+        "popularity": 0.421,
+        "status": "Released",
+        "tagline": "Love story set during the Polish-Soviet War.",
+        "video": false
+    }
+]

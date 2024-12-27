@@ -1,0 +1,3403 @@
+[
+    {
+        "id_tmdb": 1297055,
+        "title": "Day Twelve",
+        "release_date": "2023-01-29",
+        "overview": "One fateful night, an Uber driver is forced to confront a sinister secret when he picks up a mysterious passenger.",
+        "poster_path": "/jxwFsRNlhsl2EEbP4aHEfAcX8y0.jpg",
+        "backdrop_path": "/xX8VK0sUR5erAmxT2G4AAXJG9QW.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 100,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "How does a man know he is who he is if he doesn't keep any secrets?",
+        "video": false
+    },
+    {
+        "id_tmdb": 1129206,
+        "title": "The Steeltown Murders: Hunting a Serial Killer",
+        "release_date": "2023-12-22",
+        "overview": "The inside story of the police investigation into the 1973 murders of three teenage girls. Companion documentary to the new BBC drama, Steeltown Murders.",
+        "poster_path": "/fP7kqtWNL5YClufzm1g1N10MxVn.jpg",
+        "backdrop_path": "/gXUdyJhItVH33WNW91s3yQRWFXr.jpg",
+        "production_companies": [
+            {
+                "name": "HTV Cymru Wales",
+                "id": 24791
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.bbc.co.uk/programmes/p0fkdgqz",
+        "imdb_id": "tt28005312",
+        "original_language": "en",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1059965,
+        "title": "Urban Symphony",
+        "release_date": "2022-12-20",
+        "overview": "Tired of his bad decisions, a talented young man decides to make a change in his life to continue his promising musical career with his producer.",
+        "poster_path": "/ih4hOaIPH5BCRTZRBhKECR9c2vO.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "es",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1008918,
+        "title": "The Interview",
+        "release_date": "2022-08-04",
+        "overview": "When a local shopkeeper is murdered. Two detectives must try to figure out who the murderer is. They bring in two suspects to interrogate. The problem is, they are married to each other and when interrogated, they give conflicting stories.",
+        "poster_path": "/vHZroMvxW6BGJi8oWjfmYjdBLU6.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Faboozle Productions",
+                "id": 180046
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://faboozleproductions.com/",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "One murder. Two Suspects. The catch? They are married",
+        "video": false
+    },
+    {
+        "id_tmdb": 940138,
+        "title": "Quand vient la haine",
+        "release_date": "2023-01-01",
+        "overview": "Léo, a retired policeman, seems concerned about the disappearance of a child in the neighborhood. Is he the boy's father or his captor?",
+        "poster_path": "/fcLyhlj5dkbAd3E6GhXvXBo9Ycj.jpg",
+        "backdrop_path": "/1xrjAmwCEs1Dz2jBnq1Au0AOC3A.jpg",
+        "production_companies": [
+            {
+                "name": "kymas production",
+                "id": 170099
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 8000,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt16528092",
+        "original_language": "fr",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 729226,
+        "title": "American Terrorist",
+        "release_date": "2020-01-03",
+        "overview": "In the wake of the September 11th attacks, two brothers decide to take matters into their own hands. Embarking on a swath of vigilante justice the two believe they have stopped a mass casualty event. But what if they were wrong? What if they are right? Where does the line between good and evil fall…",
+        "poster_path": "/5TJmviDkqsSNkjcak1qXzFg8HaD.jpg",
+        "backdrop_path": "/1EiZ6bWBhM4k6SwQY1NAkUcWE9J.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.indicanpictures.com/new-releases/american-terrorist",
+        "imdb_id": "tt4405652",
+        "original_language": "en",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 681187,
+        "title": "Wild Butterfly",
+        "release_date": "2020-02-16",
+        "overview": "Wild Butterfly is true crime documentary that follows the tragic story of 24 year-old Claire Murray and her desperate search for a life- saving liver transplant that became a trial by national media.  Depicted as an ungrateful junkie who recklessly destroyed her first transplant, Wild Butterfly investigates the true story behind the events that lead to Claire's death in 2010 including new criminal evidence. Catholic institutional cover-up, medical negligence, missing police records, and trial by mainstream and social media, are all at play in this heartbreaking and gripping documentary.  This is not just the tragic story of one young woman and her family - this story opens our eyes to the impacts of universal social injustices and prejudices, that could befall any family and anybody's daughter.",
+        "poster_path": "/7wI2UT86QDCM7x8XrvNCISgPNjl.jpg",
+        "backdrop_path": "/vivvcVjx8mswy2zgGi7czFDfKtI.jpg",
+        "production_companies": [
+            {
+                "name": "Inavision Films",
+                "id": 130211
+            },
+            {
+                "name": "FanForce",
+                "id": 126488
+            },
+            {
+                "name": "Artemis International",
+                "id": 60124
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://wildbutterflymovie.com/",
+        "imdb_id": "tt11859578",
+        "original_language": "en",
+        "popularity": 0.36,
+        "status": "Released",
+        "tagline": "The Claire Murray Story",
+        "video": false
+    },
+    {
+        "id_tmdb": 1353604,
+        "title": "Dihei",
+        "release_date": "2024-01-10",
+        "overview": "",
+        "poster_path": "/mhuVVnRIEhNZ2yjTbkQsfC9ajMa.jpg",
+        "backdrop_path": "/kVfq5NKa8ni7mSJq39SvqJHwmje.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt33336553",
+        "original_language": "en",
+        "popularity": 0.359,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1277565,
+        "title": "A Job Well Done",
+        "release_date": "2022-05-21",
+        "overview": "A criminal tries to convince his old partner to join him in a heist, but when his partner refuses, the criminal decides to rob him.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "MHS AV Productions",
+                "id": 226734
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.359,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1208882,
+        "title": "La Familia",
+        "release_date": "2023-03-15",
+        "overview": "After the death of Jackie's husband the girls - Mo, Mercades, and Megan - go on a wild killing spree behind their husbands backs. Houston's underworld will never be the same.",
+        "poster_path": "/vvtoDjmmkwJTmaDZlddzfh5nER7.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 31000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt24131956",
+        "original_language": "en",
+        "popularity": 0.359,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1121777,
+        "title": "Hell Hath No Fury",
+        "release_date": "2023-05-06",
+        "overview": "A husband and wife, each harboring a deadly secret, plot to kill one another without realizing they have chosen the same fateful night for their sinister plans. The timing is as impeccable as it is horrific: the eve of Christmas. What unfolds is a chaotic journey riddled with mix-ups and mayhem, as their dark intentions collide in unexpected ways.",
+        "poster_path": "/tAP9hkfI5vSTohgDS53Ia3jCyZ1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Planet Thunder Productions",
+                "id": 78245
+            },
+            {
+                "name": "Betmar-Heliand Productions",
+                "id": 174541
+            },
+            {
+                "name": "Freestyle Creative",
+                "id": 199253
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://planetthunderfilms.com",
+        "imdb_id": "tt26599134",
+        "original_language": "en",
+        "popularity": 0.359,
+        "status": "Released",
+        "tagline": "A very busy night for crime",
+        "video": false
+    },
+    {
+        "id_tmdb": 854259,
+        "title": "Camille Vol One",
+        "release_date": "2021-06-26",
+        "overview": "A world filled with chaos and terror, consumes the lives of everyone in this Louisiana city.",
+        "poster_path": "/7c2a65XbAZGFyFZAWtn20i9wUZJ.jpg",
+        "backdrop_path": "/vmup4YDn0IHzfQ4NBsql4oJfaF9.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11693542",
+        "original_language": "en",
+        "popularity": 0.359,
+        "status": "Released",
+        "tagline": "A form of love with no strings attached.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1212712,
+        "title": "In The Shadow Of The Horns",
+        "release_date": "2023-12-02",
+        "overview": "Occultism. Rituals. Satanism. True crimes. Exorcism. Cannibalism, Extreme music This is not your ordinary documentary, it's not even a documentary, it's a new genre of movie, we call it \"A reality movie\". The film will mix true action sequences with drama, sub-plots and interviews with extreme metal bands, all blended together in a storytelling style that will blow your mind!",
+        "poster_path": "/3585Kltx3nRsVLnJwsCNADK7Yq6.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Vinterblot",
+                "id": 214968
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.vinterblot.com/",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "A reality film",
+        "video": false
+    },
+    {
+        "id_tmdb": 1160855,
+        "title": "Beyond the Headlines: The Elizabeth Thomas Story with Elizabeth Smart",
+        "release_date": "2023-08-12",
+        "overview": "Five years after she was groomed and abducted by the most popular teacher in school, Elizabeth Thomas shares new revelations about her ordeal, with famed kidnapping survivor Elizabeth Smart.",
+        "poster_path": "/rur6FwZfdjP4uKNcBXPQjNM4lQw.jpg",
+        "backdrop_path": "/ymA0wzvvcGMkrGIhjKKbR2hNW7V.jpg",
+        "production_companies": [
+            {
+                "name": "Marwar Junction Productions",
+                "id": 97269
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt28545909",
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1150857,
+        "title": "What Ya Life Like?",
+        "release_date": "2023-05-11",
+        "overview": "Shotgun Suge (played by himself) is an ex-drug dealer who turns his life around to pursue his promising career as an entertainer. But he had a past before his success. He grew up with Pop (Ali Rawls), who recently came home from prison. He wants revenge for the death of his brother Zay (played by 280 Zay). Pop is eager for revenge and stops at nothing for the answer to who murdered his brother. Pop learns the killer is a childhood friend from the neighborhood, Suge. This creates a war; a violent business that will test loyalty and respect as it gets dangerous beyond control.",
+        "poster_path": "/yTIjdWD3CyYmtw2rrEHvT0eWDlb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Team 80 Media Productions",
+                "id": 203900
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://whatyalifelikethemovie.com/",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1072421,
+        "title": "Love & Guns",
+        "release_date": "2024-08-30",
+        "overview": "A solitary assassin, looking to escape his occupation and pursue a new life, finds a glimmer of hope in an enigmatic woman he encounters whilst navigating his final job.",
+        "poster_path": "/A3goDa7rlfGOuHLzely52S46TAg.jpg",
+        "backdrop_path": "/s9gl4Gx7aCWXoT8mPWDntF7jn8G.jpg",
+        "production_companies": [
+            {
+                "name": "HRHR",
+                "id": 190172
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt19756678",
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "Sin is the Assassin of the Soul",
+        "video": false
+    },
+    {
+        "id_tmdb": 1008399,
+        "title": "Tell Me I'm Awake",
+        "release_date": "2022-08-06",
+        "overview": "",
+        "poster_path": "/aFnB7Tm8bdi1dCRYdNhkfPe30zU.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 881820,
+        "title": "VERONICA Skeletons in the Closet",
+        "release_date": "2022-04-18",
+        "overview": "When Veronica's night takes an unexpected turn, she's left to deal with the consequences of someone else's actions.",
+        "poster_path": "/4qALIN8FituGjeVE4tuCQE0QPdz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Stolen Thunder Pictures",
+                "id": 162159
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 586043,
+        "title": "Eminent Monsters: A Manual For Modern Torture",
+        "release_date": "2020-02-16",
+        "overview": "‘Do No Harm’ is an abiding principal of psychiatry. It is abandoned time after time in this shocking, utterly compelling exploration of the profession’s collusion with state sponsored torture over the past 70 years. Director Stephen Bennett untangles a web of secrecy, denial and complicity to explore the legacy of Scottish-born psychiatrist Dr Ewen Cameron and the experiments that helped devise systems of torture employed across the globe, from Northern Ireland to Guantanamo Bay. Experts, victims and families provide chapter and verse on fundamental violations of human rights.",
+        "poster_path": "/t0BJlLIAZrVp7OuFqf5zC9pRrha.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC Scotland",
+                "id": 3712
+            },
+            {
+                "name": "Sideways Film",
+                "id": 146877
+            },
+            {
+                "name": "Hopscotch Films",
+                "id": 13788
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.358,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1373901,
+        "title": "BENCHED",
+        "release_date": "2024-10-22",
+        "overview": "A happy man's day is ruined by the arrogance of another individual. The fool's mistakes are fatal as the man gets revenge.",
+        "poster_path": "/2pfBN2Y1DzAzV7OOeafsx5ZelbT.jpg",
+        "backdrop_path": "/5Rq3FziGE0B46ld4RjfiNTNRFyH.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 500,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "Bench, Death, Bench",
+        "video": false
+    },
+    {
+        "id_tmdb": 1225943,
+        "title": "Käseburg",
+        "release_date": "2022-09-24",
+        "overview": "",
+        "poster_path": "/g4UQWEGRSxQYir47TFlpwynavYn.jpg",
+        "backdrop_path": "/nk3uBVHDcjmUxW1oVqNooVlbCy8.jpg",
+        "production_companies": [
+            {
+                "name": "Kino ohne Talent",
+                "id": 96598
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 10000,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt30779942",
+        "original_language": "de",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1125247,
+        "title": "The Start",
+        "release_date": "2022-04-18",
+        "overview": "The story of two brothers who, after the death of their father, begin to hunt for robberies. They are noticed by an athletics coach who came from the city to the village to select talented youth. The brothers face difficult trials, and a tragic incident changes their lives. One of them will have to defeat the world champion in the marathon.",
+        "poster_path": "/cq2CXmJcEMib6b0ey5HmZ4JNbwT.jpg",
+        "backdrop_path": "/cRvBiaCMfUatiSgm0SX2Pts3FHg.jpg",
+        "production_companies": [
+            {
+                "name": "Golden Man Media",
+                "id": 182068
+            },
+            {
+                "name": "Kazakh Cinema",
+                "id": 173578
+            },
+            {
+                "name": "Ministry of Culture and Sports of the Republic of Kazakhstan",
+                "id": 155132
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KZ",
+                "name": "Kazakhstan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt21301792",
+        "original_language": "ru",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1056811,
+        "title": "No Better Love",
+        "release_date": "2022-10-28",
+        "overview": "A love triangle turns deadly when a savvy hustler finds herself at a crossroads between a drug-dealing boyfriend and a better life.",
+        "poster_path": "/3pt2ejHLbxbdlTeHOtAQhKKKdir.jpg",
+        "backdrop_path": "/4JW72RXuyK4oDfsjKqzf2YUmtmR.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt20424412",
+        "original_language": "en",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1012844,
+        "title": "Saade Aale",
+        "release_date": "2022-04-29",
+        "overview": "The Plot of the movie runs around two Athlete Brothers who fall in the fastidious and lethal labyrinth of society. This movie justifies \"Kingsman knows no kingship. Directed by Jatinder Mauhar and having great artists like Deep Sidhu, Guggu Gill, the movie perfectly depicts personal loss and demons within them.",
+        "poster_path": "/9QS2fUNYS31LTY4GKsfnzASSnMT.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Saga Studios",
+                "id": 180543
+            },
+            {
+                "name": "Bathinda Wale Bai Films",
+                "id": 178046
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pa",
+                "name": "ਪੰਜਾਬੀ"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8282400",
+        "original_language": "en",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 831134,
+        "title": "Soror",
+        "release_date": "2021-10-31",
+        "overview": "In 1946, in Soror city, three different stories intersect amid macabre events. While detectives Thomas and Carlos work in the unsolved cases of the mysterious body found in a tree and Serena Caires disappearance, those three stories get together suggesting the motivations of those respective crimes.",
+        "poster_path": "/wMf4Z1YURW5F2Fwk3ZEgHQgS8qF.jpg",
+        "backdrop_path": "/l6yrdaGK7OqyiuMtljsetkjaTJR.jpg",
+        "production_companies": [
+            {
+                "name": "Dream House Pictures",
+                "id": 154496
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt14490110",
+        "original_language": "pt",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 768909,
+        "title": "Meka Suri 2",
+        "release_date": "2020-11-27",
+        "overview": "Meka Suri succeeds in taking revenge. But later he gets pulled deeper in the crime world and he becomes one of the most wanted criminals. The raw, rustic feel of the film is the USP.",
+        "poster_path": "/gXAVuWQ7BDyKcPCtbu3iiStDDhR.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "te",
+                "name": "తెలుగు"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12845062",
+        "original_language": "te",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1359568,
+        "title": "Agham",
+        "release_date": "2024-09-20",
+        "overview": "A writer escapes to a distant land to flee his past and pen his autobiography. However, he soon finds himself caught in a series of strange events, which eventually take a new turn.",
+        "poster_path": "/kltaGPvqKOyh16F687cNqDZppce.jpg",
+        "backdrop_path": "/jcvI8U3DPL6y8eiPncnvz76uwat.jpg",
+        "production_companies": [
+            {
+                "name": "Infinity and beyond pixels inc.",
+                "id": 239528
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 1000,
+        "revenue": 1000,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1357096,
+        "title": "Colours",
+        "release_date": "2024-09-22",
+        "overview": "Cores (Colours) is an experimental and independent animation by Clint Bones. Using Stop-Motion Animation, this film is about Palestine and their long combat with Israel. All that following a 60´s Psychedelia inspired visual.",
+        "poster_path": "/hB9vVVQmC7Iod5Ye6tLmLP7VDOn.jpg",
+        "backdrop_path": "/8ctbeTS6C1YLSw3jxGQh3jtmiry.jpg",
+        "production_companies": [
+            {
+                "name": "Olho de Hórus Produções Audiovisuais",
+                "id": 239148
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.youtube.com/",
+        "imdb_id": null,
+        "original_language": "xx",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "What does a simple Clay war says about the World?",
+        "video": false
+    },
+    {
+        "id_tmdb": 1249280,
+        "title": "Indivisible",
+        "release_date": "2024-02-16",
+        "overview": "A detective investigates the disappearance of a girl, but the rabbit hole will lead him to unveil a twisted reality",
+        "poster_path": "/u5Dto5yxio1ImEfZFLQrj9pA08d.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Che Bueno Estudios",
+                "id": 221591
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 150,
+        "revenue": 150,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt31322751",
+        "original_language": "es",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "¿Ya te diste cuenta que todo es tu culpa?",
+        "video": false
+    },
+    {
+        "id_tmdb": 984627,
+        "title": "Slap me to Sleep",
+        "release_date": "2021-07-16",
+        "overview": "Three reckless robbers target a chinese mafia club. They do not know, however, that the bartender, the only one who knows the safe combination, is narcoleptic and falls asleep suddenly when he gets too emotional...",
+        "poster_path": "/cGXaCYyd9b2ETei6C3y3HH68crA.jpg",
+        "backdrop_path": "/15LSLMO9wQEz6MAx73MODO9X0xM.jpg",
+        "production_companies": [
+            {
+                "name": "Scuola di cinematografia Rosencrantz & Guildenstern",
+                "id": 176652
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 500,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt20869036",
+        "original_language": "it",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "Follow the plan and everything will go smoothly",
+        "video": false
+    },
+    {
+        "id_tmdb": 934360,
+        "title": "Yaaro",
+        "release_date": "2022-02-04",
+        "overview": "John is a loner, who is being framed for a series of murders; himself becomes a target of an unknown murderer who is dangerous and insanely brutal. As the murderer’s presence is felt everywhere, he must accept one of the greatest psychological and physical challenges on his ability to unravel the mystery of murders around him.",
+        "poster_path": "/kpQuH0PCGrUeZ1zpLgwAtjxwupc.jpg",
+        "backdrop_path": "/53kB4EnQQ2XhrOVtXpf19jv97id.jpg",
+        "production_companies": [
+            {
+                "name": "Trident Arts",
+                "id": 75010
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ta",
+                "name": "தமிழ்"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ta",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "A Psycho Game",
+        "video": false
+    },
+    {
+        "id_tmdb": 858473,
+        "title": "Grim",
+        "release_date": "2022-08-08",
+        "overview": "Three young beautiful woman; Olivia, Nikki, and Sasha, trying to better their lives after doing a job that they never expected to be doing, come up with a plan to steal from their dangerous boss; Sebastian, who has every cop and gangsta in the city working for him. The girl's plan doesn't go as planned and Olivia, Sasha and Nikki get into something much bigger than they thought possible. They have to come up with another plan to escape from their original plan, but things change for one of the girls that makes her want to back out of the original plan. A few days later after Olivia, Nikki and Sasha have pulled off their first plan to a certain degree, people are being killed and stalked left and right. Olivia, Nikki and Sasha have no idea who to trust and even Sebastian doesn't know who to trust either, since everyone wants to turn on him and become their own boss. Sebastian has lost control of his city and he needs a way to gain his city back.",
+        "poster_path": "/1OLQCwSyJ58UJeOn552VHLfOIC3.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11563740",
+        "original_language": "en",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1375279,
+        "title": "Lucy Letby:Unanswered Questions",
+        "release_date": "2024-10-21",
+        "overview": "Former nurse Lucy Letby became one of the UK’s most notorious child killers after she was convicted of harming and murdering babies in her care. The nurse was found guilty by two juries after lengthy trials, but now a growing number of experts are questioning the prosecution's evidence. Reporter Judith Moritz, who has covered the case from the start, investigates the questions that have been raised about Lucy Letby’s conviction.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC Northern Ireland",
+                "id": 20639
+            },
+            {
+                "name": "Albert Certified Productions",
+                "id": 219728
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.355,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1075301,
+        "title": "Rocky Meets Lucy",
+        "release_date": "2023-11-26",
+        "overview": "Desperate to impress the love of his life and leave with her to a tropical getaway, Rocky, a deranged alpha-male, tries to delve into the illicit realm of animal trafficking as he attempts to sell a Tibetan Mastiff in Antwerp's Chinatown.",
+        "poster_path": "/656m3DpySZ5Fa20pe3t9yjX8AIM.jpg",
+        "backdrop_path": "/pQ1W1oZ8NX4VLVYNnyLVodbhAvP.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 10000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt26236720",
+        "original_language": "nl",
+        "popularity": 0.355,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 963140,
+        "title": "Chupa La Mingus Presenta: Una Noche Solo en Tijuana",
+        "release_date": "2022-04-20",
+        "overview": "The next film in the Chupa La Mingus Anthology, follow up to 2019 special event film, Chupa La Mingus Presenta: Vida Y Tiempos.",
+        "poster_path": "/dDlTm9hcnkLjX3MFW8FwxYpJLXo.jpg",
+        "backdrop_path": "/iPn66ylxfwberxwbbeBbuv3Neke.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 200000,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.355,
+        "status": "Released",
+        "tagline": "One Night Only In Tijuana",
+        "video": false
+    },
+    {
+        "id_tmdb": 863625,
+        "title": "Restless",
+        "release_date": "2021-04-09",
+        "overview": "A woman wakes up in the middle of the night to find a man hiding out in her apartment from 4 masked men looking for him.",
+        "poster_path": "/uXAjaqIiwdRzkuq9rsPqjxCqYe2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Los Productions",
+                "id": 99786
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9307674",
+        "original_language": "en",
+        "popularity": 0.355,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1254595,
+        "title": "狐踪谍影",
+        "release_date": "2020-01-10",
+        "overview": "",
+        "poster_path": "/zA8TGimEN88USoA4Hi7SBuT8fCg.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1183474,
+        "title": "Aluda",
+        "release_date": "2023-10-13",
+        "overview": "Bemo, a 40-year-old married actor, embarks on a difficult journey as his battle with alcohol jeopardizes his thriving career and reputation. His marriage teeters on the brink of divorce as his wife grapples with his relentless addiction.",
+        "poster_path": "/8z3B5r8At9iyLYGZ0mCtUxWfVXb.jpg",
+        "backdrop_path": "/f5QHp0hLdDSIoB9BbBRe8J43Nq2.jpg",
+        "production_companies": [
+            {
+                "name": "Kurd Vision",
+                "id": 209497
+            },
+            {
+                "name": "Glob Film Production",
+                "id": 209499
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IQ",
+                "name": "Iraq"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ku",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ku",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1153372,
+        "title": "Hot Girls",
+        "release_date": "2023-07-04",
+        "overview": "Five sisters, who grew up under rough conditions, try to escape the harsh realities in place for them, after their mother leaves them an inheritance with stipulations.",
+        "poster_path": "/n7T3VpYFEgKA7VDqNQsXyzNXw7M.jpg",
+        "backdrop_path": "/vBRTPGGXBPBEzuuNqmjCArRfuL1.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.maverickentertainment.cc/movies/hot-girls/",
+        "imdb_id": "tt27252181",
+        "original_language": "en",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "Blood is no thicker than water.",
+        "video": false
+    },
+    {
+        "id_tmdb": 947256,
+        "title": "The Man of Lead",
+        "release_date": "2022-03-12",
+        "overview": "During Christmas Eve of 1937, two young men, apparently lost in the darkness of the mountain, knock on the door of a farmhouse, where a grandfather and his granddaughter live. From that moment, the situation will change, and a feeling of revenge will flourish as strong as the need to live. Short film made by 5 teenagers, all of them under 17 years of age.",
+        "poster_path": "/sndBfgPuoO5EUVL2bMCJFRNuQij.jpg",
+        "backdrop_path": "/asANJFcqXLfUv464sWZ5muaBEMV.jpg",
+        "production_companies": [
+            {
+                "name": "BRL Films",
+                "id": 171221
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 6000,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://brlfilms.com",
+        "imdb_id": "tt16464308",
+        "original_language": "es",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "Have a merry Christmas.",
+        "video": false
+    },
+    {
+        "id_tmdb": 848546,
+        "title": "Operation Carcajou",
+        "release_date": "2021-12-31",
+        "overview": "A police search disturbs the peace and quiet of a suburban family and arouses suspicions in Nicolas about his father Sylvain, a secret man with suspicious activities.",
+        "poster_path": "/o9ElMIJliKJot5Z8Xbx3aP1gEVw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Couronne Nord",
+                "id": 96451
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.h264distribution.com/en/films/distribution/operation-carcajou/",
+        "imdb_id": "tt14738014",
+        "original_language": "fr",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 820543,
+        "title": "The Murder of Lee Irving: Disability Mate Crime",
+        "release_date": "2021-03-28",
+        "overview": "The tragic story of a 24-year-old Lee Irving, a young man with learning difficulties lured to his death by four people he thought were his friends.",
+        "poster_path": "/vyeRzeAYKIOTYHeqFBdPN9QhN81.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sky Original Productions",
+                "id": 117455
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://sky.com/watch/title/programme/1e241301-4c58-4068-9f0b-d8f92cd386e4",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1286610,
+        "title": "Street Crimes Unit",
+        "release_date": "2024-05-07",
+        "overview": "Two detectives are assigned to the Street Crimes Unit of the Police Department. While on a stakeout, they see a local politician arguing with his mistress. When she goes missing, the detectives are convinced he's the prime suspect.",
+        "poster_path": "/sc8cV2PaRpvEUNhCbBcZ9FMd1KL.jpg",
+        "backdrop_path": "/A1wssEPsDRYTIh9XKqtC0UXYGxQ.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.maverickentertainment.cc/movies/street-crimes-unit/",
+        "imdb_id": "tt14501104",
+        "original_language": "en",
+        "popularity": 0.353,
+        "status": "Released",
+        "tagline": "When the streets heat up, they go to work.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1286442,
+        "title": "Deception",
+        "release_date": "2023-06-02",
+        "overview": "After a chain of murders plague a small college, An ace detective and a newly appointed rookie unwillingly join forces to solve the case.",
+        "poster_path": "/6nv0tUfzoheE25GN9ckVsPTe38j.jpg",
+        "backdrop_path": "/w1f6OaM9wdOW0ZTLT2VPAJN9Uwb.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt27796477",
+        "original_language": "en",
+        "popularity": 0.353,
+        "status": "Released",
+        "tagline": "Some Crimes Go Unsolved.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1056673,
+        "title": "Dealer Hunting",
+        "release_date": "2022-11-10",
+        "overview": "Master Tian (played by Li Jing) is the largest drug lord in Jiangcheng, he acts cautiously and was never personally involved in any transaction. Pingjiang City Police Bureau anti-drug brigade's captain Chen Changrong (played by Lu Nuo), in order to catch Master Tian, reluctantly went undercover in Master Tian's drug trafficking gang. The final showdown is about to start.",
+        "poster_path": "/kRifLzvPDcbr1R08BTE8bUfuXjB.jpg",
+        "backdrop_path": "/7FsFot6N6VKsAxKx2Jb4uuzbiXL.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.353,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 961337,
+        "title": "Koskinen",
+        "release_date": "2022-05-11",
+        "overview": "In the middle of the summer holidays, the body of a drowned man with ligature marks on his wrists is recovered from Tammerkoski river. The investigation by Koskinen's team is further strained by the hit-and-run case of a dubious music manager and the mysterious Carl Friedrich. When a new body is found in Lake Näsijärvi, the connection between the victims is made clear.",
+        "poster_path": "/djv1IgGV30J0yJ445Gnud8p5yFP.jpg",
+        "backdrop_path": "/eqwaWquZZ8tvKuCuKCvgp9RRI94.jpg",
+        "production_companies": [
+            {
+                "name": "Aito Media",
+                "id": 71281
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt21042882",
+        "original_language": "fi",
+        "popularity": 0.353,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 851194,
+        "title": "The Final Masterpiece",
+        "release_date": "2021-08-19",
+        "overview": "Two retired detectives, who were active during the Brazilian dictatorship, must confront the past when asked to depose to a Truth Commission regarding their investigation into the suicide of an artist and his infamous last masterpiece.",
+        "poster_path": "/L2vAukBUj80KFOQegWLDuwmwgv.jpg",
+        "backdrop_path": "/nEFMWGQH94ffEyCKHFHteAiCQIU.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 2000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "pt",
+        "popularity": 0.353,
+        "status": "Released",
+        "tagline": "THOSE WHO DON'T KNOW HISTORY ARE DESTINED TO REPEAT IT",
+        "video": false
+    },
+    {
+        "id_tmdb": 1281252,
+        "title": "Puding",
+        "release_date": "2024-01-01",
+        "overview": "During a New Year's Eve fireworks display, a girl loses her dog and has to spend the first day of the new year looking for it.",
+        "poster_path": "/ecBlJ9AxnoZGhEavKYSUCsTbMhz.jpg",
+        "backdrop_path": "/ilo3aDyNh4Sg95CIZMnQb3pxLwI.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "hu",
+        "popularity": 0.352,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1240716,
+        "title": "The Cougar Diaries of Liv and Zea",
+        "release_date": "2024-01-20",
+        "overview": "The film toggles between the year 2024 an 2054 in Cape Town South Africa. We are presented with two old ladies \"Liv and Zea\" In their younger years, whilst desperate for money to fund shopping sprees and a lifestyle they could not afford, they were recruited by an international spy organization to carry out \"hits\" on people who were deemed to be undesirable by the agency. These adventures take them to some exotic locations. Liv is a stereotypical dizzy blonde who is always getting herself in to trouble. Zea is a Russian immigrant with an unusual understanding of the English language who fled her native country to escape a war.",
+        "poster_path": null,
+        "backdrop_path": "/A2WJa7HWiK3JsmZBQpCR9gaw8s5.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 242000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.cougar-diaries.com",
+        "imdb_id": "tt31055765",
+        "original_language": "en",
+        "popularity": 0.351,
+        "status": "Released",
+        "tagline": "They need money, now.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1208516,
+        "title": "The Do Over",
+        "release_date": "2023-11-14",
+        "overview": "A mysterious man returns to a bar to reminisce about the dream girl he once lost, but soon realizes the reality of it all was his worst nightmare.",
+        "poster_path": "/y2VAfeluKSzIyxSKMvm4E2TG5yt.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt22488742",
+        "original_language": "en",
+        "popularity": 0.351,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1026101,
+        "title": "Laundry Talk",
+        "release_date": "2022-02-24",
+        "overview": "A man eats a bagel.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.youtube.com/watch?v=f1pNmi25Ij4",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.351,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 893298,
+        "title": "Laval, le collaborateur",
+        "release_date": "2021-11-02",
+        "overview": "Several times president of the Council, at the end of the 1930s Pierre Laval became one of Marshal Pétain's strongmen, a loyal collaborator for the Germans. Rounding-up Jews, forced labour, tracking the French resistance..., he served Hitler faithfully to the end. When France was liberated, he was tried, condemned, shot.",
+        "poster_path": "/oyyeBAOhCptWIw77WE3rTlZXFhM.jpg",
+        "backdrop_path": "/s76awbytfGhCJ4dqh372y6BS2l5.jpg",
+        "production_companies": [
+            {
+                "name": "Jem Productions",
+                "id": 2593
+            },
+            {
+                "name": "France Télévisions",
+                "id": 7131
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt15711478",
+        "original_language": "fr",
+        "popularity": 0.351,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 739603,
+        "title": "Like a Dirty French Novel",
+        "release_date": "2021-08-28",
+        "overview": "A campy pulp-noir following two estranged twin brothers, a cosplaying femme fatale, and a sexually-charged phone caller linked to a mischievous set of pookas.",
+        "poster_path": "/wkUXrQSO6yNEuQF8x8ZiYprmWC6.jpg",
+        "backdrop_path": "/vSQrAc8lLkBORGFqppqxKRULOzF.jpg",
+        "production_companies": [
+            {
+                "name": "Blvd Du Cinema",
+                "id": 82282
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.blvdducinema.com",
+        "imdb_id": "tt13032902",
+        "original_language": "en",
+        "popularity": 0.351,
+        "status": "Released",
+        "tagline": "Between the absurd and the vulgar.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1244085,
+        "title": "Ballad of Blues",
+        "release_date": "2024-01-30",
+        "overview": "A tale revolving around individuals making their way up to be the Midnight's Special of an underground nightclub.",
+        "poster_path": "/1giEeniwYk3pz7CUooUaECNuPis.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 2650,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt31236117",
+        "original_language": "en",
+        "popularity": 0.35,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1202675,
+        "title": "Rudri",
+        "release_date": "2023-11-10",
+        "overview": "upcoming kannada movie",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "kn",
+                "name": "?????"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12354254",
+        "original_language": "kn",
+        "popularity": 0.35,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1146597,
+        "title": "Storage Room",
+        "release_date": "2024-05-04",
+        "overview": "A disturbed woman gets locked up in an abandoned warehouse storage room and relies on her hallucinations to overcome her captivity.",
+        "poster_path": "/viMoaWKA3WmIjLWSgK2VsFDZIxa.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Films in the Making",
+                "id": 124857
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11526654",
+        "original_language": "en",
+        "popularity": 0.35,
+        "status": "Released",
+        "tagline": "See What's in Store for Ellanie",
+        "video": false
+    },
+    {
+        "id_tmdb": 1060691,
+        "title": "Blue Canaries",
+        "release_date": "2023-12-24",
+        "overview": "When a desperate kid goes on the run, a probationary officer and her senior constable have one night to track him down before he throws his life away.",
+        "poster_path": "/f1bqgKvVjeKumUXH1JBrkKxKGqH.jpg",
+        "backdrop_path": "/bdX8wcsh6Wme8DxRpSbquzM9t2U.jpg",
+        "production_companies": [
+            {
+                "name": "Born Hungry",
+                "id": 188222
+            },
+            {
+                "name": "VicScreen",
+                "id": 204763
+            },
+            {
+                "name": "Mounsey, Lane, & Associates",
+                "id": 220954
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt17784148",
+        "original_language": "en",
+        "popularity": 0.35,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 962137,
+        "title": "Alerte amber : le documentaire",
+        "release_date": "2022-04-14",
+        "overview": "",
+        "poster_path": "/vnteE1QnCDCtRexroAMztq9ZfPO.jpg",
+        "backdrop_path": "/Aeq8IhcMP1Zw7UmLo9OhU2lBHtP.jpg",
+        "production_companies": [
+            {
+                "name": "Pixcom",
+                "id": 41768
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 0.35,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 920993,
+        "title": "La Haine Va De Soi",
+        "release_date": "2021-12-24",
+        "overview": "A tribute to Vinz, Said, and Hubert.",
+        "poster_path": "/hALjEn1wQjoo5PISwXdtRWEJrLE.jpg",
+        "backdrop_path": "/7gozLYaixXkp6sGanIfIwhB4XHb.jpg",
+        "production_companies": [
+            {
+                "name": "Parcstar Assembly",
+                "id": 166644
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.filmfreeway.com/lahainevadesoi",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.35,
+        "status": "Released",
+        "tagline": "The Hate Goes Without Saying",
+        "video": false
+    },
+    {
+        "id_tmdb": 1295482,
+        "title": "The Meeting Room",
+        "release_date": "2024-05-25",
+        "overview": "A Drug Dealer explaining to the drug kingpin how one person managed to get access to the main supply and steal all the products and money.",
+        "poster_path": "/NZ41L2q8MjKMpvbxVKU5xtoLKG.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.349,
+        "status": "Released",
+        "tagline": "\"THAT’S HOW HE DID IT!\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 1244364,
+        "title": "A Quick Heist",
+        "release_date": "2021-06-26",
+        "overview": "An unemployed, dropped out student plans to steal a \"rare projector\" from his old college so he can sell it online for few bucks.",
+        "poster_path": "/hb58QH1K7Lt05hoihFcjFZmffUz.jpg",
+        "backdrop_path": "/kQe5QndvC3fu2NOu4KGf57jmu4A.jpg",
+        "production_companies": [
+            {
+                "name": "CNA Films",
+                "id": 178893
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1600,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://filmfreeway.com/AQuickHeist",
+        "imdb_id": "tt19818442",
+        "original_language": "en",
+        "popularity": 0.349,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1059104,
+        "title": "Tony's Auto Repair",
+        "release_date": "2022-10-06",
+        "overview": "New York City 1981: After a grave mistake, Robert seeks refuge in an auto repair shop and awaits his mother, Belle; the Boss of the crime family. When Belle confronts Robert, she learns that her son was having an affair with a member of the Jewish mob family. Caving to Belle's pressure, Robert tells her the body is in the car trunk. Belle opens the trunk to learn that the deceased body is that of a man. A brief moment of acceptance, then everything goes wrong.",
+        "poster_path": "/y4K89u6R7XrdKVRnPHUzJFrHTZ1.jpg",
+        "backdrop_path": "/5ZjVIKOv1RFS0W9w5qJStYMOjcM.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.halfajew.com/work/tar",
+        "imdb_id": "tt22296926",
+        "original_language": "en",
+        "popularity": 0.349,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 746984,
+        "title": "TyIcKooUns",
+        "release_date": "2020-05-22",
+        "overview": "Rats are among the symbolic characters in this film who are always looking for opportunities and space to snatch and snatch other people's produce.  The scenes in TYICKOOUNS are an irony. The TYICKOOUNS series begins in Siem Pang village which is a remote village occupied by groups that have been exiled and isolated by the community. The title of this village, 'Siem Pang', is derived from the name of a former Communist prisoner who escaped from prison and hid in the village and finally disappeared.  The scenario in Siem Pang includes children being left out of school, teenagers being free without trust, parents not knowing the validity of their marriages, young people being increasingly rude and active with gangs until the Baha Tycoon comes with his forces from Bandar Besar Pongga including Cikgu Gadak wants to change the fate of the villagers. The change brought about by the Baha Tycoon was unpopular with some who eventually led to his assassination.",
+        "poster_path": "/rmWyyO8Ia47HasvAz9uTf8w6Gnt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Worldwide Far East Berhad",
+                "id": 140808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MY",
+                "name": "Malaysia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ms",
+                "name": "Bahasa melayu"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ms",
+        "popularity": 0.349,
+        "status": "Released",
+        "tagline": "Only The Strong Have The Right To Dream",
+        "video": false
+    },
+    {
+        "id_tmdb": 1200178,
+        "title": "Descendants of the Dark",
+        "release_date": "2023-10-27",
+        "overview": "A group of friends meet at their friend's place for the night. Among those friends, there are two brothers who get their friends to play a game. The game is supposed to be really fun and they play it every 4 years on the 7th of November.",
+        "poster_path": "/1gO7cWSrzz8SiakzQpqjPXG44SK.jpg",
+        "backdrop_path": "/uiisXiDORcNDmGTYQ7RDuOR9CDP.jpg",
+        "production_companies": [
+            {
+                "name": "RAS Entertainment Ltd.",
+                "id": 97978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.amazon.com/Descendants-Dark-Ritesh-Grover/dp/B0B6FBP83F",
+        "imdb_id": null,
+        "original_language": "hi",
+        "popularity": 0.348,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1194958,
+        "title": "Okkade 1 (Venkanna on Duty)",
+        "release_date": "2023-10-27",
+        "overview": "After the family of a bigshot businessman is murdered, the police appoint special officer Venkanna from Mumbai to catch those responsible for the murder.",
+        "poster_path": "/dFkQ6dSWmF1QITHBfFKhBLsSNH9.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Classic Cine Creations",
+                "id": 211727
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "te",
+                "name": "తెలుగు"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt29313334",
+        "original_language": "te",
+        "popularity": 0.348,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 793520,
+        "title": "Be Good or Be Gone",
+        "release_date": "2021-03-04",
+        "overview": "Set over the course of four days in modernday Dublin, this Irish dramedy revolves around two petty-criminal cousins released from Mountjoy Prison. Weed is keen to pursue fashion, if only he can break his substance addiction. Ste wants to build a better life for himself, his girlfriend and their daughter. But that’s before they get drawn into a robbery that goes spectacularly wrong in Cathal Nally’s energetic feature debut.",
+        "poster_path": "/wkJkZvSn7QIZHsyonvXeUxV8jlG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Skidaddle Films",
+                "id": 152081
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7586238",
+        "original_language": "en",
+        "popularity": 0.348,
+        "status": "Released",
+        "tagline": "Sometimes you've got to lose it all, if you want to survive",
+        "video": false
+    },
+    {
+        "id_tmdb": 1330687,
+        "title": "A Beautiful Hit",
+        "release_date": "2023-06-01",
+        "overview": "When pulling off series of organized heists, two brothers are caught between a Glock and a hard place. As the two brothers (Black and Lorenzo) are spotted.",
+        "poster_path": "/qWI9TJ2WEQkqZNmuIjl4auEBUjm.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt27903065",
+        "original_language": "en",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1228896,
+        "title": "Played",
+        "release_date": "2023-12-04",
+        "overview": "A drug dealer is ready to settle down with his girlfriend, but his unfaithfulness catches up to him when a dangerous woman comes between them.",
+        "poster_path": "/ltpYh0WJ8PN9nmoSasncqL44WFl.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt26920846",
+        "original_language": "en",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1205830,
+        "title": "The Chest of Ryou",
+        "release_date": "2023-12-14",
+        "overview": "Amid the hysteria of World War II, a Chinese-American private investigator meets with a Japanese-American client and must choose between his desire to help those in need and his angry and bitter community.",
+        "poster_path": "/okNjqG6HKLDvQhQgmLVkSbZQPZj.jpg",
+        "backdrop_path": "/3ao9h6AWoC7FzKGk57W1bhqyvtV.jpg",
+        "production_companies": [
+            {
+                "name": "94 West Films",
+                "id": 213632
+            },
+            {
+                "name": "MineCo Pictures",
+                "id": 213631
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 5000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1013723,
+        "title": "Buckle Up a.k.a. Baklap",
+        "release_date": "2022-04-08",
+        "overview": "Berry has lost everything, but gets a job at taxi company IVOTAX. When Ivo finds out about Berry's past, he devises a trial that culminates in an intense chase through the streets of Eindhoven, in which no one seems to be trusted.",
+        "poster_path": "/fEZ6L6ViLZMKMmQfCfUC75vdw76.jpg",
+        "backdrop_path": "/tM7foYVuhnyh5YxNc5ahHiUloGj.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.baklap.com/",
+        "imdb_id": "tt15740432",
+        "original_language": "nl",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 917388,
+        "title": "Faactory",
+        "release_date": "2021-09-03",
+        "overview": "An obsessive lover kidnaps a woman and forces her to fall for him.",
+        "poster_path": "/7LPljbh88U3ZUGWJzR8nUTlQYhq.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13013820",
+        "original_language": "hi",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 893025,
+        "title": "High Times",
+        "release_date": "2020-09-25",
+        "overview": "First timer Aaron goes to buy from a sketchy dealer, when he's invited inside a weird friendship starts to blossom. Until everything begins to spiral out of control.",
+        "poster_path": "/osI6n0KNx1HVw9L9RVlbdcLSEZC.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Freetage Films",
+                "id": 96779
+            },
+            {
+                "name": "Bicameral Productions",
+                "id": 94729
+            },
+            {
+                "name": "737 Studios",
+                "id": 163667
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 50,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.youtube.com/watch?v=DDVLU7STpnI&t=134s",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 854135,
+        "title": "The Denver Hill Case",
+        "release_date": "2020-05-18",
+        "overview": "A man seek revenge by kidnapping a prosecutor's daughter who framed him twenty years ago for a crime he never committed.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12344076",
+        "original_language": "en",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1127370,
+        "title": "Evil Among Us: The Golden State Killer",
+        "release_date": "2023-05-10",
+        "overview": "To the world, Joe DeAngelo was a devoted family man, reliable friend and proud police officer. But secretly, he was a serial rapist and murderer who haunted California for over 40 years.",
+        "poster_path": "/97CLVbISw2DiTqXRD8FCznJ0flj.jpg",
+        "backdrop_path": "/1380iFELcgzPjomvC8vmPL1k5zb.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Alternative Entertainment",
+                "id": 156646
+            },
+            {
+                "name": "Streetcar Entertainment",
+                "id": 163108
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt27605201",
+        "original_language": "en",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1081822,
+        "title": "The Killing of Charlie (the dog)",
+        "release_date": "2022-09-11",
+        "overview": "Tragedy strikes a group of friends when a beloved dog dies, the  only question is who, why and how !?",
+        "poster_path": "/zWbxgtg6XKV6rp2PuuVehF57kCG.jpg",
+        "backdrop_path": "/AtVdD1UavDJZSd0PQFbHJnj69BE.jpg",
+        "production_companies": [
+            {
+                "name": "Aaron Byrne Productions",
+                "id": 192517
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.youtube.com/watch?v=aywwDGbR_SQ&ab_channel=ReallyNeatAaron",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "Charlie died !?",
+        "video": false
+    },
+    {
+        "id_tmdb": 953404,
+        "title": "The Year Without Light",
+        "release_date": "2023-09-01",
+        "overview": "Northern Mexico - 1997. Ulises, a detective tired of the violence that his work and country present, narrates in detail his last case before retiring: The disappearance of Lucía Pardo.",
+        "poster_path": "/p47BMUE61HNUYxL13d2AjI5E68F.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Producciones Contraluz",
+                "id": 132240
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 15000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt18967898",
+        "original_language": "en",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 911936,
+        "title": "Fruitcake Fraud",
+        "release_date": "2021-12-01",
+        "overview": "Unveils the crime where someone had extorted millions from Collin Street Bakery in Corsicana, Texas, and how people and the FBI are still amazed of how the crime was solved and the lavish lifestyle the culprits were living.",
+        "poster_path": "/2SgHxdIRovt4OlSx1L6FBV700W5.jpg",
+        "backdrop_path": "/tRxaTpXDnWVczFC8f7TI4u1mpRd.jpg",
+        "production_companies": [
+            {
+                "name": "Red Productions",
+                "id": 52394
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt15868154",
+        "original_language": "en",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 834996,
+        "title": "The I'Cest",
+        "release_date": "2021-06-06",
+        "overview": "Three men discuss how each of them wants to approach an upcoming heist. Stealth, action, and disguises.  The film was written, shot, and completed within 48 hours for the Okotoks Film Festival 2021 where it won the award for \"best use of genre\".",
+        "poster_path": "/gKMxutVKTRpaUwkRrWDC05FgwAe.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Social Skeleton films",
+                "id": 155089
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 300,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt22796858",
+        "original_language": "en",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "Chill out, it's just a simple heist",
+        "video": false
+    },
+    {
+        "id_tmdb": 834718,
+        "title": "Noise",
+        "release_date": "2021-05-11",
+        "overview": "A dinner takes place at the home of a prominent businessman. The assistants, 3 couples︎: the businessman and his wife, his best friend and his wife, ︎his partner and his wife. The \"rules of the game\" are very clear. A closed stage︎: the house. A murder︎: that of the businessman. Five suspects: all with apparent motives to commit the crime, and a detective to make sense of the pieces and find the culprit.  Through the interrogations with each of these five murderous candidates, the reconstruction of what happened that night will gradually put on the table the letters of a swing of forbidden relationships, complexes, disagreements, envy, jealousy and shady deals.",
+        "poster_path": "/eH3qxIF1tBqDCWwnLKShcGQR1Ch.jpg",
+        "backdrop_path": "/j762ai4cwoHKjAh0TSgnZ9k4jk6.jpg",
+        "production_companies": [
+            {
+                "name": "2/4 PRODUCCIONES",
+                "id": 131838
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CO",
+                "name": "Colombia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "es",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 727639,
+        "title": "По прозвищу «Дьявол»",
+        "release_date": "2020-06-27",
+        "overview": "",
+        "poster_path": "/9Tw5aPmqtZQTkSxiX5jfz1D2qrw.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 298841,
+        "title": "Border Break",
+        "release_date": "2023-01-31",
+        "overview": "In 2011, Janet Taylor left for Cancun for Spring Break, and she's been missing ever since. Police investigations and reenactments show that Janet and her friends took a detour on their road trip, and one deadly wrong turn takes them down a dangerous path of kidnapping and murder. With friends like Samantha along for the ride (Denise Williamson) and a mysterious Sheriff (Cory Hart) Janet Taylor's disappearance leaves us all asking, \"Who do you trust when your life is on the line?\"",
+        "poster_path": "/vvuilbmVoeYk2qZK1RyQ0IH0cOm.jpg",
+        "backdrop_path": "/bcPjwsXlFs9FYFkw48oTXTwyDwE.jpg",
+        "production_companies": [
+            {
+                "name": "Irving Films & Productions, LL Productions",
+                "id": 192013
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1859458",
+        "original_language": "en",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "Who do you trust, when your life is on the line?",
+        "video": false
+    },
+    {
+        "id_tmdb": 1023227,
+        "title": "Snitch",
+        "release_date": "2020-03-15",
+        "overview": "When Lorenzo tels his cousin he doesn't take part in a money job, tension rises and family bonds are tested.",
+        "poster_path": "/1WlnMjil2cdmqT4QUjkkfupa5FU.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 500,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11958660",
+        "original_language": "nl",
+        "popularity": 0.345,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 852943,
+        "title": "Life Without Hope",
+        "release_date": "2020-12-12",
+        "overview": "All her life, Hope has dreamed of becoming a lawyer and one day helping her people out of ghetto oppression. By some uncanny fate, Hope meets the handsome thug, Life, in the midst of his desperate attempts to elude a massive police manhunt. Their brief encounter leads to a liaison of lust.",
+        "poster_path": "/SYSPQdLZRqxGJMtRD4OW2PWzye.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sullivan Productions",
+                "id": 220531
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1243322,
+            "name": "Life Without Hope Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt7936028",
+        "original_language": "en",
+        "popularity": 0.345,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1169164,
+        "title": "Michael's Coffee House",
+        "release_date": "2021-12-17",
+        "overview": "Vincent, a promising young IT Professional is striving to maintain the balance between his love life and his dream project. Vincent has been avoiding a serious commitment with Jasmine. Will he manage it?",
+        "poster_path": "/w7Hg7tNOXrsaJVJK8bfnSqlBINY.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ml",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt18235054",
+        "original_language": "ml",
+        "popularity": 0.344,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1152858,
+        "title": "Mattress Express",
+        "release_date": "2023-12-01",
+        "overview": "After twins Ben and Rosie botch their only chance to pull their childhood home out of foreclosure, their night spirals out of control.",
+        "poster_path": "/yoy4BKgdMAKCt4UeT07ouRYGis.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sogbots",
+                "id": 204289
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt28329321",
+        "original_language": "en",
+        "popularity": 0.344,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1024490,
+        "title": "The Real Story of January 6",
+        "release_date": "2022-07-22",
+        "overview": "The \"Real Story of January 6\", a feature documentary by the Epoch Times reveals the truth that has been hidden from the American people.",
+        "poster_path": "/7QjqULSABh7mpZiSoeWPfbh4wvv.jpg",
+        "backdrop_path": "/s6KAJToumSPTKQI4p4oDaBG9aI.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.theepochtimes.com/the-real-story-of-january-6-2_4632943.html",
+        "imdb_id": "tt21383238",
+        "original_language": "en",
+        "popularity": 0.344,
+        "status": "Released",
+        "tagline": "THE TRUTH CAN'T BE HIDDEN",
+        "video": false
+    },
+    {
+        "id_tmdb": 817286,
+        "title": "Rifkin on Rifkin: Private Confessions of a Serial Killer",
+        "release_date": "2021-04-10",
+        "overview": "Through newly revealed interviews from Attica Correctional Facility, New York's most prolific serial killer, Joel Rifkin, reveals exclusive insights into the mind of a monster.",
+        "poster_path": "/tC9YrrdRuDFlD5UT2h6bWIp98Lk.jpg",
+        "backdrop_path": "/gEplquMj6LGONRXC2Yau5VUjVRd.jpg",
+        "production_companies": [
+            {
+                "name": "Glass Entertainment Group",
+                "id": 92740
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt14308698",
+        "original_language": "en",
+        "popularity": 0.344,
+        "status": "Released",
+        "tagline": "\"I just made a nice secret life for myself...\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 750775,
+        "title": "Blue Code of Silence",
+        "release_date": "2020-10-10",
+        "overview": "Every year an average of one thousand American police officers are arrested for misconduct or corruption, and the abuse of power is a legacy that stretches back to the dawn of US policing. BLUE CODE OF SILENCE tells the true story about a crooked police officer in 1970s New York who brought down the most corrupt police unit in American history. Who was detective Bob Leuci?",
+        "poster_path": "/sjAjX7VKsIo3FYwUIiMAXG9ra99.jpg",
+        "backdrop_path": "/eNJvPgJJE5wLg9KX6RbkcQTZOFb.jpg",
+        "production_companies": [
+            {
+                "name": "Spætt Film",
+                "id": 100110
+            },
+            {
+                "name": "Rustic Canyon",
+                "id": 141609
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7136726",
+        "original_language": "en",
+        "popularity": 0.344,
+        "status": "Released",
+        "tagline": "NYPDs Most Hated Whistleblower",
+        "video": false
+    },
+    {
+        "id_tmdb": 1371268,
+        "title": "Atlanta 10.0",
+        "release_date": "2023-11-09",
+        "overview": "A gripping crime thriller that shines a spotlight on real-life events that have unfolded in the ATL, and will change your view of the city forever.",
+        "poster_path": "/9Oy9FIkaC86ltcNFtmt8Saso9Lv.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt29324432",
+        "original_language": "en",
+        "popularity": 0.343,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1308254,
+        "title": "Old Smoke Families",
+        "release_date": "2023-09-22",
+        "overview": "When Ben Shaw has drugs planted on the boss of his crime family, the Boers. He and his fiance Kaylee plan to leave the life of crime behind, but when his secret is discovered, Ben must remain in the game and work with Harry Wilson, a Capo in the rival Donnelly Family to do whatever it takes to protect himself from the vengeful Karl, his under boss Axel, and the rest of the Boer Family.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt32644897",
+        "original_language": "en",
+        "popularity": 0.343,
+        "status": "Released",
+        "tagline": "Family Means Nothing.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1204913,
+        "title": "In Memoriam: Wildtype Middleclass 2024",
+        "release_date": "2024-05-24",
+        "overview": "In an old Sino-Thai community in the Southern Thailand, Sorn, an elderly man, faces a state of elusive wakefulness while becoming addicted to the mysterious attempting orgasm, This forces Rin, his wife, to deal with his delirious ramblings and strange illnesses constantly. As the story unfolds, Sorn uncovers a parallel tale of a young man consumed by past wounds and guilt, trapped in self-blame.",
+        "poster_path": "/mg2H7C8TU69jns38YYHzpRHkOFJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Soulful Collectors",
+                "id": 213513
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TH",
+                "name": "Thailand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 5875,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "th",
+        "popularity": 0.343,
+        "status": "Released",
+        "tagline": "Wildtype Middleclass Version 2024",
+        "video": false
+    },
+    {
+        "id_tmdb": 1144616,
+        "title": "Almajiri",
+        "release_date": "2022-11-11",
+        "overview": "THE ALMAJIRI is a movie that is based on true stories as it affects millions of children in Nigeria and other countries who are victims of trafficking and other forms of child slavery as we saw with Nafisat and Salihu, two young children who were separated from their parents from childhood by the cruel business of Alhaji Makarfi. The gullible villagers believe him, love him and even revere him higher than the chiefs in the North. He is showered with gifts, praise, some villagers even go the extra mile to sell their valuables to offer him bribes just to get their wards enlisted for his scholarship scheme, unknown to them that none of their children ever gets to see the wall of a school let alone have the liberty of pursuing a trade. They are beaten, brainwashed and force to become prostitutes, suicide bombers and ALMAJIRIS.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt23126048",
+        "original_language": "en",
+        "popularity": 0.343,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 895646,
+        "title": "킹덤스쿨-절대악-",
+        "release_date": "2021-09-04",
+        "overview": "",
+        "poster_path": "/2B6A1fDnJ7gXAp5nJsBFPchrGVF.jpg",
+        "backdrop_path": "/fIpiyFwg0nuYe9UxYOSaZnmT3ob.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ko",
+        "popularity": 0.343,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1374808,
+        "title": "WOOD HOUSE",
+        "release_date": "2024-10-19",
+        "overview": "An ex convict who has given up his dreams and a successful author who has fallen into debt decide to overcome their past traumas to write a new book that can set their life back on track.",
+        "poster_path": "/twZilCDKuk26JsNSg71QqtYL6Tn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Twist Visuals",
+                "id": 158520
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4500,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt32288217",
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1358984,
+        "title": "King Karsten",
+        "release_date": "2024-09-20",
+        "overview": "King Karsten follows a young criminal who is drugged and given one night to steal $50,000 in exchange for a life saving antidote. To get the money by dawn, he must put his ego aside and go on a journey of redemption into the chaos of the night.",
+        "poster_path": "/oN8b515Cc0ZYZNAO8H9SfPXiWw2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "AIGHT!",
+                "id": 239468
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NZ",
+                "name": "New Zealand"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "A criminal has one night to steal $50,000.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1358354,
+        "title": "Glamourosa",
+        "release_date": "2024-10-19",
+        "overview": "At dusk, drag queen Sasha is attacked on her way to work by a burglar and when facing him, she discovers that all the decisions she makes always take her to the limit of life and death.",
+        "poster_path": "/savat1CvtLzrP3rNrji8IlOYSJQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 700,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1209010,
+        "title": "Joey Had Never Been Out Of The City",
+        "release_date": "2024-01-01",
+        "overview": "After a robbery gets out of hand, Joey and Wayne flee Dublin with a cash-filled biscuit tin that needs hiding.",
+        "poster_path": "/jhQvmAylSvQVEN0eRGV2Ty72x0z.jpg",
+        "backdrop_path": "/8DND7mXAZaPWjtoUcmM7Rpd6lPY.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://fightbackfilms.com/joey-had-never-been-out-of-the-city-2022/",
+        "imdb_id": "tt21619072",
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "You can't bury it forever",
+        "video": false
+    },
+    {
+        "id_tmdb": 1187345,
+        "title": "Fragmento",
+        "release_date": "2023-01-08",
+        "overview": "",
+        "poster_path": "/yenREXwyZOestDo1mJQ4vCGFG6E.jpg",
+        "backdrop_path": "/l3qrwD6IpHGMwgcKPvBNCLrO5Js.jpg",
+        "production_companies": [
+            {
+                "name": "Pseudo-Cinema",
+                "id": 210271
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "pt",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 958801,
+        "title": "Butterfly of Black Velvet",
+        "release_date": "2023-10-01",
+        "overview": "Two detectives are at their wits end as a black gloved killer sets their sights on two sisters",
+        "poster_path": "/dg5GJMPG8Os4KwH37wcvvKzsktT.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mint Condish Productions",
+                "id": 240832
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt17320348",
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 845269,
+        "title": "The Bowraville Murders",
+        "release_date": "2021-09-02",
+        "overview": "The epic David vs Goliath battle for justice waged by the families of three Aboriginal children murdered in a small rural town 30 years ago, the system that failed them, and what it reveals about racism in Australia today.",
+        "poster_path": "/7pZT0bMGE3IGfkuhY3lskwLqsAk.jpg",
+        "backdrop_path": "/oNy2FMoz8okiPSioHCkLyOEcggr.jpg",
+        "production_companies": [
+            {
+                "name": "Jumping Dog Productions",
+                "id": 160903
+            },
+            {
+                "name": "Mint Pictures",
+                "id": 110637
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.bowravillemurdersfilm.com.au/",
+        "imdb_id": "tt15559552",
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "Justice is not colour blind",
+        "video": false
+    }
+]

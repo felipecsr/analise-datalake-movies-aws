@@ -1,0 +1,3588 @@
+[
+    {
+        "id_tmdb": 997900,
+        "title": "Garrison 13",
+        "release_date": "1946-04-12",
+        "overview": "Two devil-may-care guerrilla brothers with prices on their heads fight for their country and for the women they love.",
+        "poster_path": "/uiyjUP4nL5fXSzkBQBML4L3vkXW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "LVN Pictures",
+                "id": 19710
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0471179",
+        "original_language": "tl",
+        "popularity": 0.653,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 387379,
+        "title": "Always Another Dawn",
+        "release_date": "1948-09-24",
+        "overview": "Featuring Charles 'Bud' Tingwell in only his second film and first lead role, which helped prepare him for his part in the 1953 World War Two Hollywood action drama, 'The Desert Rats'. 'Always Another Dawn' celebrates the Australian Navy's contribution to the Allied victory in WW2. The ship (Dauntless) is based on the real-life HMAS Yarra, which was sunk by a Japanese cruiser squadron on 4 March 1942 with 138 lives lost. Assisted by the Royal Australian Navy, filming took place at Flinders Naval Depot Melbourne and aboard the destroyer HMAS Bataan.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Embassy Pictures",
+                "id": 112746
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0039147",
+        "original_language": "en",
+        "popularity": 0.651,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 474016,
+        "title": "Sarge Goes to College",
+        "release_date": "1947-05-13",
+        "overview": "A Marine Sergeant, wounded in overseas service, requires an operation, and the Navy psychiatrist recommends to the Captain and Colonel that \"Sarge\" be given a few weeks rest before hospitalization. Through the Dean of San Juan Junior College, Sarge enters the school on a temporary basis.",
+        "poster_path": "/aMXgmhDq0dmNX9jtfi0MCAgPEd8.jpg",
+        "backdrop_path": "/92mVrPDQ9yW0Stv8clNMzPpdMvO.jpg",
+        "production_companies": [
+            {
+                "name": "Monogram Pictures",
+                "id": 4395
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1309056,
+            "name": "Teen Agers Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0039799",
+        "original_language": "en",
+        "popularity": 0.646,
+        "status": "Released",
+        "tagline": "CAMPUS FUN ON THE RUN!",
+        "video": false
+    },
+    {
+        "id_tmdb": 859759,
+        "title": "Rhin et Danube",
+        "release_date": "1948-01-01",
+        "overview": "A documentary produced by the French armed forces which chronicles the way of France’s “1ere armée” in the second world war from the days it first crossed the Rhine in March of 1945, through the liberation of a POW-camp in Swabia, until the forces reached the Danube and the Alps at the end of the war and the day French troops marched in the victory parade in Berlin.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ECPAD",
+                "id": 123263
+            },
+            {
+                "name": "Ministère des Armées",
+                "id": 151018
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://archives.ecpad.fr/rhin-et-danube/",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.636,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 559011,
+        "title": "Barak 1",
+        "release_date": "1945-08-17",
+        "overview": "Life in Gestapo jails in occupied Belgium.",
+        "poster_path": "/nZLY0oUd203epK08wuSExBPz12L.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Probeldis",
+                "id": 201269
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0256636",
+        "original_language": "fr",
+        "popularity": 0.635,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 264174,
+        "title": "The Sixth of June at Dawn",
+        "release_date": "1947-11-28",
+        "overview": "The film starts by a visit to bucolic Normandy before the events. This peaceful atmosphere is shattered by Operation Overlord, minutely described in the second part of the documentary. The landing on D-Day and the ensuing battles and bombings martyr the peaceful area giving the earth thousands of body instead of seeds. In the last part, the dreadful aftermath of the steel storm is shown both with sympathy for the victims and hope for the future, since all these sacrifices, whether military or civilians, have not been in vain.",
+        "poster_path": "/kxlM4cL4NLYdPkdLrzbVT4zcghP.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0121970",
+        "original_language": "fr",
+        "popularity": 0.623,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 299601,
+        "title": "The Last Night",
+        "release_date": "1949-02-11",
+        "overview": "Set in German-occupied France in 1944 where a female resistance operative and a German army officer fall in love.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Real-Film",
+                "id": 2050
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0308502",
+        "original_language": "de",
+        "popularity": 0.606,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 243897,
+        "title": "The Sickle or the Cross",
+        "release_date": "1949-07-01",
+        "overview": "Reverend John Burnside, American missionary in the Far East, prepares to return home after twenty years to take up the fight against Communism. The Reds imprison him and send in his place a spy who is his double, but who is instructed to come out for Communism. The spy is accepted in Burnside's home town, and he reports to local Communist headquarters, where James John, prominent local businessman but in reality a Red agent, has instructions to assist him in all details of his mission. He does a series of personal appearances and radio interviews and talk shows, using an anti-Communist approach.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Astor Pictures Corp.",
+                "id": 20545
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0044032",
+        "original_language": "en",
+        "popularity": 0.606,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 266670,
+        "title": "Slavica",
+        "release_date": "1947-04-29",
+        "overview": "Slavica, Marin and a group of operants hide the newly built ship from the Italian occupation forces. They end up arrested, but the partisans rescue them and they take part in the string of actions.",
+        "poster_path": "/6YTCfC64qQpPhZFsgQBXelsj1i2.jpg",
+        "backdrop_path": "/6WNtQSjVOecRzh2ENleB1bg5Q6K.jpg",
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0039837",
+        "original_language": "sh",
+        "popularity": 0.594,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 468546,
+        "title": "Ordeal by Ice",
+        "release_date": "1945-01-01",
+        "overview": "This short documentary is part of the Canada Carries On series. The secret winter manoeuvres of the British Army's Lovat Scouts took place in the Canadian Rockies during the winters of 1944 and 1945. In combined operations with the Canadian Army, these elite mountain commandos tested themselves and their equipment in temperatures of -50°F.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.nfb.ca/film/ordeal_by_ice/",
+        "imdb_id": "tt0223858",
+        "original_language": "en",
+        "popularity": 0.587,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 552887,
+        "title": "The Others Will Follow",
+        "release_date": "1949-05-12",
+        "overview": "A war drama that tells the story of the discovery of the illegal AL printing works by the Nazis, showing the activities of the left-wing underground in the occupied capital.",
+        "poster_path": "/a22bV6Rwl2Zeno2uiMjFJypV93R.jpg",
+        "backdrop_path": "/vQcdssWDljfYtedEL3hGFXH85v.jpg",
+        "production_companies": [
+            {
+                "name": "Film Polski",
+                "id": 1587
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0042063",
+        "original_language": "pl",
+        "popularity": 0.585,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 738636,
+        "title": "Capas",
+        "release_date": "1949-06-30",
+        "overview": "During the Japanese occupation in World War 2, a soldier was tasked by a ranking officer to go undercover and be a government official, but under Japanese governance to gain their trust and collect intel.",
+        "poster_path": "/7F0T8OYF1vRBBqKFu1KIRfzOQon.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "LVN Pictures",
+                "id": 19710
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0442026",
+        "original_language": "tl",
+        "popularity": 0.572,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 998785,
+        "title": "Walang Kamatayan",
+        "release_date": "1946-05-04",
+        "overview": "AT LAST it is...HERE... this mighty picture of courage and valor of our own guerrillas. A human document of the beastly atrocities committed during the Japanese regime. A picture dedicated to those who have not died in vain.",
+        "poster_path": "/47F5KQ16ebifpu4wkosMOnraMMT.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Luzz V Min",
+                "id": 178641
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0497283",
+        "original_language": "tl",
+        "popularity": 0.565,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 509644,
+        "title": "Heroes del 95",
+        "release_date": "1947-02-27",
+        "overview": "",
+        "poster_path": "/eHAOrRScCGDG5cLtV3Ubr8CR2Gu.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Faro",
+                "id": 113673
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0038626",
+        "original_language": "es",
+        "popularity": 0.562,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 471276,
+        "title": "Special Mission",
+        "release_date": "1946-03-08",
+        "overview": "The exploits of Chief Police Inspector Chabrier, first before the invasion of France in May 1940 as he fights against spies preparing the coming the Germans, particularly Emmy de Welder, the alleged manager of the Rouen hospital. Later, Chabrier and his men go underground and resist the occupiers whatever the price to pay. When the Liberation comes Chabrier resumes his activities at the French National Police.",
+        "poster_path": "/eafYCoecKlR76V9qKjhbB5s2wkw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Compagnie Française de Distribution de Films (CFDF)",
+                "id": 93788
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0242689",
+        "original_language": "fr",
+        "popularity": 0.548,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 655188,
+        "title": "Land and Live in the Desert",
+        "release_date": "1945-12-11",
+        "overview": "Documentary short film depicting the correct methods of surviving the crash landing of a military aircraft in the desert. Methods of conserving water, providing shelter, and signaling for help are depicted.",
+        "poster_path": "/i2xxmAUlTABc4ugHtHcT1KwCjQQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Picture Unit, United States Army Air Forces",
+                "id": 101192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 935745,
+            "name": "Land and Live"
+        },
+        "homepage": "",
+        "imdb_id": "tt0312891",
+        "original_language": "en",
+        "popularity": 0.529,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 608839,
+        "title": "Reina de reinas: La Virgen María",
+        "release_date": "1948-02-11",
+        "overview": "Standard retelling of the the Gospels, with a brief epilogue about the death of Mary.",
+        "poster_path": "/xixUcW6SQV7XWvkEahS3YNPbTCb.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0220002",
+        "original_language": "es",
+        "popularity": 0.516,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 199413,
+        "title": "Dark Is the Night",
+        "release_date": "1945-05-01",
+        "overview": "A girl, working in a German commandant's office, saves two wounded Russian pilots sacrificing her own life.",
+        "poster_path": "/a2gqnRCe6P6W6lWmYiDc0rDfOjJ.jpg",
+        "backdrop_path": "/62OBuxgvcu9B5hq0h10tUMkvqQq.jpg",
+        "production_companies": [
+            {
+                "name": "Yerevan Film Studio",
+                "id": 19227
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037143",
+        "original_language": "ru",
+        "popularity": 0.511,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 654591,
+        "title": "Beachhead to Berlin",
+        "release_date": "1945-01-06",
+        "overview": "From the Department of the Navy.This historical recording from the National Archives may contain variations in audio and video quality based on the limitations of the original source material.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1167430",
+        "original_language": "en",
+        "popularity": 0.51,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 258369,
+        "title": "Along the Sungari River",
+        "release_date": "1947-03-06",
+        "overview": "Unfortunate events beset a poor Chinese girl as she escapes from invading Japanese forces, narrowly avoids being raped, and seeks solace in a neighboring village.",
+        "poster_path": "/qK9ER1JLXDLeqCgnOz4AWuWvN99.jpg",
+        "backdrop_path": "/cNaEz5xKW14ECacVU87TES3iTWd.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0195290",
+        "original_language": "zh",
+        "popularity": 0.503,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 324669,
+        "title": "Immortal Youth",
+        "release_date": "1948-05-17",
+        "overview": "A group of young illegals collect weapons in order to help partisans to liberate the occupied city of Belgrade.",
+        "poster_path": "/6KTmbTg19LuWd9R5rs8FpijzNe4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0179675",
+        "original_language": "sh",
+        "popularity": 0.502,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 325104,
+        "title": "Unsubdued Slaves",
+        "release_date": "1946-01-01",
+        "overview": "On the eve of World War II in Athens, a troupe of young actors plans to put on William Shakespeare's, A Midsummer Night's Dream. However, the outbreak of war changes everything.",
+        "poster_path": "/oGoxp0vgrAqu5sq9K6ACGFhwW2u.jpg",
+        "backdrop_path": "/98ysQ7zCXQaf9y4EvnkRrRqT1sW.jpg",
+        "production_companies": [
+            {
+                "name": "Novak-Film",
+                "id": 46452
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0135751",
+        "original_language": "el",
+        "popularity": 0.501,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 948735,
+        "title": "He Promised to Return",
+        "release_date": "1949-12-16",
+        "overview": "The most exciting War Picture ever presented - A true story of the war in Batangas.",
+        "poster_path": "/5tsa1N3NQbHwqcQEqewMOxj3nyy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lebran",
+                "id": 152021
+            },
+            {
+                "name": "Movietec",
+                "id": 171462
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0126809",
+        "original_language": "tl",
+        "popularity": 0.493,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 107447,
+        "title": "Mighty Prince",
+        "release_date": "1945-11-17",
+        "overview": "This film revolves around Choghtu Khong Tayiji, a 17th century Mongolian prince who waged a campaign of independence against Tibetan and Manchu forces.",
+        "poster_path": "/2Uf0R7x1TtDvEEGx9jDoYMVRfhs.jpg",
+        "backdrop_path": "/esLZ1noZnnhl2NuEx7CMGqXdu1Q.jpg",
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0851564",
+        "original_language": "mn",
+        "popularity": 0.487,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 317055,
+        "title": "The Taras Family",
+        "release_date": "1945-10-15",
+        "overview": "Russian filmmaker Mark Donskoi, of \"The Gorky Trilogy\" fame, was responsible for the postwar Soviet drama The Taras Family (originally Nepokorenniye, and also released as Unvanquished and Unconquered). A semi-sequel to Donskoi's Raduga (1944), the story is set in Nazi-occupied Kiev. The drama focusses on the travails of a typical Soviet family and on the efforts by the Germans to force the reopening of a local munitions factory. The film is at its most grimly effective in a long sequence wherein the Nazis conduct a search for Jewish escapees, culminating in a horribly graphic re-creation of the slaughter of the Jews at Babi Yar. While Donskoi was critically lambasted for his cinematic \"sloppyiness\" during this sequence (hand-held camera, rapid cuts etc.), it can now be seen that he was attempting a realistic, documentarylike interpretation of this infamous Nazi atrocity.",
+        "poster_path": "/gVW5XoZkO3XwsJFzGPLD7GRX34d.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037941",
+        "original_language": "ru",
+        "popularity": 0.485,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 357228,
+        "title": "My Home Village",
+        "release_date": "1949-06-13",
+        "overview": "This was the first feature film to be produced after the liberation of North Korea. It gives a pictures of boundless joy and emotion of the Korean people who are now liberated from the colonial yoke of Japanese imperialism thanks to the glorious anti-Japanese struggle organized and led by the great leader Comrade Kim Il-Sung.  Unable to endure the insult of the landlord, Gwan Pil gives vent to his rage. Because of this, the Japanese imperialists deprive him of his tenant land and put him in jail where he gains class consciousness under the influence of a KPA operative.",
+        "poster_path": "/5nMkicLPHpeLp1HBbhXMr76X4Aq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "National Film Studio of North Korea",
+                "id": 62249
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0151687",
+        "original_language": "ko",
+        "popularity": 0.484,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 266202,
+        "title": "6th Marine Division on Okinawa",
+        "release_date": "1945-06-07",
+        "overview": "A documentary covering the actions of the 6th Marine Division on Okinawa during WWII.",
+        "poster_path": "/jOf2vxgDyO2TqrW6JUMfB0nmOmW.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1525784",
+        "original_language": "en",
+        "popularity": 0.48,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 282894,
+        "title": "Daughters of China",
+        "release_date": "1949-01-02",
+        "overview": "Women play a heroic role in the Volunteer Army fighting the Japanese in the puppet state of Manchukuo.",
+        "poster_path": "/agcfTAvKwGGbOvqdCUiagcNz5Bg.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Northeast Film Studio",
+                "id": 127314
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0348493",
+        "original_language": "zh",
+        "popularity": 0.438,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 68110,
+        "title": "Vurun Kahpeye",
+        "release_date": "1949-01-01",
+        "overview": "\"Religious Fighter\" - In Romania, the idealistic Istanbul teacher, Aliye, communicate activities to a town in Anatolia supporting the idea of National Struggle in the region.",
+        "poster_path": "/o7GonRP9nI1JGK34rbd2st1v7BB.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0262107",
+        "original_language": "tr",
+        "popularity": 0.438,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 472859,
+        "title": "Combat Fatigue Irritability",
+        "release_date": "1945-01-01",
+        "overview": "A WWII military training film in which a Navy officer is being treated for combat fatigue after his ship was torpedoed and sunk. The narrative explores the way his combat fatigue has affected him and proper treatment to help him recover.",
+        "poster_path": "/87bqdblcU2z65pFEVpxOdNyMaFn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United States Navy",
+                "id": 9381
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://collections.nlm.nih.gov/catalog/nlm:nlmuid-9300763A-vid",
+        "imdb_id": "tt3315452",
+        "original_language": "en",
+        "popularity": 0.434,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 460405,
+        "title": "Hen. Gregorio Del Pilar",
+        "release_date": "1949-11-24",
+        "overview": "A biopic about general Gregorio Del Pilar.",
+        "poster_path": "/xSn131EK7Owsxkm9wxHY28f1yvK.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "LVN Pictures",
+                "id": 19710
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0764782",
+        "original_language": "tl",
+        "popularity": 0.424,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 289467,
+        "title": "The Soul of China",
+        "release_date": "1948-09-09",
+        "overview": "Directed by Wancang Bu.",
+        "poster_path": "/nyTr4gMx27QbkPQsEmaReWXrqOi.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Yung Hwa Motion Picture Studios, Ltd.",
+                "id": 186253
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0192100",
+        "original_language": "en",
+        "popularity": 0.413,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 763133,
+        "title": "Noche sin cielo",
+        "release_date": "1947-09-25",
+        "overview": "",
+        "poster_path": "/bTSJyx9M5dhIXf4cMGunnSU6Xj5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Emisora Films",
+                "id": 76567
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0039664",
+        "original_language": "es",
+        "popularity": 0.407,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 199532,
+        "title": "The Last Mission",
+        "release_date": "1949-04-03",
+        "overview": "The Last Mission (Greek: Teleftaia apostoli) is a 1950 Greek drama film directed by Nikos Tsiforos. It was entered into the 1951 Cannes Film Festival.",
+        "poster_path": "/lbvTnHzsozPQwDdTB7J9Y0fpSky.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0205448",
+        "original_language": "el",
+        "popularity": 0.401,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 142996,
+        "title": "Humayun",
+        "release_date": "1945-01-01",
+        "overview": "Humayan (Hindi: हुमायूँ) is a 1945 Indian Bollywood historical epic film directed by Mehboob Khan. It was the seventh highest grossing Indian film of 1945.",
+        "poster_path": "/u9Xg3O8mq9KmfrAX5DA6XePJIPf.jpg",
+        "backdrop_path": "/jWlXjnMhRIl4IewbvJqEqTQB8s5.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            },
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            },
+            {
+                "iso_639_1": "ur",
+                "name": "اردو"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0142385",
+        "original_language": "hi",
+        "popularity": 0.388,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 899100,
+        "title": "The Mascot of the Blue Devils",
+        "release_date": "1947-09-15",
+        "overview": "An Italian child becomes blind due to an accident with German cavalrymen during an American bombing, but regains his sight thanks to American physicians.",
+        "poster_path": "/jfBjAQV41O0KzGxuigTXvSchrbt.jpg",
+        "backdrop_path": "/gOlvsstRzzkNWbFvVEGbcmyGhEr.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0039614",
+        "original_language": "it",
+        "popularity": 0.382,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1195442,
+        "title": "Fato: Ya İstiklal Ya Ölüm",
+        "release_date": "1949-01-01",
+        "overview": "",
+        "poster_path": "/4XXdRafeBcYQEEgvDLjvc2ljRuv.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "And Film",
+                "id": 94812
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0311118",
+        "original_language": "tr",
+        "popularity": 0.377,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 533604,
+        "title": "Fatali Khan",
+        "release_date": "1947-07-21",
+        "overview": "",
+        "poster_path": "/bKV3wCAJBxoyMNSjkQjUQmvc5GZ.jpg",
+        "backdrop_path": "/eXn87SVfGif4TPZAsX3didtW2BC.jpg",
+        "production_companies": [
+            {
+                "name": "Azerbaijanfilm",
+                "id": 29866
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "az",
+                "name": "Azərbaycan"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6689250",
+        "original_language": "az",
+        "popularity": 0.366,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 996103,
+        "title": "Orasang Ginto",
+        "release_date": "1946-03-04",
+        "overview": "",
+        "poster_path": "/h5FiSoNzr5IdIoO8Bi37Dh10DUG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "LVN Pictures",
+                "id": 19710
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0468354",
+        "original_language": "tl",
+        "popularity": 0.348,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 242907,
+        "title": "The Searching Wind",
+        "release_date": "1946-08-09",
+        "overview": "Always the diplomat, Alex Hazen is slow to take sides in Europe of the 1920s and 1930s. Cassie Bowman wants him to be more decisive and leaves him in Rome just as Mussolini is coming to power. There Alex marries Emily, daughter of a newspaper publisher who hires Cassie for his Paris bureau -- just before retiring from active management of his paper. Alex and Emily's son Sam, recently returned from active duty in World War II, learns the whole story one night in Washington when Emily invites Cassie to dinner. Sam has a story to tell, too.",
+        "poster_path": "/fkQLSNkF9SKTDBs5Ju73v6VKJBa.jpg",
+        "backdrop_path": "/t65uUkrcVaRVfFkRIpQttGgdiQh.jpg",
+        "production_companies": [
+            {
+                "name": "Hal Wallis Productions",
+                "id": 3468
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0038915",
+        "original_language": "en",
+        "popularity": 0.343,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 101807,
+        "title": "A Few Quick Facts: Fear",
+        "release_date": "1945-04-15",
+        "overview": "Private Snafu learns about fear",
+        "poster_path": "/7OG10I9dU4xkeWqoZnEitld4DSr.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United Productions of America",
+                "id": 1334
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0430087",
+        "original_language": "en",
+        "popularity": 0.342,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 748470,
+        "title": "V horách duní",
+        "release_date": "1946-08-16",
+        "overview": "",
+        "poster_path": "/5MZUrmI7zzgU5UPfOAJ94at5CaP.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Státní výroba filmů",
+                "id": 119807
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0153477",
+        "original_language": "cs",
+        "popularity": 0.341,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1237695,
+        "title": "Belgrade",
+        "release_date": "1945-08-14",
+        "overview": "Documentary, black and white.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0238070",
+        "original_language": "sr",
+        "popularity": 0.33,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 593125,
+        "title": "Guerilyera",
+        "release_date": "1946-10-13",
+        "overview": "Carmen Rosales plays herself in this dramatization of her time as a guerilla fighter.",
+        "poster_path": "/dd8SRThKWR3iOz5ZdreajAm2OMi.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sampaguita Pictures",
+                "id": 25859
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0454154",
+        "original_language": "tl",
+        "popularity": 0.33,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 555477,
+        "title": "Ragismenes kardies...",
+        "release_date": "1945-02-01",
+        "overview": "Marios and Louiza broke up because of the war. Marios goes to the front to fight, and Louiza agrees, under pressure from her father, to marry a wealthy man named Alkis, as she believes that Marios has died. When Marios comes back from the front, he wants Louiza back, and he meets with his friend Alkis, who asks him not to contend for the woman he loves. Louiza gets very upset by the new turn of events and loses her memory.",
+        "poster_path": "/jDekrsUbaITVXws3R0KoStomnvw.jpg",
+        "backdrop_path": "/hDA2cbDYQIDhSYZJx5UQouB6MKc.jpg",
+        "production_companies": [
+            {
+                "name": "Olympia Film",
+                "id": 93664
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0208392",
+        "original_language": "el",
+        "popularity": 0.325,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 971350,
+        "title": "Hvor fartøy flyte kan",
+        "release_date": "1948-09-06",
+        "overview": "About the Norwegian merchant navy during the Second World War.",
+        "poster_path": "/hZ9OSGZXEYJ7yER8cmUNcfO5LIc.jpg",
+        "backdrop_path": "/2Nb6DiV38mG6L3yg23nPGO13s7e.jpg",
+        "production_companies": [
+            {
+                "name": "Film A/S Sigma",
+                "id": 174726
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0273272",
+        "original_language": "no",
+        "popularity": 0.32,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 363609,
+        "title": "¡Aquellas palabras!",
+        "release_date": "1949-04-04",
+        "overview": "Father Carlos, a Basque priest, decides to leave voluntarily as a missionary to a village lost in the Philippines. From the first moment, their biggest aspiration would be to reconstruct an ancient mission. But to do so, he will have to face numerous difficulties.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Galatea Film",
+                "id": 12240
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0040108",
+        "original_language": "es",
+        "popularity": 0.315,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1048362,
+        "title": "Anahit",
+        "release_date": "1947-12-02",
+        "overview": "The prince falls in love with an ordinary girl and marries her. Later, when enemies capture the prince, it's his young wife who gets him out of trouble.",
+        "poster_path": "/uG5q2KM8Nn3dWAyNfjbqjFYceJb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Armenfilm",
+                "id": 4484
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hy",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0305212",
+        "original_language": "hy",
+        "popularity": 0.314,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 721053,
+        "title": "It's Your America",
+        "release_date": "1946-07-25",
+        "overview": "This short--long rumored to have been directed by John Ford--was produced by the US government specifically for veterans returning home from World War II, showing them what their responsibilities as citizens were now that they were returning to civilian life.",
+        "poster_path": "/lZth0gxfHgs9jiJUEiF1IdgjkJb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8874154",
+        "original_language": "en",
+        "popularity": 0.314,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 377057,
+        "title": "The Raid of the Aegean",
+        "release_date": "1946-04-28",
+        "overview": "Captain Alexis Komninos manages to escape from the Germans, with the help of the abbot Prudence arrives in Middle East headquarters in Cairo. Assumes office and connected to the beautiful Maria, from which does not hide that he is married. Meanwhile, his wife Anna and Synesios captured by the Germans on charges that reported in Cairo information for the departure of a German convoy. Komninos, along with a team of commandos, landed in occupied Greece and liberate the imprisoned patriots apart from the Synesius already performed. But while trying to escape, Anna was fatally injured. After the war, Komninos apologizes by Governor Raidis whom he considers lover of his wife, and with Mary, visited the grave of Anna.",
+        "poster_path": "/GhYvN2kGIyhP8OdqYsnnXkUlsd.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "βεντουρης Α.",
+                "id": 71994
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0136282",
+        "original_language": "el",
+        "popularity": 0.312,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 944933,
+        "title": "Burmar Pathe",
+        "release_date": "1947-08-29",
+        "overview": "The rustic girl left this world and went to heaven. Her Painful memories are what remains behind. The injustice exploitation is suffocating. These conflicts within the unfortunate soil of India have taken many lives. There’s cruelty amongst mankind. There’s injustice and exploitation everywhere. People struggle for their rights. There’s a storm raging in every heart and soul. The earth shivers and wreaks havoc. The raging waves clash on the shores. This enlightens the soul. We can hear the song of a great soul at a distance. It calls out. It calls out to us, to break free from the shackles. We can hear his call. Come Forward. Break free from the shackles. Fight back for freedom. Set yourself free. We’ve sacrificed our lives for the freedom of new India.",
+        "poster_path": "/5G10wRGBZ4r8NoKbWmrD14CrFWQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Universal Film Corporation",
+                "id": 170856
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bn",
+                "name": "বাংলা"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1527071",
+        "original_language": "bn",
+        "popularity": 0.308,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 327551,
+        "title": "Abu Zeid el Hilali",
+        "release_date": "1947-11-10",
+        "overview": "Abu Zayd al-Hilali's son and wife escape and years later, after his son has grown into a powerful and idealistic man, a battle between the two tribes starts. The son fights his father but is not aware who he is fighting. The Banu Hilalis defeat the Banu Zahlanis. Back home, Abu Zayd is greeted as a hero. A huge war then starts with the Zirids, who had abandoned Shiism. The Banu Hilalis weaken the Zirid state and plunder their lands.",
+        "poster_path": "/1lLjPSsNVB6OsOXc5DLMIQF0zEh.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0296970",
+        "original_language": "ar",
+        "popularity": 0.304,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 368110,
+        "title": "Englandsfarere",
+        "release_date": "1946-04-22",
+        "overview": "The secret smuggling of Wanted persons from the westcoast of Norway over to England during the WWII, based upon the novel by Nowegian novelist Sigurd Evensmo, telling the true story about his own experiences during the war.",
+        "poster_path": "/9VGZNczezn8pU9eb3zHIl4cY1SM.jpg",
+        "backdrop_path": "/9LNzYCwEvQ1KUYTbLIgxmhIoKDK.jpg",
+        "production_companies": [
+            {
+                "name": "Snorre Film A/S",
+                "id": 138556
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0294554",
+        "original_language": "nb",
+        "popularity": 0.302,
+        "status": "Released",
+        "tagline": "We Leave for England",
+        "video": false
+    },
+    {
+        "id_tmdb": 1298158,
+        "title": "Οχυρό 27",
+        "release_date": "1948-01-01",
+        "overview": "",
+        "poster_path": "/67vUSFYy8hklnPmoOP8v5Zgv96Z.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Novak Films",
+                "id": 230333
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "el",
+        "popularity": 0.299,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 559090,
+        "title": "Son of France",
+        "release_date": "1946-05-15",
+        "overview": "The crew of a tank from the 1st French army took part in the liberation of Strasbourg during the fall of 1944.",
+        "poster_path": "/pkqYG04GDfLELGykNGQUTJJAfoE.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Productions Sigma",
+                "id": 14550
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0193945",
+        "original_language": "fr",
+        "popularity": 0.299,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 713433,
+        "title": "The Steel Hearts",
+        "release_date": "1948-05-10",
+        "overview": "In occupied Silesia, resistance is organizing. In close contact with the miners and led by an engineer, a group of partisans prepare the sabotage of the steel combine. The going will be tough as the place is closely guarded by the Nazis. But despite a denunciation from a traitor and several violent deaths, they get going and the operation is a success. But the Red Army is approaching and now the coal production must not be sabotaged anymore. On the contrary, the partisans must prevent the Germans from destroying the steel mill and the coal mine...",
+        "poster_path": "/qwmMaupyBaYpKvRW2j0MzZ3MwSn.jpg",
+        "backdrop_path": "/4D39wVMYHGLBK1DT1EKKGutotyP.jpg",
+        "production_companies": [
+            {
+                "name": "Film Polski",
+                "id": 1587
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0040833",
+        "original_language": "pl",
+        "popularity": 0.295,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 517313,
+        "title": "Five Years, As We Saw Them",
+        "release_date": "1947-09-10",
+        "overview": "Film about the efforts of Norway and Norwegians outside Norway in the years 1940-45. Crown Prince Olav's introduction. The invasion of Norway. The merchant fleet on all seas. The Norwegian brigade is set up in Scottland. The first Norwegian aircraft squadron in action, and much more.",
+        "poster_path": "/fxlhlFitPGwaIgg0HwRDjsmAUUs.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0149564",
+        "original_language": "no",
+        "popularity": 0.294,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 322653,
+        "title": "The Way of Peace",
+        "release_date": "1947-04-23",
+        "overview": "Punctuated with stories from the Bible, the film’s purpose was to reinforce Christian values in the atomic age by condemning the consequences of human conflict with scenes of the crucifixion, lynching and Nazi fascism.",
+        "poster_path": "/iBDetiNVovLtWPVUfq4uSiTDsVi.jpg",
+        "backdrop_path": "/vjolEafCCsv8oX9IynsB14EyybK.jpg",
+        "production_companies": [
+            {
+                "name": "Foundation Films Corporation",
+                "id": 74177
+            },
+            {
+                "name": "Christian Films",
+                "id": 74178
+            },
+            {
+                "name": "East West Studio",
+                "id": 74179
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0439873",
+        "original_language": "en",
+        "popularity": 0.283,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1404866,
+        "title": "Why We Fight",
+        "release_date": "1945-06-14",
+        "overview": "",
+        "poster_path": "/igdLjByBDZNgxiXXJ7aPZ96lOyW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Pictorial Services",
+                "id": 39492
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.282,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204725,
+        "title": "Pian delle stelle",
+        "release_date": "1946-09-17",
+        "overview": "Italian fugitives from German war camps unite to form \"Lupo\", a partisan brigade which uses their knowledge of the countryside to wage their own personal war on the Germans.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Corpo Volontari della Libertà (CVL)",
+                "id": 40825
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0038840",
+        "original_language": "it",
+        "popularity": 0.279,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 205485,
+        "title": "Burma Victory",
+        "release_date": "1946-06-16",
+        "overview": "Film about the allied victory in Burma",
+        "poster_path": "/f0M6u2OWvQukkVbaNlKXMCP46qt.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037564",
+        "original_language": "en",
+        "popularity": 0.27,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 999979,
+        "title": "Ulilang Watawat",
+        "release_date": "1946-05-31",
+        "overview": "",
+        "poster_path": "/mwdwmp6YQvBw0ze6CVmpzpMTEcQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sampaguita Pictures",
+                "id": 25859
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1762383",
+        "original_language": "tl",
+        "popularity": 0.268,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 963511,
+        "title": "Maynila",
+        "release_date": "1946-12-13",
+        "overview": "",
+        "poster_path": "/3qsBAlEb4rj6ptLYvtGd3IphVXG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sampaguita Pictures",
+                "id": 25859
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5988552",
+        "original_language": "tl",
+        "popularity": 0.263,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 728848,
+        "title": "Meet the Navy",
+        "release_date": "1946-09-02",
+        "overview": "During World War II, the Canadian Navy gathered a troupe of diverse performers (dancers, comedians, singers, musicians) from its ranks and sent them off to entertain their shipmates, and the show/revue ultimately played London's Hioopodrome. The acceptance was based more on wartime-London's appreciation of the gallantry of Britain's sons and daughters from over the seas than it was on the artistic value of the show or the talent of the performers. The film is a fictional/fact mixture of the adventures of the troupe members, and the ending, only part filmed in Technicolor, is primarily the Revue as seen at the Hippodrome.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "British National Films",
+                "id": 14197
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0177920",
+        "original_language": "en",
+        "popularity": 0.245,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 378561,
+        "title": "Clandestine",
+        "release_date": "1946-04-16",
+        "overview": "A resistance leader is wounded when the Germans raid his underground print shop. He escapes to the home of a German-friendly Parisian and is helped by her son and daughter. A Jewish doctor also aids him. They all join him in his efforts against the Nazis and derail a munitions train.",
+        "poster_path": "/9Afda6b6ZrIOZIoidMQySybZOzc.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Essor Cinematographique Francais",
+                "id": 102789
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037602",
+        "original_language": "fr",
+        "popularity": 0.244,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1076197,
+        "title": "윤봉길 의사",
+        "release_date": "1947-07-22",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Enlightenment Film Association",
+                "id": 191291
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0310385",
+        "original_language": "ko",
+        "popularity": 0.221,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1189118,
+        "title": "French Town...",
+        "release_date": "1945-01-01",
+        "overview": "Portrait of a small French town following its liberation during World War II.",
+        "poster_path": "/l0TZjWbB0OAw2XpXiUqMggpirNK.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Realist Film Unit",
+                "id": 116828
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3830218",
+        "original_language": "en",
+        "popularity": 0.213,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1189119,
+        "title": "Welcome Home",
+        "release_date": "1945-01-01",
+        "overview": "America prepares to welcome and employ the 12 million service men and women who are coming home from war.",
+        "poster_path": "/3e6p4rGzNU8Wn0jARiZ6jsXx8Oh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Pictorial Services",
+                "id": 39492
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13598686",
+        "original_language": "en",
+        "popularity": 0.208,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 520114,
+        "title": "Two Lives",
+        "release_date": "1946-12-12",
+        "overview": "1946 Norwegian film.",
+        "poster_path": "/kp0RCOboP1jNrn9opsiTTn7LjjY.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0268698",
+        "original_language": "no",
+        "popularity": 0.195,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 605946,
+        "title": "Invisible Battlefront",
+        "release_date": "1949-12-01",
+        "overview": "Invisible Battlefront",
+        "poster_path": "/ls7i6aJba2ewRHvrVXGiGzMvhKh.jpg",
+        "backdrop_path": "/1mSCPUaPnkSJZfHv2bcoRcB6HcJ.jpg",
+        "production_companies": [
+            {
+                "name": "Northeast Film Studio",
+                "id": 127314
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3399796",
+        "original_language": "zh",
+        "popularity": 0.185,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204723,
+        "title": "Montecassino nel cerchio di fuoco",
+        "release_date": "1946-11-20",
+        "overview": "Directed by Arturo Gemmiti",
+        "poster_path": "/1IhJCiuA4OrVnb2XLEHatq84ePm.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0038748",
+        "original_language": "it",
+        "popularity": 0.179,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 207279,
+        "title": "Mājup ar uzvaru",
+        "release_date": "1948-06-08",
+        "overview": "",
+        "poster_path": "/5Cfsw5LVt6JBk08nb2N5cUzuYaI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Rīgas kinostudija",
+                "id": 82801
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0202664",
+        "original_language": "lv",
+        "popularity": 0.171,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1003412,
+        "title": "Dugo at Bayan",
+        "release_date": "1946-05-31",
+        "overview": "",
+        "poster_path": "/vc4bmEqz3QTiYuu5zQdmyL6pf4g.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Palaris Films",
+                "id": 176151
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1293768",
+        "original_language": "tl",
+        "popularity": 0.17,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 670770,
+        "title": "Rancho de mis recuerdos",
+        "release_date": "1946-02-14",
+        "overview": "",
+        "poster_path": "/dkNudj6jGK8OFd3bOSNTPmQ7rA8.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0219995",
+        "original_language": "es",
+        "popularity": 0.16,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 458347,
+        "title": "Shades of Gray",
+        "release_date": "1948-05-20",
+        "overview": "After the suppression of \"Let There Be Light\" (a documentary about combat-induced post-traumatic stress disorders which presented many inconvenient and demoralizing truths), the U.S. Army Signal Corp created this dramatized up-beat remake of the film.  Only this time, the production excluded the involvement of John Houston, the producer of the original documentary.",
+        "poster_path": "/ghHiGOFRL9EIBT6sWK4rhRLe3Ww.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Signal Corps",
+                "id": 4223
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0487171",
+        "original_language": "en",
+        "popularity": 0.157,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 101595,
+        "title": "The Fight for the Sky",
+        "release_date": "1945-06-21",
+        "overview": "Documentary detailing the activities of American fighter escort pilots during bombing raids over Germany.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Pictures Unit US Army Air Forces",
+                "id": 9386
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173827",
+        "original_language": "en",
+        "popularity": 0.155,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1112639,
+        "title": "Front-line Cameraman",
+        "release_date": "1946-12-31",
+        "overview": "Documentary about Front-line Cameraman Vladimir Sushchinsky. He died on February 22, 1945 when the Soviet army liberated the Polish city of Breslau (now Wrocław) from the Nazi invaders. Sushchinsky's funeral was filmed by his comrade in the front-line film group, cameraman Nikolay Bykov (died March 18, 1945). The film includes the last shots taken by Boris Pumpyansky, who died near Uzhgorod on December 26, 1944.  During the 1418 days of the war, at the risk of their own lives, Front-line Cameraman shot 3.5 million meters of film, more than 500 issues of Newsreels, and 101 Documentaries. It is to them that we owe our living memory of that war. The course of combat battles on all fronts was filmed by 252 Cameraman of the Central Studio of Documentaries. One in five died at the front.",
+        "poster_path": "/sqnGiuNEpJoDmPhWrst76REdX24.jpg",
+        "backdrop_path": "/g3FtuIKf6ZmEQ95sz5X5gLlSNLS.jpg",
+        "production_companies": [
+            {
+                "name": "Central Studio of Documentary Films",
+                "id": 83366
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6641376",
+        "original_language": "ru",
+        "popularity": 0.153,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 945637,
+        "title": "The Great Way",
+        "release_date": "1947-08-08",
+        "overview": "A pair of Poles deported to Siberia are taken to the army formed by General Anders and along the battle trail.",
+        "poster_path": "/g0NXA8nW5769etzqvVfnoRyxOmD.jpg",
+        "backdrop_path": "/wkFLE1E0TXvVWJz8S00D8B0dkeS.jpg",
+        "production_companies": [
+            {
+                "name": "Ośrodek Kultury i Prasy II Korpusu Polskiego",
+                "id": 208933
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0283145",
+        "original_language": "pl",
+        "popularity": 0.127,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 655477,
+        "title": "Wings for This Man",
+        "release_date": "1945-12-13",
+        "overview": "A tribute to the pioneering achievements of the Negro combat pilots trained at the Tuskegee Institute in Alabama.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Picture Unit, United States Army Air Forces",
+                "id": 101192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0816708",
+        "original_language": "en",
+        "popularity": 0.125,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 654806,
+        "title": "Headline Hunters",
+        "release_date": "1945-12-10",
+        "overview": "Headline Hunters is an 11-minute 1945 Canadian documentary film, part of the wartime Canada Carries On series, produced by Alan Field. The short film was made by the National Film Board of Canada. The film was a tribute to Canadian war correspondents who reported from the front lines in the Second World War.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5592632",
+        "original_language": "en",
+        "popularity": 0.113,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 523009,
+        "title": "Det grodde fram: Trondheim 1940-1945",
+        "release_date": "1947-10-06",
+        "overview": "Documentary filmed during and after WWII about the occupation of Trondheim, Norway by german forces. Some scenes are re-enactments filmed in 1947 with the original participants.",
+        "poster_path": "/8Dd73SJmLfMpS9fOR0vof4C4SL5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Trondheim kino",
+                "id": 104337
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0266601",
+        "original_language": "no",
+        "popularity": 0.108,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 464080,
+        "title": "School for Danger",
+        "release_date": "1947-06-02",
+        "overview": "Britain's Special Operations Executive (SOE) provides trained agents, arms and other assistance to the European resistance groups fighting against Hitler. British agents, Captain Harry Rée DSO, OBE, Croix De Guerre, Médaille de la Résistance, aka \"Felix\", and Jacqueline Nearne, MBE, aka \"Cat\", recreate some of their adventures in France.",
+        "poster_path": "/p7V7jsyK52lD18XygjaMPZx7D0N.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "COI",
+                "id": 8598
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0177204",
+        "original_language": "en",
+        "popularity": 0.077,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 604941,
+        "title": "Swab Your Choppers",
+        "release_date": "1948-01-01",
+        "overview": "U.S. Navy instructional film about proper oral hygiene. After prolonged dental neglect, seaman Humphrey learns the proper technique for brushing and flossing one's teeth.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12074356",
+        "original_language": "en",
+        "popularity": 0.044,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 800001,
+        "title": "The G.I. Bill of Rights",
+        "release_date": "1945-09-01",
+        "overview": "This cartoon was featured as part of the U.S. military's \"Army-Navy Screen Magazine, No. 60\", issued in September 1945.\r The Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill, was a law that provided a range of benefits for returning World War II veteran.",
+        "poster_path": "/9JGG4vu7wul2JQOQ6DF5vc1cIkI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0159453",
+        "original_language": "en",
+        "popularity": 0.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 715854,
+        "title": "Jungle Mariners",
+        "release_date": "1946-01-15",
+        "overview": "A party of eight Royal Marines patrol the jungle in the South East Asia Command Area.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Crown Film Unit",
+                "id": 16204
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9711974",
+        "original_language": "en",
+        "popularity": 0.003,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1398968,
+        "title": "Clippers at War",
+        "release_date": "1945-12-07",
+        "overview": "The history of how Pan American World Airways served the Allied cause during the Second World War, especially in the Pacific and China-Burma-India theaters.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt26443402",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1384611,
+        "title": "The Fighting First",
+        "release_date": "1946-11-08",
+        "overview": "A history of the U.S. Army's First Infantry Division, known as \"The Fighting First\" and also as \"The Big Red One\" for the soldiers' distinctive shoulder patch.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt30768180",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383694,
+        "title": "Carrying the Load: British Railways at War",
+        "release_date": "1946-11-06",
+        "overview": "This vintage railway film was produced by the London, Midland and Scottish railway in 1946, on behalf of all the British railways to portray all the work the British railway industry accomplished during World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Commercial and Educational Films",
+                "id": 244033
+            },
+            {
+                "name": "London, Midland & Scottish Railway",
+                "id": 244034
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2616090",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383604,
+        "title": "The Saga of the Franklin",
+        "release_date": "1945-11-06",
+        "overview": "This short is about the aircraft carrier USS Franklin, nicknamed \"Big Ben\" and how it was hit by a Japanese dive bomber on March 19, 1945. The USS Franklin was the most heavily damaged carrier in World War II to survive an attack.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Navy Productions",
+                "id": 244010
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt26247720",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383581,
+        "title": "This Could Be America",
+        "release_date": "1945-11-06",
+        "overview": "Appeal for War Bonds, showing scenes of enemy activity and suggesting these could occur over various locations in the United States.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United States Treasury Department",
+                "id": 244002
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6525744",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383576,
+        "title": "The Naval Gun at Iwo Jima",
+        "release_date": "1945-11-06",
+        "overview": "Produced in 1945 by Jam Handy, \"The Naval Gun At Iwo Jima\" is a sister film to \"The Naval Gun at Okinawa\". This film details the important role Navy guns played in assaulting Japanese forces that were dug into caves on the island. It also shows the close support of Marines during the long assault. Naval gunfire at Iwo Jima was critical, the film explains, due to the fact that low visibility limited air operations. The film details the role played by battleships, cruisers, destroyers, destroyer escorts, and auxiliary gunboats. Shows tactics employed in exposing Japanese defenses, for example how gunboats were used to draw fire from Japanese gun batteries, exposing them so that the 16-inch guns on the battleships could used to destroy the shore positions.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jam Handy Organization (JHO)",
+                "id": 40639
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt23030650",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383524,
+        "title": "Perishable Rush",
+        "release_date": "1945-01-01",
+        "overview": "A documentary that shows how the Army Air Forces during World War II flew wounded men from Pacific battle areas to hospitals and home towns in the United States.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Picture Unit, United States Army Air Forces",
+                "id": 101192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt26247512",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383479,
+        "title": "Grini - Frigjøringsdagene den 8. og 9. mai 1945",
+        "release_date": "1945-11-06",
+        "overview": "Grini, later known as Ila Detention and Security Prison after the war, was an infamous Nazi concentration camp in Bærum, and was operated by German Nazis between 1941 and May 1945. Opponents, hostages and frantic patriots were imprisoned there, and many were often tortured. Only the name Grini itself spread fear and horror among good Norwegians during the period. In the Liberation Day, a documentary film was made to show you the life at Grini after peace finally came to Norway, and to reveal the German's assault on the prisoners.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Norsk Film",
+                "id": 12984
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10383170",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383130,
+        "title": "Away Boarders",
+        "release_date": "1945-11-05",
+        "overview": "Story Of The USS Guadalcanal And Capture Of The First German Submarine In World War II By The Commanding Officer Of That Ship.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United States Navy",
+                "id": 9381
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13912802",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383102,
+        "title": "A Harbor Goes to France",
+        "release_date": "1945-05-18",
+        "overview": "The Ministry of Information presents this World War II documentary, produced by The Admiralty and The Army Film Unit. The black-and-white film covers the process of constructing, transporting, and installing the artificial harbors, Mulberry A and B, only a few days after D-day and the invasion of the beaches of Normandy. The British Army designed and built the harbor in the UK and transported them by sea to France to solve the problem of transporting supplies and vehicles to France along the Normandy coastline, where already existing harbors were too scarce.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "British Information Service",
+                "id": 47301
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt21357198",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1300783,
+        "title": "Γερμανική Περίπολος Στην Κρήτη",
+        "release_date": "1949-01-01",
+        "overview": "",
+        "poster_path": "/7JmdUJZdfQ5jwC11tD05hEA87g3.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "el",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1291257,
+        "title": "Η Κρήτη στις φλόγες",
+        "release_date": "1947-01-01",
+        "overview": "",
+        "poster_path": "/3WRWoORHb3DF0ARwL5ug64ZLU7L.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "el",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1185410,
+        "title": "LO/LKP",
+        "release_date": "1949-09-29",
+        "overview": "Dutch Movie about the Dutch resistance during WWII. Partly fictionalised story of a Dutch resistance fighter who is caught and executed by the Germans. A metal worker goes to ground because he doesn't want to collaborate with the Germans. He joins the resistance movement and, after being wounded during a raid, he ends up in hospital. He escapes but is arrested not long after and taken to a concentration camp. He is executed in September 1944, just weeks before the Allied forces reach the camp. The name LO-LKP refers to the Landelijke Organisatie voor Hulp aan Onderduikers (National Organisation for People in Hiding) and the resistance movement Landelijke Knokploegen (national commandos), set up by the organisation. The film was commissioned by the LO-LKP after the war.",
+        "poster_path": "/aNo6vXoXRtjQgs14RJsNn50Ex4K.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1891855",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1140416,
+        "title": "哈尔滨之夜",
+        "release_date": "1948-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "长春电影制片厂",
+                "id": 181840
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2083976",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1136451,
+        "title": "The Archive of WWII: Conquest by Air",
+        "release_date": "1945-01-01",
+        "overview": "This U.S. Air Force short documentary highlights the air campaign over Europe, which aimed to destroy the Luftwaffe and Germany’s capacity to wage war during WWII.",
+        "poster_path": "/lQ3icf5vN8dgdMt8Pfq0eSTjKAy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Motion Picture Services",
+                "id": 201531
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

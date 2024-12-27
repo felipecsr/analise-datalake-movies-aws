@@ -1,0 +1,4093 @@
+[
+    {
+        "id_tmdb": 387,
+        "title": "Das Boot",
+        "release_date": "1981-09-17",
+        "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+        "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+        "backdrop_path": "/tRI6Csmw4rKzMYDrfUx5xtyBSVE.jpg",
+        "production_companies": [
+            {
+                "name": "Radiant Film GmbH",
+                "id": 209
+            },
+            {
+                "name": "Süddeutscher Rundfunk",
+                "id": 210
+            },
+            {
+                "name": "Bavaria Film",
+                "id": 1704
+            },
+            {
+                "name": "Twin Bros. Productions",
+                "id": 11344
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "WDR",
+                "id": 46
+            },
+            {
+                "name": "PSO",
+                "id": 1256
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 85000000,
+        "vote_average": 8.089,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.dasboot.com",
+        "imdb_id": "tt0082096",
+        "original_language": "de",
+        "popularity": 29.289,
+        "status": "Released",
+        "tagline": "On land they dreamed of being heroes. Beneath the sea they pray to be survivors.",
+        "video": false
+    },
+    {
+        "id_tmdb": 17360,
+        "title": "Escape to Victory",
+        "release_date": "1981-06-17",
+        "overview": "A group of POWs in a German prison camp during World War II play the German National Soccer Team in this powerful film depicting the role of prisoners during wartime.",
+        "poster_path": "/3j6H0dnbvjNXLK1l9nKguXw5vvO.jpg",
+        "backdrop_path": "/cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Lorimar Productions",
+                "id": 898
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 27453418,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0083284",
+        "original_language": "en",
+        "popularity": 21.061,
+        "status": "Released",
+        "tagline": "Now is the time for heroes.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10627,
+        "title": "Taps",
+        "release_date": "1981-12-20",
+        "overview": "Military cadets take extreme measures to ensure the future of their academy when its existence is threatened by local condo developers.",
+        "poster_path": "/m6w9QiuYQSBle3jygH9oV5JC8sP.jpg",
+        "backdrop_path": "/yMW5a0hOJn6LdBTNsq3vOJY6MZb.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 35900000,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0083169",
+        "original_language": "en",
+        "popularity": 18.6,
+        "status": "Released",
+        "tagline": "This school is our home, we think it's worth defending.",
+        "video": false
+    },
+    {
+        "id_tmdb": 129685,
+        "title": "The Imperial Navy",
+        "release_date": "1981-08-08",
+        "overview": "A lavish retelling of the true story of the final voyage and ultimate destruction and sinking of the battleship Yamato, Japan's greatest flagship during the Second World War.",
+        "poster_path": "/ukzVSqWphrHFh0RQNroAX4rmVas.jpg",
+        "backdrop_path": "/sxZoTnPao8aqGZr9XTKhbG6Nkoh.jpg",
+        "production_companies": [
+            {
+                "name": "Toho Pictures",
+                "id": 49301
+            },
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 12000000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0085620",
+        "original_language": "ja",
+        "popularity": 14.415,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 26843,
+        "title": "Lion of the Desert",
+        "release_date": "1981-04-17",
+        "overview": "This movie tells the story of Omar Mukhtar, an Arab Muslim rebel who fought against the Italian conquest of Libya in WWII. It gives western viewers a glimpse into this little-known region and chapter of history, and exposes the savage means by which the conquering army attempted to subdue the natives.",
+        "poster_path": "/xm7CKN5mo09RNAcL1IP1xmJ5avT.jpg",
+        "backdrop_path": "/nHKkmimp5kPkTJwWd1sn5u4Z6F.jpg",
+        "production_companies": [
+            {
+                "name": "Falcon International Productions",
+                "id": 22814
+            },
+            {
+                "name": "Filmco International Productions",
+                "id": 29110
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "LY",
+                "name": "Libyan Arab Jamahiriya"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 1502136,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081059",
+        "original_language": "en",
+        "popularity": 10.783,
+        "status": "Released",
+        "tagline": "He was a man of honor in a war without any.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11646,
+        "title": "Gallipoli",
+        "release_date": "1981-08-13",
+        "overview": "As World War I rages, brave and youthful Australians Archy and Frank—both agile runners—become friends and enlist in the Australian and New Zealand Army Corps together. They later find themselves part of the Dardanelles Campaign on the Gallipoli peninsula, a brutal eight-month conflict which pit the British and their allies against the Ottoman Empire and left over 500,000 men dead.",
+        "poster_path": "/un7VCqTmjrq3u75mQ204a8tofD4.jpg",
+        "backdrop_path": "/kcK6wlt4TT1ETgr8mJhXgUg3HYE.jpg",
+        "production_companies": [
+            {
+                "name": "R & R Films",
+                "id": 8815
+            },
+            {
+                "name": "Australian Film Commission",
+                "id": 417
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 11700000,
+        "vote_average": 7.055,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082432",
+        "original_language": "en",
+        "popularity": 10.737,
+        "status": "Released",
+        "tagline": "From a place you never heard of...a story you'll never forget.",
+        "video": false
+    },
+    {
+        "id_tmdb": 265,
+        "title": "Lili Marleen",
+        "release_date": "1981-01-14",
+        "overview": "The story of a German singer named Willie who while working in Switzerland falls in love with a Jewish composer named Robert whose family is helping people to flee from the Nazis. Robert’s family is skeptical of Willie, thinking she could be a Nazi as she becomes famous for singing the song “Lili Marleen”.",
+        "poster_path": "/gJAS4FCOuFVQprgGfPuOnkZOtp0.jpg",
+        "backdrop_path": "/oPSDUtgVjFiWOve4e2dDZUpa50n.jpg",
+        "production_companies": [
+            {
+                "name": "Rialto Films",
+                "id": 8658
+            },
+            {
+                "name": "Roxy Film",
+                "id": 101
+            },
+            {
+                "name": "CIP Filmproduktion GmbH",
+                "id": 14309
+            },
+            {
+                "name": "BR",
+                "id": 162
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 8144,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082661",
+        "original_language": "de",
+        "popularity": 9.151,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 41407,
+        "title": "The Bunker",
+        "release_date": "1981-04-15",
+        "overview": "Dramatization depicting the events surrounding Adolf Hitler's last weeks in and around his underground bunker in Berlin before and during the battle for the city.",
+        "poster_path": "/c0meiXebNi3GqFfceTG0ynGd08B.jpg",
+        "backdrop_path": "/6yjwUGVheiW40wfkjurP5J0iUeb.jpg",
+        "production_companies": [
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            },
+            {
+                "name": "SFP",
+                "id": 6849
+            },
+            {
+                "name": "Time-Life Television Productions",
+                "id": 4245
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082114",
+        "original_language": "en",
+        "popularity": 8.219,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 63186,
+        "title": "The Skin",
+        "release_date": "1981-08-27",
+        "overview": "Based on the memoirs of author Curzio Malaparte, diplomatic liaison between the Allied and Italian forces after the defeat of the Nazis in Italy, The Skin follows the collapse of Italian society under the US occupation and the desperate measures required for survival.",
+        "poster_path": "/fyyLQgJ9j7L3rw8itQUw8b6pcut.jpg",
+        "backdrop_path": "/t52i0d78cmvpjYHty78M1cj80Mb.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont",
+                "id": 9
+            },
+            {
+                "name": "Opera Film Produzione",
+                "id": 1549
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082893",
+        "original_language": "it",
+        "popularity": 8.002,
+        "status": "Released",
+        "tagline": "The skin moves the world!",
+        "video": false
+    },
+    {
+        "id_tmdb": 230339,
+        "title": "Mercedes Runs Away from the Chase",
+        "release_date": "1981-03-01",
+        "overview": "The film is set during World War II. After capturing the \"trophy\" Mercedes, a group of scouts, disguised as German officers commits a daring raid behind enemy lines (the 116th Motorized Division) on roads controlled by the enemy.",
+        "poster_path": "/wZsEO9zR1E52A5LDrO6DHbEU0j7.jpg",
+        "backdrop_path": "/neV4Xmt29ua6wwd5yG19UZJuswc.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0230519",
+        "original_language": "ru",
+        "popularity": 5.109,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 113464,
+        "title": "Inchon",
+        "release_date": "1981-05-04",
+        "overview": "Gen. Douglas MacArthur leads a Korean War campaign, and the war tests a married couple's relationship.",
+        "poster_path": "/s0yJZQlZ6g7e3lTjSaUKWltYByA.jpg",
+        "backdrop_path": "/i3MUft0U8AsWOtEEPnmQYxbxPRc.jpg",
+        "production_companies": [
+            {
+                "name": "Unification Church",
+                "id": 46957
+            },
+            {
+                "name": "One Way Productions",
+                "id": 46958
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "News World Communications",
+                "id": 201751
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 46000000,
+        "revenue": 5200000,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0084132",
+        "original_language": "en",
+        "popularity": 4.591,
+        "status": "Released",
+        "tagline": "LOVE. DESTINY. HEROES. War Changes Everything.",
+        "video": false
+    },
+    {
+        "id_tmdb": 87271,
+        "title": "Al-Qadisiyya",
+        "release_date": "1981-07-13",
+        "overview": "A historical epic about the battle of Qadiseya, which was helmed by the Arabian knight Saad Ibn Abi Waqas, and which enabled Muslims from conquering Persia in 636 A.D.",
+        "poster_path": "/xjOzg7eWZYug41KzPDwlH7XU4hK.jpg",
+        "backdrop_path": "/t1j8vosJhLXC1NOsPhwAHTHu9dF.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            },
+            {
+                "iso_3166_1": "IQ",
+                "name": "Iraq"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0328295",
+        "original_language": "ar",
+        "popularity": 3.952,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 269413,
+        "title": "Front in the Rear of the Enemy",
+        "release_date": "1981-12-20",
+        "overview": "A final episode in the trilogy about the Russian partisan's resistance during WWII. The film is set in 1944, when Russian partisans are making progress in their fighting against the Nazi occupation of Russia, Poland and Czechoslovakia. Lt. Colonel Mlynsky is now in charge of an international clandestine operation. He is the commander of the special group of partisan-fighters. Mlynsky is organizing the Russian, Polish and Czechoslovakian partisans to join forces for an attack behind the enemy lines.",
+        "poster_path": "/43ZU2bNUzrfrTxseJ1KPcNm2ctw.jpg",
+        "backdrop_path": "/sU4WTt2U9n5Y19y8LHuVqfIgZB6.jpg",
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 269411,
+            "name": "Front Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0082421",
+        "original_language": "ru",
+        "popularity": 3.534,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 305500,
+        "title": "Red Flag: The Ultimate Game",
+        "release_date": "1981-10-03",
+        "overview": "Two fighter pilots, Phil Clark and Jay Rivers, who flew together in Vietnam are assigned to the elite Air Force Fighter Weapons School (known as \"Red Flag\") at Nellis AFB, Nevada, about a decade after the war. Brash, self-confident Clark is an instructor, while quieter, family man Rivers is the student. At first, the two men resume their friendship. But as the student starts to show the master a thing or two, tensions develop. Can their relationship survive the stresses of one of the military's top schools?",
+        "poster_path": "/vl9TWqTzYQ5Ma7fvIqWOxx9wk0u.jpg",
+        "backdrop_path": "/gN4SOUhRBG4Kq4Vo5tuDgWvd8VK.jpg",
+        "production_companies": [
+            {
+                "name": "Marble Arch Productions",
+                "id": 18936
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082978",
+        "original_language": "en",
+        "popularity": 2.848,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 572270,
+        "title": "Sashka",
+        "release_date": "1981-08-07",
+        "overview": "A story of Sashka - a young Red Army soldier fighting in the WWII.",
+        "poster_path": "/wX30bTo6mPNUZPRn64LEUbOPIyW.jpg",
+        "backdrop_path": "/26ndaru3XREGzo7hj0pxinmlhpr.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0237700",
+        "original_language": "ru",
+        "popularity": 2.807,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 65002,
+        "title": "Circle of Deceit",
+        "release_date": "1981-10-15",
+        "overview": "Georg Laschen leaves his family in West Germany to go work as a war correspondent in Beirut during the fights between Christians and Palestinians.",
+        "poster_path": "/eJbpcEUxJvWPlqu3Qe2LB6w3LaE.jpg",
+        "backdrop_path": "/wca6tqGZ9ynPeEqqJqJCmiHUFnR.jpg",
+        "production_companies": [
+            {
+                "name": "Neue Bioskop Film",
+                "id": 403
+            },
+            {
+                "name": "Artemis Film",
+                "id": 1521
+            },
+            {
+                "name": "Argos Films",
+                "id": 6116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082429",
+        "original_language": "de",
+        "popularity": 2.774,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 674590,
+        "title": "They Were Actors",
+        "release_date": "1981-12-12",
+        "overview": "The plot of the film is based on real events of the Great Patriotic War.  When the Nazis occupied Crimea, the actors of the drama theater of the city of Simferopol entered the underground group Sokol. The activities of the underground members were diverse: they put up leaflets with information from Soviet Information Bureau, compiled maps showing the strategic objects of the enemy, and supplied the partisans with medicines.  On April 10, 1944, 3 days before the liberation of Simferopol, the underground members died from enemy bullets — they were shot on the outskirts of the city.",
+        "poster_path": "/vOunCfl3tgGmkKE9f8FyfKHZqIr.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082852",
+        "original_language": "ru",
+        "popularity": 2.695,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 76151,
+        "title": "Rise and Fall of Idi Amin",
+        "release_date": "1981-07-16",
+        "overview": "The chronicle of Ugandan dictator Idi Amin and his tyranic rule from 1971 to his overthrow in 1979.",
+        "poster_path": "/yIvMGcUoIDb5BR0HZXiaZsa6fvf.jpg",
+        "backdrop_path": "/jtV63hZ5APSyX6J4h5PNNc3XGrE.jpg",
+        "production_companies": [
+            {
+                "name": "Intermedia Productions",
+                "id": 81154
+            },
+            {
+                "name": "Film Corporation of Kenya",
+                "id": 48365
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KE",
+                "name": "Kenya"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "NG",
+                "name": "Nigeria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081430",
+        "original_language": "en",
+        "popularity": 2.671,
+        "status": "Released",
+        "tagline": "The rage of a maniac... the rape of a people!",
+        "video": false
+    },
+    {
+        "id_tmdb": 65727,
+        "title": "Night Witches",
+        "release_date": "1981-06-06",
+        "overview": "Film will be based on the female flying unit that fought in the Battle of Moscow. They were dubbed \"Night Witches\" by the frightened German soldiers because of the deadly stealth of their light planes.",
+        "poster_path": "/gFr72bnzVS0IVL4JwqV7qevOo3Q.jpg",
+        "backdrop_path": "/11Zaai21EJwtWUz3EyP28rRpcIo.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0232882",
+        "original_language": "ru",
+        "popularity": 2.517,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 445122,
+        "title": "La seducción",
+        "release_date": "1981-07-01",
+        "overview": "",
+        "poster_path": "/gmabRswZ9aqTTZZA4bUJKRkVQAT.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "LCI Seguros",
+                "id": 87376
+            },
+            {
+                "name": "Conacine",
+                "id": 13121
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081476",
+        "original_language": "es",
+        "popularity": 2.388,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 350112,
+        "title": "A Battle Journal",
+        "release_date": "1981-06-20",
+        "overview": "A man, feeling guilty and depressed over a life-and-death decision he made while rock climbing, which left his friend dead, regains hope and the will to live when an elderly man gives him a diary belonging to a soldier during the Korean War.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0327997",
+        "original_language": "ko",
+        "popularity": 2.314,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 564428,
+        "title": "Fly Away Home",
+        "release_date": "1981-09-18",
+        "overview": "Ambitious pilot to a prospective series revolving around a combat cameraman in Vietnam. Carl Danton is in Saigon on assignment at the start of the 1968 Tet offensive with a cynical boss in the local bureau chief. His love interest is a Vietnamese doctor whose brother happens to be a leader in the Viet Cong and whose influential parents are involved in high-level corruption.",
+        "poster_path": "/uwgvdpF3PGjePq93hVsCf4jNwAm.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "An Lac Productions",
+                "id": 191185
+            },
+            {
+                "name": "Warner Bros. Television",
+                "id": 1957
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082392",
+        "original_language": "en",
+        "popularity": 2.198,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 431429,
+        "title": "Via Gobi and Khingan",
+        "release_date": "1981-10-06",
+        "overview": "About the events of the final stage of the Second World War — the defeat by Soviet and Mongolian troops of the selected Kwantung army. Bacteriological weapons were created in the laboratory of Japanese General Ishii Shiro. Experiments were conducted on prisoners of war and political prisoners. Epidemiologist Dmitry Sokolov was assigned to solve the mystery of this laboratory. At the cost of his own life, he completed the task. The march of Soviet and Mongolian formations through the Gobi sands and the Khingan spurs was not only a brilliant military operation, but also a warning of the use of bacteriological weapons by Japan.",
+        "poster_path": "/whjKW1ImrlcdCqO4zktVQbJ1XoS.jpg",
+        "backdrop_path": "/19OsA4CgduyWKXrlOd5TOCSSFte.jpg",
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "DEFA",
+                "id": 602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173726",
+        "original_language": "ru",
+        "popularity": 2.115,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 266150,
+        "title": "The Red Horse",
+        "release_date": "1981-02-06",
+        "overview": "A joint fight of Macedonian and Greek people against the fascist monarchical government of Greece ended with their defeat in 1949, after many years of bloodshed. Many members of the democratic party DAG, as well as the innocent inhabitants experienced the destiny of political exile.",
+        "poster_path": "/wnvq4ShVG4O2TlEJDZGoAnP52B5.jpg",
+        "backdrop_path": "/qKMxZXi4Um9aV9Vyjhuc7E4nXe1.jpg",
+        "production_companies": [
+            {
+                "name": "Vardar Film",
+                "id": 28208
+            },
+            {
+                "name": "Makedonija Film",
+                "id": 59739
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mk",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080571",
+        "original_language": "mk",
+        "popularity": 2.086,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1353820,
+        "title": "People's Khatanbaatar",
+        "release_date": "1981-01-28",
+        "overview": "A 2-part epic film novel based on the historical life of Khatanbaatar Magsarjav, the legendary Mongolian military general who stood out in the struggle for the independence of his country and the freedom of his people.",
+        "poster_path": "/ollFkdZ5skrhG7YTRGqVPrTPnXT.jpg",
+        "backdrop_path": "/9sR9shXlHHNBk5PQsJFd4Np9W4a.jpg",
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "mn",
+        "popularity": 2.03,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 238112,
+        "title": "High Pass",
+        "release_date": "1981-01-01",
+        "overview": "World War II scattered the Carpathian peasant family of Yaroslava Petrin. She is a dedicated communist, and her husband, son and daughter support OUN-UPA.",
+        "poster_path": "/af2gl47eBzx84Kq2xT8AUOf10j3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "uk",
+                "name": "Український"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2912984",
+        "original_language": "uk",
+        "popularity": 2.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 192325,
+        "title": "Au bon beurre",
+        "release_date": "1981-04-08",
+        "overview": "",
+        "poster_path": "/b2eVI4loCY9E4yh84SDJVtRMuD2.jpg",
+        "backdrop_path": "/AhTAWDMma6huAQopSlu26gfWEnu.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0121085",
+        "original_language": "fr",
+        "popularity": 1.918,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 107695,
+        "title": "Little Alexander",
+        "release_date": "1981-06-06",
+        "overview": "May of 1945. Soviet soldiers conducting an operation to rescue the children in a small town in the territory of Germany.",
+        "poster_path": "/lM9ZiCZZjj9Ow2uuIYnvGmgLmz3.jpg",
+        "backdrop_path": "/1pNqEBKcxMCqu9SHNeY4FbwB6RO.jpg",
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            },
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081998",
+        "original_language": "ru",
+        "popularity": 1.864,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204166,
+        "title": "Falling Stars",
+        "release_date": "1981-12-16",
+        "overview": "Falling Star is based on three stories by the contemporary Russian writer Viktor Astafyev and centers on a young soldier on the front lines who is wounded and taken to the hospital. Once there, he muses about his childhood and a little girl he had loved - someone who could easily have grown up to be the nurse that is attending to him now. As he recuperates, he and the nurse fall in love and he very much wants to marry her. At this point, the nurse's mother comes for a visit and advises him against such an action because if they were to marry and he were subsequently killed or maimed in action - the fighting is still close to the hospital - the nurse would suffer much more than if he just left her alone. Now it is up to the soldier to make a decision one way or the other.",
+        "poster_path": "/j829zU9CCCxlkCLBjXhSSMObQFQ.jpg",
+        "backdrop_path": "/nihm4vHpe5Y7XmbnjAFp4zJ3tRT.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0083145",
+        "original_language": "ru",
+        "popularity": 1.787,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 641138,
+        "title": "Сын полка",
+        "release_date": "1981-01-05",
+        "overview": "",
+        "poster_path": "/zcOPr3F4zAPqs7gC8TFu6tW8kLv.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sverdlovsk Film Studio",
+                "id": 11436
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.785,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 42140,
+        "title": "The Boat Is Full",
+        "release_date": "1981-01-15",
+        "overview": "During World War II, Switzerland severely limited refugees: \"Our boat is full.\" A train from Germany halts briefly in an isolated corner of Switzerland. Six people jump off seeking asylum: four Jews, a French child, and a German soldier. They seek temporary refuge with a couple who run a village inn. They pose as a family: the deserter as husband, Judith as his wife, an old man from Vienna as her father, his granddaughter and the French lad, whom they beg to keep silent, as their children. Judith's teenage brother poses as a soldier. The fabrication unravels through chance and the local constable's exact investigation. Whom will the Swiss allow to stay? Who gets deported?",
+        "poster_path": "/ohOOHH4O3Uu5qj7QVuOQAmWYkCk.jpg",
+        "backdrop_path": "/4HbWh5F6EpaTJo85AD4K6JVIhoc.jpg",
+        "production_companies": [
+            {
+                "name": "ORF",
+                "id": 3391
+            },
+            {
+                "name": "ZDF",
+                "id": 4606
+            },
+            {
+                "name": "Limbo Film AG",
+                "id": 12997
+            },
+            {
+                "name": "Schweizer Fernsehen (FS)",
+                "id": 34444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082095",
+        "original_language": "de",
+        "popularity": 1.748,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 425230,
+        "title": "A War Story",
+        "release_date": "1981-11-08",
+        "overview": "A Canadian doctor interned at a Japanese POW Camp during WWII must tend to his fellow British prisoners who are being worked to death in a mine.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 274000,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0132614",
+        "original_language": "en",
+        "popularity": 1.74,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 86362,
+        "title": "Squadron of Flying Hussars",
+        "release_date": "1981-01-11",
+        "overview": "A story about a colonel Denis Davydov - hero of the 1812 war.",
+        "poster_path": "/eadSUY0gX32uqvU2r9x1h6Xxb6y.jpg",
+        "backdrop_path": "/qeoViIQk2hfzT5iCfBhmXwpJOdg.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174627",
+        "original_language": "ru",
+        "popularity": 1.73,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 266994,
+        "title": "Khan Asparukh - Part I - Phanagoria",
+        "release_date": "1981-10-18",
+        "overview": "This is an epic screen presentation showing the creation, the consolidation and the power of First Bulgarian Kingdom and the first Bulgarian ruler Khan Asparuh.  This is the first part of the film trilogy about the events before the creation of the Bulgarian state in the middle of the VII century. Volga Bulgaria is straining under the attacks of the Khazars. Following the testament of his father, the sons of Khan Kubrat looking for a new home for their tribes. The youngest of them - Asparukh, wander 20 years in search of \"land forever\" for his people and reaches the mouth of the Danube. The film is narrated by captured Byzantine chronicler Belisarius, which should Asparukh in his journeys. Byzantine witnessed the heroic efforts of the Bulgarians to win the land south of the Danube and to create their new country.",
+        "poster_path": "/rHxpsBW6ccPKMLmOmYmnQ99Inlm.jpg",
+        "backdrop_path": "/eR2Ta3mnpHhDhMcznn4SvMTBPsd.jpg",
+        "production_companies": [
+            {
+                "name": "Tvorcheski kolektiv ''Sredets''",
+                "id": 74714
+            },
+            {
+                "name": "Studiya za igralni filmi ''Boyana''",
+                "id": 56269
+            },
+            {
+                "name": "Kinostudiya na Narodnata armiya",
+                "id": 74713
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 266993,
+            "name": "Khan Asparuh Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0275942",
+        "original_language": "bg",
+        "popularity": 1.729,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 604829,
+        "title": "Charlotte",
+        "release_date": "1981-02-26",
+        "overview": "In 1939, Charlotte Salomon leaves Berlin to seek refuge at her grandparents' villa in the south of France. A little later, war breaks out, and Charlotte must, besides forgetting all she left behind, deal with her grandmother's depression, and her mother's suicide. To fight despair, Charlotte starts to paint, producing over one thousand images. \"Is my life real, or is it theater?\" This is the title she gives her body of work, which highlights her former life in Berlin. She finds herself though her art, but in 1943 is deported to Germany and Auschwitz.",
+        "poster_path": "/72egbwFC5ujG7Qnpz1EiWwHfoKd.jpg",
+        "backdrop_path": "/o43eZpzTd5Ao8Jv1PHQEZD661k4.jpg",
+        "production_companies": [
+            {
+                "name": "Cineteam Features",
+                "id": 131920
+            },
+            {
+                "name": "Concorde Film Produkte",
+                "id": 131922
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080518",
+        "original_language": "en",
+        "popularity": 1.715,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 541869,
+        "title": "The Private History of a Campaign That Failed",
+        "release_date": "1981-04-06",
+        "overview": "Mark Twain tale of cowardly Confederate soldiers.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081377",
+        "original_language": "en",
+        "popularity": 1.676,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 637119,
+        "title": "Корпус генерала Шубникова",
+        "release_date": "1981-02-27",
+        "overview": "",
+        "poster_path": "/fGjonyODtclxlIthCEYanF7xyJm.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.648,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198494,
+        "title": "Fact",
+        "release_date": "1981-06-04",
+        "overview": "Facts is a dramatization of a massacre in a Lithuanian village during World War II when Nazis rounded up over 100 men, women, and children accused of partisan activity and then torched the houses in which they were held. Using Russian interrogations of a few survivors, the testimony of villagers, and some of the Germans responsible for the killing, the film gradually reconstructs the event and its context.",
+        "poster_path": "/37TgNVegaw2EcyGc0QxsOJeS1qe.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lithuanian film studio",
+                "id": 150928
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lt",
+                "name": "Lietuvių"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0150497",
+        "original_language": "lt",
+        "popularity": 1.634,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 150983,
+        "title": "The Boy Soldier",
+        "release_date": "1981-03-04",
+        "overview": "In the 1930s a young fellow, Simon Chalumet, is sent to a military school by his overbearing father, an ex-soldier who has little sympathy for his son's more gentle temperament, or for his interest in films.",
+        "poster_path": "/2Hxrrt0qKIkBkKP0RMdHBnJ8eNN.jpg",
+        "backdrop_path": "/7aEpNoKshblZrqwAKRavn2yhtQC.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080355",
+        "original_language": "fr",
+        "popularity": 1.557,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 213122,
+        "title": "The Order: Do Not Open Fire",
+        "release_date": "1981-06-06",
+        "overview": "A movie about a Soviet soldiers on the Japanese borders during 1941.",
+        "poster_path": "/jPrnh3JTmop9mCPzf4XM0R0c8OE.jpg",
+        "backdrop_path": "/o2CmitYlrYls1fByLMFP8939Ltg.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0237608",
+        "original_language": "ru",
+        "popularity": 1.548,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 502049,
+        "title": "Berlin kaputt",
+        "release_date": "1981-05-21",
+        "overview": "Story of three partisans whose fates are determined by different encounters with women.",
+        "poster_path": "/ukFLA5CVaxKmCARlV5qobPozf1R.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0179673",
+        "original_language": "de",
+        "popularity": 1.52,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204415,
+        "title": "The Fall of Italy",
+        "release_date": "1981-07-07",
+        "overview": "The setting is the islands off the Dalmatian coast of Yugoslavia, during WW II. The islands are controlled by occupying Italian forces, and a resistence movement of Communists is dedicated to sabotaging and ending the occupation. When a wealthy young man joins the resistence, he falls in love with a woman who turns out to be a spy for the Italians. As a result of his liaison and her activity, they are both executed by a Communist comrade - a previous friend. The comrade is dedicated to the hard-line policies of the resistence, until he himself falls in love with the daughter of a bourgeois landowner on the island - a landowner who has collaborated with the Italians. Neither the Italian occupying army (one officer is shown in an attempted rape scene) nor the resistence fighters are stereotyped forces for good or evil, but all are equally subject to the dehumanizing effects of war.",
+        "poster_path": "/nKTgzrydHPNkadZZgsD67fRbLBH.jpg",
+        "backdrop_path": "/rH1iIRMIVPuC4IaZ6YZNb3tEBOJ.jpg",
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "Centar film",
+                "id": 15165
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082876",
+        "original_language": "sh",
+        "popularity": 1.519,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 678027,
+        "title": "La leyenda del tambor",
+        "release_date": "1981-09-17",
+        "overview": "In June 1808, Napoleon's troops invade Spain. A boy named Isidro will beat his drum in the mountains of El Bruc, making the French army believe that thousands of armed men are waiting to confront them.",
+        "poster_path": "/9JAudtXM3BQEpgPPlfCncXRdRf2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Conacine",
+                "id": 13121
+            },
+            {
+                "name": "Nuevo Cine",
+                "id": 26595
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082653",
+        "original_language": "es",
+        "popularity": 1.433,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 892272,
+        "title": "You Should Survive",
+        "release_date": "1981-05-01",
+        "overview": "1945, an attack aviation regiment is based at the field airfield, which is served by a team of young girls. The last days of the war are coming... In one of the battles, Lieutenant Volynin’s attack aircraft, damaged by a shell fragment, landed in territory occupied by the Germans. Air gunner Shchepov carried the wounded commander out of the burning plane. With the help of the Polish teacher Anna, they managed to get to theirs. And everyday life at the front began again. A few days before the Victory, Dima Shchepov died. Volynin took the death of his friend seriously. But it was even harder for him to learn about the death of Anna, whom he loved and whom he promised to find after the war...",
+        "poster_path": "/6DirYrgADFfgHBj0L6AJr5A8xMF.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081670",
+        "original_language": "ru",
+        "popularity": 1.378,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531039,
+        "title": "State Border: Vol. 2. Peaceful Summer of '21",
+        "release_date": "1981-05-27",
+        "overview": "On instructions from Polish intelligence, a group of bandits dress up in Red Army uniforms and attack a Soviet border town.",
+        "poster_path": "/oN5NiwpzaiUvNw6pRcYe5dUDYqy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            },
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1264437,
+            "name": "State Border"
+        },
+        "homepage": "",
+        "imdb_id": "tt0877519",
+        "original_language": "ru",
+        "popularity": 1.305,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 367562,
+        "title": "The Train for Kraljevo",
+        "release_date": "1981-01-01",
+        "overview": "It is 1941 and the German occupying forces are taking over Yugoslavia, making a train ride to Kraljevo a dangerous game for a secret communist agent carrying important documents. Both the Germans and the police are looking for him on the train, and his safe arrival in Kraljevo seems like an impossibility. His determination to get the papers to the right people keeps him going, even through a gun battle after the train arrives - challenging him to find a way to complete his mission.",
+        "poster_path": "/oPNuC9lUZZu9DEvxpMzfMBvlQdg.jpg",
+        "backdrop_path": "/7QHvjnMdvREc03b8SN5JBmER4OO.jpg",
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            },
+            {
+                "name": "Croatia Film",
+                "id": 16785
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0180788",
+        "original_language": "sh",
+        "popularity": 1.238,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 927215,
+        "title": "Bai he hua",
+        "release_date": "1981-07-01",
+        "overview": "",
+        "poster_path": "/aqQiHbX6TdNGBwRab0E635uOMjt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Youth Film Studio of Beijing Film Academy",
+                "id": 94956
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 100,
+        "revenue": 554,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.965,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 728719,
+        "title": "解放石家庄",
+        "release_date": "1981-01-01",
+        "overview": "",
+        "poster_path": "/hCkgfnv1UTPWHQLMR6LmZx7Mz7G.jpg",
+        "backdrop_path": "/2wCD2b9iYns3amyJi6FzFKOGQe3.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6395786",
+        "original_language": "zh",
+        "popularity": 1.222,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 636619,
+        "title": "Дочь командира",
+        "release_date": "1981-03-06",
+        "overview": "",
+        "poster_path": "/qOK6S8nzEv6Gtcztm1Xl59wokg0.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.427,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1205580,
+        "title": "Guests of the Nation",
+        "release_date": "1981-02-09",
+        "overview": "This drama tells the story of Irish insurgents and the captured British soldiers whom they are assigned to guard. While confined to a remote farmhouse the foursome enjoy card playing, jig dancing, and a great deal of amiable bickering. Throughout the conviviality, however, Barney Callahan is haunted by the knowledge that reprisals will be in order if the Irish harm their British captives.",
+        "poster_path": "/uTVTASqF5PxzISMpR0vzof8EVCI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Broadway Theatre Archive",
+                "id": 15702
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0208192",
+        "original_language": "en",
+        "popularity": 1.125,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 357916,
+        "title": "Broad Are the Leaves",
+        "release_date": "1981-04-02",
+        "overview": "The action takes place in 1943 and today, and a Partisan school in Srem is in the center of action. A young journalist gets appointed to shoot a film report about the participants in the Liberation War from this area. In Srem village she meets common, simple people. She discovers that a free territory and a Partisan school was there. She also finds out that everybody acted as one. Deply going through all of those events, young reporter grows mature, identifying herself with the revolution participants.",
+        "poster_path": "/uYExj5jVPP4FO9Lxzmlzcd4JMbD.jpg",
+        "backdrop_path": "/ofmd9EmRst4D5wqrHbtZurR8sdO.jpg",
+        "production_companies": [
+            {
+                "name": "Neoplanta Film",
+                "id": 28567
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0181003",
+        "original_language": "sh",
+        "popularity": 1.112,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 302623,
+        "title": "Pedon merkki",
+        "release_date": "1981-09-25",
+        "overview": "Set during the Second World War in the Finnish war zone.",
+        "poster_path": "/9n4fR2kcx4H31xw7IZL58zNEpxm.jpg",
+        "backdrop_path": "/cyE7DeGxSteQcUOu9eh8V6ZraRB.jpg",
+        "production_companies": [
+            {
+                "name": "Filmityö",
+                "id": 95676
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0142757",
+        "original_language": "fi",
+        "popularity": 1.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 789357,
+        "title": "I'll Take Your Pain",
+        "release_date": "1981-11-10",
+        "overview": "",
+        "poster_path": "/mtZgphbcPIOZjf291rRoIRDYz8F.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0193614",
+        "original_language": "ru",
+        "popularity": 1.435,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1050632,
+        "title": "Alima",
+        "release_date": "1981-01-01",
+        "overview": "Mongolian girl Alima is assigned to accomplish an important mission by CCP. During the mission, her father and fellows are killed by the enemy in a public execution.",
+        "poster_path": "/uULFgTx0CJ00QBdyW5z63XniEy0.jpg",
+        "backdrop_path": "/bZygzcDS2ANB5z2Gp9hqfR0sb8u.jpg",
+        "production_companies": [
+            {
+                "name": "Inner Mongolia Film Studio",
+                "id": 17808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0333068",
+        "original_language": "zh",
+        "popularity": 1.016,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 579777,
+        "title": "Sugar House",
+        "release_date": "1981-05-22",
+        "overview": "In the final days of the Second World War in 1945 Frantisek Pribyl is killed during a shoot-out with the Germans. After the funeral, the widow (Jana Svandová) and her two young sons Martin and Ondra move to her deceased husband's native village at the foot of the Kralický Snezník mountains. Life in the borderlands is far from easy for the lonely woman. The village is almost deserted, food supplies are delayed; the Werwolf (Nazi guerrilla squads) are hiding in the mountains, and shooting is heard from time to time. The elder son Ondra (Michal Dlouhý) is helping out his mother and at the same time absorbing intense new experiences. He meets an old Czech resident Skurek (Lubomír Kostelka), German women working in the forest, soldiers from the engineering units removing the mines, and a young first lieutenant. At night he dreams about his dead father whom he loved very much. This is why he runs away from home when he finds out that the lieutenant is courting his mother.",
+        "poster_path": "/ruhDePBogiMLiYrNZOvpLAuUrvx.jpg",
+        "backdrop_path": "/cwHHVro6t3AYoWL67s2vytu9OAg.jpg",
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080581",
+        "original_language": "cs",
+        "popularity": 0.987,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1353804,
+        "title": "Khatanbaatar",
+        "release_date": "1981-01-29",
+        "overview": "A 2-part epic film novel based on the historical life of Khatanbaatar Magsarjav, the legendary Mongolian military general who stood out in the struggle for the independence of his country and the freedom of his people.",
+        "poster_path": "/48F5G0l1xKJh281ynD06z83yMYp.jpg",
+        "backdrop_path": "/26hpvDPX22izrLS4qMmSwEGwAEc.jpg",
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "mn",
+        "popularity": 0.951,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 758317,
+        "title": "The Cause",
+        "release_date": "1981-02-03",
+        "overview": "\"I wish I could write ... about what Spain was like - a real cause. Not just Cornford, Hemingway and Orwell, but the ordinary blokes who went.\" A confused industrial dispute at a London hospital triggers off in trade unionist George Harley 's mind memories of his days fighting in the Spanish Civil War, when the issues seemed so much clearer.",
+        "poster_path": "/omVuL2YqfMLeanaHK2u5SRtTlk0.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0767208",
+        "original_language": "en",
+        "popularity": 0.902,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 558051,
+        "title": "We Take Everything Upon Ourselves",
+        "release_date": "1981-07-14",
+        "overview": "During the final months of the World War II, a group of special forces sailors, under the command of Lieutenant Balandin, receives a secret order of special importance to destroy enemy tankers, seaplanes and gun installations to ensure the free landing of their troops.",
+        "poster_path": "/fOTKbMjcoYnuX51xRrlmz3N0l2c.jpg",
+        "backdrop_path": "/jzj6aN66BVVLdhLmwkIJa462SM0.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0193004",
+        "original_language": "ru",
+        "popularity": 0.896,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 318648,
+        "title": "Nanchang Uprising",
+        "release_date": "1981-07-01",
+        "overview": "",
+        "poster_path": "/axdkXMamHCVXTPSITncJ8YEuxca.jpg",
+        "backdrop_path": "/efZchDAlZey5dkAXn1zEHur5GpH.jpg",
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studio",
+                "id": 1078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6440586",
+        "original_language": "zh",
+        "popularity": 0.882,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 726577,
+        "title": "Ma Qiang a New Soldier",
+        "release_date": "1981-01-01",
+        "overview": "A recruit grows up quickly in the army and becomes a mature soldier.",
+        "poster_path": "/qcDCWQwAVPRH19IXs4E9k8HtHYQ.jpg",
+        "backdrop_path": "/5ljDn4c1u5qJ13amHex2uSdjg9v.jpg",
+        "production_companies": [
+            {
+                "name": "Beijing Film Studio",
+                "id": 708
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6438846",
+        "original_language": "zh",
+        "popularity": 0.871,
+        "status": "Released",
+        "tagline": "A recruit grows up quickly in the army and becomes a mature soldier.",
+        "video": false
+    },
+    {
+        "id_tmdb": 465068,
+        "title": "The Convoy",
+        "release_date": "1981-08-21",
+        "overview": "",
+        "poster_path": "/l1YpAw5Fixg11d2d6XGEuRKujy4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Casa de Filme 1",
+                "id": 12420
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0265130",
+        "original_language": "ro",
+        "popularity": 0.838,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204066,
+        "title": "All Things Pass",
+        "release_date": "1981-05-03",
+        "overview": "During World War II in the Netherlands, resistance-leader Arie is shot by the Dutch SS-man Niels. Arie's comrades pledge to avenge his death. 35 years later one of them, Ab, is confronted with Niels again. He decides to round up his old friends to kill him. He finds out though, that they think this is useless or are not capable of doing so anymore. Only the former communist Gerben has not forgotten his pledge and is talked into joining the execution.",
+        "poster_path": "/lcbwDf7HJt2pbMOpFrEOkpJzMHx.jpg",
+        "backdrop_path": "/3T2lQQgCGwoAqtkqAKswvfWQwCH.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080105",
+        "original_language": "nl",
+        "popularity": 0.789,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1299010,
+        "title": "My Mother Gave Birth to Me Happy...",
+        "release_date": "1981-05-06",
+        "overview": "The film takes place in 1944 in a Moldovan village that had just been liberated by the Soviet Army. A young teacher creates a school pioneer organization. He is opposed by the school principal, who is hiding a fascist agent. With the help of a young teacher and his students, police officers manage to neutralize the criminal.",
+        "poster_path": "/lCdX7u1PGqkxCYqJY8wmPHgifEt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Moldova-Film",
+                "id": 176512
+            },
+            {
+                "name": "ARTA",
+                "id": 205087
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3149980",
+        "original_language": "ru",
+        "popularity": 0.736,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 286458,
+        "title": "Temporary Paradise",
+        "release_date": "1981-09-24",
+        "overview": "1943. French POWs escape through Hungary towards the Balkan. Jacques and Gérard are caught and taken to an internment camp at Lake Balaton. Jacques meets Klári here, who was abandoned by her military officer husband for her Jewish origin. Both want to have a short affair, but love unfolds between them.",
+        "poster_path": "/i1085vDf0DWJdSTvDP0bTaTThmM.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082545",
+        "original_language": "hu",
+        "popularity": 0.729,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 117726,
+        "title": "Message From The Future",
+        "release_date": "1981-01-01",
+        "overview": "From the year 3005, a delegate from the future arrives in 1985 to convince the present leaders make certain World War III happens, which he guarantees will make for a better future. Having already caused natural disasters and catastrophes by coming back from the future, he now tries to force his message on the world press and TV.",
+        "poster_path": "/nHocWniFr4B2exd8lo5RGtf5E0.jpg",
+        "backdrop_path": "/vnimhj6K9VuXRARXy5UcbcLnzWY.jpg",
+        "production_companies": [
+            {
+                "name": "Thirteenth Century Films",
+                "id": 66094
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0152394",
+        "original_language": "he",
+        "popularity": 0.713,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 168724,
+        "title": "Bukit Kepong",
+        "release_date": "1981-12-30",
+        "overview": "The dramatisation of a Communist Terrorist assault on a rural Federation of Malaya Police station at Bukit Kepong, Muar, Johor, of then Malaya, on February 23, 1950, during the height of the First Malayan Emergency, 1948-1960.",
+        "poster_path": "/qFy4qBJmzeyMH2MpbGcf7MGB4Iz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jins Shamsuddin Productions",
+                "id": 129068
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MY",
+                "name": "Malaysia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ms",
+                "name": "Bahasa melayu"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0082112",
+        "original_language": "ms",
+        "popularity": 0.695,
+        "status": "Released",
+        "tagline": "\"We the police will never surrender! We will stand here to the death! Bukit Kepong will be our graves!\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 642878,
+        "title": "I Am Khortitsa",
+        "release_date": "1981-01-01",
+        "overview": "The hard days of August 1941. Enemy troops approached Zaporozhye, the island of Khortitsa was captured, and the Nazis shelled the city from its high banks. Our troops sought to recapture this bridgehead at all costs. Schoolchildren - fighters of the \"Young Chapaevets\" detachment - helped the Soviet soldiers.",
+        "poster_path": "/v4GRFwsL3k38aXcKquhNn2njzKj.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "uk",
+                "name": "Український"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0240232",
+        "original_language": "ru",
+        "popularity": 0.671,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 275052,
+        "title": "Pugowitza",
+        "release_date": "1981-03-26",
+        "overview": "World War II is over and Heinrich, a young German boy, influenced by the Russians, starts to act according to Communist principles in a small German village.",
+        "poster_path": "/yqCImJlFe2pkiRynaJS1bFFelPI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081388",
+        "original_language": "de",
+        "popularity": 0.63,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 504107,
+        "title": "Find a Way, Comrade",
+        "release_date": "1981-07-09",
+        "overview": "Based on a TV sit-com series and set in World War II, about how an ordinary woodcutter develops into an active partisan fighter.",
+        "poster_path": "/EnPmlCjrnAYdQ27cYf8xSsQcxn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "Televizija Zagreb",
+                "id": 27683
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0081531",
+        "original_language": "sh",
+        "popularity": 0.622,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 580659,
+        "title": "От Буга до Вислы",
+        "release_date": "1981-02-12",
+        "overview": "",
+        "poster_path": "/7npkpIiCRRlQZQyCMtgLUrJQZK2.jpg",
+        "backdrop_path": "/k39J5fTrV4oK3jI34oRoE0zwIeo.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0172932",
+        "original_language": "ru",
+        "popularity": 0.615,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 480870,
+        "title": "The Old Man and the Enemy",
+        "release_date": "1981-07-05",
+        "overview": "World War II. Italian fascists have interned in the South a lot of people who fought them on the 7th of April 1939 when they came to Albania. Among them, there's an old man whom they call \"Daja\" (uncle), who fought along with the youth.",
+        "poster_path": "/f2X4MNgjTufsM2RuoWitR8WPyWd.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Albfilm",
+                "id": 183204
+            },
+            {
+                "name": "Shqipëria e Re",
+                "id": 29695
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0349976",
+        "original_language": "sq",
+        "popularity": 0.588,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1053214,
+        "title": "The Rose Shouldn't Have Broken",
+        "release_date": "1981-01-01",
+        "overview": "On the vietnamese border, a soldier is saved by a local girl.",
+        "poster_path": "/o4Nhyj56mUnfuWv7wH6GpCT6Nci.jpg",
+        "backdrop_path": "/jprtG42k5bcDE54aMxkCKpEJYob.jpg",
+        "production_companies": [
+            {
+                "name": "Guangxi Film Studio",
+                "id": 38550
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.587,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 767810,
+        "title": "681 - The Glory of the Khan",
+        "release_date": "1981-01-01",
+        "overview": "In 651, Khan Kubrat died and the Khazars accelerated their raids upon Great Bulgaria. His five sons split the Bulgarian tribe and each led his to find new land where they could live in peace. Khan Asparukh, the youngest son, went west and, after an arduous journey lasting for years, southward across the River Danube, into Moesia. In 680-81, in alliance with the Slavs, he inflicted stunning defeats on the Roman legions and forced the Byzantine Empire to recognize the formation of the new state of Bulgaria in the lands where it still exists today.",
+        "poster_path": "/a9EyJrSdmxgXeWZvZqj5hg7bm9U.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Bulgarian National Film Center",
+                "id": 64275
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0444982",
+        "original_language": "bg",
+        "popularity": 0.586,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1297913,
+        "title": "Curfew",
+        "release_date": "1981-07-03",
+        "overview": "",
+        "poster_path": "/weZlWZbodyWF4HNX5xqsOVJRCqt.jpg",
+        "backdrop_path": "/qgMbRdQSrpw6zvE7EQneyv6TGa4.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.568,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 332091,
+        "title": "Border",
+        "release_date": "1981-01-02",
+        "overview": "This film was the first feature film about the Iran-Iraq war that was made and released.",
+        "poster_path": "/jtHbIbKv6RjYyWGri6ZQbcrjJLM.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1116799",
+        "original_language": "fa",
+        "popularity": 0.449,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 837459,
+        "title": "Een Mens Mr. Lieberman",
+        "release_date": "1981-01-01",
+        "overview": "Short film.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "All Pictures (Sint-Katelijne-Waver)",
+                "id": 155462
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13063446",
+        "original_language": "nl",
+        "popularity": 0.43,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1296749,
+        "title": "Leningraders, My Children",
+        "release_date": "1981-09-01",
+        "overview": "1942, Great Patriotic War. Thousands of orphaned children evacuated from besieged Leningrad and other cities found shelter and care in Uzbek families and orphanages.",
+        "poster_path": "/136BZqiLYrRkCHzmbLr6lHbNI1Z.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Uzbekfilm",
+                "id": 189675
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0230456",
+        "original_language": "ru",
+        "popularity": 0.424,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 445608,
+        "title": "Operation Inchon",
+        "release_date": "1981-03-06",
+        "overview": "Recounts the so-called 'Battle of Inchon', an episode at the end of World War II during the amphibious invasion of Korea, resulting in a decisive victory and a strategic reversal in favor of the Allied forces.",
+        "poster_path": "/4Bc7lSZJHFIuAmFHymRTT1sGtiz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "IFD Films & Arts Company",
+                "id": 18727
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2494788",
+        "original_language": "en",
+        "popularity": 0.422,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 919698,
+        "title": "Na melinę",
+        "release_date": "1981-01-01",
+        "overview": "A group of resistance fighters discover the secret collaboration between a local beggar and the Nazis.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Iluzjon\"",
+                "id": 10941
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174955",
+        "original_language": "pl",
+        "popularity": 0.416,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 353004,
+        "title": "When the Greeks",
+        "release_date": "1981-04-01",
+        "overview": "At the turn of the twentieth century a young merchant is abducted by a group of brigands who are sheltered in a remote mountainous area of Greece aiming to extract ransom from his wealthy family. The young man develops a kind of sympathy to the arch-brigand and realizes that the underground life and moral code of his kidnappers actually represent a more genuine expression of “New Hellenism” than his bourgeois well-being.",
+        "poster_path": "/AaJEUTdMhbYugbMSiYTCLOrbAXr.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Greek Film Centre",
+                "id": 7254
+            },
+            {
+                "name": "Apostolos Papaefstathiou",
+                "id": 97717
+            },
+            {
+                "name": "Cinetic",
+                "id": 97716
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0289562",
+        "original_language": "el",
+        "popularity": 0.416,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 760079,
+        "title": "P.Q. 17",
+        "release_date": "1981-12-15",
+        "overview": "\"That order to scatter was as good as a death sentence to those merchant ships. And there isn't one officer or rating who doesn't agree with me.\" A British Allied convoy designated for the Soviet Union comes under attack from German forces during World War II.",
+        "poster_path": "/1aho6UEQWHzdhEqNJt5IEwsuMfw.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0779531",
+        "original_language": "en",
+        "popularity": 0.412,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 276514,
+        "title": "17 Bullets for an Angel",
+        "release_date": "1981-01-12",
+        "overview": "Iro Konstantopoulou was thirteen years old when the Germans invaded Greece. Despite her age, however, she got involved with the resistance. When she was arrested for the first time, her rich father managed to set her free, and she fell in love with a young doctor who took care of her injuries following torture. A little before the withdrawal of the Germans, she participated in the blowing up of a train that was transporting ammunition, and she was arrested again, but this time no one could save her. She was executed at the Chaïdari camp, along with forty-nine other prisoners.",
+        "poster_path": "/3SSvIzh6rbgVMkCeuEBTAT28hwu.jpg",
+        "backdrop_path": "/9adSTWHBo4r6nrZq3yCCmxVF2hR.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0231437",
+        "original_language": "el",
+        "popularity": 0.403,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 480855,
+        "title": "On the Eve of Freedom",
+        "release_date": "1981-09-29",
+        "overview": "During WWII, Qemal Orhanaj exposes the attempts of the pseudo-democrats and traitors of the country to create their government backed by the Nazis.",
+        "poster_path": "/sqKjYI0gIgiM8XNtvfS5zMIRGof.jpg",
+        "backdrop_path": "/1CwWGbdnDT0dN0igyXHy2r6bepW.jpg",
+        "production_companies": [
+            {
+                "name": "Shqipëria e Re",
+                "id": 29695
+            },
+            {
+                "name": "Albafilm Studio",
+                "id": 60847
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0353822",
+        "original_language": "sq",
+        "popularity": 0.339,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 593210,
+        "title": "King Naresuen The Great",
+        "release_date": "1981-11-13",
+        "overview": "",
+        "poster_path": "/jKMsLtoSDcdAYfimuzWm517X61o.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sahamongkolfilm",
+                "id": 4207
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TH",
+                "name": "Thailand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "th",
+        "popularity": 0.323,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 600488,
+        "title": "Attack at Dawn",
+        "release_date": "1981-05-08",
+        "overview": "After the Japanese occupation, the Indonesian people began fighting for independence, culminating with the 1 March 1949 general attack on the Dutch-held capital at Yogyakarta, led by Suharto. Amidst this backdrop two families face their own, personal issues.",
+        "poster_path": "/18V2bQ9omkcppCl7DMcpdys1um9.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "PPFN",
+                "id": 116169
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "id",
+        "popularity": 0.32,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1017119,
+        "title": "A Man of Immortality",
+        "release_date": "1981-08-28",
+        "overview": "After the cession of Taiwan to Japan in 1895 by the Manchu government, people on the island staged a series of anti-Japanese revolts to oppose the tyrannical rule of the Japanese militarists.",
+        "poster_path": "/nzYdXPsuouVq0ZBCkjC2spJbzqQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Central Motion Picture Corporation",
+                "id": 25345
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2747492",
+        "original_language": "zh",
+        "popularity": 0.301,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 332081,
+        "title": "The Battle of Tagrift",
+        "release_date": "1981-01-02",
+        "overview": "An epic war film about the battle of the Italian and Libyan armies.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "LY",
+                "name": "Libyan Arab Jamahiriya"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2492306",
+        "original_language": "ar",
+        "popularity": 0.3,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 415120,
+        "title": "Royal Vacation",
+        "release_date": "1981-01-21",
+        "overview": "Informative but not dramatically charged, this fictional documentary looks at an incident in 1976 when a group of dissidents were forcibly exiled to an island hotel in order to keep them silenced during the visit of King Carlos of Spain to France. This pseudo-documentary features a Canadian filmmaker who is looking into the group of dissidents. He interviews them to get the story of what happened recorded for posterity. Among the group was another man of Spanish ancestry who suddenly arrived on the island but managed to find a way out. His future exploits are brought into question since there are certain terrorist connotations to his character.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Forum Films",
+                "id": 156492
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0206386",
+        "original_language": "en",
+        "popularity": 0.297,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 449320,
+        "title": "South Pacific 1942",
+        "release_date": "1981-03-01",
+        "overview": "Follows the crew of a Canadian submarine in World War Two and their fight against the Japanese Imperial Navy.",
+        "poster_path": "/uKZaGbhTpNP5RINJd1YohI1Y8gS.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Surfacing Film Productions",
+                "id": 27673
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BZ",
+                "name": "Belize"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 500000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0136545",
+        "original_language": "en",
+        "popularity": 0.294,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 936821,
+        "title": "Ostrov",
+        "release_date": "1981-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Československá televízia Bratislava",
+                "id": 28449
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "sk",
+        "popularity": 0.284,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204405,
+        "title": "Beirut: The Encounter",
+        "release_date": "1981-01-02",
+        "overview": "Zeina (Nadine Acoury) is a Catholic student whose good friend Haidar (Haithem El Amine), a Muslim, has always been particularly close. After a futile attempt to get together (he gets caught in traffic), they each decide to make an audio tape trying to explain, based on their own ideas, why there continues to be fighting in Lebanon now, in 1977, and why they are against it. Zeina is about to leave for the United States and Haidar is to meet her at the airport, where they will exchange their tapes. Alas, fate intervenes because when he arrives early at the airport, he is harassed by someone looking to prey on gullible refugees and he gets so angry that he grabs a taxi out of there, throwing his tape away as he does so. When Zeina arrives and realizes he is not there, she is broken-hearted. In a strange twist at the end, the cast and the director (Borhane Alaouie) have a discussion as to whether or not the character of Haidar should kill himself.",
+        "poster_path": "/cyrjZLZ8ZHhVYjIHcAO4mID8cJV.jpg",
+        "backdrop_path": "/kOIHTxVZcAe5o2Nh778bYfweYh6.jpg",
+        "production_companies": [
+            {
+                "name": "Etablissement Arabe de Production Cinématographique (EAPC)",
+                "id": 84495
+            },
+            {
+                "name": "Ciné Libre",
+                "id": 84496
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "LB",
+                "name": "Lebanon"
+            },
+            {
+                "iso_3166_1": "TN",
+                "name": "Tunisia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0132762",
+        "original_language": "ar",
+        "popularity": 0.269,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 728225,
+        "title": "Pedro y Pablo",
+        "release_date": "1981-01-01",
+        "overview": "",
+        "poster_path": "/m9un2Z8ntWB6AhNuT8nFcN5jClG.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "es",
+        "popularity": 0.21,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 825659,
+        "title": "Waste Land",
+        "release_date": "1981-01-01",
+        "overview": "Montenegro in 1944. A highland farmer tries to change his only son's decision to join the partisans, while minding his own business and not taking any side himself. During the work field they are both captured by Chetniks who previously killed some local shepherds, and their fate is about to be decided by a reckless gang of murderers.",
+        "poster_path": "/ra6YDIMgvvNwP6Up01H9Njx4czI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Radiotelevizija Titograd",
+                "id": 73840
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1265160",
+        "original_language": "sh",
+        "popularity": 0.195,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 463713,
+        "title": "Jamal's Tree",
+        "release_date": "1981-05-02",
+        "overview": "Story of Jamal, a Turkmen woman who is left to tend to the farm when her husband goes off to fight in WW2.",
+        "poster_path": "/rsFMju9J3bJZl13VLxK4q9PEtyj.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Turkmenfilm",
+                "id": 30312
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "tk",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0193087",
+        "original_language": "ru",
+        "popularity": 0.143,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 992807,
+        "title": "Le rescapé de Tikeroa",
+        "release_date": "1981-09-19",
+        "overview": "In 1939 a French policeman (Jacques Martin) is forgotten on a Polynesian island, during an administrative tour. When war broke out, he knew nothing about it and it was only when a German ship called that he learned of the gravity of the events. On the tone of comedy, this drama describes the relationship between this ex-policeman still imbued with administrative stupidity and the naive but joyful population of the island. The comedy prevails over the drama and the gendarme will not take long to acquire the joie de vivre of the natives.",
+        "poster_path": "/jfVWGAqqQPXpcQznLTAdX1pCYBK.jpg",
+        "backdrop_path": "/oiAOp0feP7PEhnbRAH39M7sM5gE.jpg",
+        "production_companies": [
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "PF",
+                "name": "French Polynesia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 0.019,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1367216,
+        "title": "Le combat motorisé dans les localités",
+        "release_date": "1981-01-01",
+        "overview": "A French military training film depicting a battle against mutants created by a meteorite.",
+        "poster_path": "/1GT2chNALgK7FghnodzVaUTZyzY.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ECPA",
+                "id": 129885
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1140093,
+        "title": "Back to the Sand Village",
+        "release_date": "1981-01-01",
+        "overview": "Set in a post-war period in a small central coastal village with extremely harsh nature, the film revolves around Luy. After returning from the war, he was assigned as Commune Secretary. However, his wife is now married to Son, a soldier of the Republic of Vietnam regime. Luy has to fulfill his responsibilities and duties, while also having to deal with his own life, his wife, her new husband and their children.",
+        "poster_path": "/ojzvmX9tTJEe3zUmIyMGOMYJsMh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hãng Phim Giải Phóng",
+                "id": 129723
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "vi",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 948959,
+        "title": "Xiao cheng chun qiu",
+        "release_date": "1981-08-08",
+        "overview": "",
+        "poster_path": "/8dpdtbGe42XPXTrAxYxe9oKVoS0.jpg",
+        "backdrop_path": "/rilTBkly84fnonQmBVGY7keZpg3.jpg",
+        "production_companies": [
+            {
+                "name": "Fujian Film Studio",
+                "id": 86374
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7972768",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "On the eve of the Anti-Japanese War, the anti-Japanese rescue movement in Xiamen is in full swing.",
+        "video": false
+    },
+    {
+        "id_tmdb": 680020,
+        "title": "Women in Arms",
+        "release_date": "1981-04-09",
+        "overview": "Interviews with key military woman guerrilla leaders, and young girls and old women who took part baring arms or making artisanal bombs, against the regime of General Somoza.",
+        "poster_path": "/8T9Uquy7TFMvHGXwtFXw4jfMylV.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hudson River Entertainment",
+                "id": 129239
+            },
+            {
+                "name": "Kehitysmaainstituutti",
+                "id": 130005
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0440936",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 609138,
+        "title": "Young Friends",
+        "release_date": "1981-01-01",
+        "overview": "",
+        "poster_path": "/cL9U7X0Q9lTusgVLiY0J8jL36Wp.jpg",
+        "backdrop_path": "/h8eGcxQiz5zkHYV9xzdOjWok2vB.jpg",
+        "production_companies": [
+            {
+                "name": "Emei Film Studio",
+                "id": 30324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 589706,
+        "title": "The Last Train",
+        "release_date": "1981-02-28",
+        "overview": "With the failure of Linggarjati Agreement as the background, a heroic and also a love story are interwoven. The army headquarters in Yogja decides to withdraw all existing trains to Yogya.",
+        "poster_path": "/5R6LyoICMEoy9cUxldtxu9uPo4g.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "PPFN",
+                "id": 116169
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "id",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

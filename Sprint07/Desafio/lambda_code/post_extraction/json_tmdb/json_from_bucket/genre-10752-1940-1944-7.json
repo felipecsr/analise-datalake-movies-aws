@@ -1,0 +1,3352 @@
+[
+    {
+        "id_tmdb": 423788,
+        "title": "Hungarian Eagles",
+        "release_date": "1943-05-25",
+        "overview": "This is a propaganda film about the Hungarian Air Force. The story begins with the love stories of three young amateur pilots, captain Torday, Bandi and Pista.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hunnia Filmstúdió",
+                "id": 7013
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1177923",
+        "original_language": "hu",
+        "popularity": 0.149,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 629852,
+        "title": "The Arm Behind the Army",
+        "release_date": "1942-09-09",
+        "overview": "Official War Film produced by the U.S. Army Signal Corps shows the importance of U.S. and allied factories in turning out military arms and vehicles to help in the war effort.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Signal Corps",
+                "id": 4223
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0499426",
+        "original_language": "en",
+        "popularity": 0.148,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 376677,
+        "title": "The Battle for the Marianas",
+        "release_date": "1944-09-21",
+        "overview": "Successful but costly invasions of the Japanese-held islands of Guam, Tinian, and Saipan, in the Mariannas chain.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Office of War Information",
+                "id": 6308
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185911",
+        "original_language": "en",
+        "popularity": 0.148,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1165080,
+        "title": "Od pobudki do capstrzyku",
+        "release_date": "1942-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "pl",
+        "popularity": 0.146,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587940,
+        "title": "Fighter Combat Formation: Attacks and Escorts",
+        "release_date": "1944-03-13",
+        "overview": "An ace fighter pilot captain expects to get leave, but instead is ordered to Washington, where a colonel explains that mounting casualties among fighter pilots require new, battle-tested tactics in combat. The captain sets out to train a group of young and relatively inexperienced pilots in the new methods. Fighter planes are used as both attack aircraft and as escorts for heavy bombers, and a variety of flight patterns and defensive and offensive maneuvers are explained to the young pilots.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Picture Unit, United States Army Air Forces",
+                "id": 101192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8774366",
+        "original_language": "en",
+        "popularity": 0.136,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 742339,
+        "title": "Kyouryoku Boukuusen",
+        "release_date": "1942-07-07",
+        "overview": "Woodland animal citizens learn how to extinguish different types of incendiary bombs and help fight back against an enemy air force of wolves.",
+        "poster_path": "/oF54sBcfWu479wZlsSEGcRqmPWt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hiromasa Manga Eiga Kenkyu-jo",
+                "id": 150881
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0419903",
+        "original_language": "ja",
+        "popularity": 0.134,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 395255,
+        "title": "Did You Ever See a Dream Talking",
+        "release_date": "1943-01-01",
+        "overview": "Propaganda comedy promoting the benefits of saving for the war effort.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3292854",
+        "original_language": "en",
+        "popularity": 0.132,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1013590,
+        "title": "Balloon Site 568",
+        "release_date": "1942-04-02",
+        "overview": "Women from a variety of professions sign up to join a volunteer group looking after barrage balloons. Working through all weathers and all hours, after an eleven-week initial training period, they are committed to their work as well as their leisure-time activities.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Strand Film Company",
+                "id": 19846
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1863159",
+        "original_language": "en",
+        "popularity": 0.129,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1282010,
+        "title": "Health in War",
+        "release_date": "1940-01-01",
+        "overview": "The organisation of medical services in Britain during the Second World War.",
+        "poster_path": "/lgNSntCyG1oOtGV10ZfqtppvV3S.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "GPO Film Unit",
+                "id": 15557
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2146598",
+        "original_language": "en",
+        "popularity": 0.117,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 74533,
+        "title": "Submarine T-9",
+        "release_date": "1943-09-22",
+        "overview": "The Great Patriotic War. The Soviet submarine T-9, passing through the minefields of the North Sea, penetrates the enemy port. Sailors drown enemy transport ships, but soon find out that they are late - enemy troops and weapons are already unloaded and sent to the front. Captain Kostrov finds himself in a situation where a combat mission is almost impossible, but he must fulfill it - for him it is a matter of honor or dishonor.",
+        "poster_path": "/tarnipxwi71P7lzQTNJPqY7K1kO.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1767363",
+        "original_language": "ru",
+        "popularity": 0.117,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 534974,
+        "title": "The Son of Native Land",
+        "release_date": "1941-09-14",
+        "overview": "The film is about Kamal Gasimov's heroic fighting at the front.",
+        "poster_path": "/zN2Q6h48bByo57PsQkSCx57GYMh.jpg",
+        "backdrop_path": "/jriJVjVtqeKwCKXIuLHibotT2aX.jpg",
+        "production_companies": [
+            {
+                "name": "Azerbaijanfilm",
+                "id": 29866
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "az",
+                "name": "Azərbaycan"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1767374",
+        "original_language": "az",
+        "popularity": 0.111,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 319113,
+        "title": "The Dawn Guard",
+        "release_date": "1941-01-01",
+        "overview": "Bernard Miles and Percy Walsh play two members of the Home Guard, on duty by a windmill, discussing the causes of the war and the issues at stake.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ministry of Information",
+                "id": 6309
+            },
+            {
+                "name": "Charter Film Productions",
+                "id": 8622
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0459254",
+        "original_language": "en",
+        "popularity": 0.109,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 211192,
+        "title": "Marching On!",
+        "release_date": "1943-01-01",
+        "overview": "During World War II, a young African American is forced to continue his family’s tradition of military service when he is drafted into the United States Army. Despite complications that arise during his basic training, including his jealousy following his girlfriend's flirtatious attention to his sergeant, the young soldier becomes a hero when he locates Japanese saboteurs operating a radio station outside of his military base.",
+        "poster_path": "/k5QDHGqkDPGmmoqD4caK3Va3Tjn.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0135539",
+        "original_language": "en",
+        "popularity": 0.109,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 242806,
+        "title": "The King of the White Elephant",
+        "release_date": "1940-07-27",
+        "overview": "King Chakra is going about his usual palace duties, granting audiences to his advisers, including his Lord Chamberlain, who is keen to see the king fulfill his royal duty of taking 366 wives, including, hopefully among them, the chamberlain's own daughter.",
+        "poster_path": null,
+        "backdrop_path": "/fHhpaHWMeYDVrYufWMUfqKYPW5z.jpg",
+        "production_companies": [
+            {
+                "name": "Pridi Films",
+                "id": 32533
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TH",
+                "name": "Thailand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0415099",
+        "original_language": "th",
+        "popularity": 0.107,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 572777,
+        "title": "Leningrad in Struggle",
+        "release_date": "1942-02-23",
+        "overview": "Frustration of the German attempt to capture Leningrad, 1941, the besieging of the city.",
+        "poster_path": "/gbEN9sjaozNIn1oQq8R06LuuF1R.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Leningrad Documentary Film Studio",
+                "id": 89930
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034971",
+        "original_language": "ru",
+        "popularity": 0.106,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 633478,
+        "title": "The Three-hundred of the Seventh",
+        "release_date": "1943-04-21",
+        "overview": "War film by director Mario Baffico and interpreted by Italian soldiers belonging to the Alpine Division \"Cuneense,\" veterans of the Albanian frontof the Italian-Greek war. The film was inspired by an episode that actually happened. Shot in the summer months of 1942, but not released until May 1943.",
+        "poster_path": "/tN6ZI10HKopIv728cmkNfze71W8.jpg",
+        "backdrop_path": "/cGD61Ma5cGsx38qF1JsGYGVK4Kl.jpg",
+        "production_companies": [
+            {
+                "name": "Istituto Luce Cinecittà",
+                "id": 317
+            },
+            {
+                "name": "Nettunia Film",
+                "id": 164580
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035472",
+        "original_language": "it",
+        "popularity": 0.097,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383039,
+        "title": "Pincers on Japan",
+        "release_date": "1944-04-06",
+        "overview": "When the Japanese invade the Aleutian Islands, the Allied forces must push them back.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt22035286",
+        "original_language": "en",
+        "popularity": 0.092,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1219853,
+        "title": "Trois chansons de la résistance",
+        "release_date": "1944-01-01",
+        "overview": "French Resistance propaganda film. Filmed in wartime London and distributed to the Free French troops in England and Canada. Germaine Sablon interprets three songs, including the Song of the Partisans.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ealing Studios",
+                "id": 2650
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.085,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 388860,
+        "title": "The Quack Infantry Troop",
+        "release_date": "1940-01-01",
+        "overview": "The conflict between ducklings and frogs escalates into war. However, a lightning strike makes the fighters realize the trivial nature of their battle.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ministry of Education (Japan)",
+                "id": 91076
+            },
+            {
+                "name": "Geijutsu Eiga-sha",
+                "id": 87104
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0418457",
+        "original_language": "ja",
+        "popularity": 0.082,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587948,
+        "title": "It's Your War Too",
+        "release_date": "1944-04-20",
+        "overview": "Documentary short film detailing the history of the American Women's Army Corps, the WACS.  Preserved by the Academy Film Archive, Academy War Film Collection, in 2009.",
+        "poster_path": "/qiigG0QbHxUDy5Sq02vSvqoYYV8.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Signal Corps",
+                "id": 4223
+            },
+            {
+                "name": "U.S. War Department",
+                "id": 101116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186247",
+        "original_language": "en",
+        "popularity": 0.064,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1150060,
+        "title": "Road to the Reich",
+        "release_date": "1944-07-10",
+        "overview": "Highlights of the Allied advance from Normandy to Antwerp during World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0224020",
+        "original_language": "en",
+        "popularity": 0.062,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 854828,
+        "title": "Przysięgamy ziemi polskiej",
+        "release_date": "1943-09-01",
+        "overview": "",
+        "poster_path": "/nFeF2V0IfIWEVPGFyC1Yuzu3q5t.jpg",
+        "backdrop_path": "/3nQWtXOx6ePonEBRHsRxyeAhLAI.jpg",
+        "production_companies": [
+            {
+                "name": "Czołówka Filmowa",
+                "id": 158098
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0170469",
+        "original_language": "pl",
+        "popularity": 0.062,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1380572,
+        "title": "Divide and Conquer",
+        "release_date": "1942-08-29",
+        "overview": "Dealing with the subject of rumor mongering, clips from Nazi films are employed to show how the ruthless invasions of neutral countries were planned in advance.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3919810",
+        "original_language": "en",
+        "popularity": 0.045,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 476321,
+        "title": "Guard Along the Drina",
+        "release_date": "1942-01-01",
+        "overview": "A compilation of week journals made for Nazi-puppet regime in Croatia during WW II which show the warfare of Ustasha forces against Yugoslav partisans and Chetniks in eastern Bosnia.",
+        "poster_path": "/avibpdE5qcYH0aJdRYlC7nSIdum.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hrvatski Slikopis",
+                "id": 66060
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HR",
+                "name": "Croatia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hr",
+                "name": "Hrvatski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035387",
+        "original_language": "hr",
+        "popularity": 0.041,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1198381,
+        "title": "We Sail at Midnight",
+        "release_date": "1943-10-30",
+        "overview": "A short documentary style film it depicts the story of The British obtaining a special tool from America to help with the building of a tank.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Crown Film Unit",
+                "id": 16204
+            },
+            {
+                "name": "Ministry of Information",
+                "id": 6309
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036517",
+        "original_language": "en",
+        "popularity": 0.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658713,
+        "title": "Combat Bulletin #23",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552840",
+        "original_language": "en",
+        "popularity": 0.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 588114,
+        "title": "This Is Guadalcanal",
+        "release_date": "1944-03-14",
+        "overview": "This U.S. Marine Corps documentary from 1944 showcases the battle of Guadalcanal. The small island of Guadalcanal was, like many of the Pacific islands, defended with great determination by the Japanese forces. Both the landing on the beaches and the subsequent inland fighting resulted in heavy casualties for the Americans - and the Japanese fought to almost the last man and the last bullet.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6496764",
+        "original_language": "en",
+        "popularity": 0.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 329032,
+        "title": "A Challenge To Democracy",
+        "release_date": "1944-01-02",
+        "overview": "An examination of the living conditions at Japanese-American relocation centers.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6014026",
+        "original_language": "en",
+        "popularity": 0.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1111033,
+        "title": "Family Feud",
+        "release_date": "1943-11-04",
+        "overview": "Documentary short film depicting ways in which Americans can assist the war effort by proper conservation around the home.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185305",
+        "original_language": "en",
+        "popularity": 0.033,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1040532,
+        "title": "Family of Patriots",
+        "release_date": "1941-07-09",
+        "overview": "Patriotic film from 1941 of Armenian men being called up to fight for the Red Army",
+        "poster_path": "/uI72juzmhpgjqOIrThbj4ZExXH1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Armenfilm",
+                "id": 4484
+            },
+            {
+                "name": "Yerevan Film Studio",
+                "id": 19227
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hy",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "hy",
+        "popularity": 0.033,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 533103,
+        "title": "Bakhtiyar",
+        "release_date": "1942-01-01",
+        "overview": "The short film is about the heroism of Azeri soldier.",
+        "poster_path": "/aJq1d8ID3PfqVRoiz9ULo3eWiIh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Azerbaijanfilm",
+                "id": 29866
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "az",
+                "name": "Azərbaycan"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1767278",
+        "original_language": "az",
+        "popularity": 0.029,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 63047,
+        "title": "The Frontshow",
+        "release_date": "1942-01-02",
+        "overview": "The Front Show is a series of World War II era German military training films shown to German soldiers before being shipped off to the Eastern Front. They were directed by the veteran propagandist Fritz Hippler, best known for Der Ewige Jude.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2457530",
+        "original_language": "en",
+        "popularity": 0.029,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381029,
+        "title": "The Siege of Tobruk",
+        "release_date": "1942-06-11",
+        "overview": "Documentary examination of the battle for Tobruk in the Second World War. British empire troops assault the German Afrika Korps in North Africa in order to win control over the seaport city of Tobruk in Libya. Field Marshall Montgomery is seen leading his troops in a massive infantry and tank battle.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Army Film Unit",
+                "id": 34534
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt21147336",
+        "original_language": "en",
+        "popularity": 0.022,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1393291,
+        "title": "World in Flames",
+        "release_date": "1940-10-23",
+        "overview": "A documentary about the events leading up to World War II and the first year of the war, compiled largely from Paramount Pictures newsreels of the 1930s.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6424172",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383062,
+        "title": "Willing Hands",
+        "release_date": "1944-11-05",
+        "overview": "In this film, Matthew McMurray, Royal Voluntary Service Keeper of History sets the scene for the charity’s beginnings and its impact on British society. He then introduces Willing Hands, a historic film produced for the Ministry of Information, which shows the activities of the then Women’s Voluntary Service (WVS) during the Second World War, supporting people in need.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0312027",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383060,
+        "title": "Yanks Smash Truk!",
+        "release_date": "1944-11-05",
+        "overview": "Newsreel of Operation Hailstone, the U.S. assault on the naval base at Truk (aka \"Japan's Pearl Habor\").",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Castle Films",
+                "id": 21772
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12822848",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383051,
+        "title": "Wounded in Action",
+        "release_date": "1944-11-05",
+        "overview": "'Wounded in Action' is a 22-minute 1944 Canadian documentary film, made by the National Film Board of Canada (NFB) as part of the wartime Canada Carries On series. The film documents the work carried out by medical services in saving the lives of those who are wounded in action during the Second World War. The French version title of Wounded in 'Action is Blessé au combat'.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11252734",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1383027,
+        "title": "Instructing the Worker on the Job",
+        "release_date": "1944-11-05",
+        "overview": "How to properly assign a new worker into the production line.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Office of Education, Division of Visual Aids",
+                "id": 243884
+            },
+            {
+                "name": "Federal Security Agency",
+                "id": 167398
+            },
+            {
+                "name": "Caravel Films",
+                "id": 228871
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12657354",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381953,
+        "title": "The Japanese Army and Navy",
+        "release_date": "1943-11-03",
+        "overview": "An official U.S. War Department film restricted in nature and produced by the US Army Pictorial Service, “The Japanese Army and Navy” is a black-and-white creation that “has been assembled from Japanese films and is designed for use in the Civil Affairs Training Schools conducted by The Provost Marshal General.”",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Pictorial Services",
+                "id": 39492
+            },
+            {
+                "name": "U.S. War Department",
+                "id": 101116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6286326",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381920,
+        "title": "Pliers and Screwdrivers",
+        "release_date": "1943-11-03",
+        "overview": "Made to support WWII war workers, this 1943 War Department Training film was part of a series that covers the care and use of essential tools such as pliers and screwdrivers. It covers common mistakes that people make, how to correct them, and how to care for tools to ensure they last long. The film’s general theme is that while pliers and screwdrivers are handy tools that can be used in a lot of situations, they should still be used for their intended purposes.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Army Service Forces",
+                "id": 243675
+            },
+            {
+                "name": "The Plomb Tool Company",
+                "id": 243676
+            },
+            {
+                "name": "U.S. Army Signal Corps",
+                "id": 4223
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12656722",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381910,
+        "title": "Pacific Milk Run",
+        "release_date": "1943-11-03",
+        "overview": "In \"Pacific Milk Run\" U.S. Marine SBDs and other aircraft attack Japanese-held Islands in the Pacific during World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "The U.S. Navy",
+                "id": 115847
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12816892",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381902,
+        "title": "The Aircraft Rocket, Part 4: Tactics, Section 2: Coastal",
+        "release_date": "1944-01-01",
+        "overview": "One of a series of World War II-era RAF training films, this instalment instructs Coastal Command pilots on proper formation and firing techniques for interdicting enemy shipping.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Royal Air Force Film Production Unit",
+                "id": 19059
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381894,
+        "title": "Message from Malta",
+        "release_date": "1943-06-10",
+        "overview": "The lives of the people of Malta and their endurance under the trials of the Second World War are displayed in this documentary short film.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185494",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381207,
+        "title": "Infantry Weapons and Their Effect",
+        "release_date": "1943-11-01",
+        "overview": "U.S. WWII  War Department training film -- \"Infantry Weapons and Their Effects\" -- covers the major infantry weapons in use by the U.S. Army.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army Signal Corps",
+                "id": 4223
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt17059188",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1381013,
+        "title": "The Battle for Oil",
+        "release_date": "1942-03-23",
+        "overview": "A Second World War documentary film produced for and by the National Film Board of Canada in 1942 as part of the \"Canada Carries On\" short documentary series. It uses stock footage, dating back to the First World War, in its theme of showing how dependent modern war vehicles are on having a fuel supply source. In the First World War, Britain's sea power was preserved through the maintenance of a series of coaling stations dotting the Seven Seas. With the change to oil, rather than coal, the necessities for European nations, without home supply, are dependent on the Near-and-Far East where the pipe-lines and oil production have to be defended against attacks by the Axis powers. Canada's role in oil production is also highlighted.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1298539",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1380727,
+        "title": "Quebec, Path of Conquest",
+        "release_date": "1942-10-31",
+        "overview": "From the Canada Carries On series.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0282877",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1380666,
+        "title": "Battle Is Our Business",
+        "release_date": "1942-10-31",
+        "overview": "Battle training for Canadian soldiers.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            },
+            {
+                "name": "Ministry of Information",
+                "id": 6309
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0369262",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1380023,
+        "title": "Fundamental Fixed Gunnery Approaches",
+        "release_date": "1941-01-01",
+        "overview": "The 1943 Navy training film (MN-84b) Fundamental Fixed Gunnery Approaches is part of a series known as the “Fixed Gunnery and Fighter Tactics” series used to enhance in-classroom learning of Navy pilots. Fundamental Fixed Gunnery Approaches primarily uses graphics and models to demonstrate the various approaches for fixed gunnery, though it does include some actual video footage of planes flying the maneuvers.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United States Navy",
+                "id": 9381
+            },
+            {
+                "name": "Bureau of Aeronautics",
+                "id": 113897
+            },
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12606822",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1380016,
+        "title": "Ulster",
+        "release_date": "1941-10-30",
+        "overview": "British documentary on how the community of Ulster got converted to war times.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "British Council",
+                "id": 113847
+            },
+            {
+                "name": "Strand Film Company",
+                "id": 19846
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3834980",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1380004,
+        "title": "The News Parade: U.S. Navy Blasts Marshall Island",
+        "release_date": "1941-12-30",
+        "overview": "US Navy Blasts Marshall Islands. Marshall Island marks one of the first sea battles location. This short shows sailors and flyers on ships sailing into the South Pacific.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Castle Films",
+                "id": 21772
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7074868",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1379970,
+        "title": "Japs Bomb U.S.A.!",
+        "release_date": "1941-12-17",
+        "overview": "A newsreel that covers the Japanese forces attack on the American military base of Pearl Harbor, on December 1941. It shows some images from the attack, and also the aftermath with the first volunteers who would serve to fight in the Pacific.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Castle Films",
+                "id": 21772
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12711992",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1379960,
+        "title": "Fight for Liberty",
+        "release_date": "1941-10-30",
+        "overview": "A Canadian documentary on the progress of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0370565",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1374078,
+        "title": "Britain Shoulder Arms",
+        "release_date": "1940-03-20",
+        "overview": "After the Great War of 1914-1918 Britain was left with one predominant desire--to live in peace. Fifteen years later, however, world-stirring events brought a new threat to democracy and a new spirit became evident at the Ministry of War. The ranks of the Regular Army were expanded by an intensive recruiting campaign. As the war-clouds gathered Britain forsook the traditional system of voluntary recruiting and adopted compulsory service, thus ensuring that if the need arose a vast army could rapidly be set on the march. When war did break out, the Army was ready, and it was able to embark for service overseas with efficiency and confidence.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "British Paramount News",
+                "id": 188526
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4048814",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1374014,
+        "title": "Manchester Took It, Too",
+        "release_date": "1940-10-20",
+        "overview": "London was only one of the many cities that was bombed by the Luftwaffe during the Second World War. \"Manchester Took It Too\" is propaganda film showing the effects of German air raids on the city of Manchester.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Co-Operative Wholesale Society (CWS)",
+                "id": 242312
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1865439",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1367779,
+        "title": "L'uomo della legione",
+        "release_date": "1940-01-01",
+        "overview": "An Italian movie.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0033213",
+        "original_language": "it",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1325934,
+        "title": "Enemy of Life",
+        "release_date": "1941-01-01",
+        "overview": "Importance of infectious diseases in society and ways to prevent them.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "mn",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1298161,
+        "title": "Νύχτα χωρίς ξημέρωμα",
+        "release_date": "1941-01-20",
+        "overview": "",
+        "poster_path": "/q2dJVMNcUZ7VbN2HJyESkvtwutL.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "el",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1239917,
+        "title": "Miyamoto Musashi - Dai-ichi-bu: Kusawake no hitobito - Dai-ni-bu: Eitatsu no mon",
+        "release_date": "1940-01-01",
+        "overview": "A movie by Hiroshi Inagaki",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0032822",
+        "original_language": "ja",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1200111,
+        "title": "From D-Day to Germany",
+        "release_date": "1944-11-03",
+        "overview": "Behind-the-lines documentary filmed by World War II correspondent Jack Lieb. Most of the footage shows areas already cleared by Allied forces as they made their way to Germany.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7054710",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1197259,
+        "title": "Klooga Death Camp",
+        "release_date": "1944-09-21",
+        "overview": "",
+        "poster_path": "/cxkl67DBUufnQ14HVfXdabYENw6.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Leningrad Documentary Film Studio",
+                "id": 89930
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1150064,
+        "title": "She Speeds the Victory",
+        "release_date": "1944-07-10",
+        "overview": "During this time of war, Canadian men are battling on the front. But the chain of command and information about what happens on the battlefield is often a two-way communication between the front and the authorities back in Canada. It is in many of those at home functions that women can play an important role in the war effort, they in military functions members of the Canadian Women's Army Corps.",
+        "poster_path": "/boP5fDcxgIibtTnMRwKAZoy0PjZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt27735296",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1150052,
+        "title": "Northwest by Air",
+        "release_date": "1944-07-10",
+        "overview": "The construction of chains of airfields in northwestern Canada was a difficult job of strategic importance in the war effort.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0308661",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1149845,
+        "title": "Tomorrow's World",
+        "release_date": "1943-07-09",
+        "overview": "From the 'Canada Carries On' series, this documentary emphasizes the importance of conservation and rationing, and the increased industrial production, during World War II. It suggests that \"tomorrow's world\" will be more prosperous and better planned because of the war efforts.",
+        "poster_path": "/6c5sgBNLIPrFBHZhK8VIN6pHw15.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11253172",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1021750,
+        "title": "Invasion - Nazi Version",
+        "release_date": "1944-12-23",
+        "overview": "Created by the U.S. Navy's Industrial Incentive Division and the Office of Strategic Service (OSS) during WWII, this \"Nazi version\" of the Normandy invasion is a translated, authentic German newsreel. The strategy at work here is taken from Frank Capra, who used authentic enemy newsreels and motion picture films in his \"Why We Fight\" series to provide insight into the Axis. This film, like \"Why We Fight\", was intended to make its intended audience — American war workers to whom these types of incentive films were shown —outraged, helping them focus on the vital task of production. - Periscope Film",
+        "poster_path": "/rosXyvTeLsz4KH1RWMgVT0ghjgy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Office of Strategic Services",
+                "id": 243422
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt30803860",
+        "original_language": "de",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 975774,
+        "title": "The Cavalry",
+        "release_date": "1942-01-01",
+        "overview": "The events of Tanker Jargal and Cavalryman Tsend show that every citizen must fight against a foreign enemy for the independence of his country. Tseren, a man who mischievously misleads the letters sent by the two to their beloved ladies, expresses the evil plot of the enemy.",
+        "poster_path": "/bgbkWw4z0otiz2xGK9MRNLJv795.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "mn",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 959488,
+        "title": "A Priceless Head",
+        "release_date": "1942-04-01",
+        "overview": "One of Boris Barnet's contributions to the \"films for the armed forces\" series, about the suffering of Poles under Nazi occupation.",
+        "poster_path": "/99FQaOLbmQqwKyTtROp1QpWxnZD.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 935678,
+        "title": "Land and Live in the Arctic",
+        "release_date": "1943-01-01",
+        "overview": "Documentary short film depicting the correct methods of surviving the crash landing of a military aircraft in the arctic.",
+        "poster_path": "/kcfOjUzhonVz0XwBNWQeZubSJ3X.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 935745,
+            "name": "Land and Live"
+        },
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 884748,
+        "title": "Как Вася Тёркин призываться шёл",
+        "release_date": "1941-07-01",
+        "overview": "",
+        "poster_path": "/65wQiHIN3sKCpxIlZEKq5wFEEue.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8774210",
+        "original_language": "ru",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 777511,
+        "title": "Canadian Army Newsreel",
+        "release_date": "1941-12-01",
+        "overview": "The Canadian Army Newsreels hold an important place in Canada's military history. The newsreels were produced by the Army for soldiers serving overseas. The front-line cameramen were soldiers first and took guns into battle along with their 35 mm movie cameras to record the Canadian Infantry in action. Their heroic efforts enabled them to scoop the international press on the major events in Europe, including the invasion of Sicily and the top story of the century - D-Day. 106 episodes with a total runtime of 1099 minutes.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12950168",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658726,
+        "title": "Combat Bulletin #31",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552870",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658724,
+        "title": "Combat Bulletin #30",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552848",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658723,
+        "title": "Combat Bulletin #29",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552856",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658721,
+        "title": "Combat Bulletin #28",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552864",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658719,
+        "title": "Combat Bulletin #27",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552854",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658718,
+        "title": "Combat Bulletin #26",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552846",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658715,
+        "title": "Combat Bulletin #24",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552836",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658712,
+        "title": "Combat Bulletin #22",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552834",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658710,
+        "title": "Combat Bulletin #21",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552832",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658709,
+        "title": "Combat Bulletin #20",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552842",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658708,
+        "title": "Combat Bulletin #19",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552844",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658707,
+        "title": "Combat Bulletin #18",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552838",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 658706,
+        "title": "Combat Bulletin #17",
+        "release_date": "1944-12-28",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552852",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 655503,
+        "title": "Combat Bulletin #5",
+        "release_date": "1944-12-13",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552816",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 655495,
+        "title": "Combat Bulletin #4",
+        "release_date": "1944-12-13",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552824",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 655494,
+        "title": "Combat Bulletin #3",
+        "release_date": "1944-12-13",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552812",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 655493,
+        "title": "Combat Bulletin #2",
+        "release_date": "1944-12-13",
+        "overview": "Combat Bulletin was a new reel type series keeping folks up-to-date with the combat of World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5552814",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 622213,
+        "title": "Liverpool 1941",
+        "release_date": "1941-05-07",
+        "overview": "An amateur silent film documenting the effects of German bombing raids on the city and the docks in May 1941. Liverpool landmarks glimpsed include the Royal Liver Building, Mersey Docks, Our Lady and St Nicholas Church, St Luke's Tower, Derby Square, Haymarket and Lewis's department store.",
+        "poster_path": "/pMlorcQg0AoS2vXA8ksP8YypMgQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 590559,
+        "title": "Proudest Girl in the World",
+        "release_date": "1944-03-25",
+        "overview": "During the Second World War, the Canadian Army presents a Hollywood-style short musical film encouraging women to enlist.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0246173",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 590466,
+        "title": "Scharfschütze im Einsatz: Die unsichtbare Waffe",
+        "release_date": "1944-03-24",
+        "overview": "German training film from World War II. The Unseen Weapon.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Das Oberkommando der Luftwaffe (OKL)",
+                "id": 116299
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7621678",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 590460,
+        "title": "Sharpshooter: Master of Camouflage and Deception",
+        "release_date": "1944-03-24",
+        "overview": "German training film from World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Das Oberkommando der Luftwaffe (OKL)",
+                "id": 116299
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7621660",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 588164,
+        "title": "China Crisis: The Story of the 14th Air Force",
+        "release_date": "1944-03-14",
+        "overview": "This documentary depicts the American effort to support the Chinese government before and during the Second World War, by means of transport flights of materiel from India to China, by the fierce defense of China skies by the pilots of the American Volunteer Group (The Flying Tigers), and the subsequent absorption and augmentation of that unit by the U.S. Army Air Forces' Fourteenth Air Force. Also depicted are the millions of refugees fleeing the Japanese armies and the relocation of equipment, personnel, and (sometimes) civilians in advance of the invaders.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Picture Unit, United States Army Air Forces",
+                "id": 101192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1769370",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 588117,
+        "title": "The War Speeds Up",
+        "release_date": "1944-09-07",
+        "overview": "Documentary short film explaining the need for increased production of war materials such as artillery shells and bullets as the pace of the Allied war effort increases.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army",
+                "id": 113939
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186684",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 588113,
+        "title": "The Price of Rendova",
+        "release_date": "1944-01-06",
+        "overview": "Documentary short subject depicting the battle for the island of Rendova, a vital part of the American campaign against the Japanese in World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "U.S. Army",
+                "id": 113939
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185616",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 588107,
+        "title": "The 957th Day",
+        "release_date": "1944-03-14",
+        "overview": "The 957th Day was a propaganda short produced by the US Navy in 1944. The film uses authentic battle footage of the taking of Guam on July 21, 1944, and one narration follows the battle chronologically, while another narration mimics a radio news caster voice.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5161378",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587957,
+        "title": "London Terminus",
+        "release_date": "1944-03-13",
+        "overview": "Documentary depicting all the various different jobs that go to keep Waterloo Station running, illustrated via the device of one of the porters and his girl going to the local news cinema to watch a film about the station.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Raylton Productions",
+                "id": 113952
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1744777",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587952,
+        "title": "Liberation of Rome",
+        "release_date": "1944-07-13",
+        "overview": "Documentary short film depicting the successful Allied advance into Rome, freeing it from German control during World War II.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "British Service Units",
+                "id": 81696
+            },
+            {
+                "name": "The War Department",
+                "id": 112810
+            },
+            {
+                "name": "U.S. Army Pictorial Services",
+                "id": 39492
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186306",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587889,
+        "title": "Battle Wreckage",
+        "release_date": "1944-03-13",
+        "overview": "This historic documentary focuses on why large quantities of war materials, especially steel, are needed to win the war. Also featured is footage on the sea battle and beachhead landing of the Normandy invasion.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6723092",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587885,
+        "title": "At His Side",
+        "release_date": "1944-01-24",
+        "overview": "Documentary short film depicting the activities of the American Red Cross in the Allied war effort.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "American Red Cross",
+                "id": 113957
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185164",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587881,
+        "title": "V-1: The Robot Bomb",
+        "release_date": "1944-11-17",
+        "overview": "British documentary short made to describe the attacks made on England by Hitler's V-1 bombs and the successful destruction of many of these bombs before they could fall on their targets.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Crown Film Unit",
+                "id": 16204
+            },
+            {
+                "name": "Ministry of Information",
+                "id": 6309
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186671",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587872,
+        "title": "Target: Japan",
+        "release_date": "1944-10-26",
+        "overview": "Documentary short film depicting the progress made by the U.S. Navy in the Pacific Theatre during 1944.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United States Navy",
+                "id": 9381
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186604",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

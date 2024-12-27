@@ -1,0 +1,5212 @@
+[
+    {
+        "id_tmdb": 1654,
+        "title": "The Dirty Dozen",
+        "release_date": "1967-06-15",
+        "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+        "poster_path": "/rM8EaV8NhevxfwbmYcmCnIZCkYP.jpg",
+        "backdrop_path": "/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+        "production_companies": [
+            {
+                "name": "Seven Arts Pictures",
+                "id": 14159
+            },
+            {
+                "name": "MKH",
+                "id": 79298
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 5400000,
+        "revenue": 45300000,
+        "vote_average": 7.589,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 124492,
+            "name": "The Dirty Dozen Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0061578",
+        "original_language": "en",
+        "popularity": 23.113,
+        "status": "Released",
+        "tagline": "Train them! Excite them! Arm them!...Then turn them loose on the Nazis!",
+        "video": false
+    },
+    {
+        "id_tmdb": 42700,
+        "title": "The Night of the Generals",
+        "release_date": "1967-01-29",
+        "overview": "A German intelligence officer investigates a prostitute's killing in Warsaw during World War II. He lands on three major Nazi generals as suspects, two of whom are also involved in a plot to kill Adolf Hitler.",
+        "poster_path": "/qcr0rCbqij3dSDpBsAUTItEBMaC.jpg",
+        "backdrop_path": "/rnVUiToPHz05m2L1ck7ajMMwVZb.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Horizon Pictures",
+                "id": 11356
+            },
+            {
+                "name": "Filmsonor",
+                "id": 534
+            },
+            {
+                "name": "Zespół Filmowy \"Studio\"",
+                "id": 34272
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 5200000,
+        "revenue": 2400000,
+        "vote_average": 6.769,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062038",
+        "original_language": "en",
+        "popularity": 9.285,
+        "status": "Released",
+        "tagline": "Patriotism has been known to have its vicious side.",
+        "video": false
+    },
+    {
+        "id_tmdb": 149467,
+        "title": "War and Peace, Part III: The Year 1812",
+        "release_date": "1967-07-21",
+        "overview": "In 1812, Napoleon's Army invades Russia. Kutuzov asks Bolkonsky to join him as a staff officer, yet the prince requests a command in the field. Pierre sets out to watch the upcoming confrontation between the armies. During the Battle of Borodino, he volunteers to assist in an artillery battery. Bolkonsky's unit waits in the reserve, but he is hit by a shell. Both Anatol and Bolkosnky suffer severe wounds. The French Army is victorious and advances on Moscow.",
+        "poster_path": "/2OusacyFfY0y9Ky4jEUiC8DXZJ8.jpg",
+        "backdrop_path": "/mwmQBgO5lOUKIpn1B5SSI7k4crS.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 504490,
+            "name": "War and Peace Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0062455",
+        "original_language": "ru",
+        "popularity": 7.463,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 47370,
+        "title": "Japan's Longest Day",
+        "release_date": "1967-08-03",
+        "overview": "Following the detonation of the atomic bombs on Hiroshima and Nagasaki, the Japanese military and the government clash over the demand from the Allies for unconditional surrender. Minister of the Army Anami leads the military officers who propose to fight on, even to the death of every Japanese citizen. Emperor Hirohito, however, joins with his ministers in asking the unthinkable, the peaceful surrender of Japan. When the military plots a coup to overthrow the Emperor's civilian government, Anami must face the choice between his desires and loyalty to his Emperor.",
+        "poster_path": "/1IfCvCMoE14B2DbLtcWz4bgkl7P.jpg",
+        "backdrop_path": "/gWol7dPJ97VAGXU637OY19hWal.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062041",
+        "original_language": "ja",
+        "popularity": 7.145,
+        "status": "Released",
+        "tagline": "The dramatic true story of the end of WW II.",
+        "video": false
+    },
+    {
+        "id_tmdb": 52885,
+        "title": "The Red and the White",
+        "release_date": "1967-11-03",
+        "overview": "In 1919, Hungarian Communists aid the Bolsheviks' defeat of Czarists, the Whites. Near the Volga, a monastery and a field hospital are held by one side and then the other.",
+        "poster_path": "/ksoCAQDpcQl4gmkL9IGdtFCQGnv.jpg",
+        "backdrop_path": "/tX46PTo0xv4XlxtUpMTujcUPOg4.jpg",
+        "production_companies": [
+            {
+                "name": "Mafilm",
+                "id": 8100
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.139,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061537",
+        "original_language": "hu",
+        "popularity": 6.707,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 25385,
+        "title": "Tobruk",
+        "release_date": "1967-02-07",
+        "overview": "In September 1942, the German Afrika Korps under Rommel have successfully pushed the Allies back into Egypt. A counter-attack is planned, for which the fuel dumps at Tobruk are a critical impediment. In order to aid the attack, a group of British commandos and German Jews make their way undercover through 800 miles of desert, to destroy the fuel dumps starving the Germans of fuel.",
+        "poster_path": "/5QJNlZGLktDHFqrCtE8cBO6VnmE.jpg",
+        "backdrop_path": "/llFa51lyn3muKVe4ek7d0vJkr9z.jpg",
+        "production_companies": [
+            {
+                "name": "The Corman Company",
+                "id": 30200
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Gibraltar Productions",
+                "id": 3809
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062377",
+        "original_language": "en",
+        "popularity": 6.496,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 149468,
+        "title": "War and Peace, Part IV: Pierre Bezukhov",
+        "release_date": "1967-11-04",
+        "overview": "As Moscow is set ablaze by the retreating Russians, the Rostovs flee their estate, taking wounded soldiers with them, and unbeknownst to them, also Andrei. Pierre, dressed as a peasant, tries to assassinate Napoleon but is taken prisoner. As the French are forced to retreat, he is marched for months with the Grande Armée, until being freed by a raiding party. The French are defeated by Kutuzov in the Battle of Krasnoi. Andrei is recognized and is brought to his estate. He forgives Natasha on his deathbed. She reunites with Pierre and they marry as Moscow is being rebuilt.",
+        "poster_path": "/mYcgh1FvxS3fu9gEsqFOXnrcqpw.jpg",
+        "backdrop_path": "/ysDpKFaYrgzpRpHd1TiJcRumRVa.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 504490,
+            "name": "War and Peace Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0062456",
+        "original_language": "ru",
+        "popularity": 6.494,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1156065,
+        "title": "Nostalgia",
+        "release_date": "1967-12-08",
+        "overview": "",
+        "poster_path": "/qg96Z3woWnlZOZNzJmybXEXjUJ6.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ko",
+        "popularity": 5.916,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 4949,
+        "title": "A Time for Killing",
+        "release_date": "1967-08-01",
+        "overview": "During the Civil War, Confederate soldiers escape from a Union prison and head for the Mexican border. Along the way, they kill a Union courier bearing the news that the war is over. Keeping the message a secret, the captain has his men go on and they soon find themselves in a battle with the Union search party who also is unaware of the war's end.",
+        "poster_path": "/7xIfi6De5aavf1nuHEbcKZ61jkV.jpg",
+        "backdrop_path": "/gtfIjT2D6f3WYQqyUZcZ0xHDTyF.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2000000,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062373",
+        "original_language": "en",
+        "popularity": 5.634,
+        "status": "Released",
+        "tagline": "Two violent men... and a violated woman!",
+        "video": false
+    },
+    {
+        "id_tmdb": 29048,
+        "title": "How I Won the War",
+        "release_date": "1967-10-18",
+        "overview": "An inept British WWII commander leads his troops to a series of misadventures in North Africa and Europe.",
+        "poster_path": "/m3m6WC9JEKpCNht26OcFEDVU3V1.jpg",
+        "backdrop_path": "/8dsuoLApDJ3ioVNEEuSC5JP5o7N.jpg",
+        "production_companies": [
+            {
+                "name": "Petersham Pictures",
+                "id": 33934
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061789",
+        "original_language": "en",
+        "popularity": 5.462,
+        "status": "Released",
+        "tagline": "\"There's been some marvelous advances in surgery, thanks to war!\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 71336,
+        "title": "The Commissar",
+        "release_date": "1967-06-06",
+        "overview": "Klavdia Vavilova, a Red Army cavalry commissar, is waylaid by an unexpected pregnancy. She stays with a Jewish family to give birth and is softened somewhat by the experience of family life.",
+        "poster_path": "/wDHjB5jhTUNR2rymuDroydqONpn.jpg",
+        "backdrop_path": "/7xwsVxCgtmB8mtO8jlsxoESt31S.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.649,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061876",
+        "original_language": "ru",
+        "popularity": 5.095,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36662,
+        "title": "The Dacians",
+        "release_date": "1967-05-31",
+        "overview": "The great King of Dacia, Decebal (Decebalus), is disposed to make the ultimate sacrifice in order to keep the integrity of his people. His own son, Cotyso, is given to the god Zamolxis to the dismay of the King and his daughter Meda. Septimius Severus, a young Roman devoted to his adopted country, must make the choice between his blood origins and the culture he was introduced to.",
+        "poster_path": "/n7MoNpvg0ZUvNrrpw4arcNHaWKf.jpg",
+        "backdrop_path": "/ocVv7ivaYXl2TFrQbk25mnzhhsm.jpg",
+        "production_companies": [
+            {
+                "name": "Studioul Cinematografic București",
+                "id": 13644
+            },
+            {
+                "name": "Franco London Films",
+                "id": 1477
+            },
+            {
+                "name": "România Film",
+                "id": 7168
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0060482",
+        "original_language": "ro",
+        "popularity": 4.772,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 386764,
+        "title": "Classmates",
+        "release_date": "1967-06-03",
+        "overview": "A story of young students trained to become Kamikaze pilots in World War II.",
+        "poster_path": "/gpaUFHPA8cjKiCTIK4fGwbtyq3j.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1534099",
+        "original_language": "ja",
+        "popularity": 4.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 66568,
+        "title": "The 25th Hour",
+        "release_date": "1967-04-26",
+        "overview": "A Romanian peasant fights to get back to his family after he's imprisoned by the Nazis.The picture is based on real events. It includes Hungary's government in collaboration with the Nazis, the encroachment of Romania by Stalin's troopers, and other happenings.",
+        "poster_path": "/6dn74C4XXSU4bAigMdUEDjjM57T.jpg",
+        "backdrop_path": "/kNHhWlyS5ydDK2iYqNIHkqRkPuN.jpg",
+        "production_companies": [
+            {
+                "name": "C. C. Champion",
+                "id": 10000
+            },
+            {
+                "name": "Les Films Concordia",
+                "id": 1714
+            },
+            {
+                "name": "Avala Film",
+                "id": 5940
+            },
+            {
+                "name": "Carlo Ponti Production",
+                "id": 60762
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.67,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062445",
+        "original_language": "fr",
+        "popularity": 4.318,
+        "status": "Released",
+        "tagline": "A Love Story That Rises Above the Tides of Battle!",
+        "video": false
+    },
+    {
+        "id_tmdb": 530734,
+        "title": "Wild Honey",
+        "release_date": "1967-07-10",
+        "overview": "1943 year. On the instructions of the military newspaper, the photojournalist Varvara Knyazhich goes to the front line to take some pictures of the knocked-down powerful German tank \"Tiger\". In a combat situation, she has to face a difficult relationship between officers and subordinates. During the execution of a journalistic assignment, Varya is literally two steps from death. But it is here that she is destined to find her love...",
+        "poster_path": "/2OluY8GcnxfRnV5KdY9iCuPcrOZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0060309",
+        "original_language": "ru",
+        "popularity": 4.049,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 106370,
+        "title": "Strong with Spirit",
+        "release_date": "1967-10-30",
+        "overview": "Story of a Russian intelligence officer Nikolai Kuznetsov (known as lieutenant Paul Wilhelm Zibert) who worked in the capital of occupied by fascist troops Ukraine. 960 days and nights were left until the end of the Second World War.",
+        "poster_path": "/d5ysWo8Rxe1qbrgS0uPLal4WQsQ.jpg",
+        "backdrop_path": "/4z2TZBuwL3Dr2cyIzbWys4Q8MaY.jpg",
+        "production_companies": [
+            {
+                "name": "Sverdlovsk Film Studio",
+                "id": 11436
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062272",
+        "original_language": "ru",
+        "popularity": 3.972,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 39519,
+        "title": "Beach Red",
+        "release_date": "1967-08-03",
+        "overview": "American troops storm ashore on a Japanese-held island and push inland while their enemies plan a counterattack in this look at warfare. Soldiers on both sides are haunted by memories of home and the horrifying, sickening images they find in combat.",
+        "poster_path": "/sAbLMkCmH2AglQ9SCysRVbt7QcV.jpg",
+        "backdrop_path": "/c7lKsVMeFrbo5RRE0nWNQagCLw3.jpg",
+        "production_companies": [
+            {
+                "name": "Theodora Productions",
+                "id": 4389
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061389",
+        "original_language": "en",
+        "popularity": 3.855,
+        "status": "Released",
+        "tagline": "IT'S HIM OR YOU BABY!",
+        "video": false
+    },
+    {
+        "id_tmdb": 138263,
+        "title": "The Road to 'Saturn'",
+        "release_date": "1967-05-09",
+        "overview": "A first part of story about a Soviet spies trying to infiltrate German Intelligence center \"Saturn\" during and after the WWII.",
+        "poster_path": "/xiUWXQ50VEFqfUwkQJpG2y0ubrH.jpg",
+        "backdrop_path": "/rCElasEpYwel77tvRHAddlazq7s.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 138262,
+            "name": "'Saturn' Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0168139",
+        "original_language": "ru",
+        "popularity": 3.847,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 189696,
+        "title": "Short Subject",
+        "release_date": "1967-01-30",
+        "overview": "Short Subject [commonly known as Mickey Mouse in Vietnam] is a 16mm underground animated short film. Mickey Mouse enlists with the army and ships off to Vietnam.",
+        "poster_path": "/mSM7nnOJX0tKbOTkOdPsZchdKlH.jpg",
+        "backdrop_path": "/zdaKl6CUH5gzb5Dgv8wr4xeWq8a.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2048807",
+        "original_language": "en",
+        "popularity": 3.553,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 83444,
+        "title": "No Path Through Fire",
+        "release_date": "1967-12-25",
+        "overview": "A talented girl is trying to find happiness amidst the Russian revolution of 1917 and the civil war that split the nation.",
+        "poster_path": "/aDAZfvqrcGaEVAFxfUjn6vfM3FK.jpg",
+        "backdrop_path": "/vVLexpY6IsTttm5vNN1BzJCSc9H.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062428",
+        "original_language": "ru",
+        "popularity": 3.372,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 271773,
+        "title": "Flame in Valley",
+        "release_date": "1967-04-22",
+        "overview": "During the Korean War, a widow living in a village in a mountainous region in the South of the Korean Peninsula that has lost most of its men to the war  finds a Communist guerilla gone AWOL hiding in a bamboo grove and develops a relationship with him.",
+        "poster_path": "/kmmXJI5Y8DNUMelUdhzQXZuNhTC.jpg",
+        "backdrop_path": "/snKTyt7UtRndnS68z3mldGJSKmM.jpg",
+        "production_companies": [
+            {
+                "name": "Tae Chang Enterprises",
+                "id": 20392
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0328354",
+        "original_language": "ko",
+        "popularity": 3.37,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 94751,
+        "title": "The Fastest Guitar Alive",
+        "release_date": "1967-09-01",
+        "overview": "Confederate super-spy Johnny and his partner in crime Steve travel to San Francisco near the end of the Civil War, masquerading, respectively, as a singer/guitar instructor and a magic-elixir vendor. Once there, Johnny dons a fake wig, beard and mustache, and steals Union gold to bring back to the South, aided by a guitar that doubles as a gun.",
+        "poster_path": "/3EBOStdyDAos4lDXcAtVfCr8zkU.jpg",
+        "backdrop_path": "/6RCeCUZHdbMNdwQckkKLKQzHEkA.jpg",
+        "production_companies": [
+            {
+                "name": "Four-Leaf Productions",
+                "id": 2258
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061652",
+        "original_language": "en",
+        "popularity": 3.338,
+        "status": "Released",
+        "tagline": "America's hottest singing star on the screen at last!",
+        "video": false
+    },
+    {
+        "id_tmdb": 203720,
+        "title": "Retribution",
+        "release_date": "1967-10-10",
+        "overview": "The continuation of a story started by Alexander Stolper epic movie \"Zhivye i Myortvye\".",
+        "poster_path": "/mForZbOZld7rTzdLPXKDWxu6Y67.jpg",
+        "backdrop_path": "/fGxfgUUFLGV4EkPUe8SOL2HMPDK.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0129562",
+        "original_language": "ru",
+        "popularity": 3.325,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 389542,
+        "title": "Torrents of Steel",
+        "release_date": "1967-11-05",
+        "overview": "The victorious path of the Taman army through areas occupied by the white army in the last days of the civil war.",
+        "poster_path": "/spJdcP4xzg5oHvsPnihScypN01w.jpg",
+        "backdrop_path": "/49mU5ZLihdzlyWcp6RoIDq8vszB.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0207236",
+        "original_language": "ru",
+        "popularity": 3.304,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 164041,
+        "title": "The Seventh Companion",
+        "release_date": "1967-11-26",
+        "overview": "A portrait of the era of \"Red Terror\" during the civil war that followed the Bolshevik revolution, The Seventh Companion offers a character study in General Adamov (Andrei Popov), a law professor in the tsarist army, who is incarcerated by the Bolshevik secret police along with many other members of the bourgeoisie. Finally released into the new world of the Soviet Union, the resigned officer finds that he has lost everything from his old life except a mantel clock that he carries through the night from place to place, until he ends up back where he started.",
+        "poster_path": "/ulzcE3XJpS0mt6ceRpZvQvhoIJ4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062245",
+        "original_language": "ru",
+        "popularity": 3.272,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 71364,
+        "title": "Zosya",
+        "release_date": "1967-09-18",
+        "overview": "In this WWII drama, Russian soldiers take a break at a scenic farm in Poland, and the unit is able to escape the horrors of war during their brief respite. A Polish farm girl and a Russian officer feel a mutual and unspoken attraction towards each other.",
+        "poster_path": "/j9i6dhhltJ8sbVOiFMBExGTYAcq.jpg",
+        "backdrop_path": "/AiDrh0P5rRxxfhpI2dr4HKzdyGQ.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            },
+            {
+                "name": "Zespół Filmowy \"Kamera\"",
+                "id": 42243
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0131659",
+        "original_language": "ru",
+        "popularity": 3.202,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 54166,
+        "title": "Rita the Field Marshal",
+        "release_date": "1967-12-21",
+        "overview": "A waitress helps a scientist flee the Nazis.",
+        "poster_path": "/j6uZE9NsumFnlUTmiFaUXWQF2Yp.jpg",
+        "backdrop_path": "/9AIRYi31Vaan9vIu5gF051FZvpi.jpg",
+        "production_companies": [
+            {
+                "name": "Fida Cinematografica",
+                "id": 73
+            },
+            {
+                "name": "Les Productions Jacques Roitfeld",
+                "id": 1527
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061656",
+        "original_language": "it",
+        "popularity": 3.156,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 169962,
+        "title": "Counterpoint",
+        "release_date": "1967-12-22",
+        "overview": "In December of 1944, Lionel Evans, an internationally renowned American conductor, is on a USO tour with his 70-piece symphony orchestra in newly-liberated Belgium. While fleeing from a German counterattack, Evans and his orchestra members are captured by a Panzer division and taken to an old chateau in Luxembourg. Despite orders to execute every prisoner, General Schiller, an avid music lover, commands Evans to give a private concert for him.",
+        "poster_path": "/vIcnDcyVDNQP6lOfQcfdW7gvoFF.jpg",
+        "backdrop_path": "/8BmtD08e29PXjTb5vmN8GqIeRoV.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062829",
+        "original_language": "en",
+        "popularity": 3.104,
+        "status": "Released",
+        "tagline": "For every move... a counter move - for every attack... a counter attack!",
+        "video": false
+    },
+    {
+        "id_tmdb": 151019,
+        "title": "Band of Ninja",
+        "release_date": "1967-02-15",
+        "overview": "A young boy joins a band of ninja during a peasant uprising, all depicted through an experimental form of filming pages from the original manga set to sound.",
+        "poster_path": "/bJ6lBKmFla9dGEqOnWbCE5cpcsV.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sozosha",
+                "id": 9182
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062044",
+        "original_language": "ja",
+        "popularity": 3.077,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 45518,
+        "title": "The Unprecedented Defence of the Fortress Deutschkreuz",
+        "release_date": "1967-04-04",
+        "overview": "A satire on war and on the stupid things war inspires people to do. Four young men enter an abandoned fortress. Inside, they find military uniforms, which they immediately resolve to use to stage a bizarre war game. Their actions appear all the more senseless in relation to the peaceful everyday reality of the workers in the surrounding countryside.",
+        "poster_path": "/fPC14IL9M2IJE0u4wHvAHF4FPln.jpg",
+        "backdrop_path": "/fhoVabvlzqaWRmgcodFDnSGk0mX.jpg",
+        "production_companies": [
+            {
+                "name": "Werner Herzog Filmproduktion",
+                "id": 843
+            },
+            {
+                "name": "Arpa-Film Bruno Zöckler",
+                "id": 52777
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061394",
+        "original_language": "de",
+        "popularity": 2.893,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 499983,
+        "title": "Secret Assignment",
+        "release_date": "1967-06-17",
+        "overview": "In the fourth film of series, Secret Assignment, Raizo again plays the Jiro Shiina. This time he's out to discover who is spying for the British in the Foreign Ministry, under the code name “Cat's Eye”.",
+        "poster_path": "/25AxWk3jMvE8KUCZhbBHzm0xmXB.jpg",
+        "backdrop_path": "/1E3AZroOGzd10j6wJ4OuXp0ocjK.jpg",
+        "production_companies": [
+            {
+                "name": "Daiei Film",
+                "id": 880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 633032,
+            "name": "Nakano School Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0329541",
+        "original_language": "ja",
+        "popularity": 2.878,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 685061,
+        "title": "Such a Big Boy",
+        "release_date": "1967-06-22",
+        "overview": "In the first days of the Second World War, a young woman with three children is evacuated from the front-line zone to the Urals. After some time, she receives a funeral for her husband. But she has her little sons with her. The eldest son Kolya becomes a reliable assistant to his mother.",
+        "poster_path": "/gMWIO2CyLCXtEOglD1qGLBbtlqC.jpg",
+        "backdrop_path": "/oc2APwEU3jHh0ViVjzGhL4amNoZ.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061061",
+        "original_language": "ru",
+        "popularity": 2.701,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 281180,
+        "title": "First to Fight",
+        "release_date": "1967-01-25",
+        "overview": "Jack is the sole survivor of a Japanese attack on his squad at Guadalcanal. Because of his heroism and the fact that he is still alive, he becomes a Medal of Honor hero. He returns to train new recruits for the Marines and falls for a girl named Peggy. When training and marriage leave him with an empty feeling, he decides on a transfer back to the front lines. Soon he will find that marriage and life will change his outlook on the grueling battles that lie ahead.",
+        "poster_path": "/exvsh0pRG3zPsuqJ9qdSszFQV2j.jpg",
+        "backdrop_path": "/y7lYsASn6G3ABWmxdKEejbGejSo.jpg",
+        "production_companies": [
+            {
+                "name": "William Conrad Productions",
+                "id": 16064
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061667",
+        "original_language": "en",
+        "popularity": 2.685,
+        "status": "Released",
+        "tagline": "The Blockbuster Story of a Fighting Marine That Comes Mortar-Screaming Out of Green Hells and Jungles!",
+        "video": false
+    },
+    {
+        "id_tmdb": 229518,
+        "title": "Dirty Heroes",
+        "release_date": "1967-09-21",
+        "overview": "Set near the end of World War II in the Netherlands, Dirty Heroes concerns a group of ex-convicts recruited into the U.S. Army to recover Dutch jewels originally stolen by the Nazis as well as confiscated Allied plans",
+        "poster_path": "/hsAWW1FIvkXAt1z3BwGXIp5Zaee.jpg",
+        "backdrop_path": "/tjgCSjoL6D38UalS2K42Le2YzxQ.jpg",
+        "production_companies": [
+            {
+                "name": "Gloria Film",
+                "id": 2076
+            },
+            {
+                "name": "Les Productions Jacques Roitfeld",
+                "id": 1527
+            },
+            {
+                "name": "Fida Cinematografica",
+                "id": 73
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062855",
+        "original_language": "it",
+        "popularity": 2.669,
+        "status": "Released",
+        "tagline": "They fight a dozen dirty different ways!!!",
+        "video": false
+    },
+    {
+        "id_tmdb": 138265,
+        "title": "The End of 'Saturn'",
+        "release_date": "1967-05-10",
+        "overview": "A second part of story about a Soviet spies trying to infiltrate German Intelligence center \"Saturn\" during and after the WWII.",
+        "poster_path": "/qFWCvPAg7bhnArc6NI8UYJMU8oN.jpg",
+        "backdrop_path": "/aMYho0UAqBEDzIG4AhEMRcl2XJP.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 138262,
+            "name": "'Saturn' Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0168029",
+        "original_language": "ru",
+        "popularity": 2.607,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 499976,
+        "title": "Assignment Dragon No. 3",
+        "release_date": "1967-01-03",
+        "overview": "In late 1940 the Japanese were anxious to conclude peace in China and to that end sent Colonel Hidaka to inaugurate negotiations. He was mysteriously assassinated, however, when his car was blown up. The General Staff Headquarters in Japan, sends Lieutenant Shiina, a graduate of the famed Nakano School of Spies inaugurated by Colonel Kusanagi, to investigate the matter. Arriving in Shanghai, he disguises himself as a Chinese coolie and sets out to watch for developments, the only clue being a silver dollar found beside what was left of the victim.",
+        "poster_path": "/3nUidUpu13zS5QutWr54oGYWFG9.jpg",
+        "backdrop_path": "/2VSw1SHa9ivQsoQQxH0Ved2D2pr.jpg",
+        "production_companies": [
+            {
+                "name": "Daiei Film",
+                "id": 880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 633032,
+            "name": "Nakano School Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0329542",
+        "original_language": "ja",
+        "popularity": 2.549,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 207903,
+        "title": "Westerplatte Resists",
+        "release_date": "1967-09-01",
+        "overview": "Westerplatte is a small peninsula at the entry to the Gdańsk Harbour. Before World War II, it functioned as a Polish ammunition depot in the Free City of Danzig. Its crew consisted of one infantry company and a group of civilians, 182 people in total. It was the only Polish guard-post at the mouth of the Vistula River, with as little as five sentries, one field cannon, two anti-armour guns and four mortars. The first shots of World War II were fired there. This film tells the story of Westerplatte's courageous defenders.",
+        "poster_path": "/vrMxoD69Argh0CXm5xJkP0sax4w.jpg",
+        "backdrop_path": "/1z7JiPvkEKhQEoT6sqzwfWihWjY.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Rytm\"",
+                "id": 52346
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062485",
+        "original_language": "pl",
+        "popularity": 2.509,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 49006,
+        "title": "Frozen Flashes",
+        "release_date": "1967-04-13",
+        "overview": "In November of 1939, the British consulate in Norway receives documents saying that the Nazis are conducting secret rocket research in Peenemünde. But the British doubt the authenticity of the so called \"Oslo report\". Thus, the Germans continue their experiments unimpeded. At the same time, resistance groups from France, England, Poland, and Germany try to find and to sabotage the secret Nazi research base. When the first \"V 2\" rocket is successfully launched, the Allied commanders finally become interested in the \"Oslo report\".",
+        "poster_path": "/9mPtBGZKp8ntkdVxcrmmxFHHfHe.jpg",
+        "backdrop_path": "/whYhT1hRhiZg2VdTc49UScCPK8n.jpg",
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061700",
+        "original_language": "de",
+        "popularity": 2.504,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 106245,
+        "title": "Major 'Whirlwind'",
+        "release_date": "1967-06-06",
+        "overview": "The Nazis planted explosives to blow up the cities of Krakow and Prague, but the underground resistance in Poland works with the Russians to stop the disaster.",
+        "poster_path": "/ckeI5GBIgloPIKjm3ukiD8SjnHM.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0299018",
+        "original_language": "ru",
+        "popularity": 2.446,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36140,
+        "title": "Far from Vietnam",
+        "release_date": "1967-10-18",
+        "overview": "In seven different parts, Godard, Ivens, Klein, Lelouch, Marker, Resnais, and Varda show their sympathy for the North-Vietnamese army during the Vietnam War.",
+        "poster_path": "/fwMPDjZKim3BQFomQfPcywwEwOp.jpg",
+        "backdrop_path": "/2mxeQ0bvXQLp2dxCZ0VRcslSOzz.jpg",
+        "production_companies": [
+            {
+                "name": "Societe pour le Lancement des Oeuvres Nouvelles (SLON)",
+                "id": 70639
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.975,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061913",
+        "original_language": "fr",
+        "popularity": 2.42,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 89675,
+        "title": "Eugene, Little Eugene and Katyusha",
+        "release_date": "1967-08-21",
+        "overview": "Touching story about love of a young romantic man (Zhenia), who is a soldier of Guard Mortar Division (Division of \"Katusha\" Reactive Mortars) and a girl-telegraphist (Little Zhenia) at the last months of WW II.",
+        "poster_path": "/rCshL4gKZIHhPaS0ghdyOn9c0pB.jpg",
+        "backdrop_path": "/eCnGtmp4dNKWAgTjMCNMmTVBd3d.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062523",
+        "original_language": "ru",
+        "popularity": 2.298,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 268124,
+        "title": "Kaya",
+        "release_date": "1967-07-11",
+        "overview": "An experimental film about peaceful and carefree life in a small Dalmatian town, which turns into bloodshed and horror on the Eve of Italian occupation of the country.",
+        "poster_path": "/80BRq0cFAYn5CbnoYQLecbCYsZK.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "Les Cinéastes Associés",
+                "id": 17774
+            },
+            {
+                "name": "Vatroslav Mimica",
+                "id": 91762
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0064531",
+        "original_language": "sh",
+        "popularity": 1.367,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 186909,
+        "title": "Massacre in the Black Forest",
+        "release_date": "1967-02-03",
+        "overview": "In the first half of the first century A.D., the Teutonic tribes, led by Arminius The Terrible, rebel against the cruel and conquering Roman Empire. In raging torments and blood curdling battles, the barbarian tribes and Roman Legions fight a war of attrition, so brutal and terrible that Arminius becomes a legend throughout the empire. Only Augustus, Emperor of Rome is evil and treacherous enough to enslave the Teuton barbarian and halt his murderous uprisings.",
+        "poster_path": "/gsQiw5JugaeeJhLI1fih3xB4UeT.jpg",
+        "backdrop_path": "/45GwXTyWCR6V4Er7WHlw6vh1BCC.jpg",
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            },
+            {
+                "name": "Peter Carsten Produktion",
+                "id": 11639
+            },
+            {
+                "name": "Debora Film",
+                "id": 14126
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0144962",
+        "original_language": "de",
+        "popularity": 2.271,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 315353,
+        "title": "Two Years above the Abyss",
+        "release_date": "1967-04-24",
+        "overview": "A drama about an underground war in the occupied Kiev during WWII.",
+        "poster_path": "/nqYpg4tRUkc23Si3Usb7TKJMH3j.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0172376",
+        "original_language": "ru",
+        "popularity": 2.219,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 365414,
+        "title": "Shock Troops",
+        "release_date": "1967-04-05",
+        "overview": "A French resistance group frees twelve captured soldiers from a German prison camp, but apparently there is an additional prisoner among them who is suspected of being an enemy spy.",
+        "poster_path": "/zWYX0uluAvWJFHlRUF4hapENYtq.jpg",
+        "backdrop_path": "/3Anx3TyfLqee1oCG1Q3tznirYzD.jpg",
+        "production_companies": [
+            {
+                "name": "Sol Produzione",
+                "id": 66417
+            },
+            {
+                "name": "Les Productions Artistes Associés",
+                "id": 64
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.692,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062416",
+        "original_language": "fr",
+        "popularity": 2.21,
+        "status": "Released",
+        "tagline": "It starts with a surprise … and ends with a shock!",
+        "video": false
+    },
+    {
+        "id_tmdb": 65672,
+        "title": "They Were Known Only By Their Faces",
+        "release_date": "1967-02-06",
+        "overview": "Explosions are raging in one of the ports in the territory occupied by the German fascist invaders. An old and experienced military leader, Admiral Reinhardt, arrives to investigate these emergencies. Together with the head of the Gestapo, SS Standartenfuehrer Hübe, he takes all measures to suppress the activity of the partisans, raids and arrests, but all in vain. Underwater sabotage continues. A detachment of fighters with experience of submarine warfare is sent from Italy to fight the demolitions.",
+        "poster_path": "/q9NQdA4dptewiunWOX77rmuFggh.jpg",
+        "backdrop_path": "/kYo63DJK4azDgbEqrMV3tkGbiQd.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173921",
+        "original_language": "ru",
+        "popularity": 2.12,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 85701,
+        "title": "The Longest Hundred Miles",
+        "release_date": "1967-01-21",
+        "overview": "During the Japanese invasion of the Philippines, an assorted group of refugees, including an American soldier, an Army nurse, a priest and a group of local children, try to make their getaway aboard a rattletrap, creaky bus.",
+        "poster_path": "/8aoGWZeooG2FwUAhqeHEOlnAdvA.jpg",
+        "backdrop_path": "/Av2KBq6eFM5NOza8uKiAXrRqDM7.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Television",
+                "id": 26727
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061917",
+        "original_language": "en",
+        "popularity": 2.113,
+        "status": "Released",
+        "tagline": "Mile by Mile...Minute by Minute...The Most Dangerous Escape of the War!",
+        "video": false
+    },
+    {
+        "id_tmdb": 71264,
+        "title": "Mosby's Marauders",
+        "release_date": "1967-03-17",
+        "overview": "Willie, a young Confederate soldier, joins forces with the bold and boisterous Lt. John Singleton Mosby and his notorious band of Civil War raiders. Befriended by a Yankee and aided by his beautiful cousin Oralee, Willie learns the power of love and war as he attempts dangerous scouting missions across the Virginia countryside. Infiltrating a Union brigade and capturing an enemy General are just two of the challenges Willie courageously faces in the early days of the War Between the States.",
+        "poster_path": "/1f7mlmjsPAZWs7WBbwDUWsEejEi.jpg",
+        "backdrop_path": "/eTEki05DA1uZhXgmvsP4n540Qhq.jpg",
+        "production_companies": [
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7000522",
+        "original_language": "en",
+        "popularity": 2.094,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 365704,
+        "title": "La soldadera",
+        "release_date": "1967-08-10",
+        "overview": "While waiting for a train which will take them on their honeymoon, two newlyweds, Juan and Lázara, are separated by a federal army commander who is going around enlisting men to fight against the revolutionaries. Traveling with the troops, Lázara follows Juan until he dies in a battle against the Villistas. From that moment on, the young woman's fate will be in the hands of whoever happens to win the latest contest, an uncertain fate for someone whose only wish is for a home of her own.",
+        "poster_path": "/mROAe0gysRHWnL6LLTJYnYAJDFQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Técnicos Mexicanos",
+                "id": 76016
+            },
+            {
+                "name": "Producciones Marte",
+                "id": 66582
+            },
+            {
+                "name": "Productora de Técnicos Cinematográficos del Sindicato de Trabajadores de la Producción Cinematográfica",
+                "id": 76017
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0060999",
+        "original_language": "es",
+        "popularity": 2.038,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 502477,
+        "title": "Bomb at 10:10",
+        "release_date": "1967-07-12",
+        "overview": "An American pilot escapes from a POW camp and links up with Yugoslav partisans. He’s about to head back to Allied lines when he learns that the Partisans are plotting to assassinate the camp commander. He joins in the plot, aiming for revenge.",
+        "poster_path": "/oPtstWRuKTCwDWLTq9pXzCXYvYm.jpg",
+        "backdrop_path": "/zXqmiHz0gwgwIDLzATM0jPCqHw3.jpg",
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            },
+            {
+                "name": "Noble Productions",
+                "id": 83905
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0179687",
+        "original_language": "sh",
+        "popularity": 2.0,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1238908,
+        "title": "North-West of Berlin",
+        "release_date": "1967-01-01",
+        "overview": "A military unit freed a soldier from captivity. It turned out that his fiancee serves as a nurse in this unit. But the soldier, whose face was disfigured by the Nazis, didn't dare to meet her.",
+        "poster_path": "/7TIAcby4Tj54paxvSvAzpX930z7.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Central Television USSR",
+                "id": 60038
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5884876",
+        "original_language": "ru",
+        "popularity": 1.995,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 533933,
+        "title": "The Places Here Are Quiet",
+        "release_date": "1967-07-12",
+        "overview": "Based on the novel of the same name by Grigory Svirsky.\r 1942 year. The Great Patriotic War. The navigator Bratnov was shot down during the war, was captured, fled, returned to his people, was demoted and sent to serve in the construction battalion. His old front-line comrade Major Kabarov accidentally met him and took him to his unit. Kabanov, knowing about the lack of experienced navigators, is seeking to transfer Bratnov to his air force in the Northern Fleet, in the Arctic, to a tiny rocky island — \"to the ends of the world.\"",
+        "poster_path": "/52uyUGZShogJGpnrxM5eFCsJLYe.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5067384",
+        "original_language": "ru",
+        "popularity": 1.851,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 596081,
+        "title": "Un dorado de Pancho Villa",
+        "release_date": "1967-07-01",
+        "overview": "Villa's regiment demobilizes at the end of the Revolution, but the ruling faction in the provisional government isn't eager to see them reintegrate into civilian society.",
+        "poster_path": "/qcRvasdpAUu6Qs6JWgJj87o5Efg.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0060334",
+        "original_language": "es",
+        "popularity": 1.818,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 737800,
+        "title": "Stajnia na Salvatorze",
+        "release_date": "1967-10-06",
+        "overview": "WWII. Zyga, one of the Resistance soldiers in Kraków is arrested by Gestapo. Soon later the Germans make a number of other arrests and Zyga is accused of being an informer.",
+        "poster_path": "/8B4KL228CjEoFtcD7cgPlCmjdeE.jpg",
+        "backdrop_path": "/4qi6yyFfEDjC7mR3TiZAr5kr7NQ.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy Kadr",
+                "id": 7926
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062302",
+        "original_language": "pl",
+        "popularity": 1.794,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 161648,
+        "title": "Desert Commandos",
+        "release_date": "1967-09-01",
+        "overview": "German commandos are dropped behind enemy lines in the Sahara Desert tasked with getting to Casablanca in an assassination attempt on allied leaders.",
+        "poster_path": "/nsdPPrdLM4ubsiIMVyzrJT85CE7.jpg",
+        "backdrop_path": "/9JHRruY3yGYYzICLa65vpLAhDJO.jpg",
+        "production_companies": [
+            {
+                "name": "Constantin Film",
+                "id": 47
+            },
+            {
+                "name": "PEA",
+                "id": 7508
+            },
+            {
+                "name": "Films EGE",
+                "id": 12109
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061693",
+        "original_language": "it",
+        "popularity": 1.783,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 70464,
+        "title": "Eine Handvoll Helden",
+        "release_date": "1967-11-16",
+        "overview": "An episode from the war in 1806 when a small troop of Prussian soldiers digs in at a mill in order to defend itself against the overwhelming advance of the French army. ",
+        "poster_path": "/eVTDCuY1dTpWYBd8DgGWvskFO44.jpg",
+        "backdrop_path": "/mbJ7o317M5Lc840itH28PqKxDp7.jpg",
+        "production_companies": [
+            {
+                "name": "Rapid Film",
+                "id": 12782
+            },
+            {
+                "name": "PEA",
+                "id": 7508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061746",
+        "original_language": "de",
+        "popularity": 1.61,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 98252,
+        "title": "A Diving Bomber Chronicle",
+        "release_date": "1967-01-01",
+        "overview": "A story about last three days of the PE-2 soviet diving bomber crew - the three young men about 20: a former school teacher, musician and artist. Set during WWII.",
+        "poster_path": "/epSoZyUtysEMCvrZGx1Gk3zynOx.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0175809",
+        "original_language": "ru",
+        "popularity": 1.544,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 637815,
+        "title": "War Under the Roofs",
+        "release_date": "1967-01-01",
+        "overview": "",
+        "poster_path": "/mChA4GOBOMdtLuUiSu3tBH1BHnf.jpg",
+        "backdrop_path": "/6gif0nlCXiuG1LhD1QwOCgVrQtP.jpg",
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0332820",
+        "original_language": "ru",
+        "popularity": 1.529,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 431898,
+        "title": "The Killer Leaves a Trace",
+        "release_date": "1967-08-18",
+        "overview": "In the last days of WW2, Polish military looks for the murderer of prosecutor responsible for storing Gestapo files.",
+        "poster_path": "/8QMCkz1bSI8Je0GOmtRpiVQtwp2.jpg",
+        "backdrop_path": "/e02V5RVJqMbQQG8cLwBWom2bEXY.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Rytm\"",
+                "id": 52346
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061993",
+        "original_language": "pl",
+        "popularity": 1.528,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 536164,
+        "title": "No Password Necessary",
+        "release_date": "1967-11-13",
+        "overview": "A spy game between Reds and Whites is in full motion during Russian Civil War.",
+        "poster_path": "/5dskzmHlRkewIUbnm9DXs8vTtel.jpg",
+        "backdrop_path": "/m0PT3G3SbIhEEc4EjZHpW4MFgwz.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            },
+            {
+                "name": "Vtoroe Tvorcheskoe Obedinenie",
+                "id": 97067
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062097",
+        "original_language": "ru",
+        "popularity": 1.351,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 364273,
+        "title": "Black Birds",
+        "release_date": "1967-07-17",
+        "overview": "WW2 story about group of prisoners who are trying to escape the death camp, run by local pro-Nazi militia.",
+        "poster_path": "/bXi07kDvNkoHxavcSw5grHDdbUn.jpg",
+        "backdrop_path": "/o08FW8Z96I4kDX5dMwm54buDLjk.jpg",
+        "production_companies": [
+            {
+                "name": "Viba film",
+                "id": 4300
+            },
+            {
+                "name": "Producentska grupa \"Most\", Zagreb",
+                "id": 65710
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061530",
+        "original_language": "sh",
+        "popularity": 1.322,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 330662,
+        "title": "Hassan Terro",
+        "release_date": "1967-01-02",
+        "overview": "While he tries by all means to stay out of the bloody upheavals caused by the battle of Algiers, Hassan, an honest and naive father, unknowingly offers hospitality to a mujahid actively sought by the army. French. A series of events and misunderstandings quickly catapult him to the forefront, presenting him under the pseudonym “Hassan Terro”, a great fictitious terrorist who would have sworn the doom of the French army...",
+        "poster_path": "/f1CPVlvjoDHqlBujc3yNcW5RJwM.jpg",
+        "backdrop_path": "/wIxj5PXUdw5vVwAMyYCDUX4fc0e.jpg",
+        "production_companies": [
+            {
+                "name": "Office des Actualités Algériennes (OAA)",
+                "id": 171085
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.maghrebdesfilms.fr/hassan-terro.html",
+        "imdb_id": "tt0061751",
+        "original_language": "ar",
+        "popularity": 1.304,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 441050,
+        "title": "Das Tal der sieben Monde",
+        "release_date": "1967-02-10",
+        "overview": "Film by Gottfried Kolditz.",
+        "poster_path": "/2yHhBnKEF511tVQ9lc88onxxcWu.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173307",
+        "original_language": "de",
+        "popularity": 1.295,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 298523,
+        "title": "Spring on the Oder",
+        "release_date": "1967-12-01",
+        "overview": "A war drama set in Germany at the end od WWII.",
+        "poster_path": "/eEmFY0UTZ9cuUwuBhJsSiKD45LP.jpg",
+        "backdrop_path": "/5NVaujnVA1sKg6NQNOENItOzP8v.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0155364",
+        "original_language": "ru",
+        "popularity": 1.279,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 297897,
+        "title": "The Young Warriors",
+        "release_date": "1967-02-03",
+        "overview": "In World War II, a tough sergeant is put in charge of a squad of young recruits and assigned to lead them on a mission against the Germans.",
+        "poster_path": "/mOv12xN6UbYQklRCSjmJphxkwiQ.jpg",
+        "backdrop_path": "/gPwJYbU7wiY0GxAfyLLGGpBcUWD.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062516",
+        "original_language": "en",
+        "popularity": 1.247,
+        "status": "Released",
+        "tagline": "Their Unbeatable Heroism Turned The Tide At Anzio!",
+        "video": false
+    },
+    {
+        "id_tmdb": 638308,
+        "title": "Moscow is Behind Us",
+        "release_date": "1967-01-01",
+        "overview": "Based on the books and materials of Bauyrzhan Momyshuly and dedicated to the Panfilov division, which fought near Moscow in 1941, about the heroism of its soldiers, who stopped the fascists and on December 22, 1941 and went into a counterattack.",
+        "poster_path": "/ovghrmFtDF9VVGAXvYxrMrHKajz.jpg",
+        "backdrop_path": "/7vN621cDDRYVkvPkcFlKePX4nw8.jpg",
+        "production_companies": [
+            {
+                "name": "Kazakhfilm",
+                "id": 232195
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.246,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204871,
+        "title": "The Unforgettable",
+        "release_date": "1967-08-30",
+        "overview": "About hardships of the first years of War, which fell to the lot of ordinary people in Ukraine, who got under the yoke of fascist occupation, and heroic struggle against the invaders. A young Russian woman asks a Red Army soldier to spend the night with her in the wake of the Nazi invasion. Fearing she may soon perish, the woman hopes for one night of romance before what could be a horrible demise.",
+        "poster_path": "/jDsnZhwMabeWr2hA5ZnnDw8PWch.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "Kiev Film Studio",
+                "id": 13896
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174984",
+        "original_language": "ru",
+        "popularity": 1.242,
+        "status": "Released",
+        "tagline": "URSS, War",
+        "video": false
+    },
+    {
+        "id_tmdb": 146521,
+        "title": "Beginning of an Unknown Era",
+        "release_date": "1967-12-31",
+        "overview": "Two young directors adapted the short stories of two Russian authors whose works had been banned for decades, and so their film ended up in the censor’s vault as well – for twenty years. Both tales look back to the post-revolutionary era: 'Angel' speaks tragically of the brutality and destruction of the time, and 'The Homeland of Electricity' captures its haunting grotesquery.",
+        "poster_path": "/iGRokkjootiz7BVry8afOr4ixkX.jpg",
+        "backdrop_path": "/diwiy9QIidKloFfKGlWlh24RwzX.jpg",
+        "production_companies": [
+            {
+                "name": "Experimental Film Studio",
+                "id": 87514
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062026",
+        "original_language": "ru",
+        "popularity": 1.231,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 247813,
+        "title": "Rock and Splinters",
+        "release_date": "1967-04-24",
+        "overview": "During World War II three best friends are mobilized into the Waffen-SS Latvian Legion. Years later their fates continue to intertwine, as memories of war loom in back of their minds.",
+        "poster_path": "/nUyV63TonwAqyxqPajmFxfLjqo9.jpg",
+        "backdrop_path": "/sZ57gq6TWMi4j4xigoHNQfypt1O.jpg",
+        "production_companies": [
+            {
+                "name": "Rīgas kinostudija",
+                "id": 82801
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1783236",
+        "original_language": "lv",
+        "popularity": 1.19,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198777,
+        "title": "Playing Soldiers",
+        "release_date": "1967-12-27",
+        "overview": "After the end of WW2 a blonde boy arrives at an orphanage made for the children of Partizans or people being killed in the war. The headmaster knows that the boy's parents were Nazis but conceals that fact from others, fearing violence by vengeful children. He invents the boy's life story, but the other children get suspicious.",
+        "poster_path": "/i45TSPvnMwWEnnxs7n50yMFKQ27.jpg",
+        "backdrop_path": "/8KiYQhV25tBamZZb9thVyth5Ooo.jpg",
+        "production_companies": [
+            {
+                "name": "Bosna Film",
+                "id": 10617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0066046",
+        "original_language": "sh",
+        "popularity": 1.19,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 183718,
+        "title": "Beginning",
+        "release_date": "1967-02-01",
+        "overview": "Philosophical essay about the October Revolution of 1917 in Russia, its influence on the destiny of the world in the 20th century.",
+        "poster_path": "/8I479AVodhp36Yxof3MBLjs8sp1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Yerevan Documentary Film Studio",
+                "id": 72437
+            },
+            {
+                "name": "VGIK",
+                "id": 13880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0298462",
+        "original_language": "hy",
+        "popularity": 1.187,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 894618,
+        "title": "Traces",
+        "release_date": "1967-10-11",
+        "overview": "A Japanese fine art teacher helps a Korean independence fighter to escape from a threat of being arrested by the Japanese police. The Korean man introduces him a gisaeng (Koran geisha) who learned Korean traditional court dance and he falls in love with her. However she hates Japanese because her parents were killed in the war.",
+        "poster_path": "/4h5Y1cqYs6oCaLnQDv10n0Zbhvb.jpg",
+        "backdrop_path": "/dY2MtP04qaZK64LN5QSdCTgeT9a.jpg",
+        "production_companies": [
+            {
+                "name": "Shin Films",
+                "id": 43979
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0389027",
+        "original_language": "ko",
+        "popularity": 1.17,
+        "status": "Released",
+        "tagline": "Traces",
+        "video": false
+    },
+    {
+        "id_tmdb": 999200,
+        "title": "I'm a Soldier Mom",
+        "release_date": "1967-02-06",
+        "overview": "A young, stubborn and undisciplined man goes to serve in the army, where he will understand the need for military service...",
+        "poster_path": "/tFGQ1tM8jnPQhH5qsCltaIry1mq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4000992",
+        "original_language": "ru",
+        "popularity": 1.162,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 431157,
+        "title": "Die Brücke von Remagen",
+        "release_date": "1967-03-10",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ZDF",
+                "id": 4606
+            },
+            {
+                "name": "CCC Television",
+                "id": 31110
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0495579",
+        "original_language": "de",
+        "popularity": 1.154,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198790,
+        "title": "The Winds of the Aures",
+        "release_date": "1967-06-08",
+        "overview": "Le Vent des Aurès – the first road movie of Algerian cinema – describes the transformations of the daily life of the Algerian people during the destructive French occupation, then during the war of liberation. While military repression is in full swing, a peasant woman finds herself alone in her mountain home when her only son is kidnapped by French soldiers shortly after her husband's death during a raid. One day, seeing a dead chicken, which she considers a bad omen, she decides to leave home and embarks on a painful journey through the mountains. Accompanied by a couple of chickens, she moves from one detention camp to another in a desperate search for her missing son. The film is inspired by the events experienced by the director's family.",
+        "poster_path": "/2a7pn3dm4O55fGSBgRySdHfpf62.jpg",
+        "backdrop_path": "/4aaQt8Lza4cbWhXgGDQAtOS2rUb.jpg",
+        "production_companies": [
+            {
+                "name": "O.N.C.I.C.",
+                "id": 1640
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.festival-cannes.com/f/le-vent-des-aures/",
+        "imdb_id": "tt0170758",
+        "original_language": "ar",
+        "popularity": 1.086,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 287149,
+        "title": "Das Attentat - Heydrich in Prag",
+        "release_date": "1967-09-13",
+        "overview": "Based on historical events, the film tells the story of Operation Anthropoid which led to the assassination of the German SS leader Heydrich in Prague by Czech rebels led by Josef Gabcik and Jan Kubis.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Bavaria Film",
+                "id": 1704
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1289576",
+        "original_language": "de",
+        "popularity": 1.081,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 444849,
+        "title": "A Winter Morning",
+        "release_date": "1967-01-09",
+        "overview": "A little girl named Katherine saved one boy's life during the bombing in Leningrad while under the Siege in WWII. The boy cannot speak yet. So she gave him a name Seryozha and provided him with food and care. She was later adopted by the boy's father, who recognized his son.",
+        "poster_path": "/bnKvGId9TEXc4pp6niqzFOLWXt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0187612",
+        "original_language": "ru",
+        "popularity": 1.054,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 439039,
+        "title": "Victory Over Death",
+        "release_date": "1967-12-13",
+        "overview": "World War II. Albania is under the Nazi occupation. The Germans capture two young girls and torture them to learn more about the communist movement.",
+        "poster_path": "/axUPo2LuRBOtd9kdbnxXVVtrwqr.jpg",
+        "backdrop_path": "/yyklikceVPvQXHEvw2fJx0RgP2L.jpg",
+        "production_companies": [
+            {
+                "name": "Shqipëria e Re",
+                "id": 29695
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0172874",
+        "original_language": "sq",
+        "popularity": 1.049,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 66569,
+        "title": "The Anderson Platoon",
+        "release_date": "1967-02-03",
+        "overview": "A documentary feature by Pierre Schoendoerffer about the Vietnam War.",
+        "poster_path": "/4tUXcKxBAt8nNYVBx09Bq6v0xZt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "INA",
+                "id": 16180
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.361,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062244",
+        "original_language": "fr",
+        "popularity": 1.037,
+        "status": "Released",
+        "tagline": "No editorials, no opinions . . . just the real story of the brutal Vietnam War.",
+        "video": false
+    },
+    {
+        "id_tmdb": 469446,
+        "title": "Concert for Machine Guns",
+        "release_date": "1967-07-22",
+        "overview": "Athens, shortly before the outbreak of World War II and an Army General Staff official, Niki (Jenny Carezis), is charged with channeling confidential documents to an Italian agent. The category is right. The girl was blackmailing herself with the life of her brother studying in Italy. She does not make any effort to defend herself and is indifferent if she is sentenced to death, but she accepts the cooperative proposal proposed by General Darius, that is to continue to channel secret documents to the Italians, but now they are deliberately made to deceive the enemy . The whole case is also involved with a captain, Theodorou, who is in love with Niki. Theodorou is arrested for misappropriation of documents and goes through a military court where he is sentenced to demolition and death. Certainly, his execution was fictitious, and on the day Greek troops enter Korça, he is shown alive to Niki, which does not hide her surprise.",
+        "poster_path": "/nWkOv0U4WxTlsK7AADgZSsbMl7m.jpg",
+        "backdrop_path": "/k7f5VCGOzNPNR7QBVe3Jbvkt7md.jpg",
+        "production_companies": [
+            {
+                "name": "Finos Film",
+                "id": 12093
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0136346",
+        "original_language": "el",
+        "popularity": 1.029,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 600041,
+        "title": "Arena",
+        "release_date": "1967-08-30",
+        "overview": "In one of the occupied European cities, the commandant of the garrison gathers a troupe of circus performers. Coming from different countries, they are in the humiliating position of people forced to serve their enslavers.  Many of them, recruited from camps and workhouses, were quite content with their lot. Only after a chain of subsequent events, the artists raise an uprising.  Unarmed people are not able to resist the arrived guards. They die, but at the cost of their lives they regain their lost human dignity.",
+        "poster_path": "/zBRFjW3xmSogUWfar9W7jti9Bwd.jpg",
+        "backdrop_path": "/u0eDomIFlVTmdmfFuAN5C0yoHdh.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174472",
+        "original_language": "ru",
+        "popularity": 0.997,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 354214,
+        "title": "Too Late for Love",
+        "release_date": "1967-03-29",
+        "overview": "Su Fen, a young and frail girl, looked forward to her wedding with her fiancé, Li Kuo-liang. The happy couple's bliss was cut short when war broke out. Kuo-liang was summoned to fight at the front lines. In his absence, Su Fen discovered she had tuberculosis.",
+        "poster_path": "/xDU20PXWXivb6lFFZ0WGCAwq3tR.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shaw Brothers",
+                "id": 5798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186095",
+        "original_language": "zh",
+        "popularity": 0.968,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 385239,
+        "title": "The Demolition Squad",
+        "release_date": "1967-01-01",
+        "overview": "The Germans held the strategically important airport, where planes were taking off to bombard partisans positions. Headquarters of one a partisan unit sent a few commandos to blow up airplanes and airport in the air.",
+        "poster_path": "/s7wxKqa2ryuLoLd0ZoMj7jg1RC.jpg",
+        "backdrop_path": "/yNOrwUVOlIhQPQyqMfqU1pxRRZD.jpg",
+        "production_companies": [
+            {
+                "name": "Bosna Film",
+                "id": 10617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0172329",
+        "original_language": "sh",
+        "popularity": 0.96,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 321164,
+        "title": "Three Nights of Love",
+        "release_date": "1967-09-21",
+        "overview": "A young man spends his last three nights with his lover before his army regiment is ordered to war. When he deserts his unit to return to her side, he discovers the woman he loves is gone, and he is interrogated by the police when he learns his lover is a communist agent. The two finally are reunited at the police station where the embarrassed man denies ever knowing the accused woman.",
+        "poster_path": "/oFVdfu0BIJlILTZdox11L9wxDcg.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mafilm",
+                "id": 8100
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061616",
+        "original_language": "hu",
+        "popularity": 0.942,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 985926,
+        "title": "Langit at Lupa",
+        "release_date": "1967-03-25",
+        "overview": "A love story salvaged from the chaos of war. It tells the drama between two individuals who meet at a moment when one is about to be married to a vocation.",
+        "poster_path": "/w0OjOkKkGVEUonTJ4Xue9PM78Ln.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "FPJ Productions",
+                "id": 23618
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1130847",
+        "original_language": "tl",
+        "popularity": 0.918,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 398572,
+        "title": "Son Gece",
+        "release_date": "1967-01-15",
+        "overview": "",
+        "poster_path": "/oyLFXK5LX1foNw2VpuSiRYt4Qyf.jpg",
+        "backdrop_path": "/rxabwK8ynXXUoJv6etS0NgQcIDX.jpg",
+        "production_companies": [
+            {
+                "name": "Uğur Film",
+                "id": 14418
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0431409",
+        "original_language": "tr",
+        "popularity": 0.918,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1130470,
+        "title": "A Bell for Adano",
+        "release_date": "1967-11-11",
+        "overview": "A U.S. army officer, the military governor of an Italian town during World War II, tries to reintroduce democracy, but his efforts are hindered by his commanding general. Placing his career in jeopardy, the governor decides to replace the town's bell, which had been looted by the Fascists.",
+        "poster_path": "/xsUSO1I96v4k3bmciflbP1YZan2.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.907,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 602205,
+        "title": "The Enemy",
+        "release_date": "1967-11-20",
+        "overview": "During the Battle of the Bulge, word goes out to watch for German soldiers dressed as GIs. That's when black sergeant Chris Christiansen begins wondering if the GI who befriended him is really a friend--or the enemy.",
+        "poster_path": "/hjYRpHNInxf6Fknmn0FfbvleIem.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.89,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 283121,
+        "title": "The Feast",
+        "release_date": "1967-01-01",
+        "overview": "In a Serbian village on Christmas Day in 1943, the Chetniks accept two downed American pilots and give them hospitality. However, finding out that the Germans are looking for the pilots, the Chetniks change their attitude towards them.",
+        "poster_path": "/vwD3qHXHO2cxiDcKhwXiFetSfdM.jpg",
+        "backdrop_path": "/wZJA20FoUtBjPABI8klcWcbY1AT.jpg",
+        "production_companies": [
+            {
+                "name": "Kino Klub Beograd",
+                "id": 28059
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0181772",
+        "original_language": "sh",
+        "popularity": 0.865,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 334399,
+        "title": "The River - Poem of Wrath",
+        "release_date": "1967-08-31",
+        "overview": "A man sets out to search for his brother among the survivors of Hiroshima after an anonymous letter.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Art Theatre Guild",
+                "id": 9181
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8995740",
+        "original_language": "ja",
+        "popularity": 0.862,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 637447,
+        "title": "Марианна",
+        "release_date": "1967-09-07",
+        "overview": "",
+        "poster_path": "/raahqQ0PAvt6iH8iOB8lWUdOg37.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.858,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 488992,
+        "title": "The Invisible Battallon",
+        "release_date": "1967-11-24",
+        "overview": "A group of children from a small Slovenian town form a battalion to fight against the Nazi enemy.",
+        "poster_path": "/lbFNkyyKVSEmL6PoRVGCVXJ9h1Z.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Viba film",
+                "id": 4300
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sl",
+                "name": "Slovenščina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0180869",
+        "original_language": "sl",
+        "popularity": 0.841,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 265778,
+        "title": "Cat and Mouse",
+        "release_date": "1967-02-07",
+        "overview": "In 1966, a former gymnast returns to his hometown Danzig, which is now a part of Poland. He begins to reflect on one of his classmates, Joachim Mahlke, who disappeared during World War II. Mahlke was initially marked as an outsider due to his oversized Adam’s apple, but when he turned out to be a great diver, the in-crowd embraced him. Then he steals a Knight’s Cross from a soldier and is expelled from school. Volunteering for war service, he earns a medal himself and hopes his reputation will be rehabilitated. But the school principal refuses and Mahlke deserts from the army…",
+        "poster_path": "/23BSnQtqi5gg1RCv973OoJsGVIL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Modern Art Film",
+                "id": 34467
+            },
+            {
+                "name": "Zespół Filmowy \"Rytm\"",
+                "id": 52346
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0060583",
+        "original_language": "de",
+        "popularity": 0.822,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1251966,
+        "title": "425 Calls",
+        "release_date": "1967-05-01",
+        "overview": "The events take place during the Great Patriotic War in Belarus. The commander of the special forces detachment \"Thunder\" Fedor was sent to the German rear to carry out special missions...",
+        "poster_path": "/mmrmyxNvRzRuPYZuzwLQGw129XO.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Central Television USSR",
+                "id": 60038
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.623,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 435421,
+        "title": "23rd Psalm Branch",
+        "release_date": "1967-01-27",
+        "overview": "Made during the height of the Vietnam War, Stan Brakhage has said of this film that he was hoping to bring some clarity to the subject of war. Characteristically for Brakhage there is no direct reference to Vietnam.",
+        "poster_path": "/94YW1CluVESQDciZaQufLoRqeq9.jpg",
+        "backdrop_path": "/2Tld1GFpCri8l4lIvB64Q2zlD8I.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6391052",
+        "original_language": "en",
+        "popularity": 0.785,
+        "status": "Released",
+        "tagline": "A FEATURE-LENGTH FILM IN 8M.M. ON WAR",
+        "video": false
+    },
+    {
+        "id_tmdb": 266181,
+        "title": "Before and After the Victory",
+        "release_date": "1967-03-30",
+        "overview": "A newly established communist authorities in Yugoslavia face the moral challenge of how to deal with warriors of defeated side and other enemies of the regime.",
+        "poster_path": "/wNstHO0auBWptQ7h86ZAuqwmJ9N.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Vardar Film",
+                "id": 28208
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mk",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0172334",
+        "original_language": "mk",
+        "popularity": 0.749,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 93161,
+        "title": "Nawab Sirajuddaula",
+        "release_date": "1967-02-06",
+        "overview": "The first movie based on the life of the last sovereign Nawab of Bengal, Bihar and Orissa and the historical events of the Battle of Palaashi was directed by Khan Ataur Rahman. Anwar Hossain played the role of the doomed Nawab. Khan Ataur Rahman and Anowara played other major roles in the movie.",
+        "poster_path": "/KLUJBQOqUumIWAooqtSwq4gxCR.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BD",
+                "name": "Bangladesh"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bn",
+                "name": "বাংলা"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0249836",
+        "original_language": "en",
+        "popularity": 0.736,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 147791,
+        "title": "The Greatest Gamble",
+        "release_date": "1967-12-26",
+        "overview": "This is a movie about a local resistance group and its leader Gunvald Tomstad, in the southern part of Norway. Gunvald takes on a heavy burden as he pretends to be a devoted Hitlerjugend-leader and soon he becomes a trusted friend of the German occupants.",
+        "poster_path": "/lZbQ6ynWEqlHP7iVTwTf7err9lv.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Teamfilm AS",
+                "id": 14623
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062313",
+        "original_language": "no",
+        "popularity": 0.667,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 833740,
+        "title": "Way Home",
+        "release_date": "1967-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lentelefilm",
+                "id": 8192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0308182",
+        "original_language": "ru",
+        "popularity": 0.647,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 833622,
+        "title": "Баллада о комиссаре",
+        "release_date": "1967-11-10",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0306508",
+        "original_language": "ru",
+        "popularity": 0.562,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 207243,
+        "title": "\"Cyclone\" Will Begin At Night",
+        "release_date": "1967-12-30",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Rīgas kinostudija",
+                "id": 82801
+            },
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "lv",
+        "popularity": 0.523,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 577882,
+        "title": "Zwariowana noc",
+        "release_date": "1967-07-28",
+        "overview": "Three Polish resistance fighters hide in an old castle inhabitated by an old baroness and her relatives.",
+        "poster_path": "/tLDvv2Z7puDpQ9Wwmf5XhEYctsg.jpg",
+        "backdrop_path": "/pqFHiQ7ISP3kqy8ukyqHZtVJWIQ.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Iluzjon\"",
+                "id": 10941
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0062528",
+        "original_language": "pl",
+        "popularity": 0.5,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 266406,
+        "title": "Steps Through the Mist",
+        "release_date": "1967-05-03",
+        "overview": "After breaking the enemy's rings, a partisan batch is left only with three wounded and two healthy fighters. Through his binoculars, the German captain Anders monitors the surviving soldiers who are walking through the fog in an effort to reach their brigade. Anders quietly starts a manhunt on wounded while anticipating their physical and mental exhaustion.",
+        "poster_path": "/rXb7gcfnl5CNHuMHKFsnSxfqcri.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Filmska Radna Zajednica (FRZ)",
+                "id": 55913
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0179923",
+        "original_language": "sh",
+        "popularity": 0.491,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 637131,
+        "title": "Who will die today?",
+        "release_date": "1967-06-14",
+        "overview": "This film ballad is dedicated to those who never returned home from WW2. A group of retreating Soviet soldiers, crossing a lunar terrain in a desperate attempt to escape death, is attacked by a German fighter plane that appears like a bolt from the blue. One by one they are killed. Then suddenly, in an unlikely denouement bordering on the mystical, the attacker is shot down with a simple rifle. For ideological reasons that defy understanding this film, one of Viktor Hres’ earliest works, was shelved in 1967 by Soviet censors. In 2010, it was restored by the Debut Studio of the Oleksander Dovzhenko Film Studio with the support of the Ministry of Culture and Tourism of Ukraine.",
+        "poster_path": "/uUK85eXY47zNkRXSPFN42V8Cp9O.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.465,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 305492,
+        "title": "Butterfly",
+        "release_date": "1967-01-30",
+        "overview": "A visual protest of America’s involvement in the Vietnam War.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4427654",
+        "original_language": "en",
+        "popularity": 0.464,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 854037,
+        "title": "Štyri strany sveta",
+        "release_date": "1967-10-16",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Československá televízia Bratislava",
+                "id": 28449
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "sk",
+        "popularity": 0.442,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1314005,
+        "title": "And We Are Twenty!",
+        "release_date": "1967-05-01",
+        "overview": "Winter 1941. A company of a machine-gun and artillery battalion was located in a small village, of which only 20 people remained. There is nowhere to retreat: Moscow is 50 km away. And the courageous fighters decide to take the fight to hold back the tank attack of the Nazis...",
+        "poster_path": "/t6IdPF30GfjlvHoTg5nnqMUO2N3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Main editorial board of literary and dramatic programs Central Television USSR",
+                "id": 114114
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.398,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1123253,
+        "title": "Operation Child Hunt",
+        "release_date": "1967-11-17",
+        "overview": "A hidden gem produced at the height of the Hong Kong left-wing cinema. The Japanese army wants to force resistance leader Cheung (Bow Fong) to appear by capturing his family. Cheung's wife dies and, despite the protection by the nurse Yeung (Chu Hung) and other villagers, Cheung's daughter is captured. In the end Cheung's subordinate Lee Fu (Jiang Han) regroups with the resistance and saves the day, defeating the enemy and rescuing everyone. This film clearly references wartime productions in the mainland of China, with elements such as the Japanese taking hostages, resistance guerilla fighters, and the contrast between ‘heroes' and ‘villains' made obvious through camerawork and make-up designs. Street scenes shot in Macau merge seamlessly with studio scenes to recreate northern Chinese towns. War epics were not a strong suit of Hong Kong cinema. This film takes inspirations from Euro-American spy films and pays attention to character development and the mise-en-scène.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Feng Huang Motion Picture Company",
+                "id": 71847
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.filmarchive.gov.hk/en_US/web/hkfa/pe-event-2022-tat2pt2-fs-film11.html",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.385,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1314077,
+        "title": "Two Deaths",
+        "release_date": "1967-11-01",
+        "overview": "A film adaptation of the story of the same name by Aleksandr Serafimovich about the participation of young people in the revolution and civil war.",
+        "poster_path": "/8NtvLGBnd4tCMFWORm0dyOeCcvw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "uk",
+        "popularity": 0.335,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 579619,
+        "title": "Kontrybucja",
+        "release_date": "1967-04-07",
+        "overview": "A bank robbery conducted by Polish Underground members goes awry and the brother-in-law of the group's leader, Paweł gets arrested. Now Paweł must choose between helping his loved ones and staying loyal to the underground.",
+        "poster_path": "/de5Cz1RHx5WsXPJFzF3rR4sDSp2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Iluzjon\"",
+                "id": 10941
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061880",
+        "original_language": "pl",
+        "popularity": 0.307,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 626732,
+        "title": "General Rakhimov",
+        "release_date": "1967-02-19",
+        "overview": "The plot is based on facts from a military biography of General Sabir Rakhimov, the division commander in the Second Belorussian Front. Time of action - World War II.",
+        "poster_path": "/UI18xI0sIi8GAG2RNNcjwoBJjx.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 0.298,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 381470,
+        "title": "Chaidari 3:30 Escape",
+        "release_date": "1967-01-01",
+        "overview": "During the occupation, the German forces capture and imprison at Haidari leader of the Resistance Colonel Gregory. The resisters organize every detail of his escape.",
+        "poster_path": "/6mYYlOonc1aJWjZl9ajDFWigEhw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Galaxias Films",
+                "id": 128023
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0258636",
+        "original_language": "el",
+        "popularity": 0.294,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 582325,
+        "title": "Scouting Patrol",
+        "release_date": "1967-01-01",
+        "overview": "Israeli soldiers cross the border into hostile Arab territory to kidnap an enemy terrorist. After the man is captured, the Israeli unit receives warning of an enemy counter attack, and the unit is forced to trek through the desert on foot.",
+        "poster_path": "/26NCMWVnJuAbcYa7I1LbpVwEnxk.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0138077",
+        "original_language": "he",
+        "popularity": 0.258,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204175,
+        "title": "The Morning",
+        "release_date": "1967-07-05",
+        "overview": "In the first days after the Second World War, as collaborators are being taken care of, a former partisan finds out that war never truly ends — not even in time of peace.",
+        "poster_path": "/nFW5mCf4vGhTxuY9ODYYlFvogGJ.jpg",
+        "backdrop_path": "/yTFAKZeishETdSL8j0U9BLEOEyM.jpg",
+        "production_companies": [
+            {
+                "name": "Dunav Film",
+                "id": 28514
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0061854",
+        "original_language": "sh",
+        "popularity": 0.24,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 833220,
+        "title": "A Friend's Heart",
+        "release_date": "1967-09-18",
+        "overview": "During the Great Patriotic War, battalion commander Pavel Akimov fell in love with the military translator Anechka Belozerova, but the circumstances of military life separated them.",
+        "poster_path": "/4S6qimrNvdfZuOeE3jopoJ674SD.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5052990",
+        "original_language": "ru",
+        "popularity": 0.211,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 616179,
+        "title": "Don't Shoot on the 26-th",
+        "release_date": "1967-06-02",
+        "overview": "1943. Soviet intelligence Saeed Islambek, \"26th\", manages to infiltrate as an instructor in the SS special school, where defectors from Central Asia study. Loyal to his assistants become a scout-Uzbek Nadia, Secretary of the chief of the special school, and Deputy chief of the Gestapo Berg. When one of the most important military tasks are dying, sacrificing himself, Nadia and Sayid.",
+        "poster_path": "/ApBTwBb0NiNVivfw1jmVk2ADBox.jpg",
+        "backdrop_path": "/vOXXut8iCJUpfBebvMCkDWTMLKQ.jpg",
+        "production_companies": [
+            {
+                "name": "Uzbekfilm",
+                "id": 189675
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0170744",
+        "original_language": "ru",
+        "popularity": 0.175,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 766137,
+        "title": "Medaliony",
+        "release_date": "1967-01-01",
+        "overview": "",
+        "poster_path": "/6XmivtZvhbUW0aeVufZ5n5IcKjJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Se-Ma-For",
+                "id": 6551
+            },
+            {
+                "name": "Łódź Film School",
+                "id": 21778
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "pl",
+        "popularity": 0.141,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 945603,
+        "title": "Śmierć w środkowym pokoju",
+        "release_date": "1967-01-04",
+        "overview": "The Gestapo searches one of the apartments in Warsaw. It comes to a tragedy.",
+        "poster_path": "/lOoSt1tY3yE9iVTUaxAou9jk0yw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Syrena\"",
+                "id": 9385
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0943489",
+        "original_language": "pl",
+        "popularity": 0.116,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1318270,
+        "title": "Inundation",
+        "release_date": "1967-07-05",
+        "overview": "At the beginning of the People's Revolution of 1921, it tells about the friendship between Bold, a herdsman, and Mikhail, a Russian boatman, who live on the banks of a river near the border. Two old men who took part in the revolution will be killed by the enemy, but their children will live on. Shows the continuation of the holy friendship of their ancestors.",
+        "poster_path": "/bgdjf09LN0lMht6LnKlokouBGVr.jpg",
+        "backdrop_path": "/bwsbKf1U5UyMQ822ux3rP3NKpaI.jpg",
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "mn",
+        "popularity": 0.104,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 767917,
+        "title": "O prodotis",
+        "release_date": "1967-10-01",
+        "overview": "When the forces of the German occupation undertake a series of serious defeats in the Resistance, suspicions arise of being a traitor among the fighters. A girl who works within the Resistance finds in horror that the traitor is none other than her father.",
+        "poster_path": "/19p27ztgDHaIQAi0T8lqZH3FYtg.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0136475",
+        "original_language": "el",
+        "popularity": 0.049,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 623083,
+        "title": "School of Assassins",
+        "release_date": "1967-01-01",
+        "overview": "This anti-Communism film uses animation to tell the story of two brothers, one of whom receives training for hemispheric subversion in Cuba and returns to his own country to spread violence and terror. He realizes his mistake when, in the course of trying to destroy an experimental farm, his actions bring about the death of his brother Gustavo. Produced by Copri International Films, Inc. (Miami, FL) and directed by Jose D. de Villegas.",
+        "poster_path": "/hzIc58pWksToLVVeCzU3Ml6Pmwv.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://catalog.archives.gov/id/49351",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.029,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 833204,
+        "title": "Unknown Woman...",
+        "release_date": "1967-12-05",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Central Television USSR",
+                "id": 60038
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10305830",
+        "original_language": "ru",
+        "popularity": 0.02,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1387850,
+        "title": "연합전선",
+        "release_date": "1967-12-31",
+        "overview": "",
+        "poster_path": "/cagYR18asb4pbeQwVQXBmXoNeJB.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "합동영화주식회사",
+                "id": 246268
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ko",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1387366,
+        "title": "From Saigon to Dien Bien Phu",
+        "release_date": "1967-01-01",
+        "overview": "The Joint Chiefs of Staff want to send some ARVNSF troops to North's Điện Biên Phủ for the Dien Bien Phu Operation. But all have been caught or killed by Chinese spies as Kiều Loan, except Major Ngọc Minh.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "My Van Films",
+                "id": 182037
+            },
+            {
+                "name": "Asia Motion Pictures Company",
+                "id": 244649
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1452951",
+        "original_language": "vi",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1353849,
+        "title": "At the Border",
+        "release_date": "1967-01-25",
+        "overview": "Based on the author T.Ulambayar's novel \"Guardian of Peace\", it is shown that the Khasa bandits repeatedly invaded the western part of our border in 1947 under the persuasion of the Chinese Kuomintang.",
+        "poster_path": null,
+        "backdrop_path": "/5NKRFEAy1BYbe24FpJCTK0p6Fld.jpg",
+        "production_companies": [
+            {
+                "name": "Mongolkino",
+                "id": 2733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MN",
+                "name": "Mongolia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "mn",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1223766,
+        "title": "Taiheiyō Sensō-shi: Seiki no tsumeato",
+        "release_date": "1967-02-04",
+        "overview": "History of the Pacific War from the invasion of Manchuria to the Tokyo trials",
+        "poster_path": "/w8qESd4vjU77rSjnAHAhDkGbw7v.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Chuo Eiga Production",
+                "id": 75767
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 388898,
+        "title": "The Talking Bird",
+        "release_date": "1967-03-21",
+        "overview": "A Vietnamese short anti-American propaganda animation.",
+        "poster_path": "/dRNswaBsmMF8hbHkFnJk8v2bRjJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hãng phim hoạt hình Việt Nam",
+                "id": 117828
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt31123932",
+        "original_language": "vi",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 329048,
+        "title": "River Patrol",
+        "release_date": "1967-01-01",
+        "overview": "A Navy Mobile Riverine Force patrols the Mekong Delta and battles with the Viet Cong.",
+        "poster_path": "/mIo1eI1pNCKc9O7AWumj1Whu35Y.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United States Navy",
+                "id": 9381
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 329047,
+        "title": "Another Day Of War",
+        "release_date": "1967-01-01",
+        "overview": "Extraordinary film of the U.S. Air Force, including air and ground warfare, and rescues.",
+        "poster_path": "/7yE7qCFavBgGduNy4Y3virswszu.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "The United States Air Force",
+                "id": 8401
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

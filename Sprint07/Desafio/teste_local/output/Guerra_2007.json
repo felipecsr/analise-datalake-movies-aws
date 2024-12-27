@@ -1,0 +1,4524 @@
+[
+    {
+        "id_tmdb": 1271,
+        "title": "300",
+        "release_date": "2007-03-07",
+        "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+        "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+        "backdrop_path": "/eGhjeUbzttA3E4flxdAm8gHz4h4.jpg",
+        "production_companies": [
+            {
+                "name": "Virtual Studios",
+                "id": 449
+            },
+            {
+                "name": "Legendary Pictures",
+                "id": 923
+            },
+            {
+                "name": "Hollywood Gang Productions",
+                "id": 2994
+            },
+            {
+                "name": "Atmosphere Entertainment MM",
+                "id": 2995
+            },
+            {
+                "name": "Nimar Studios",
+                "id": 7636
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Cruel & Unusual Films",
+                "id": 9995
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 65000000,
+        "revenue": 456082343,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 125570,
+            "name": "300 Collection"
+        },
+        "homepage": "http://300themovie.warnerbros.com",
+        "imdb_id": "tt0416449",
+        "original_language": "en",
+        "popularity": 47.786,
+        "status": "Released",
+        "tagline": "Prepare for glory!",
+        "video": false
+    },
+    {
+        "id_tmdb": 12246,
+        "title": "Mongol: The Rise of Genghis Khan",
+        "release_date": "2007-09-20",
+        "overview": "The story recounts the early life of Genghis Khan, a slave who went on to conquer half the world in the 11th century.",
+        "poster_path": "/wZ0yyU6BnRANXbYbDjrYI6XZFsz.jpg",
+        "backdrop_path": "/v04K1SN1HAUpxolz6Uu3V26lSLB.jpg",
+        "production_companies": [
+            {
+                "name": "Andreevsky Flag Film Company",
+                "id": 11996
+            },
+            {
+                "name": "Kinofabrika",
+                "id": 16522
+            },
+            {
+                "name": "Eurasia Film Production",
+                "id": 16524
+            },
+            {
+                "name": "X Filme Creative Pool",
+                "id": 96
+            },
+            {
+                "name": "CTB Film Company",
+                "id": 318
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "KZ",
+                "name": "Kazakhstan"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "mn",
+                "name": ""
+            }
+        ],
+        "budget": 18000000,
+        "revenue": 26527510,
+        "vote_average": 6.802,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0416044",
+        "original_language": "ru",
+        "popularity": 19.998,
+        "status": "Released",
+        "tagline": "Greatness comes to those who take it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9703,
+        "title": "The Last Legion",
+        "release_date": "2007-04-19",
+        "overview": "As the Roman empire crumbles, young Romulus Augustus flees the city and embarks on a perilous voyage to Britain to track down a legion of supporters.",
+        "poster_path": "/k2jaEoOsTEMqSskBJm3gfcuxNEc.jpg",
+        "backdrop_path": "/tgaMo8q1HpGTbtpmJm8TYKTpOr4.jpg",
+        "production_companies": [
+            {
+                "name": "The De Laurentiis Company",
+                "id": 10308
+            },
+            {
+                "name": "Quinta Communications",
+                "id": 6370
+            },
+            {
+                "name": "Zephyr Films",
+                "id": 16923
+            },
+            {
+                "name": "Nimar Studios",
+                "id": 7636
+            },
+            {
+                "name": "Ingenious Media",
+                "id": 290
+            },
+            {
+                "name": "D.D.L.",
+                "id": 95351
+            },
+            {
+                "name": "Carthago Films",
+                "id": 155424
+            },
+            {
+                "name": "Koliba Production & Services",
+                "id": 218088
+            },
+            {
+                "name": "Empire Productions",
+                "id": 218090
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "SK",
+                "name": "Slovakia"
+            },
+            {
+                "iso_3166_1": "TN",
+                "name": "Tunisia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 67000000,
+        "revenue": 25303038,
+        "vote_average": 5.594,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0462396",
+        "original_language": "en",
+        "popularity": 15.976,
+        "status": "Released",
+        "tagline": "The end of an empire...the beginning of a legend.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11600,
+        "title": "Redacted",
+        "release_date": "2007-11-16",
+        "overview": "A fictional documentary discusses the effects the Iraq war has had on soldiers and local people through interviews with members of an American military unit, the media, and local Iraqis.",
+        "poster_path": "/vtQHJynrYM4TF0ti96YsyIhox2H.jpg",
+        "backdrop_path": "/q33xBrApPcI3XFHNoD9BKaDR9Cl.jpg",
+        "production_companies": [
+            {
+                "name": "HDNet Films",
+                "id": 3097
+            },
+            {
+                "name": "The Film Farm",
+                "id": 22884
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 5000000,
+        "revenue": 782102,
+        "vote_average": 5.964,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0937237",
+        "original_language": "en",
+        "popularity": 12.504,
+        "status": "Released",
+        "tagline": "Truth is the first casualty of war",
+        "video": false
+    },
+    {
+        "id_tmdb": 6172,
+        "title": "My Führer",
+        "release_date": "2007-01-11",
+        "overview": "Hitler no longer believes in himself, and can barely see himself as an equal to even his sheep dog. But to seize the helm of the war he would have to create one of his famous fiery speeches to mobilize the masses. Goebbels therefore brings a Jewish acting teacher Grünbaum and his family from the camps in order to train the leader in rhetoric. Grünbaum is torn, but starts Hitler in his therapy ...",
+        "poster_path": "/kTQMykCLzJ2jtagyXGSqX0ieAKf.jpg",
+        "backdrop_path": "/1456pqeYmsxmHthzhPbbmEqV5fV.jpg",
+        "production_companies": [
+            {
+                "name": "Y Filme Directors Pool",
+                "id": 2036
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.meinfuehrer-derfilm.de/",
+        "imdb_id": "tt0780568",
+        "original_language": "de",
+        "popularity": 12.496,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 13614,
+        "title": "Katyn",
+        "release_date": "2007-09-21",
+        "overview": "On September 1st, 1939, Nazi Germany invades Poland, unleashing World War II. On September 17th, the Soviet Red Army crosses the border. The Polish army, unable to fight on two fronts, is defeated. Thousands of Polish men, both military and government officials, are captured by the invaders. Their fate will only be known several years later.",
+        "poster_path": "/vfRDVMb9MBNFCxXhXRxKCLUujfF.jpg",
+        "backdrop_path": "/8nDDWPMB6odNmWpKy0VQaiXyxMY.jpg",
+        "production_companies": [
+            {
+                "name": "Akson Studio",
+                "id": 10826
+            },
+            {
+                "name": "Telekomunikacja Polska",
+                "id": 67806
+            },
+            {
+                "name": "TVP",
+                "id": 6480
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "uk",
+                "name": "Український"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 5600000,
+        "revenue": 14768451,
+        "vote_average": 6.713,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.aksonstudio.pl/en/movies/katyn",
+        "imdb_id": "tt0879843",
+        "original_language": "pl",
+        "popularity": 9.876,
+        "status": "Released",
+        "tagline": "The untold story of the crime Stalin could not hide",
+        "video": false
+    },
+    {
+        "id_tmdb": 7862,
+        "title": "The Counterfeiters",
+        "release_date": "2007-03-22",
+        "overview": "The story of Jewish counterfeiter Salomon Sorowitsch, who was coerced into assisting the Nazi operation of the Sachsenhausen concentration camp during World War II.",
+        "poster_path": "/Af6I9RZF0SIPeNnp8hAleGDTnKd.jpg",
+        "backdrop_path": "/f6c63X99xkhWtdfet0aZqXgW2vc.jpg",
+        "production_companies": [
+            {
+                "name": "FilmFörderung Hamburg",
+                "id": 2406
+            },
+            {
+                "name": "Studio Babelsberg",
+                "id": 264
+            },
+            {
+                "name": "Babelsberg Film",
+                "id": 424
+            },
+            {
+                "name": "Magnolia Filmproduktion",
+                "id": 2169
+            },
+            {
+                "name": "ZDF",
+                "id": 4606
+            },
+            {
+                "name": "Aichholzer Film",
+                "id": 1230
+            },
+            {
+                "name": "Studio Babelsberg Motion Pictures",
+                "id": 37826
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 6250000,
+        "revenue": 20200000,
+        "vote_average": 7.355,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.diefaelscher.at/",
+        "imdb_id": "tt0813547",
+        "original_language": "de",
+        "popularity": 8.093,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 14111,
+        "title": "Battle for Haditha",
+        "release_date": "2007-09-11",
+        "overview": "An investigation of the massacre of 24 men, women and children in Haditha, Iraq allegedly shot by 4 U.S. Marines in retaliation for the death of a U.S. Marine killed by a roadside bomb. The movie follows the story of the Marines of Kilo Company, an Iraqi family, and the insurgents who plant the roadside bomb.",
+        "poster_path": "/yUfXGuipKIw2xKs64yrTPOwRTtd.jpg",
+        "backdrop_path": "/m0edcSYyX4A4EgzsI9wtXIPsV6.jpg",
+        "production_companies": [
+            {
+                "name": "HanWay Films",
+                "id": 2395
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0870211",
+        "original_language": "en",
+        "popularity": 8.272,
+        "status": "Released",
+        "tagline": "There are many ways to see the same story",
+        "video": false
+    },
+    {
+        "id_tmdb": 394394,
+        "title": "Halo: Landfall",
+        "release_date": "2007-10-26",
+        "overview": "Director Neill Blomkamp explores the lives of Marines and ODSTs on a last, desperate mission in a post-invasion Earth – a mission that may secure the salvation, or usher the destruction of the entire galaxy. Edited together as a standalone piece for the first time, these three shorts are the first glimpse at what a live-action Halo could and should look like and a must-see for Halo fans of every stripe.",
+        "poster_path": "/vStuoJSMfKfMyE2Mg6tSZMoQpx1.jpg",
+        "backdrop_path": "/l2LsWbYKfIgPBdwHo4h9rS4Tw0j.jpg",
+        "production_companies": [
+            {
+                "name": "Bungie Studios",
+                "id": 76841
+            },
+            {
+                "name": "Origami Digital",
+                "id": 154614
+            },
+            {
+                "name": "Weta Digital",
+                "id": 154615
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6443526",
+        "original_language": "en",
+        "popularity": 8.15,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 13507,
+        "title": "Intimate Enemies",
+        "release_date": "2007-10-03",
+        "overview": "A drama following a French platoon during Algeria's war of independence.",
+        "poster_path": "/mQlekXRJwYB10yvMKkR6cCMvjQv.jpg",
+        "backdrop_path": "/uYwkie6GONadcf2MiL3TwGy4r2Q.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films du Kiosque",
+                "id": 2951
+            },
+            {
+                "name": "SND",
+                "id": 2902
+            },
+            {
+                "name": "Agora Films",
+                "id": 15316
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 9780000,
+        "revenue": 0,
+        "vote_average": 6.322,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0825248",
+        "original_language": "fr",
+        "popularity": 8.098,
+        "status": "Released",
+        "tagline": "The scars of war last forever",
+        "video": false
+    },
+    {
+        "id_tmdb": 15048,
+        "title": "Beaufort",
+        "release_date": "2007-02-02",
+        "overview": "BEAUFORT tells the story of LIRAZ LIBERTI, the 22 year-old outpost commander, and his troops in the months before Israel pulled out of Lebanon. This is not a story of war, but of retreat. This is a story with no enemy, only an amorphous entity that drops bombs from the skies while terrified young soldiers must find a way to carry out their mission until their very last minutes on that mountaintop.",
+        "poster_path": "/qHE7j4HPg0QUD0OFG8x6fKEa6a2.jpg",
+        "backdrop_path": "/3ufE7IgjgPdva4n1OzTXEN4ttRk.jpg",
+        "production_companies": [
+            {
+                "name": "Metro Communications",
+                "id": 6475
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.536,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0758732",
+        "original_language": "he",
+        "popularity": 8.042,
+        "status": "Released",
+        "tagline": "To drown or to float. To live or to die.",
+        "video": false
+    },
+    {
+        "id_tmdb": 40620,
+        "title": "I Have Never Forgotten You: The Life & Legacy of Simon Wiesenthal",
+        "release_date": "2007-05-28",
+        "overview": "\"I Have Never Forgotten You\" is a comprehensive look at the life and legacy of Simon Wiesenthal, the famed Nazi hunter and humanitarian. Narrated by Academy Award winning actress Nicole Kidman, it features interviews with longtime Wiesenthal associates, government leaders from around the world, friends and family members--many of whom have never discussed the legendary Nazi hunter and humanitarian on camera. Previously unseen archival film and photos also highlight the film. What was the driving force behind his work? What kept him going when for years the odds were against his efforts? What is his legacy today, more than 60 years after the end of World War Two?",
+        "poster_path": "/glxchpIupx0c8ZoofM4n0H3nw8a.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Moriah Films",
+                "id": 101283
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0763852",
+        "original_language": "en",
+        "popularity": 6.422,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 24474,
+        "title": "King Naresuan Part: 1",
+        "release_date": "2007-01-18",
+        "overview": "The film concerns the life of King Naresuan, who liberated the Siamese from the control of Burma. Born in 1555, he was taken to Burma as a child hostage; there he became acquainted with sword fighting and became a threat to the Burmese empire.",
+        "poster_path": "/ukm7YlCLkhITmTzLqf8Akb5YTYC.jpg",
+        "backdrop_path": "/aZ3Vqf2c5n3ozeFuKYQDXMvwm4R.jpg",
+        "production_companies": [
+            {
+                "name": "Prommitr International Production",
+                "id": 8972
+            },
+            {
+                "name": "Sahamongkolfilm",
+                "id": 4207
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TH",
+                "name": "Thailand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "my",
+                "name": ""
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 7900000,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 242948,
+            "name": "King Naresuan Collection"
+        },
+        "homepage": "http://www.kingnaresuanmovie.com",
+        "imdb_id": "tt0817940",
+        "original_language": "th",
+        "popularity": 5.842,
+        "status": "Released",
+        "tagline": "He was destined for greatness. His kingdom was destined for freedom.",
+        "video": false
+    },
+    {
+        "id_tmdb": 54462,
+        "title": "For Those We Love",
+        "release_date": "2007-05-12",
+        "overview": "In 1943, as Japan's WWII effort falters, a vice-admiral proposes training squadrons of \"volunteer\" flyers to crash their armed planes into Allied warships. Yarn follows the lives of kamikaze pilots, as remembered by an aging Kyushu restaurateur who cherishes their memory. Honoring the dead and multiple military anthems may stir the soul of some Japanese, but elsewhere auds will make a one-way trip for exits. Battle scenes are well-executed and script delivers some memorable scenes, but overall competent helming and thesping are powerless over writer-cum-Tokyo governor Shintaro Ishiara's repetitive storytelling. A post-war postscript adds considerable length to an already over-extended narrative. Tech credits are good quality.",
+        "poster_path": "/k602Yndns4nXusXvBfJpWZztvGy.jpg",
+        "backdrop_path": "/wgPuQqwRxdXWwahzClTkExWRvFl.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Video Company",
+                "id": 9221
+            },
+            {
+                "name": "Nippon Television Network Corporation",
+                "id": 6755
+            },
+            {
+                "name": "Yomiuri Telecasting Corporation",
+                "id": 11727
+            },
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0882797",
+        "original_language": "ja",
+        "popularity": 5.377,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 49322,
+        "title": "1944 The Final Defence",
+        "release_date": "2007-12-07",
+        "overview": "The Soviet army breaks through the Finnish defences on the Karelian Isthmus in June 1944, advancing with overwhelming force. Somehow, the Finnish troops must find the strength to fight back, with all odds against them. The Battle of Tali-Ihantala was the largest battle ever fought in the history of the Nordic countries. This film depicts the true events through five separate stories.",
+        "poster_path": "/35azd5Cp0luhyDrgQWlWPKOqtI4.jpg",
+        "backdrop_path": "/jUoJsdNAksofYogKCM14AER8qjd.jpg",
+        "production_companies": [
+            {
+                "name": "Åke Lindman Film-Production",
+                "id": 87068
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "et",
+                "name": "Eesti"
+            },
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0378848",
+        "original_language": "fi",
+        "popularity": 4.904,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 61820,
+        "title": "Buddha Collapsed Out of Shame",
+        "release_date": "2007-09-09",
+        "overview": "A young girl zealously wants to go to school and learn to read and write. Almost everywhere she is met with hostility or indifference. The only young boy who takes her to his school is thrown out by the teacher, because helping her prevented him from arriving in time. On her way home she and other girls are taken as prisoners by boys playing as Taliban fighters. They tear her school book to pieces and threaten to stone their female captives.",
+        "poster_path": "/lFXFC2Sh7yalggvA4jVXVv2Uewe.jpg",
+        "backdrop_path": "/pNaAm9WiwrNEHvfeBzTjcQs7iPI.jpg",
+        "production_companies": [
+            {
+                "name": "Makhmalbaf Film House Productions",
+                "id": 13518
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1094627",
+        "original_language": "fa",
+        "popularity": 4.207,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 400633,
+        "title": "Enemies",
+        "release_date": "2007-01-23",
+        "overview": "Belorussia, summer 1942. The war has moved on, far off to the east. The life of a small town where the German authorities of the region have set themselves up is getting back to \"normal\". The Germans study Russian, flirt with the local girls, the women wash their clothes and feed them. They have to carry on somehow... But suddenly the teenage son of the film's heroine decides to run away to the partisans and blows up a German train so that they could accept him. He gets caught and the Germans have to execute him in order \"to teach others a lesson\". That's the order and it can't be disobeyed. The Germans know that this execution will bring an end to their peaceful lives. The local commandant understands this better than anyone as he is already involved in a close relationship with the boy's mother. But he can't ignore an order from his commanders...",
+        "poster_path": "/vXZD4ogbc4tT20eDOzeDzeZpd7R.jpg",
+        "backdrop_path": "/hOBHD8gfJIMHE3PQQXPk4AjrwTa.jpg",
+        "production_companies": [
+            {
+                "name": "TPO Rok",
+                "id": 71873
+            },
+            {
+                "name": "Belarusfilm",
+                "id": 157119
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BY",
+                "name": "Belarus"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1286863",
+        "original_language": "ru",
+        "popularity": 3.604,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 932370,
+        "title": "In Love with Adolf Hitler",
+        "release_date": "2007-06-12",
+        "overview": "This film captures the affair, full of love, lust, and despair, between Adolf Hitler and Eva Braun, from 1932 until their double suicide in 1945.",
+        "poster_path": "/4zEOsaESMGK782dvhAAaSG5VVwu.jpg",
+        "backdrop_path": "/2Z206jUY918gb1xu9bYKyTedgji.jpg",
+        "production_companies": [
+            {
+                "name": "CC&C",
+                "id": 24678
+            },
+            {
+                "name": "TF1",
+                "id": 22123
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.cccprod.com/en/production/in-love-with-adolf-hitler",
+        "imdb_id": "tt2241296",
+        "original_language": "fr",
+        "popularity": 3.536,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 208001,
+        "title": "L'amore e la guerra",
+        "release_date": "2007-05-13",
+        "overview": "World War I (1914-1918) In the trenches del Carpio, the fate of two people forever changed when known. Mario is a humble miner to whom war has become infantry sergeant, and Albertina is a duchess who has decided to help his country enlisting as a nurse. The love that arises between them will have to face the horrors of war and wishes to marry Captain Avogardo Albertina.",
+        "poster_path": "/AjqLSiYxxRQYmZ4jGEZdagGb3xZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0465725",
+        "original_language": "it",
+        "popularity": 3.506,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 23764,
+        "title": "Toyland",
+        "release_date": "2007-08-29",
+        "overview": "On a winter morning, a mother goes to waken her son Heinrich; his bed is empty. She leaves her flat to find him. The neighbors' door, with a Star of David painted on it, is ajar, the furnishings in disarray, the family gone. She asks passersby, runs to the police then on to the rail yard. Flashbacks show that Heinrich and the neighbors' son Paul are six years old and best friends. Paul's family's deportation is expected soon; Heinrich's mother tells her son that they're going to Toyland. Heinrich wants to go with them, has a bag packed, and listens for their departure. His mother realizes he's joined them, and her resolve becomes more urgent. Will she arrive in time to save Heinrich?",
+        "poster_path": "/6xfx5frpOZD63LSjMRpCkx1yhhN.jpg",
+        "backdrop_path": "/iKqvN3xyIIloJ3pY4iNYLpkg8Xf.jpg",
+        "production_companies": [
+            {
+                "name": "Mephisto Film",
+                "id": 82848
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://mephistofilm.de/sites/filme_spielzeugland.html",
+        "imdb_id": "tt1280548",
+        "original_language": "de",
+        "popularity": 3.434,
+        "status": "Released",
+        "tagline": "1942: what happens when a German kid believes that his Jewish neighbors are going to Toyland?",
+        "video": false
+    },
+    {
+        "id_tmdb": 14531,
+        "title": "The Mark of Cain",
+        "release_date": "2007-10-18",
+        "overview": "After a bomb kills their company commander in Iraq, British soldiers Treacle and Shane are ordered to round up suspects and use torture on the detainees. Back home, the press gets the story and the pair achieves instant infamy.",
+        "poster_path": "/dFUQDasBpGqIM3dfIXtofhQx2sl.jpg",
+        "backdrop_path": "/aBTlOObBe5iYVTikWhqirb93Aog.jpg",
+        "production_companies": [
+            {
+                "name": "Red Production Company",
+                "id": 20267
+            },
+            {
+                "name": "Channel 4 Television",
+                "id": 5778
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0837800",
+        "original_language": "en",
+        "popularity": 3.317,
+        "status": "Released",
+        "tagline": "The scars of war run deep.",
+        "video": false
+    },
+    {
+        "id_tmdb": 62698,
+        "title": "Sinking of the Lusitania: Terror at Sea",
+        "release_date": "2007-05-12",
+        "overview": "The story of the sinking of the Lusitania in 1915 after she was torpedoed off the Irish coast. The story is told from the perspective of Prof. Holbourn (a passenger), the German U-boat and its captain and crew, and other passengers, crew and Admiralty staff",
+        "poster_path": "/6cuejUvaRppO05fQ8MjoyNtitZO.jpg",
+        "backdrop_path": "/mhBrt35DYOZmVRTuxEk8s1Up3LM.jpg",
+        "production_companies": [
+            {
+                "name": "DSP",
+                "id": 2015
+            },
+            {
+                "name": "NDR",
+                "id": 7201
+            },
+            {
+                "name": "BBC",
+                "id": 3324
+            },
+            {
+                "name": "Discovery Channel Korea",
+                "id": 233762
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1043496",
+        "original_language": "en",
+        "popularity": 3.256,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 54269,
+        "title": "The Last Ottoman: Knockout Ali",
+        "release_date": "2007-01-19",
+        "overview": "After the First World War, the Allies occupy Istanbul. The protagonist, Yandim Ali is a rogue, discharged from the navy, who doesn't believe that the country can be saved, until he meets Mustafa Kemal (Ataturk), who plans to start a resistance in Anatolia against the occupying Allies, as well as the collaborators of an Ottoman government, that exists only on paper.",
+        "poster_path": "/la8LmZSfBgGZKd7uDssR7EjAHCD.jpg",
+        "backdrop_path": "/tESEx8Ly3a9HJ6GGTxeyGaHmMNU.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0845537",
+        "original_language": "tr",
+        "popularity": 3.176,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22452,
+        "title": "The War on Democracy",
+        "release_date": "2007-06-15",
+        "overview": "Set both in Latin America and the United States, the film explores the historic and current relationship of Washington with countries such as Venezuela, Bolivia and Chile. Pilger says that the film \"...tells a universal story... analysing and revealing, through vivid testimony, the story of great power behind its venerable myths. It allows us to understand the true nature of the so-called \"war on terror\". According to Pilger, the film’s message is that the greed and power of empire is not invincible and that people power is always the \"seed beneath the snow\".",
+        "poster_path": "/12oQAIiqYSjWmZtIY1XtHYpCk7Z.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1029172",
+        "original_language": "en",
+        "popularity": 3.142,
+        "status": "Released",
+        "tagline": "Never believe anything until it is officially denied",
+        "video": false
+    },
+    {
+        "id_tmdb": 48017,
+        "title": "The Poet",
+        "release_date": "2007-08-07",
+        "overview": "At the dawn of World War 2, a Rabbi's daughter and a disenchanted German soldier fall in love and are separated by the war. They struggle on a perilous journey to find one another.",
+        "poster_path": "/iHfqatnKlnMeLel63IOAjH5HAHP.jpg",
+        "backdrop_path": "/8Cvznhsf5s8uTZTaDk8BmMtQ8Yq.jpg",
+        "production_companies": [
+            {
+                "name": "Noble House Film & Television",
+                "id": 57568
+            },
+            {
+                "name": "Alchemist Entertainment",
+                "id": 57567
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 11000000,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0904127",
+        "original_language": "en",
+        "popularity": 3.103,
+        "status": "Released",
+        "tagline": "Together in Love. Separated by War.",
+        "video": false
+    },
+    {
+        "id_tmdb": 22905,
+        "title": "The Rape of Europa",
+        "release_date": "2007-03-17",
+        "overview": "World War II was not just the most destructive conflict in humanity, it was also the greatest theft in history: lives, families, communities, property, culture and heritage were all stolen. The story of Nazi Germany's plundering of Europe's great works of art during World War II and Allied efforts to minimize the damage.",
+        "poster_path": "/fAtPsP6gv2Fr1xz0cL6LD4CqjmM.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Actual Films",
+                "id": 18073
+            },
+            {
+                "name": "Agon Arts and Entertainment",
+                "id": 18074
+            },
+            {
+                "name": "Oregon Public Broadcasting",
+                "id": 18075
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.pbs.org/therapeofeuropa/",
+        "imdb_id": "tt0997088",
+        "original_language": "en",
+        "popularity": 3.06,
+        "status": "Released",
+        "tagline": "Imagine The World Without Our Masterpieces",
+        "video": false
+    },
+    {
+        "id_tmdb": 33588,
+        "title": "White Light/Black Rain: The Destruction of Hiroshima and Nagasaki",
+        "release_date": "2007-08-06",
+        "overview": "Steven Okazaki presents a deeply moving look at the painful legacy of the first -- and hopefully last -- uses of nuclear weapons in war. Featuring interviews with fourteen atomic bomb survivors - many who have never spoken publicly before - and four Americans intimately involved in the bombings, White Light/Black Rain provides a detailed exploration of the bombings and their aftermath.",
+        "poster_path": "/43YQd9JMZvgjEtIBuC27EsAYyKP.jpg",
+        "backdrop_path": "/rwZ97vnPTI0R3hYcjBa7nQrYFKq.jpg",
+        "production_companies": [
+            {
+                "name": "HBO Documentary Films",
+                "id": 14914
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0911010",
+        "original_language": "en",
+        "popularity": 3.026,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 87312,
+        "title": "Soldiers Of Conscience",
+        "release_date": "2007-01-01",
+        "overview": "This country asked them to kill. Their hearts asked them to stop.",
+        "poster_path": "/hLSvlvMoFRKGHE2Vmi8fCUnBrKF.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1217603",
+        "original_language": "en",
+        "popularity": 2.787,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 200336,
+        "title": "Operation Silver A",
+        "release_date": "2007-01-06",
+        "overview": "Based on actual events.  Late 1941, Group Silver A are dropped into occupied Czechoslovakia on an SOE mission to set up a Radio communications centre for the resistance, and contact a German Army officer whom is forwarding information to the British.",
+        "poster_path": "/a79jPFGRaK0P9Tc10bGLGnhtm2A.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1014680",
+        "original_language": "cs",
+        "popularity": 2.665,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 90677,
+        "title": "King Naresuan Part: 2",
+        "release_date": "2007-02-15",
+        "overview": "Prince Naresuan is now the crown prince of Ayutthaya and the king of Burma is dead. While the new Burmese king is waging war, the crown prince plots to assassinate Naresuan. Hearing this, the prince decides to evacuate Thais out of the Burmese capital and declare that Siam will no longer bow to Burma. The war for the kingdom's independence begins.",
+        "poster_path": "/girqhxJZfSpYHbOyDRx6fV4xrwb.jpg",
+        "backdrop_path": "/ctt0ZW75vsSA9TFYY7xpYoRUer5.jpg",
+        "production_companies": [
+            {
+                "name": "Prommitr International Production",
+                "id": 8972
+            },
+            {
+                "name": "Sahamongkolfilm",
+                "id": 4207
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TH",
+                "name": "Thailand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "my",
+                "name": ""
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 242948,
+            "name": "King Naresuan Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0975744",
+        "original_language": "th",
+        "popularity": 2.634,
+        "status": "Released",
+        "tagline": "The King who dared to change the destiny of a nation.",
+        "video": false
+    },
+    {
+        "id_tmdb": 646533,
+        "title": "Чаклун и Румба",
+        "release_date": "2007-11-05",
+        "overview": "",
+        "poster_path": "/4naCIRtu7eiwO20MzbbConVybZT.jpg",
+        "backdrop_path": "/5DUQCd8lPSiN1tkD3VQLcKagxRh.jpg",
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 157119
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BY",
+                "name": "Belarus"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2671504",
+        "original_language": "ru",
+        "popularity": 2.461,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 16666,
+        "title": "War Dance",
+        "release_date": "2007-02-15",
+        "overview": "Three children living in a displacement camp in northern Uganda compete in their country's national music and dance festival.",
+        "poster_path": "/mZxKlZSaL0VvBfmiZX3dv3BKVH5.jpg",
+        "backdrop_path": "/dOsFxHgM5dJiTeVMei2KSQMOYF9.jpg",
+        "production_companies": [
+            {
+                "name": "Rogues Harbor Studios",
+                "id": 146007
+            },
+            {
+                "name": "Fine Films",
+                "id": 146008
+            },
+            {
+                "name": "Shine Global",
+                "id": 146009
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0912599",
+        "original_language": "en",
+        "popularity": 2.45,
+        "status": "Released",
+        "tagline": "The war stole everything, except their music.",
+        "video": false
+    },
+    {
+        "id_tmdb": 195834,
+        "title": "Defenders of Riga",
+        "release_date": "2007-01-01",
+        "overview": "The film dramatizes November 11, 1919- a crucial date in the battle for Latvian independence. A year after the end of the official hostilities of WWI, a renegade German general and troops remain outside the Latvian capital. Latvian riflemen, most of them inexperienced volunteers, somehow managed to defeat a larger, better-armed force of German and Russian mercenaries.",
+        "poster_path": "/iHXjxW1pCcU52F6TAm0WyKRkaKB.jpg",
+        "backdrop_path": "/z6jtevUdXzZyNGHDhFyUYtqEq7M.jpg",
+        "production_companies": [
+            {
+                "name": "Platforma Filma",
+                "id": 13339
+            },
+            {
+                "name": "Ruut",
+                "id": 18014
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EE",
+                "name": "Estonia"
+            },
+            {
+                "iso_3166_1": "LV",
+                "name": "Latvia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3550000,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0471359",
+        "original_language": "lv",
+        "popularity": 2.405,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 399700,
+        "title": "Mobile Suit Gundam SEED Destiny TV Movie IV: The Cost of Freedom",
+        "release_date": "2007-02-23",
+        "overview": "Having defeated Logos and the Earth Alliance, the triumphant Chairman Durandal now reveals his ultimate plan for humanity. The world reacts with confusion and horror to the details of the Destiny Plan, but Durandal has come too far to let anyone stand in the way of his dream of eternal peace and happiness. Using the weapons of his fallen enemies, the Chairman demonstrates that he will stop at nothing to create his new world. The Archangel and its allies are now humanity's last hope to prevent Durandal from carrying out his plans. Once again, a fierce battle begins around the Requiem cannon and its relay stations, and our lead pilots meet in a final confrontation over the lunar surface. Shinn against Athrun, Kira against Rey, Archangel against Minerva... In the end, there can be only one victor.",
+        "poster_path": "/7gDUJjsDuqaXHigl5zGBK83AnRv.jpg",
+        "backdrop_path": "/fTKDNQT7P0StOVsGlx5eqEHps50.jpg",
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 802649,
+            "name": "Mobile Suit Gundam SEED Destiny Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt6531360",
+        "original_language": "ja",
+        "popularity": 2.356,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 52897,
+        "title": "Namibia: The Struggle for Liberation",
+        "release_date": "2007-06-27",
+        "overview": "Namibia: The Struggle for Liberation is a 2007 epic film on the Namibian independence struggle against South African occupation as seen through the life of Sam Nujoma, the leader of the South-West Africa People's Organisation and the first president of the Republic of Namibia.",
+        "poster_path": "/t3tFmaHhGWL809H2v1Lnz2QDUCf.jpg",
+        "backdrop_path": "/bBINgJEBP3fNhbhoxxq86yPxWVE.jpg",
+        "production_companies": [
+            {
+                "name": "Namibia Film Commission",
+                "id": 6579
+            },
+            {
+                "name": "Pan Afrikan Center of Namibia",
+                "id": 6580
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NA",
+                "name": "Namibia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "af",
+                "name": "Afrikaans"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "hz",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1085469",
+        "original_language": "en",
+        "popularity": 2.303,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 79492,
+        "title": "Hunting Down the Nazis",
+        "release_date": "2007-01-15",
+        "overview": "For the first time, a film recounts the story of the long pursuit of Nazis in hiding from 1945 to the present day. Sixty years of investigations, set-backs trials and dramas, brought about principally by three extraordinary individuals—the Austrian Simon Wiesenthal, and the German-French couple, Beate and Serge Klarsfeld.",
+        "poster_path": "/4R9A41Dd5Q99Z4GtIvsWrW1IcZR.jpg",
+        "backdrop_path": "/ovmh2XlhkKZXfnSot3AM1NFLs96.jpg",
+        "production_companies": [
+            {
+                "name": "France 2",
+                "id": 11359
+            },
+            {
+                "name": "CC&C",
+                "id": 24678
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.cccprod.com/en/production/hunting-down-the-nazis",
+        "imdb_id": "tt0943508",
+        "original_language": "fr",
+        "popularity": 2.154,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17479,
+        "title": "Alexandra",
+        "release_date": "2007-06-03",
+        "overview": "Elderly Aleksandra visits her Russian soldier grandson, Denis, at the Chechen war front, providing comfort as she tours his army. All the while, Denis ponders the reason for her unexpected appearance.",
+        "poster_path": "/yjs6DX05ep8fQPB4Z63HcWmpb1D.jpg",
+        "backdrop_path": "/cyNQ1DRIQEBUekV5aZ9WMhfcd78.jpg",
+        "production_companies": [
+            {
+                "name": "Proline Film",
+                "id": 3327
+            },
+            {
+                "name": "Rezo Productions",
+                "id": 30231
+            },
+            {
+                "name": "Federal Agency for Culture and Cinematography of the Russian Federation",
+                "id": 84476
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "ce",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1034427",
+        "original_language": "ru",
+        "popularity": 2.061,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 37122,
+        "title": "Last Stand of the 300",
+        "release_date": "2007-05-27",
+        "overview": "This is the true and astounding saga of the Spartans at Thermopylae. It is among the greatest tales of war ever recounted. All the glory and grit of these warriors' last stand is captured in this exceptional documentary. It is almost impossible to understand how 300 Spartans managed to hold off the million-man Persian army for even a moment, much less seven days. To a man they paid with their lives but their stunning Last Stand assured that their sacrifice would resonate throughout history. Transporting dramatizations and incisive graphics put you in the heat of the battle and show the lay of the land. The complications and strategies of the conflict are revealed through careful analysis, and critical moments are reconstructed to show exactly what happened. Discover what the Spartans were fighting for, what made them capable of such heroics and what drove them to such sacrifice.",
+        "poster_path": "/tJw6JNjglltIiuG9JzEHIcgyNuh.jpg",
+        "backdrop_path": "/7Sa30cQm9jtSGDZq3jViW8x2C6Q.jpg",
+        "production_companies": [
+            {
+                "name": "Limulus Productions, Inc.",
+                "id": 147153
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://shop.history.com/detail.php?p=69983",
+        "imdb_id": "tt0892737",
+        "original_language": "en",
+        "popularity": 1.996,
+        "status": "Released",
+        "tagline": "The Legendary Battle at Thermopylae",
+        "video": false
+    },
+    {
+        "id_tmdb": 71617,
+        "title": "The Living and the Dead",
+        "release_date": "2007-07-20",
+        "overview": "In 1943, group of Croatian soldiers overtake a strategically important point in western Bosnia with a goal to destroy a group of communist partisans. On the way they met some supernatural phenomena, and the action itself went very badly because the partisans ambushed them. The main character Martin inherits silver cigarette case from a dying soldier. This act connects to the story in 1993 when we meet Martins grandson Tomo. He is one of six soldiers of the Croatian army who have come to the same place in Bosnia to meet the same phenomena and similar fate.",
+        "poster_path": "/u1Jp94CmXz4rgg9aO8es0lkUEAy.jpg",
+        "backdrop_path": "/6zaRDMHdv2wZTLsCc8pRd6A0Hpl.jpg",
+        "production_companies": [
+            {
+                "name": "Ultimativne Medijske Atrakcije",
+                "id": 22452
+            },
+            {
+                "name": "Mainframe Productions",
+                "id": 22453
+            },
+            {
+                "name": "Olimp Produkcija",
+                "id": 22454
+            },
+            {
+                "name": "Porta Produkcija",
+                "id": 22455
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HR",
+                "name": "Croatia"
+            },
+            {
+                "iso_3166_1": "BA",
+                "name": "Bosnia and Herzegovina"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hr",
+                "name": "Hrvatski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0449671",
+        "original_language": "hr",
+        "popularity": 1.902,
+        "status": "Released",
+        "tagline": "50 years apart, two armies will fight to the same death...",
+        "video": false
+    },
+    {
+        "id_tmdb": 336134,
+        "title": "200,000 Phantoms",
+        "release_date": "2007-07-11",
+        "overview": "In 1914, the Czech architect Jan Letzel designed in the Japanese city of Hiroshima Center for the World Expo, which has turned into ruins after the atomic bombing in August 1945. “Atomic Dome” – all that remains of the destroyed palace of the exhibition – has become part of the Hiroshima memorial. In 2007, French sculptor, painter and film director Jean-Gabriel Périot assembled this cinematic collage from hundreds of multi-format, color and black and white photographs of different years’ of “Genbaku Dome”.",
+        "poster_path": "/4O270a13QFzV3esWdjm858q6tWg.jpg",
+        "backdrop_path": "/7BoVku5UsEMoegaSMKsX8tMVSks.jpg",
+        "production_companies": [
+            {
+                "name": "Jean-Gabriel Périot",
+                "id": 51347
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1038942",
+        "original_language": "fr",
+        "popularity": 1.884,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 323116,
+        "title": "Escape from Luanda",
+        "release_date": "2007-11-20",
+        "overview": "In Luanda, one of the world's poorest and most dangerous places, three students from Angola's only music school work towards their end-of-year concert. The Music School is Angola's first and only school of its kind. It houses some 80 students, most of them desperately poor. Many face disapproval and outright rejection from their families who can't see a future in music. This film asks if, despite the ravages of 27 years of civil war, musical passion can overcome terrible hardships.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Seventh Art Productions",
+                "id": 45654
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1296155",
+        "original_language": "en",
+        "popularity": 1.652,
+        "status": "Released",
+        "tagline": "A war-ravaged past. A new hope for the future.",
+        "video": false
+    },
+    {
+        "id_tmdb": 32092,
+        "title": "Under the Bombs",
+        "release_date": "2007-09-02",
+        "overview": "In the wake of Israel's 2006 bombardment of Lebanon, a determined woman finds her way into the country convincing a taxi driver to take a risky journey around the scarred region in search of her sister and her son.",
+        "poster_path": "/vcTkuOiFQv8gBVxkE4nXuTFrxMo.jpg",
+        "backdrop_path": "/nlyCIDeWAePvNduxAKzlzWt8Npx.jpg",
+        "production_companies": [
+            {
+                "name": "Art'Mell",
+                "id": 22139
+            },
+            {
+                "name": "CAPA",
+                "id": 47413
+            },
+            {
+                "name": "Fantascope",
+                "id": 56802
+            },
+            {
+                "name": "Piste Rouge",
+                "id": 26065
+            },
+            {
+                "name": "Starfield Productions",
+                "id": 53030
+            },
+            {
+                "name": "ARTE France Cinéma",
+                "id": 94
+            },
+            {
+                "name": "Rhamsa Productions",
+                "id": 58669
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "LB",
+                "name": "Lebanon"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.underthebombs.com/",
+        "imdb_id": "tt1094275",
+        "original_language": "fr",
+        "popularity": 1.621,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 80644,
+        "title": "Axis of War: The First of August",
+        "release_date": "2007-09-21",
+        "overview": "The year is 1927 and the Alliance moves triumphantly from victory to victory in an epic and bloody civil war campaign against the uprisings of brutal warlords and feudal barons that has left the country on the brink of total collapse. With the nation's fate hanging in the balance, a rebel revolt in the stronghold city of Nanchang threatens to give the insurgents the upper hand and as the first day of August dawns the Alliance, led by some of the bravest soldiers and greatest tacticians the world has ever seen, face their deadliest and most monumental battle yet.",
+        "poster_path": "/uGEmiifNyFOHiTnV9Nd2Erc6Uav.jpg",
+        "backdrop_path": "/lIVeP7h8BNRjfn8TDaDDLq4uc7y.jpg",
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 159161
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1735847",
+        "original_language": "zh",
+        "popularity": 1.593,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 63870,
+        "title": "Agitprop Team 'Kill the enemy!'",
+        "release_date": "2007-12-07",
+        "overview": "World War II is raging on the Eastern front but the soldier Nikanor has been sent to Siberia: bot as a prisoner, but as the leader of a motley group of entertainers who travel from village to village giving concerts. Still, Big Brother is watching and when the entertainers encounter a strange man in the woods there is trouble brewing. One of the performers falls in love with the mysterious backwoodsman, but the secret service is after him, too.",
+        "poster_path": "/7RB11xd8fX9CttXCNnaQkneQa3v.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 170208
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1153032",
+        "original_language": "ru",
+        "popularity": 1.588,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 384583,
+        "title": "Deportees",
+        "release_date": "2007-03-20",
+        "overview": "The movie is the story of a gang of men who decide to participate in Iran-Iraq war, also known as First Gulf War, which lasted from September 1980 to August 1988. the main character, Suzuki, who is there to satisfy his beloved's father that he is worthy of marrying his daughter, goes through some moving experiences in the war and his character changes to a level that he even tries to sacrifice himself to save the others in the war. the Movie ends by his martyrdom.",
+        "poster_path": "/yEK3xnYt7k4oamNOfiB0taWPpuR.jpg",
+        "backdrop_path": "/9dp7P3Sih72mjmLlAmdLPhuXvmo.jpg",
+        "production_companies": [
+            {
+                "name": "Filmiran",
+                "id": 74144
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 10000,
+        "revenue": 100000,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 985151,
+            "name": "Deportees"
+        },
+        "homepage": "",
+        "imdb_id": "tt1388418",
+        "original_language": "fa",
+        "popularity": 1.433,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 53604,
+        "title": "Spring 1941",
+        "release_date": "2007-09-28",
+        "overview": "After Germany invades Poland and the Nazis order the confinement of all local Jews in the ghetto, medical doctor Artur Planck (Joseph Fiennes) manages to flee with his family, seeking refuge at the farm of Emilia (Kelly Harrison), their former grocer. With the Planck family hiding in her attic, Emilia finds her feelings for the physician growing stronger than she wants, or can control -- despite the dangers of the situation.",
+        "poster_path": "/zaTl0eb9dSW4knCuGr7uDnhOppT.jpg",
+        "backdrop_path": "/tyJv4ogqrZqSiHZ5i4lOx39uWmD.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://watch.fearless.li/programs/spring-1941",
+        "imdb_id": "tt1252616",
+        "original_language": "en",
+        "popularity": 1.42,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 80641,
+        "title": "Night Attack",
+        "release_date": "2007-08-24",
+        "overview": "July 1937. The Chinese people are suffering under the hands of advancing Japanese troops, bent on the intimidation of civilians, destruction of property and widespread panic. To combat this threat a small regiment is sent to investigate the Japanese forces and discover a huge warehouse full of supplies. Choosing to strike while the iron is hot they undertake a dangerous solo mission. But will this night raid break them or make them?",
+        "poster_path": "/oHmlJLd2iuAedIGrUpgr1mVkdWO.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1735846",
+        "original_language": "zh",
+        "popularity": 1.231,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 467995,
+        "title": "Two Walnuts",
+        "release_date": "2007-08-15",
+        "overview": "Ayaka Nakanishi is an ordinary twelve year old girl walking Ryan, her German shepherd, when heavy rain obliges her to seek refuge inside a telephone booth. The storm causes a strange phenomenon that sends both Ayaka and her dog back in time to March 7th, 1945.",
+        "poster_path": "/kVpfJXogeX6YY3hzqc83wHOLbws.jpg",
+        "backdrop_path": "/xGBNes66EJqE1vvwC0tTVpAGy7b.jpg",
+        "production_companies": [
+            {
+                "name": "TV Asahi",
+                "id": 9300
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12623134",
+        "original_language": "ja",
+        "popularity": 1.227,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 526880,
+        "title": "Posledniy boy mayora Pugacheva",
+        "release_date": "2007-07-01",
+        "overview": "During WWII, Major Ivan Vasilyevich Pugachev fights at the front, but after being wounded he is taken prisoner. During the offensive of the Soviet troops, the Germans decide to eliminate the prisoners of war. Before the execution, General Vlasov arrives in a German concentration camp, who agitates to join the ROA. Pugachev and his comrades decide to escape.",
+        "poster_path": "/ecTxE0XB3DJE7hxHCn1FllPE2PY.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "НТВ-Кино",
+                "id": 105054
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.217,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 199408,
+        "title": "1971",
+        "release_date": "2007-03-08",
+        "overview": "Based on true facts, the film revolves around 6 brave soldiers who escape from the clutches of the Pakistan Army and risk death with honour and courage with sacrifice towards their journey home.",
+        "poster_path": "/pyifRwztOHpapPWM6ewMnNTdJPn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sagar Pictures Entertainment",
+                "id": 214305
+            },
+            {
+                "name": "Viacom18 Studios",
+                "id": 6808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0983990",
+        "original_language": "hi",
+        "popularity": 1.188,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 700943,
+        "title": "Opération Turquoise",
+        "release_date": "2007-11-19",
+        "overview": "",
+        "poster_path": "/kn0QuJbhXeL130uD6xhTwQZGFI3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Cipango",
+                "id": 6909
+            },
+            {
+                "name": "Fontana",
+                "id": 106374
+            },
+            {
+                "name": "RTL-TVi",
+                "id": 2208
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "France 2",
+                "id": 11359
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1176213",
+        "original_language": "fr",
+        "popularity": 1.06,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1164804,
+        "title": "Pledge To Peace",
+        "release_date": "2007-01-01",
+        "overview": "Lieutenant Keiu Matsuo lost his life in a midget submarine attack at Sydney Harbor during the night of May 31 and June 1, 1942. This short animation film pays homage to Keiu Matsuo and his mother Matsue.",
+        "poster_path": "/5AcnElypgZ5ci2fc3hD4hKamrNK.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Bull-X",
+                "id": 206193
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 0.969,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 166898,
+        "title": "Oh, Saigon",
+        "release_date": "2007-03-17",
+        "overview": "Accompanied by gripping images from the war, 'Oh, Saigon' is an in-depth, compelling documentary about one refugee family's attempts to face its divided past and heal the physical and emotional wounds of the Vietnam War.",
+        "poster_path": "/zKFpGL1BBB2cLeZvBA2UtJIykzy.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 413000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.ohsaigon.com/",
+        "imdb_id": "tt1158302",
+        "original_language": "en",
+        "popularity": 0.922,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204291,
+        "title": "The Great War",
+        "release_date": "2007-04-29",
+        "overview": "A historical recreation of the experience of Canadian soldiers in World War One, with a cast of descendants of the people who participated in it.",
+        "poster_path": "/tu8fsZzcwabqCcRVZ38oCgfoZKS.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Galafilm",
+                "id": 4896
+            },
+            {
+                "name": "CBC",
+                "id": 12113
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.cbc.ca/greatwar/",
+        "imdb_id": "tt0846011",
+        "original_language": "en",
+        "popularity": 0.9,
+        "status": "Released",
+        "tagline": "Canada answers the call",
+        "video": false
+    },
+    {
+        "id_tmdb": 2197,
+        "title": "Sounds of Sand",
+        "release_date": "2007-05-02",
+        "overview": "On the one hand, there’s the desert eating away at the land. The endless dry season, the lack of water. On the other there’s the threat of war. The village well has run dry. The livestock is dying. Trusting their instinct, most of the villagers leave and head south. Rahne, the only literate one, decides to head east with his three children and Mouna, his wife. A few sheep, some goats, and Chamelle, a dromedary, are their only riches. A tale of exodus, quest, hope and fatality.",
+        "poster_path": "/k8APPyLTJCPNSwusysGuPC52vXx.jpg",
+        "backdrop_path": "/4d4icIUPXwjbbNvEiKhzhJDdd3y.jpg",
+        "production_companies": [
+            {
+                "name": "ARTE",
+                "id": 201
+            },
+            {
+                "name": "Eurimages",
+                "id": 850
+            },
+            {
+                "name": "Man's Films",
+                "id": 1016
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Centre du Cinéma et de l'Audiovisuel de la FWB",
+                "id": 11796
+            },
+            {
+                "name": "Vlaams Audiovisueel Fonds",
+                "id": 12344
+            },
+            {
+                "name": "Media Programme of the European Community",
+                "id": 21972
+            },
+            {
+                "name": "Coopération Belge au Développement",
+                "id": 172979
+            },
+            {
+                "name": "A.S.A.P",
+                "id": 87207
+            },
+            {
+                "name": "RTBF",
+                "id": 792
+            },
+            {
+                "name": "ZDF",
+                "id": 4606
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "DJ",
+                "name": "Djibouti"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 5000000,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.soundsofsand.be/",
+        "imdb_id": "tt0889222",
+        "original_language": "fr",
+        "popularity": 0.893,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 100061,
+        "title": "Son of a Lion",
+        "release_date": "2007-10-06",
+        "overview": "In the North West Frontier Province of Pakistan, a widowed father expects his only son to follow in his footsteps. Darra Adam Khel is home to the ethnic Pashtuns. The local industry is the handcrafting of firearms. It has been this way since long before the war on terror. Eleven-year-old Niaz Afridi works with his father learning how to make and test weapons just as Sher Alam learnt from his father before him. But Niaz doesn’t want to follow in his father’s footsteps. He wants to go to school.",
+        "poster_path": "/npZLflGLhRK0RrAYtUrkWJAq8L3.jpg",
+        "backdrop_path": "/upOZKJSkH0BfE2cZYuQ7Lz7LXFb.jpg",
+        "production_companies": [
+            {
+                "name": "Australian Film Commission",
+                "id": 417
+            },
+            {
+                "name": "Carolyn Johnson Films",
+                "id": 233398
+            },
+            {
+                "name": "Leapfrog Productions",
+                "id": 233399
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PK",
+                "name": "Pakistan"
+            },
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ps",
+                "name": "پښتو"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1198220",
+        "original_language": "ps",
+        "popularity": 0.868,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 233025,
+        "title": "Stalin, the Red Tyrant",
+        "release_date": "2007-03-13",
+        "overview": "On March 9, 1953, Joseph Stalin was buried in Moscow in front of a million people. His funeral is that of a demi-God. Ultimate paradox for one of the greatest criminals in History who brought misfortune to his people while arousing collective admiration.",
+        "poster_path": "/gCfSsIqeBlejqHZniJS3vbz8vZx.jpg",
+        "backdrop_path": "/rPFbqLk8oQ2vNIU59tYb9KzBfhf.jpg",
+        "production_companies": [
+            {
+                "name": "C. Productions",
+                "id": 81874
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            },
+            {
+                "name": "M6",
+                "id": 11261
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.6play.fr/staline-le-tyran-rouge-p_2682",
+        "imdb_id": "tt2093234",
+        "original_language": "fr",
+        "popularity": 0.83,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 164527,
+        "title": "Jo, el desconegut",
+        "release_date": "2007-11-09",
+        "overview": "Arnau is a seventeen year old with a totally carefree life. In high school, falls in love with Olga. From there his life changes. To make merit with Olga, pointing to all those involved in activities, including going to care for elders at the weekend that the association is voluntary Olga. This is how he meets Ramon, a man of a past that has a confusing libertarian principle Alzeheimer.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jet Films",
+                "id": 52105
+            },
+            {
+                "name": "TV3",
+                "id": 5085
+            },
+            {
+                "name": "TVE",
+                "id": 981
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "ca",
+                "name": "Català"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1039901",
+        "original_language": "ca",
+        "popularity": 0.819,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 93260,
+        "title": "Body of War",
+        "release_date": "2007-09-11",
+        "overview": "Documentary about Tomas Young, a 25 year old veteran who got paralyzed in Iraq and became an peace activist.",
+        "poster_path": "/2fofRX85ARbcZnnhIzSkUyTzliP.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mobilus Media",
+                "id": 14326
+            },
+            {
+                "name": "Phil Donahue Enterprises",
+                "id": 14327
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 71324,
+        "vote_average": 8.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.bodyofwar.com/index.html",
+        "imdb_id": "tt1068634",
+        "original_language": "en",
+        "popularity": 0.797,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 63860,
+        "title": "Homeland or death",
+        "release_date": "2007-06-06",
+        "overview": "In the autumn of 1942, a major railway sabotage took place in the frontline area: undermining the Soviet military echelon carrying equipment and soldiers to the front. The instant reaction of the NKVD and military counterintelligence gives its results.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4037634",
+        "original_language": "ru",
+        "popularity": 0.79,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 497818,
+        "title": "The Sacha Guitry Affair",
+        "release_date": "2007-07-24",
+        "overview": "On the morning of 23 August 1944 Sacha Guitry was arrested at his Paris appartment, as the French capital was being liberated.  Accused of collaboration with the enemy, the author of  successful plays (\"My Father was Right,\" \"Let's Make a Dream,\" \"Quadrille\") and director of the theatre of the Madeleine was to remain captive for sixty days. His detention took from from the depot, to the Vel' d'hiv', then Drancy, and finally Fresnes Prison.",
+        "poster_path": "/c0a02ER9fWdoHVqcblOGhLnNcxp.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0488368",
+        "original_language": "fr",
+        "popularity": 0.72,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 632434,
+        "title": "The Battleship on the Ground",
+        "release_date": "2007-07-28",
+        "overview": "Writer/Director Kaneto Shindô recounts his time spent in the Japanese Navy in WWII. He tells about the harsh training, grueling conditions, and tragic losses which are reenacted in black & white sequences.",
+        "poster_path": "/bukx6GLk9wELgyZ5EfVpRFCtpWO.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Pictures Network",
+                "id": 124836
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1064929",
+        "original_language": "ja",
+        "popularity": 0.693,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1230769,
+        "title": "The Price of Freedom",
+        "release_date": "2007-07-07",
+        "overview": "In the midst of the Algerian liberation war, two characters, a meddah (traditional storyteller) and a guerrab (water distributor), having become aware of their subhuman condition in their own country, join the National Liberation Army (ALN) to fight against inhumane colonialism. They will climb the ranks to become political commissioners before falling on the field of honor, the first in a skirmish and the other in Barberousse prison (Serkadji) where he will be guillotined.",
+        "poster_path": "/zHnEj5bkRdW7LG3bUIr7qRlekSs.jpg",
+        "backdrop_path": "/gaXFnksCEL3ZtYZkAEfjbVnp7k3.jpg",
+        "production_companies": [
+            {
+                "name": "Établissement National de Télévision (ENTV)",
+                "id": 75116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ar",
+        "popularity": 0.67,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 191445,
+        "title": "It Wasn't God's Will",
+        "release_date": "2007-05-25",
+        "overview": "The story of Ramiro, a young boy, who is leaving to war; his return and his missing with the love of his life, Laurinda.",
+        "poster_path": "/hHrkU1naXwtAkC9WcC5XWHEgaPF.jpg",
+        "backdrop_path": "/4YzImLFmv6cFE7X5c97t8JDRmKD.jpg",
+        "production_companies": [
+            {
+                "name": "Persona Non Grata Pictures",
+                "id": 18709
+            },
+            {
+                "name": "RTP",
+                "id": 8492
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PT",
+                "name": "Portugal"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://pngpictures.com",
+        "imdb_id": "tt1024722",
+        "original_language": "pt",
+        "popularity": 0.659,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 391100,
+        "title": "In the Name of the Son",
+        "release_date": "2007-08-23",
+        "overview": "After escaping execution, Tarik, a Bosnian prisoner of war, immigrates to the United States looking to leave his past behind.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "NOS Films",
+                "id": 75031
+            },
+            {
+                "name": "AFI",
+                "id": 12226
+            },
+            {
+                "name": "Ajfelov most",
+                "id": 75030
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "BA",
+                "name": "Bosnia and Herzegovina"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0999895",
+        "original_language": "en",
+        "popularity": 0.652,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 533070,
+        "title": "Life Will Be Beautiful",
+        "release_date": "2007-10-23",
+        "overview": "Five young men from well-off families, whom fate never intended to be partisans in an occupied Paris, so different from one other and yet so close, reject the French defeat and resulting German occupation and decide to take on Nazi Germany.",
+        "poster_path": "/ajTE3FLS9Yihq3dvADegu4n6ExW.jpg",
+        "backdrop_path": "/a1JsCXpbgVIk6EuTh8gGKJ7zpSC.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1003569",
+        "original_language": "fr",
+        "popularity": 0.608,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 363946,
+        "title": "Night Bus",
+        "release_date": "2007-11-03",
+        "overview": "The film, which is in sharp monochrome, relates the story of a twenty-four-hour-long journey of two young Iranian soldiers (Issā and Emād) and a civilian driver (Amu Rahim) transporting thirty-eight Iraqi prisoners of war, taken from behind the Iraqi line, to a garrison inside Iran. From the details one is informed that the Iran–Iraq War has entered into its third year. The film masterfully depicts the deep inhumanity of acts of war amongst nations by showing the shared humanity of the combatants on both sides",
+        "poster_path": "/g4HDIRJX4nk1Ws0qRGnq3yOgNEU.jpg",
+        "backdrop_path": "/xzqwLHUXlh1KtRvnFEN7ucl5v41.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1431296",
+        "original_language": "fa",
+        "popularity": 0.58,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 80523,
+        "title": "Steal a Pencil for Me",
+        "release_date": "2007-01-01",
+        "overview": "1943, The Netherlands is under total Nazi occupation. In Amsterdam, Jack, an unassuming accountant, first meets Ina at a birthday party - a 20-year-old beauty from a wealthy diamond manufacturing family who instantly steals his heart. But Jack's pursuit of love will be complicated; he is poor and married to Manja, a flirtatious and mercurial spouse. When the Jews are being deported, the husband, the wife and the lover find themselves at the same concentration camp; actually living in the same barracks. When Jack's wife objects to the \"girlfriend\" in spite of their unhappy marriage, Jack and Ina resort to writing secret love letters, which sustain them throughout the horrible circumstances of the war.",
+        "poster_path": "/usC0nNKPGbHczKgu6wQU5tT2FcD.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 18921,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1045889",
+        "original_language": "en",
+        "popularity": 0.579,
+        "status": "Released",
+        "tagline": "The incredible true story of a love imprisoned",
+        "video": false
+    },
+    {
+        "id_tmdb": 483617,
+        "title": "Milosevic on Trial",
+        "release_date": "2007-02-13",
+        "overview": "An exclusive look into the trial against Slobodan Milosevic documenting the court proceedings and their background.",
+        "poster_path": "/hwVDX6I1pOLXmSk2vqXV5EEr1IO.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Team Productions",
+                "id": 92064
+            },
+            {
+                "name": "TV 2",
+                "id": 758
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            },
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0968755",
+        "original_language": "da",
+        "popularity": 0.573,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 788002,
+        "title": "From Normandy to the Rhine",
+        "release_date": "2007-01-01",
+        "overview": "",
+        "poster_path": "/ikHUjfp6mC0vju9e2zZnroS1sUB.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Edgehill Publishing",
+                "id": 129357
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.571,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 428568,
+        "title": "The Third Day",
+        "release_date": "2007-06-13",
+        "overview": "During the Iran-Iraq War, a disabled young woman is taken captive by Iraqi Baathist forces in Khuzestan Province. Her brother, along with his fellow combatants, tries to free his sister from the clutches of the enemy.",
+        "poster_path": "/khPM3xtwQdR5BrStmIrUQSEfqP6.jpg",
+        "backdrop_path": "/nXshlVcrJ6x0UHBhw58Oc0k3fZ2.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1068664",
+        "original_language": "fa",
+        "popularity": 0.566,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 42828,
+        "title": "Сильнее огня (Двое и война)",
+        "release_date": "2007-03-03",
+        "overview": "Молодые офицеры в первый день Великой",
+        "poster_path": "/kVuNzB2qARKqXCDNpMpifyGO1VK.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Odessa Film Studio",
+                "id": 3161
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "UA",
+                "name": "Ukraine"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4390222",
+        "original_language": "ru",
+        "popularity": 0.532,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 431829,
+        "title": "Dylan Thomas - A War Films Anthology",
+        "release_date": "2007-04-02",
+        "overview": "Eight of the finest wartime works by the world-renowned poet Dylan Thomas who made a little-known but valuable contribution to Britain’s war effort scripting powerful propaganda films for the Ministry of Information. This anthology collects together eight of his finest wartime works:  \"THESE ARE THE MEN\" (1943) - a blistering attack on the Nazis:  \"BALLOON SITE 568\" (1942) - the women who worked as barrage balloon operators  \"WALES, GREEN MOUNTAIN, BLACK MOUNTAIN\" (1942) - a tribute to Wales at war;  \"NEW TOWNS FOR OLD\" (1942) - urban regeneration in the fictional town of Smokesdale;  \"THE BATTLE FOR FREEDOM\" (1942) - the contribution made by the Empire towards the British war effort;  \"CEMA\" (1942) - the Council for the Encouragement of Music and the Arts;  \"A CITY REBORN\" (1945) - a salute to the city Coventry;  \"A SOLDIER COMES HOME\" (1945) - a soldier on leave with his family in London.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "en",
+        "popularity": 0.51,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 816897,
+        "title": "Heroes & Villains: Napoleon",
+        "release_date": "2007-11-11",
+        "overview": "Twenty Four year-old Corsican refugee Napoleon Bonaparte is a lowly artillery captain in the French army at the siege of Toulon. Destitute and relying on his success in the new and dangerous revolutionary society, his mother and siblings become embroiled in Napoleon's struggle. The opponents are the English but the enemy are the revolutionaries authorities who seek to keep him in his place. Using his astonishing tactical mind, his sheer audacity and extraordinary military bravery, Napoleon emerges victorious and sets out on a path that would one day lead him to the throne of France.",
+        "poster_path": "/ztzgQIE4TEQyyoWBKbeZ8wq1dJ3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1156449",
+        "original_language": "en",
+        "popularity": 0.498,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 459839,
+        "title": "The Marines",
+        "release_date": "2007-02-14",
+        "overview": "For longer than the United States has been an independent nation, there has been a Marine Corps. They consider themselves the very best America has to offer. Embodying fierce patriotism, extraordinary courage, and innovative weapons, they are a force. This documentary focuses on their training and examines what it means to be a Marine.",
+        "poster_path": "/kyMrA6UyYTxuP5XgLCxwQqjTwth.jpg",
+        "backdrop_path": "/gPaJ2AuoTIxNOYM8fFSglu2fTaR.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1223137",
+        "original_language": "en",
+        "popularity": 0.603,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 925052,
+        "title": "Cartas a Malvinas",
+        "release_date": "2007-06-09",
+        "overview": "A retired postman recalls episodes of the Malvinas war; in one of them, a patrol of soldiers must deliver two sacks to the battle front.",
+        "poster_path": "/y3kpq52dbGdpJa69qgZlVfofvoY.jpg",
+        "backdrop_path": "/83tlTfw5h4xcZnUwcl9DVG9ff4z.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1220547",
+        "original_language": "es",
+        "popularity": 0.473,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 877697,
+        "title": "Mon père avait raison",
+        "release_date": "2007-09-07",
+        "overview": "",
+        "poster_path": "/eyNdG7lKSfHqcWmdA3n2Huza6p9.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1570636",
+        "original_language": "fr",
+        "popularity": 0.441,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 54924,
+        "title": "Rozhovor s nepriateľom",
+        "release_date": "2007-03-08",
+        "overview": "The heart of this dramatic story based on the novel by Leopold Lahola is the search for the principle of humanism. The story plays in a single day towards the end of World War II in a rough, snow-covered landscape where a German soldier escorts his prisoner with orders to shoot him. The background of the story is formed by the flashbacks of the partisan soldier being interrogated by a Russian commissar who wants to know all about him being taken prisoner. The German soldier Helmut Kampen escorts the captive partisan who is condemned to death but finally manages to flee. The commissar wants to know why the Germans did not kill him and accuses the partisan soldier of collaboration",
+        "poster_path": "/ye9rfmjUZNIA9s1xJ7aDZIHvh3Y.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "SK",
+                "name": "Slovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 500000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1051864",
+        "original_language": "sk",
+        "popularity": 0.426,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 92232,
+        "title": "Wilfred Owen: A Remembrance Tale",
+        "release_date": "2007-11-11",
+        "overview": "Jeremy Paxman tells the tragic story of World War One poet Wilfred Owen.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.bbc.co.uk/programmes/b0088x0j",
+        "imdb_id": "tt1155600",
+        "original_language": "en",
+        "popularity": 0.414,
+        "status": "Released",
+        "tagline": "The Old Lie: Dulce Et Decorum Est Pro Patria Mori",
+        "video": false
+    },
+    {
+        "id_tmdb": 499122,
+        "title": "The Blitz: London's Longest Night",
+        "release_date": "2007-10-27",
+        "overview": "Details the German bombing of London the night of the 29th of December, in 1940.",
+        "poster_path": "/obyuYodLY9A7y3wgAw6WSU0uxqM.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "DSP",
+                "id": 2015
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1210318",
+        "original_language": "en",
+        "popularity": 0.409,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 335086,
+        "title": "Still Standing: The Stonewall Jackson Story",
+        "release_date": "2007-10-30",
+        "overview": "His legacy as a military genius is widely renowned. Now, in Still Standing: The Stonewall Jackson Story, his legacy as a man of resolute Christian character is captured in this revealing documentary. Through stunning High Definition videography and expert narrative, Still Standing traces the life of Stonewall Jackson - from his orphaned childhood, to the Sunday School class he taught for African Americans, to the role he played as a General. Still Standing inspires, entertains, and educates.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1730355",
+        "original_language": "en",
+        "popularity": 0.353,
+        "status": "Released",
+        "tagline": "Still Standing highlights a man with an intense love for the Lord, unshakable courage in the face of adversity and stalwart faith in the Almighty",
+        "video": false
+    },
+    {
+        "id_tmdb": 477806,
+        "title": "The Battle of Chickamauga",
+        "release_date": "2007-07-03",
+        "overview": "The Battle of Chickamauga proved to be one of the fiercest engagements of the American Civil War. Over a period of two days in September 1863, more than 100,000 men struggled for control of the south's most strategic transportation hub, the city of Chattanooga. Along the hills and valleys surrounding the Chickamauga Creek, over 34,000 casualties would be suffered, and the Confederate Army of Tennessee would achieve their last, great victory. Shot on location using High Definition cameras, this 70-minute documentary film dramatically recreates the battle by including more than 50 fully animated maps, period photographs, historical documents, and over 200 reenactors.",
+        "poster_path": "/u2A6SgobIswrxPj5gxM3bVmJwYq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Video Ideas Productions",
+                "id": 95414
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.battleofchickamaugadvd.com/",
+        "imdb_id": "tt1287319",
+        "original_language": "en",
+        "popularity": 0.319,
+        "status": "Released",
+        "tagline": "A Great Victory For The Confederacy, A Great Loss For The United States.",
+        "video": false
+    },
+    {
+        "id_tmdb": 281283,
+        "title": "Shoot Down",
+        "release_date": "2007-03-03",
+        "overview": "Documentary describing events leading up to the February 1996 shoot down by Cuban Air Force Migs of 2 U.S. registered Cessna 337 aircraft operated by the Cuban exile organization Brothers To The Rescue based in Miami, USA.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1010046",
+        "original_language": "en",
+        "popularity": 0.312,
+        "status": "Released",
+        "tagline": "The distance between the U.S. and Cuba is more than 90 miles.",
+        "video": false
+    },
+    {
+        "id_tmdb": 435101,
+        "title": "Johnny",
+        "release_date": "2007-11-10",
+        "overview": "Johnny Lincoln Clem was a small boy from Newark, Ohio living during a troubled time in the American Civil War. Shortly after his mother was killed while crossing a railroad track, Johnny ran away from home to join the 22nd Michigan Volunteer Infantry. Initially turned away by the officers, the boy followed the regiment into Kentucky and down south, and was looked after by the men. Finally accepted into their ranks, he fought with them at the battle of Chickamauga, where to save his life he was forced to shoot down a charging Confederate Colonel who had him in his sights.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1401602",
+        "original_language": "en",
+        "popularity": 0.297,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 791988,
+        "title": "Auschwitz: The Great Escape",
+        "release_date": "2007-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.282,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 727612,
+        "title": "Posthumous",
+        "release_date": "2007-01-01",
+        "overview": "Following on from the 2006 Israeli aggression on Lebanon, the filmmaker tries to film the destruction of Beirut. We witness a city deserted by life, and ghostly characters who, featured in his earlier films, talk about living through such a war.",
+        "poster_path": "/33QgZYujqx8mgvaqQDBJcwezz9S.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://mubi.com/it/films/posthumous-2007",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 0.249,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1088916,
+        "title": "Das Rote Kreuz im Dritten Reich",
+        "release_date": "2007-07-14",
+        "overview": "",
+        "poster_path": "/uDZiSNL6kX2efdoxGshXHivilm2.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "es",
+        "popularity": 0.244,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 330984,
+        "title": "Бе3 Права На Ошибку",
+        "release_date": "2007-07-01",
+        "overview": "",
+        "poster_path": "/54fNUDSjdks0rIzhFD8CNG1ZvfA.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 0.239,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 741297,
+        "title": "The Runaway",
+        "release_date": "2007-06-03",
+        "overview": "The extraordinary life story of former Auschwitz prisoner no. 918, Kazimierz Piechowski, who organized one of the most amazing escapes from the camp.",
+        "poster_path": "/5eC9oG2ZA1J04cox6odd3thR5Qk.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TVP",
+                "id": 6480
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1102352",
+        "original_language": "pl",
+        "popularity": 0.21,
+        "status": "Released",
+        "tagline": "The most bravery escape from Auschwitz.",
+        "video": false
+    },
+    {
+        "id_tmdb": 173066,
+        "title": "Militainment, Inc.: Militarism & Pop Culture",
+        "release_date": "2007-06-11",
+        "overview": "Militainment, Inc. offers a fascinating, disturbing, and timely glimpse into the militarization of American popular culture, examining how U.S. news coverage has come to resemble Hollywood film, video games, and \"reality television\" in its glamorization of war. Mobilizing an astonishing range of media examples - from news anchors' idolatry of military machinery to the impact of government propaganda on war reporting - the film asks: How has war taken its place in the culture as an entertainment spectacle? And how does presenting war as entertainment affect the ability of citizens to evaluate the necessity and real human costs of military action?",
+        "poster_path": "/fqHh40NO3fVKXjRfukQeqGiJVaA.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://wayback.archive.org/web/20070811042907/http://rstahl.myweb.uga.edu/militainment.html",
+        "imdb_id": "",
+        "original_language": "en",
+        "popularity": 0.21,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 322507,
+        "title": "Inka 1946",
+        "release_date": "2007-01-22",
+        "overview": "",
+        "poster_path": "/cYQJkGfQXvu5Nggaltb4anhszSH.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TVP",
+                "id": 6480
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "pl",
+        "popularity": 0.131,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 296393,
+        "title": "Caparaó",
+        "release_date": "2007-06-08",
+        "overview": "Documentary about the first attempt to fight the military dictatorship since 1964. On the mountains of Caparaó, in august 1966, a group of former officers tried to start a great national reaction against the new regime, in an attempt to replicate a \"Sierra Maestra\" on Brazilian lands.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1068642",
+        "original_language": "pt",
+        "popularity": 0.046,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 613286,
+        "title": "First Flight of Vulcan XH558",
+        "release_date": "2007-10-18",
+        "overview": "The aviation heritage will never forget Thursday October 18th, 2007.  The awesome sight of the mighty Cold War aircraft taking to the air powered by its four huge Rolls Royce Olympus engines brought tears to the eyes of all who saw it and generated spontaneous applause not only across Bruntingthorpe Airfield but around the aerospace world.  After two years of restoration and over 10 years of planning and persuading, Vulcan XH558 finally leapt in to the air. This Souvenir DVD documents the memorable day and will last as a permanent record of a unique and historic achievement.",
+        "poster_path": "/3TkaqTq12i9hNrYI1xWxbxw0k80.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.074,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 374113,
+        "title": "Like a Tale",
+        "release_date": "2007-10-04",
+        "overview": "The war between Iran and Iraq is raging. Near the border on the Iranian side, an old man takes care of martyrs’ graves by the little cabin where he lives with his wife and grandson, while the boy’s father is fighting in the war. Suddenly one day, their home is invaded by a wounded Iraqi officer and two of his subordinates. They desperately need care and a place to hide. The intruders and the little family do not understand each other’s language, the tone is aggressive and an intense, life-and-death chamber play ensues.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Fadak Film",
+                "id": 19818
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1002454",
+        "original_language": "fa",
+        "popularity": 0.067,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1180618,
+        "title": "Niños que nunca existieron",
+        "release_date": "2007-12-28",
+        "overview": "",
+        "poster_path": "/uH2PCqjM09quGui5y8CXyXEdlOW.jpg",
+        "backdrop_path": "/cIbft9bLy30Es7x6VO8pZTSWAnx.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1309146",
+        "original_language": "es",
+        "popularity": 0.044,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 708787,
+        "title": "D-Day: The Shortest Day",
+        "release_date": "2007-01-01",
+        "overview": "With testimony from the UK, the US, the Commonwealth and Germany, 'D-Day: The Shortest Day' documents the meticulous planning leading up to the world's biggest amphibious invasion, the terror and triumph of the landings and the bitterness of the fighting in the days that followed.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.06,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 256131,
+        "title": "Silent Wings: The American Glider Pilots of World War II",
+        "release_date": "2007-03-20",
+        "overview": "From the early race to build gliders to the D-Day invasion at Normandy and Nazi Germany's final surrender, \"Silent Wings - The American Glider Pilots of WWII\" narrated by Hal Holbrook, reveals the critical role gliders played in World War II offensives. Through rare archival footage and photographs, the film places the audience right at the center of the action in the dangerous world of the American glider pilot. During WWII, 6000 young Americans volunteered to fly large unarmed cargo gliders into battle. For these glider pilots every mission was do-or-die. It was their task to repeatedly risk their lives landing the men and tools of war deep within enemy-held territory, often in complete darkness. Thousands of lives were saved and battles won because of their efforts. In fact, one pilot interviewed said - the 'G' in their emblem didn't stand for glider; it stood for 'guts.' Features include: - Virtual walk-through tour of the Silent Wings Museum in Lubbock, Texas",
+        "poster_path": "/pFV4YCDfNc799qYAEGqpykfGxgV.jpg",
+        "backdrop_path": "/dgxBSZSnkCwDfvp1MSQUcevbe5n.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.facebook.com/silentwingsofWWII",
+        "imdb_id": "tt0828451",
+        "original_language": "en",
+        "popularity": 0.035,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 645911,
+        "title": "The War Zone: From D-Day to Paris",
+        "release_date": "2007-08-21",
+        "overview": "\"Operation Overlord\", the greatest invasion by sea and air in history, grows before our eyes from its original force of 130,000 to more than half a million men along with thousands of tanks and planes.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Eagle Rock Entertainment",
+                "id": 8273
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.039,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 185145,
+        "title": "Vulcan Bomber: Return to the Skies",
+        "release_date": "2007-06-15",
+        "overview": "During the Falklands War, a team of Vulcan Bombers staged the longest bombing raid ever attempted. We tell the amazing story of the machines that undertook the near impossible mission of bombing Port Stanley. The programme features archive footage spanning the Vulcan's entire dramatic history, including newsreels, amateur video and film shot by the pilots themselves. We also make use of an enormous array of archival sources, including the plane's original design specification, and orders for construction from the War Office.",
+        "poster_path": "/99xZ9XKlljTUSYpvnP3HwdElZ3Q.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1055326",
+        "original_language": "en",
+        "popularity": 0.021,
+        "status": "Released",
+        "tagline": "Return to the Skies",
+        "video": false
+    },
+    {
+        "id_tmdb": 555663,
+        "title": "I Am an American Soldier: One Year in Iraq with the 101st Airborne",
+        "release_date": "2007-04-26",
+        "overview": "This unflinching examination of the war in Iraq follows soldiers from the elite 101st Airborne Division for 14 months, from stateside preparations to their deployment in Iraq and back home again. Throughout, soldiers speak candidly about their experience in the military and demonstrate the powerful bond established as they struggle to stay alive.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Vérité Films",
+                "id": 104388
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1002538",
+        "original_language": "en",
+        "popularity": 0.007,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 355895,
+        "title": "Farewell Darkness",
+        "release_date": "2007-08-01",
+        "overview": "Michael returns home to Chicago from Operation Iraqi Freedom with more scars than he left with. Abused by his father, Roman, as a child, he spent his teenage years as a petty thief until he is caught and given an ultimatum, military or jail. Now, that his bloody Tour of Duty is over, he returns home to find his mother, Teresa, dead by her own hand, pushed to the brink by her abusive husband Roman. Michael vows to take vengeance for his poor mother by killing Roman. But he must have one last day with his girlfriend, Rose, a recent high school graduate who stayed loyal to Michael during his tour. But this happy reunion of young lovers takes a turn for the worst when Michael begins to show abusive behaviors toward Rose, not unlike his father's behaviors as a child. Michael must choose to let his past go and leave his father to rot in his own hell of self torture, or join him by his side.",
+        "poster_path": "/1Si1pZ0XaQsHJswVUTl0bSFNvXC.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 150000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.farewelldarkness.com/",
+        "imdb_id": "tt0988090",
+        "original_language": "en",
+        "popularity": 0.007,
+        "status": "Released",
+        "tagline": "Sometimes The War Comes Home",
+        "video": false
+    },
+    {
+        "id_tmdb": 1386505,
+        "title": "Led to Believe",
+        "release_date": "2007-10-22",
+        "overview": "Roland Marvel is a man in hiding, working as handyman at a small Tennessee church. But when a charismatic minister and an intriguing young woman come into his life, he finds the tragedy of his own past on a collision course with the turmoil of 21st century America.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Out of the Fog Productions",
+                "id": 244514
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1379664",
+        "original_language": "en",
+        "popularity": 0.004,
+        "status": "Released",
+        "tagline": "Roland Marvel's life is about to change forever... again.",
+        "video": false
+    },
+    {
+        "id_tmdb": 372434,
+        "title": "Без права на ошибку",
+        "release_date": "2007-12-13",
+        "overview": "",
+        "poster_path": "/yuCsALE7FkhUfjstiYtz07XRBjk.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 0.004,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 87011,
+        "title": "Voices From Hitler's Army",
+        "release_date": "2007-04-24",
+        "overview": "Like old soldiers everywhere, they are fading away, but these German veterans of World War Two have an incredible and sometimes shocking story to tell. This is a unique opportunity to see and hear the last testimonies of Hitler's armies. These are remarkable personal accounts of Germany's rise and fall from the inside. Learn how those responsible for the maelstrom sent their armies to conquer only to see them crushed as the world united against them; of men seduced by the siren call of Hitler only to pay a very heavy price.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "en",
+        "popularity": 0.004,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 725966,
+        "title": "Le cabinet de guerre de Churchill",
+        "release_date": "2007-08-16",
+        "overview": "",
+        "poster_path": "/klh8d8VtCC5LTEvxx4qieaBvnjV.jpg",
+        "backdrop_path": "/aDrUFGG92L7dnDeapRlWPym0sj9.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 0.003,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 628974,
+        "title": "A Distant Shore: African Americans on D-Day",
+        "release_date": "2007-02-24",
+        "overview": "The role of African American soldiers during the World War II Allied invasion of Normandy.",
+        "poster_path": "/9VDzsmUzS9GOSGKVqJrtp12Dmcc.jpg",
+        "backdrop_path": "/8EB7ZLJEulG9UyXxhSoxercU6WU.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0972801",
+        "original_language": "en",
+        "popularity": 0.003,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 374975,
+        "title": "War File: Great Sea Battles of WWII",
+        "release_date": "2007-06-12",
+        "overview": "Sea power proved crucial in determining the outcome of World War II, both in the Atlantic and the Pacific theaters. This DVD displays some of the epic sea battles that were fought during the course of the war: the battles against the German surface raider",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.003,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 260611,
+        "title": "This Is War: Memories of Iraq",
+        "release_date": "2007-06-01",
+        "overview": "The Story of the Oregon National Guard's deployment to Iraq in 2004/2005.",
+        "poster_path": "/rkcuH7p21k1siq1WIszzicXDkmi.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1774641",
+        "original_language": "en",
+        "popularity": 0.003,
+        "status": "Released",
+        "tagline": "Everyone is talking about the war. No one is talking to the soldiers.",
+        "video": false
+    },
+    {
+        "id_tmdb": 936206,
+        "title": "Ashenge",
+        "release_date": "2007-01-01",
+        "overview": "On the eve of the Second World War about one hundred fifty Italians aircrafts bombarded the northern part of Ethiopia with poisonous gas. On March the 6th 1936 the town of Ashenge was shocked by an atrocious mass murder which changed the life of Kassa forever. During the Italian occupation, the Ethiopian patriots fought to restore people’s freedom but few Ethiopians collaborated with the enemy, creating seemingly insurmountable challenges to the freedom fight. To overcome these years of agony, Serke must deal face-to-face with the man responsible for heinous killing of both her parents.",
+        "poster_path": "/zgmVIf16we4AERfz7YkSVYP9Dl2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TriLux Pictures",
+                "id": 169505
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ET",
+                "name": "Ethiopia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "am",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "am",
+        "popularity": 0.002,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 723741,
+        "title": "Inside the Green Berets",
+        "release_date": "2007-06-03",
+        "overview": "Tragedy strikes while a National Geographic film crew follows a Green Beret unit in Afghanistan helping local residents fight the Taliban in this compelling documentary. When an explosion hits, both soldiers and documentarians are affected. The resulting film offers an inside look at the realities of war and the sacrifices these tough-as-nails elite fighters make daily. An interview with producer Steven Hoggard is included.",
+        "poster_path": "/7vJYNBrrE0GTBSlcn7JotHe6FJq.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1073537",
+        "original_language": "en",
+        "popularity": 0.002,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 321951,
+        "title": "Hitler's Jewish Soldiers",
+        "release_date": "2007-11-27",
+        "overview": "Though Nazi law proclaimed anyone who was one-quarter Jewish to be a Jew, many mixed-lineage men were proud patriots who were drafted into the German army. This harrowing documentary follows four such soldiers. Larry Price's fascinating film explores the complicated challenges faced by this quartet and paints a devastating portrait of the systematic destruction at the heart of Hitler's rule.",
+        "poster_path": "/9wfc7udUnEfXAmuzaCY8vqD3gXp.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.002,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 309122,
+        "title": "War File: Carrier Battles of WWII",
+        "release_date": "2007-01-01",
+        "overview": "Witness the strategic power and versatility of the modern aircraft carrier in this volume of the \"War File\" documentary series. Vintage film clips and detailed computer-generated images reveal how the then-new craft changed the face of fleet combat. Every major carrier battle of the war is documented, including Midway, the Battle of the Coral Sea, and the Battle of the Philippine Sea, aka the Great Marianas Turkey Shoot.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.002,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

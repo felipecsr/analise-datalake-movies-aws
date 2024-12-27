@@ -1,0 +1,4809 @@
+[
+    {
+        "id_tmdb": 1417,
+        "title": "Pan's Labyrinth",
+        "release_date": "2006-10-10",
+        "overview": "Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.",
+        "poster_path": "/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
+        "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+        "production_companies": [
+            {
+                "name": "Estudios Picasso",
+                "id": 2029
+            },
+            {
+                "name": "Esperanto Filmoj",
+                "id": 7470
+            },
+            {
+                "name": "Tequila Gang",
+                "id": 11628
+            },
+            {
+                "name": "Telecinco Cinema",
+                "id": 1182
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 19000000,
+        "revenue": 83258226,
+        "vote_average": 7.757,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0457430",
+        "original_language": "es",
+        "popularity": 55.011,
+        "status": "Released",
+        "tagline": "What happens when make-believe believes it's real?",
+        "video": false
+    },
+    {
+        "id_tmdb": 1251,
+        "title": "Letters from Iwo Jima",
+        "release_date": "2006-12-09",
+        "overview": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
+        "poster_path": "/kZokxQtzMPURvijWYFuvh1fAvnv.jpg",
+        "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "DreamWorks Pictures",
+                "id": 7
+            },
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            },
+            {
+                "name": "Amblin Entertainment",
+                "id": 56
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 19000000,
+        "revenue": 68673228,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 261382,
+            "name": "Clint Eastwood's Iwo Jima Collection"
+        },
+        "homepage": "https://www.warnerbros.com/movies/letters-iwo-jima",
+        "imdb_id": "tt0498380",
+        "original_language": "en",
+        "popularity": 24.462,
+        "status": "Released",
+        "tagline": "The battle of Iwo Jima seen through the eyes of the Japanese soldiers.",
+        "video": false
+    },
+    {
+        "id_tmdb": 3683,
+        "title": "Flags of Our Fathers",
+        "release_date": "2006-10-18",
+        "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen - John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes - who fought in the battle to take Iwo Jima from the Japanese.",
+        "poster_path": "/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg",
+        "backdrop_path": "/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+        "production_companies": [
+            {
+                "name": "DreamWorks Pictures",
+                "id": 7
+            },
+            {
+                "name": "Amblin Entertainment",
+                "id": 56
+            },
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 90000000,
+        "revenue": 65900000,
+        "vote_average": 6.857,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 261382,
+            "name": "Clint Eastwood's Iwo Jima Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0418689",
+        "original_language": "en",
+        "popularity": 19.974,
+        "status": "Released",
+        "tagline": "A single shot can end the war.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1116,
+        "title": "The Wind That Shakes the Barley",
+        "release_date": "2006-06-23",
+        "overview": "In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.",
+        "poster_path": "/9XquDdOGrlC0EAbPoOXALqS2dDh.jpg",
+        "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg",
+        "production_companies": [
+            {
+                "name": "Sixteen Films",
+                "id": 12695
+            },
+            {
+                "name": "Matador Pictures",
+                "id": 707
+            },
+            {
+                "name": "Regent Capital",
+                "id": 12696
+            },
+            {
+                "name": "Element Pictures",
+                "id": 3353
+            },
+            {
+                "name": "BIM Produzione",
+                "id": 195898
+            },
+            {
+                "name": "EMC",
+                "id": 10321
+            },
+            {
+                "name": "Tornasol Media",
+                "id": 7680
+            },
+            {
+                "name": "Filmstiftung Nordrhein-Westfalen",
+                "id": 315
+            },
+            {
+                "name": "TVE",
+                "id": 981
+            },
+            {
+                "name": "Pathe",
+                "id": 7396
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ga",
+                "name": "Gaeilge"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 6500000,
+        "revenue": 22900000,
+        "vote_average": 7.365,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0460989",
+        "original_language": "en",
+        "popularity": 16.565,
+        "status": "Released",
+        "tagline": "War has cost them their innocence... Freedom will cost them their blood.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9075,
+        "title": "Black Book",
+        "release_date": "2006-09-14",
+        "overview": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
+        "poster_path": "/fKBeM6vjMD79G3wAXSpw3pBHsit.jpg",
+        "backdrop_path": "/1OK9voMZPeeXZ9OFcT7sUJJxmSw.jpg",
+        "production_companies": [
+            {
+                "name": "Fu Works",
+                "id": 12046
+            },
+            {
+                "name": "AVRO",
+                "id": 15163
+            },
+            {
+                "name": "VIP Medienfonds 4",
+                "id": 2116
+            },
+            {
+                "name": "Egoli Tossell Pictures",
+                "id": 177093
+            },
+            {
+                "name": "Clockwork Pictures",
+                "id": 25488
+            },
+            {
+                "name": "Studio Babelsberg",
+                "id": 264
+            },
+            {
+                "name": "Motion Investment Group",
+                "id": 1991
+            },
+            {
+                "name": "Motel Films",
+                "id": 865
+            },
+            {
+                "name": "Hector BV",
+                "id": 16618
+            },
+            {
+                "name": "ContentFilm International",
+                "id": 25487
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 21000000,
+        "revenue": 26768563,
+        "vote_average": 7.463,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0389557",
+        "original_language": "nl",
+        "popularity": 14.602,
+        "status": "Released",
+        "tagline": "To fight the enemy, she must become one of them.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9664,
+        "title": "Flyboys",
+        "release_date": "2006-09-22",
+        "overview": "The adventures of the Lafayette Escadrille, young Americans who volunteered for the French military before the U.S. entered World War I, and became the country's first fighter pilots.",
+        "poster_path": "/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
+        "backdrop_path": "/trKRuWe6zReYFhfA8m6DdHbTWs9.jpg",
+        "production_companies": [
+            {
+                "name": "Electric Entertainment",
+                "id": 3241
+            },
+            {
+                "name": "Skydance Media",
+                "id": 82819
+            },
+            {
+                "name": "Ingenious Media",
+                "id": 290
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 60000000,
+        "revenue": 17834865,
+        "vote_average": 6.558,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0454824",
+        "original_language": "en",
+        "popularity": 13.988,
+        "status": "Released",
+        "tagline": "When the world first went to war, they were the first to fly.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9952,
+        "title": "Rescue Dawn",
+        "release_date": "2006-09-09",
+        "overview": "A US Fighter pilot's epic struggle of survival after being shot down on a mission over Laos during the Vietnam War.",
+        "poster_path": "/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg",
+        "backdrop_path": "/trTr3nty6YV0rFhWLXBi9pBD5ys.jpg",
+        "production_companies": [
+            {
+                "name": "Top Gun Productions",
+                "id": 56232
+            },
+            {
+                "name": "Thema Production",
+                "id": 42004
+            },
+            {
+                "name": "Gibraltar Films",
+                "id": 54840
+            },
+            {
+                "name": "Blue Rider Pictures",
+                "id": 2623
+            },
+            {
+                "name": "Franchise Pictures",
+                "id": 1403
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "Mandate International",
+                "id": 181992
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "LU",
+                "name": "Luxembourg"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 7177143,
+        "vote_average": 6.951,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0462504",
+        "original_language": "en",
+        "popularity": 12.149,
+        "status": "Released",
+        "tagline": "A true story of survival... declassified.",
+        "video": false
+    },
+    {
+        "id_tmdb": 14808,
+        "title": "Battle of the Warriors",
+        "release_date": "2006-11-23",
+        "overview": "In 370 B.C, China was separated as seven nations and several other small tribes, one of these being the city state of Liang. The nation of Zhao is led by the terrifying Xiang Yangzhong who orders his troops to conquer the small city. Leaping to the defense of the people of Liang is 'Ge Li' from the Mo-Tsu tribe, their last hope from the terrors of Yangzhong's troops.",
+        "poster_path": "/90DnSPn76GJVBlkcqqUR4ssMtH4.jpg",
+        "backdrop_path": "/xnMUx6Nwi8hfodHSsjIBeyCSMhP.jpg",
+        "production_companies": [
+            {
+                "name": "SCS Entertainment",
+                "id": 2965
+            },
+            {
+                "name": "Sundream Motion Pictures",
+                "id": 3394
+            },
+            {
+                "name": "Huayi Brothers Pictures",
+                "id": 3393
+            },
+            {
+                "name": "Comstock",
+                "id": 87942
+            },
+            {
+                "name": "China Film Co-Production Corp.",
+                "id": 2269
+            },
+            {
+                "name": "Small Potatoes Productions",
+                "id": 56431
+            },
+            {
+                "name": "Fortissimo Films",
+                "id": 1615
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.46,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0485863",
+        "original_language": "zh",
+        "popularity": 8.701,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 2016,
+        "title": "Days of Glory",
+        "release_date": "2006-09-27",
+        "overview": "1943. They have never stepped foot on French soil but because France was at war, Said, Abdelkader, Messaoud and Yassir enlist in the French Army, along with 130,000 other “indigenous” soldiers, to liberate the “fatherland” from the Nazi enemy. Heroes that history has forgotten…",
+        "poster_path": "/d78c7G8wDVGUTWH95tpuEGiK6IZ.jpg",
+        "backdrop_path": "/a5nAHzJAwdaH0Esu6FSpjvnwK6x.jpg",
+        "production_companies": [
+            {
+                "name": "Tessalit Productions",
+                "id": 858
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            },
+            {
+                "name": "France 3 Cinéma",
+                "id": 591
+            },
+            {
+                "name": "StudioCanal",
+                "id": 694
+            },
+            {
+                "name": "SCOPE Invest",
+                "id": 2250
+            },
+            {
+                "name": "Tassili Films",
+                "id": 7463
+            },
+            {
+                "name": "Versus Production",
+                "id": 3040
+            },
+            {
+                "name": "Kissfilms",
+                "id": 7464
+            },
+            {
+                "name": "Taza Productions",
+                "id": 194147
+            },
+            {
+                "name": "La Petite Reine",
+                "id": 1992
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 14500000,
+        "revenue": 22963701,
+        "vote_average": 6.676,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.indigenes-lefilm.com/",
+        "imdb_id": "tt0444182",
+        "original_language": "fr",
+        "popularity": 8.526,
+        "status": "Released",
+        "tagline": "The true story of World War II's forgotten heroes.",
+        "video": false
+    },
+    {
+        "id_tmdb": 14171,
+        "title": "Home of the Brave",
+        "release_date": "2006-12-15",
+        "overview": "The day after they get the word they'll go home in two weeks, a group of soldiers from Spokane are ambushed in an Iraqi city. Back stateside we follow four of them - a surgeon who saw too much, a teacher who's a single mom and who lost a hand in the ambush, an infantry man whose best friend died that day, and a soldier who keeps reliving the moment he killed a civilian woman.",
+        "poster_path": "/eQokFEJYba9PUhJ99W0TsxzOynp.jpg",
+        "backdrop_path": "/6xZ0cRsPfAAmOG56wLJlPqsBif0.jpg",
+        "production_companies": [
+            {
+                "name": "Winkler Films",
+                "id": 8880
+            },
+            {
+                "name": "EFO Films",
+                "id": 10405
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 499620,
+        "vote_average": 5.424,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0763840",
+        "original_language": "en",
+        "popularity": 7.85,
+        "status": "Released",
+        "tagline": "The final test of courage is coming home.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11818,
+        "title": "Valley of the Wolves: Iraq",
+        "release_date": "2006-01-31",
+        "overview": "The film covers through fiction real-life events like the occupation of Iraq, the execution of Daniel Pearl, the Hood event and the Abu Ghraib torture scandal.",
+        "poster_path": "/s7NOQ6u6elKB7KiZVd3uUY3igW0.jpg",
+        "backdrop_path": "/hueisAmshI3LcK5HnGDOQESZOn.jpg",
+        "production_companies": [
+            {
+                "name": "Pana Film",
+                "id": 58135
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ku",
+                "name": ""
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 663490,
+            "name": "Valley of the Wolves Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0493264",
+        "original_language": "tr",
+        "popularity": 7.358,
+        "status": "Released",
+        "tagline": "War Without Rules",
+        "video": false
+    },
+    {
+        "id_tmdb": 118154,
+        "title": "Quiet Flows The Don",
+        "release_date": "2006-11-07",
+        "overview": "With World War I, the Bolshevik Revolution, and the Russian Civil War as backdrop, it's an old-fashioned, blood-and-guts narrative, filled with earthly humor and a wealth of colorful characters. The story concerns the fluctuating fortunes of Grigory Melekhov, a young Cossack who is both a hero and a victim of the uprising.",
+        "poster_path": "/hRVxPCESKc1Nk8Tnw5CN3tzKx4o.jpg",
+        "backdrop_path": "/mqz5bqgsmOewpxyX4baoiHUAQFj.jpg",
+        "production_companies": [
+            {
+                "name": "Madison Motion Pictures",
+                "id": 144055
+            },
+            {
+                "name": "Pro-Cinema Production",
+                "id": 144056
+            },
+            {
+                "name": "International Cinema Company (ICC)",
+                "id": 87587
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 45000000,
+        "revenue": 0,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.quietflowsthedon.com/",
+        "imdb_id": "tt0384712",
+        "original_language": "ru",
+        "popularity": 5.426,
+        "status": "Released",
+        "tagline": "Theatrical cut",
+        "video": false
+    },
+    {
+        "id_tmdb": 62678,
+        "title": "Bastards",
+        "release_date": "2006-02-02",
+        "overview": "A \"Hitlerjugend\" kind of story, set in the Soviet Union during the Second World War, based on a fictitious story from the eponymous book by Vladimir Kunin.",
+        "poster_path": "/fKkD8mMrNUDFenzSn20xuMvW6Kq.jpg",
+        "backdrop_path": "/27RtmO3cI4UPLG0YvO7R2G8wrYe.jpg",
+        "production_companies": [
+            {
+                "name": "Paradise Production Center",
+                "id": 8548
+            },
+            {
+                "name": "Angel Film",
+                "id": 19804
+            },
+            {
+                "name": "Federal Agency for Culture and Cinematography of the Russian Federation",
+                "id": 84476
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0460012",
+        "original_language": "ru",
+        "popularity": 6.859,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36143,
+        "title": "Flanders",
+        "release_date": "2006-08-30",
+        "overview": "André Demester secretly and painfully loves Barbe, his childhood friend, accepting from her the little that she gives him. He leaves home to be a soldier in a war in a far off land. Barbarity, camaraderie and fear turn him into a warrior. As the seasons go by, Barbe, alone and wasting away, waits for the soldiers to return. Will Demester’s boundless love for Barbe save him?",
+        "poster_path": "/qY8n5t12OBfiQI1X2rI4YrYxVoA.jpg",
+        "backdrop_path": "/o7H4V9Gt9WExOkCStG4rMl1q2Mw.jpg",
+        "production_companies": [
+            {
+                "name": "3B Productions",
+                "id": 5609
+            },
+            {
+                "name": "Le Fresnoy",
+                "id": 11687
+            },
+            {
+                "name": "ARTE France Cinéma",
+                "id": 94
+            },
+            {
+                "name": "Pictanovo",
+                "id": 75242
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0450680",
+        "original_language": "fr",
+        "popularity": 6.65,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 30606,
+        "title": "Mobile Suit Zeta Gundam - A New Translation III: Love is the Pulse of the Stars",
+        "release_date": "2006-03-04",
+        "overview": "Universal Century 0087, Char Aznable has now become the leader of the AEUG. Scirocco, the man from Jupiter, schemes to seize control of the Titans. Haman, the Axis leader, is attempting to restore the Zabi family. Through politics and strategy, these three powers struggle for dominion over the Earth Sphere. The war builds to a deadly endgame around the space colony Gryps 2, which has been converted into a giant laser cannon. What destiny awaits Kamille at the end of the conflict?  This is the final part of the Mobile Suit Zeta Gundam feature trilogy, which features enhanced animation and theme songs by GACKT.",
+        "poster_path": "/4iMoYO4Zit9wyZXIdqGskLeoT6V.jpg",
+        "backdrop_path": "/sufienRbPlkcFx6hQPFlnTGqGvo.jpg",
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.478,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 143152,
+            "name": "Mobile Suit Zeta Gundam A New Translation Collection"
+        },
+        "homepage": "http://www.z-gundam.net/z3",
+        "imdb_id": "tt0488584",
+        "original_language": "ja",
+        "popularity": 6.577,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 2911,
+        "title": "The Last Drop",
+        "release_date": "2006-04-13",
+        "overview": "Different factions in WWII-era Holland race to find a stash of Nazi gold.",
+        "poster_path": "/uMzMmrzi0ATCICWlszQOm1OMJjG.jpg",
+        "backdrop_path": "/79RY04WZpGCrfw4M3Rdjio9iTTm.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0398029",
+        "original_language": "en",
+        "popularity": 6.439,
+        "status": "Released",
+        "tagline": "What better time for a heist than in the fog of war.",
+        "video": false
+    },
+    {
+        "id_tmdb": 31101,
+        "title": "Only The Brave",
+        "release_date": "2006-10-23",
+        "overview": "A searing portrait of war and prejudice, ‘Only the Brave’ takes you on a haunting journey into the hearts and minds of the forgotten heroes of WWII – the Japanese-American 100th/442nd. In 1941, when Japan attacked Pearl Harbor, overnight Japanese Americans were put into internment camps for the duration of the war. Determined to prove their loyalty, 1400 Japanese Americans successfully petitioned the government to serve becoming the 100th Infantry Battalion. They were sent to North Africa, Italy and finally France were they performed an impossibly-dangerous rescue of the Texas 36th Division. During their two years of combat these men received an unparalleled 21 Medals of Honor, 9,486 Purple Hearts, 8 Presidential Citations, 53 Distinguished Service Crosses, 588 Silver Stars and 5,200 Bronze stars – making them the most decorated unit of their size in American military history. This is their story.",
+        "poster_path": "/rgf5T0yy6c6asRbDOk1xa10KTUM.jpg",
+        "backdrop_path": "/jGGMxied9EJKhFJtr6XwYrLL3GM.jpg",
+        "production_companies": [
+            {
+                "name": "Mission From Buddha Productions",
+                "id": 22335
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3300000,
+        "revenue": 150000,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.indicanpictures.com/the-vault-2/only-the-brave",
+        "imdb_id": "tt0410403",
+        "original_language": "en",
+        "popularity": 6.238,
+        "status": "Released",
+        "tagline": "AMERICA’S MOST DECORATED UNIT IN MILITARY HISTORY…, THIS IS THEIR STORY.",
+        "video": false
+    },
+    {
+        "id_tmdb": 18819,
+        "title": "The Hunt for Eagle One",
+        "release_date": "2006-01-17",
+        "overview": "A group of US Marines are sent to rescue captured a US Marine and a Filipino Captain while stopping a group of Al-Qaeda-backed local rebels from launching biological weapons.",
+        "poster_path": "/tuCx5R4LcpI4d97f1MRfY8yntcK.jpg",
+        "backdrop_path": "/v1GUO9dZFx9p0GZOqSCsS9r2wHT.jpg",
+        "production_companies": [
+            {
+                "name": "New Horizons Picture",
+                "id": 20235
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.122,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 703777,
+            "name": "The Hunt for Eagle One Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0486597",
+        "original_language": "en",
+        "popularity": 6.131,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 9868,
+        "title": "Franz + Polina",
+        "release_date": "2006-06-25",
+        "overview": "A sad story of love between German soldier Franz and Russian girl Polina.",
+        "poster_path": "/y2TgiAkzP8PqXBxvtrg2Q2jQaBO.jpg",
+        "backdrop_path": "/gucqa8NjwUCZYhpZ6zuai2arHSi.jpg",
+        "production_companies": [
+            {
+                "name": "Solivs",
+                "id": 126579
+            },
+            {
+                "name": "YUGRA Film Company",
+                "id": 14460
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BY",
+                "name": "Belarus"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "be",
+                "name": "беларуская мова"
+            }
+        ],
+        "budget": 0,
+        "revenue": 1500,
+        "vote_average": 4.722,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.franzipolina.ru/",
+        "imdb_id": "tt0899242",
+        "original_language": "ru",
+        "popularity": 5.181,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 34066,
+        "title": "The Last Train",
+        "release_date": "2006-10-26",
+        "overview": "A group of people are imprisoned in a rail car bound from Berlin to a concentration camp in 1945.",
+        "poster_path": "/sTsmkEMezkbmWHggQJT0o9lb1Wv.jpg",
+        "backdrop_path": "/4KqBdnoylT8xNwRkeAZ62Pya5NO.jpg",
+        "production_companies": [
+            {
+                "name": "Diamant Film",
+                "id": 39728
+            },
+            {
+                "name": "Perathon Film-und Fernsehproduktions",
+                "id": 23417
+            },
+            {
+                "name": "CCC Filmkunst",
+                "id": 1787
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 427456,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0460492",
+        "original_language": "de",
+        "popularity": 5.51,
+        "status": "Released",
+        "tagline": "The tragedy of human destinies, the battle of life and death.",
+        "video": false
+    },
+    {
+        "id_tmdb": 118565,
+        "title": "The Lighthouse",
+        "release_date": "2006-10-27",
+        "overview": "Lena returns to her home in a remote, war-ravaged Armenian village to try and persuade her grandparents to leave with her for safety in Moscow.",
+        "poster_path": "/27VUHZrbt2V9GMmuzIESYRgMXFz.jpg",
+        "backdrop_path": "/lFTU9OXJPAuTKiFu7POCTN25QrX.jpg",
+        "production_companies": [
+            {
+                "name": "Andreevsky Flag Film Company",
+                "id": 11996
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AM",
+                "name": "Armenia"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.secondrundvd.com/release_lighthouse.php",
+        "imdb_id": "tt1020889",
+        "original_language": "ru",
+        "popularity": 4.876,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 120809,
+        "title": "Sea Without Exit",
+        "release_date": "2006-09-16",
+        "overview": "Koji Namiki is a young pitcher who has shown great promise on the diamond by winning the National High School Basketball Championships. Shortly after entering college, however, Namiki's athletic career is called into question after he suffers a severe elbow injury. But despite a disheartening diagnosis, Namiki is determined to make a comeback. With a little help from his teammates it appears that he is getting back on track, too. Recently, he's even developed a new slow ball that he and his teammates have christened \"the magic pitch\".  Fate can be a cruel mistress though, and when World War II breaks out Namiki the entire team join the navy and begin a training regiment specifically designed to prepare them for the ultimate darkness, an submarine attack method also known as \"The Human Torpedo\".",
+        "poster_path": "/qUSA1oQ7mvBip7b1PhyJvoRjKL3.jpg",
+        "backdrop_path": "/iZLBYjc1cOFEZXtEqkqia9IQqLO.jpg",
+        "production_companies": [
+            {
+                "name": "Asahi Broadcasting Corporation",
+                "id": 4868
+            },
+            {
+                "name": "The Asahi Shimbun",
+                "id": 3031
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0807747",
+        "original_language": "ja",
+        "popularity": 4.593,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 75634,
+        "title": "Sharpe's Challenge",
+        "release_date": "2006-04-23",
+        "overview": "Sean Bean is back as the swashbuckling hero in Sharpe's Challenge, an action packed mini-series to be shot on location in Rajasthan, India. Two years after the Duke of Wellington crushes Napoleon at Waterloo, dispatches from India tell of a local Maharaja, Khande Rao, who is threatening British interests there. Wellington sends Sharpe to investigate on what turns out to be his most dangerous mission to date. When a beautiful general's daughter is kidnapped by the Indian warlord, the tension mounts, leaving Sharpe no option but to pursue the enemy right into its deadly lair. Deep in the heart of enemy territory he also has to keep at bay the beautiful but scheming Regent, Madhuvanthi, who is out to seduce him. The fate of an Empire and the life of a General's daughter lie in one man's hands...",
+        "poster_path": "/eDPjgZeMnlisxH3pY0L8DGpRjRc.jpg",
+        "backdrop_path": "/mu2TsgWhrHcbwRvjF3ajqFXPqPM.jpg",
+        "production_companies": [
+            {
+                "name": "Celtic Films Entertainment",
+                "id": 7783
+            },
+            {
+                "name": "Picture Palace",
+                "id": 7782
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 69788,
+            "name": "Sharpe Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0480002",
+        "original_language": "en",
+        "popularity": 3.76,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 10266,
+        "title": "The Veteran",
+        "release_date": "2006-01-01",
+        "overview": "Thirty years on from Vietnam, a government official is trying to track down soldiers who went missing in action, in the hope that it may lead her to her father. Meanwhile, a war veteran is forced to relive painful memories of how he was left for dead by his own platoon, and the heinous crimes he once committed while in the line of duty.",
+        "poster_path": "/qTRAWohDlSviegARU4fW8lyb4jK.jpg",
+        "backdrop_path": "/r247CrCra5jJshn2leQlDyZpF0T.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0493322",
+        "original_language": "en",
+        "popularity": 3.665,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 34083,
+        "title": "The Silent City",
+        "release_date": "2006-10-01",
+        "overview": "The story revolves around 3 soldiers who are on the outskirts of a war torn city. They are patrolling an area when a bomb is accidentally set off and they have to wait for help.",
+        "poster_path": "/iGRHOhGEB4I6DfKzVWQ2mYx6gjW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Floodland Pictures",
+                "id": 5411
+            },
+            {
+                "name": "Image Now",
+                "id": 5413
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.ruairirobinson.com/short_films.htm",
+        "imdb_id": "tt0947076",
+        "original_language": "en",
+        "popularity": 3.584,
+        "status": "Released",
+        "tagline": "It's peaceful here.",
+        "video": false
+    },
+    {
+        "id_tmdb": 484051,
+        "title": "The Ode to Joy",
+        "release_date": "2006-06-17",
+        "overview": "Based on the true story of the Bandō prisoner-of-war camp in World War I. It depicts the friendship of the German POWs with the director of the camp and local residents at the stage of Naruto, Tokushima Prefecture, in Japan.",
+        "poster_path": "/y8F9w4fSw6G4XtSH0eMrQv41O7z.jpg",
+        "backdrop_path": "/43BVK0iM51OpSwT20D5TqxueBcx.jpg",
+        "production_companies": [
+            {
+                "name": "Yomiuri Shimbun Company",
+                "id": 11726
+            },
+            {
+                "name": "Nippan Group Holdings",
+                "id": 3032
+            },
+            {
+                "name": "Shinano Art & Culture Consultant Co., Ltd.",
+                "id": 75417
+            },
+            {
+                "name": "TV Asahi",
+                "id": 9300
+            },
+            {
+                "name": "Tokyo FM",
+                "id": 569
+            },
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0484095",
+        "original_language": "ja",
+        "popularity": 3.476,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 9774,
+        "title": "Kokoda",
+        "release_date": "2006-04-25",
+        "overview": "A bitter battle is fought between Australian and Japanese soldiers along the Kokoda trail in New Guinea during World War II.",
+        "poster_path": "/99XSpD5ItqGbwECfpspHWQRkwXR.jpg",
+        "backdrop_path": "/6SEh1SjP2EZ6OAIfc8c9btpmcli.jpg",
+        "production_companies": [
+            {
+                "name": "Australian Film Finance Corporation",
+                "id": 1380
+            },
+            {
+                "name": "GFN Productions",
+                "id": 4023
+            },
+            {
+                "name": "Pacific Film and Television Commission",
+                "id": 4024
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0481390",
+        "original_language": "en",
+        "popularity": 3.448,
+        "status": "Released",
+        "tagline": "Mates became heroes. The track became legend.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2032,
+        "title": "Transit",
+        "release_date": "2006-06-04",
+        "overview": "A group of American pilots from Alaska ferry Airacobra fighter planes across the ocean on Lend-lease. The orderly course of life is disrupted when it becomes clear that the American pilots are attractive and charming young women. The feelings of the Russian young men collide into barriers of culture and language resulting in a host of awkward, funny, and sometimes tragic situations.It is the story of Russians, Americans, and natives of the Far North. It is the story of man and woman in war. Love and death are squeezed between the hills as human fates are destroyed and born.",
+        "poster_path": "/dZpEi2CqFCTGiZWNytCVxeFb3j.jpg",
+        "backdrop_path": "/ysGfI3HPamzzgdOYukBrk7Q8fU5.jpg",
+        "production_companies": [
+            {
+                "name": "CTB Film Company",
+                "id": 318
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0416111",
+        "original_language": "ru",
+        "popularity": 2.595,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 18619,
+        "title": "Ghetto",
+        "release_date": "2006-06-08",
+        "overview": "In 1942, in Vilna, the Nazi annihilate 55,000 Jews and squeeze the 15,000 survivors in a seven blocks ghetto. The twenty-two year old sadistic commander Kittel is assigned to administrate the ghetto in the capital of Lithuania, becoming the master of life or death. When he finds the gorgeous Hayyah sneaking with one kilo of beam stolen from the German army, he sentences her to death; but when he is informed that she was a former successful singer, he decides to activate the old theater and promote shows in the ghetto. The Jew Chief of Police Gens uses the theater and a sewing factory to save as much lives as he can; in his ambiguous position, he kills Jews to save lives of others.",
+        "poster_path": "/aXxkw7orae4FNaCZ7X65WTBLhx2.jpg",
+        "backdrop_path": "/xg9mIC8V6PBKl3oA6PobAWKo6L.jpg",
+        "production_companies": [
+            {
+                "name": "Dragon Cine Venture Image Entertainment",
+                "id": 54063
+            },
+            {
+                "name": "Lithuanian Film Studio",
+                "id": 2064
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "LT",
+                "name": "Lithuania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0783522",
+        "original_language": "de",
+        "popularity": 2.991,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 308405,
+        "title": "Последний бронепоезд",
+        "release_date": "2006-01-04",
+        "overview": "",
+        "poster_path": "/uw11Xb2sNig3gn2DGSYqSX3zIst.jpg",
+        "backdrop_path": "/v9tRKAi3nmXRT7pUR5pqJoIlbSU.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0479620",
+        "original_language": "ru",
+        "popularity": 2.957,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 64843,
+        "title": "Les enfants du pays",
+        "release_date": "2006-04-19",
+        "overview": "May 1940, in the French Ardennes. The German Army is getting ready to invade France. Old Gustave lives alone in his village with Camille, his teenage granddaughter and Etienne, his grandson. All the other inhabitants have evacuated the village, which makes Gustave very happy as he is the sole master there. Etienne, does not care because he is too young but Camille is beginning to suffer from her solitude and finds it hard to put up with her granddad's selfishness and bossiness. One day a patrol of African-born soldiers (\"Tirailleurs Sénégalais\") comes to the deserted village...",
+        "poster_path": "/dib1DLwYypkHOjHrXkobgenH00e.jpg",
+        "backdrop_path": "/9GXFE4NCeQyV4hKxgnDyWMPhMi4.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0465903",
+        "original_language": "fr",
+        "popularity": 2.874,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 89586,
+        "title": "Anathema",
+        "release_date": "2006-01-01",
+        "overview": "A woman who is raped and gives birth to a child in war torn Kosovo, struggles to keep her child.",
+        "poster_path": "/yjaaEwB52VN8eLOdmb2b30sd9PK.jpg",
+        "backdrop_path": "/oYp48Mdtj7i3S9R30QCrAdbv7lX.jpg",
+        "production_companies": [
+            {
+                "name": "AS Film Production",
+                "id": 87445
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XK",
+                "name": "Kosovo"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1147707",
+        "original_language": "sq",
+        "popularity": 2.785,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 206624,
+        "title": "The Knot",
+        "release_date": "2006-11-26",
+        "overview": "They fell in love; Chen Qiushui was 20. Wang Biyun was 18. When Qiushui fled Taiwan after the 228 Massacre, Biyun gave him a gold engagement ring and they promised to meet again. Qiushui served as an army doctor during the Korean War, where he met Wang Jindi, a nurse from Shanghai who fell in love with him instantly. Years had gone by, Qiushui married Jindi and settled in Tibet. While in Taiwan, Biyun buried Qiushui's mother and continued to pray for his return.  Flashback to modern time, Biyun is living in New York. Her niece played by Isabella Leong, a writer, has travelled to Tibet to find out what happened to Qiushui. Through the pictures she sends back via internet, Biyun finally gets to see the familiar face once again.",
+        "poster_path": "/gG11nQ8KaHdQYqDE69O1R1zKuxy.jpg",
+        "backdrop_path": "/huOA49NX8fLRtLOVAAUdHyjswet.jpg",
+        "production_companies": [
+            {
+                "name": "China Film Group Corporation",
+                "id": 14714
+            },
+            {
+                "name": "JCE Movies",
+                "id": 2726
+            },
+            {
+                "name": "Long Shong Pictures",
+                "id": 5551
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0924003",
+        "original_language": "zh",
+        "popularity": 2.734,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 76099,
+        "title": "The Colonel",
+        "release_date": "2006-11-15",
+        "overview": "A \"Reformed Colonel\" is found dead in Paris, a couple of decades after Algeria's struggle for independence was won from France. Lieutenant Galois is assigned the investigation of this murder. She receives the diary of Lieutenent Guy Rossi who served under The Colonel in Algeria in 1956, and has been reported as missing in action since 1957. The revelations found in Rossi's diary go far beyond The Colonel's actions in Algeria, and give an insight on how dirty Algeria's War for Independence really was.",
+        "poster_path": "/j7uzNau9xUsoNuYBNEytFsSSotA.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Les Films du Fleuve",
+                "id": 1926
+            },
+            {
+                "name": "RTBF",
+                "id": 792
+            },
+            {
+                "name": "K.G. Productions",
+                "id": 13837
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 3900000,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0800135",
+        "original_language": "fr",
+        "popularity": 2.58,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 387551,
+        "title": "The Mexican American War",
+        "release_date": "2006-09-29",
+        "overview": "One of the most controversial conflicts in U.S. history, the Mexican-American War erupted as President James K. Polk sought to extend the borders of the nation to the Pacific, taking by force whatever territory stood in the way. This special, produced by The History Channel and hosted by Oscar de la Hoya, looks at the war from the perspective of both countries, and chronicles the fighting from its inception to its conclusion with the Treaty of Guadalupe Hidalgo.",
+        "poster_path": "/bzvkggwtKXQ8aRbwuWycG1ZJR5V.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "History",
+                "id": 3507
+            },
+            {
+                "name": "Jim Lindsay Productions",
+                "id": 242501
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0874304",
+        "original_language": "en",
+        "popularity": 2.353,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 191745,
+        "title": "Aanivaer",
+        "release_date": "2006-09-23",
+        "overview": "Aanivaer is a Tamil independent film directed by Indian Tamil film director John Mahendran. The film was shot in Sri Lanka with a story and screenplay revolving around a love story amid the ongoing Civil War in Sri Lanka.",
+        "poster_path": "/7EsYcwzy8zazxLJfbKnVeCCnaEl.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "LK",
+                "name": "Sri Lanka"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ta",
+                "name": "தமிழ்"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2902334",
+        "original_language": "en",
+        "popularity": 2.141,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73682,
+        "title": "The Paper Will Be Blue",
+        "release_date": "2006-08-07",
+        "overview": "Out of enthusiasm, a Militia soldier abandons his platoon and decides to fight for the cause of the Revolution. His Lieutenant and the rest of the crew look for him during the confused night of 22-23 December 1989.",
+        "poster_path": "/fJNv3OldnYtKyz7iQ7WVvjykJQW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Multi Media Est",
+                "id": 13020
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0819895",
+        "original_language": "ro",
+        "popularity": 1.591,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 737073,
+        "title": "The Cake Tree in the Ruins",
+        "release_date": "2006-08-15",
+        "overview": "War drama based on a short story by Akiyuki Nosaka.",
+        "poster_path": "/lhnaCvUx3F8OUJp5fZ27s0wznLH.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shin-Ei Animation",
+                "id": 5141
+            },
+            {
+                "name": "TV Asahi",
+                "id": 9300
+            },
+            {
+                "name": "Sound Box",
+                "id": 104684
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 2.04,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73864,
+        "title": "The Rage of the Whole World",
+        "release_date": "2006-03-15",
+        "overview": "In Raging of the whole world are the turbulent early years of Alexander Goudveyl central. The story of Alexander's childhood is also the history of an era, the fifties and sixties, and a never solved murder case. Murder goes back to an authentic incident: in 1956, right before Christmas, a policeman was shot in broad daylight in Maassluis during a large-scale evangelistic campaign. The film also plays a failed escape attempt with a herring trawler involved in the turbulent days of May 1940.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0393354",
+        "original_language": "nl",
+        "popularity": 1.863,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 381784,
+        "title": "Alexander the Great",
+        "release_date": "2006-03-10",
+        "overview": "When his father, King Philip, is killed by the wicked Emperor Darius, Alexander the Great assembles an army and sets out for revenge. On his journey to catch up with his enemy, he fights many battles and conquers much of the known world.",
+        "poster_path": "/8K6VZBil5j6BmmsUe654EZ8y4G9.jpg",
+        "backdrop_path": "/A31wX0RMr5YHZYq8EEGNHZ2hiU8.jpg",
+        "production_companies": [
+            {
+                "name": "Difarm Inc.",
+                "id": 118947
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0480507",
+        "original_language": "en",
+        "popularity": 1.038,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 163890,
+        "title": "Blockade",
+        "release_date": "2006-06-02",
+        "overview": "The images comprise only of material Sergei Loznitsa found in the Moscow film archives about the siege of Leningrad during the World War II. By providing the originally silent images with a meticulously reconstructed soundtrack, the scenes from everyday life under siege seem to be set in the present. By not intervening in the montage but giving the scenes room to tell a story, the scenes transcend the specific historic events and lead a new life. They do not evoke memories of the past, but become a breathtaking reanimation of reality.",
+        "poster_path": "/5TssLW8Jj7HUogI7QQQzMgg4hPy.jpg",
+        "backdrop_path": "/iINqsi0dIjb9DGzfMstKueAx5tz.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0826039",
+        "original_language": "ru",
+        "popularity": 1.699,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 69554,
+        "title": "Keerthi Chakra",
+        "release_date": "2006-06-06",
+        "overview": "Major Mahadevan (Mohanlal) is the head of the elite command force. He is in charge of fighting the country’s terrorist groups and protecting the country from their terrorist intentions. Havildar Jaikumar (Jeevaa) is Major Mahadevan’s most trusted lieutenant. He meticulously carries out his chief’s instructions, thereby gaining his trust and confidence. Mahadevan, Havildar Jaikumar and their team save the public from threats, attempted bombings, kidnappings, and extortions by militants.",
+        "poster_path": "/gNY7Tk5jvlSRznpQ4wrD2lqEoIa.jpg",
+        "backdrop_path": "/4Fa5zxtrRNjFGH4r3mQiS5SeG0s.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            },
+            {
+                "iso_639_1": "ml",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ta",
+                "name": "தமிழ்"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 415712,
+            "name": "Major Mahadevan Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0485922",
+        "original_language": "ml",
+        "popularity": 1.659,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 385473,
+        "title": "Secret Weapon",
+        "release_date": "2006-02-23",
+        "overview": "The scouts of Lieutenant Besfamilny's platoon receive a task - to check information about the Nazis' secret bunker. They successfully cross the front line, but then everything does not go as planned.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "sinebridge",
+                "id": 74224
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 911373,
+            "name": "Неслужебное задание (Коллекция)"
+        },
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 1.655,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43660,
+        "title": "Battle of Long Tan",
+        "release_date": "2006-08-16",
+        "overview": "In the gathering dusk of 18 August 1966, 108 young, inexperienced Australian and NZ soldiers are separated and surrounded, fighting for their lives, holding off an overwhelming force of 2,500 battle-hardened Viet Cong and North Vietnamese soldiers. And, in the pouring rain, amid the mud and shattered trees of a rubber plantation called Long Tan, with their ammunition running out and another Vietnamese battalion massing for the final assault, the digger's situation seemed hopeless. Long Tan is the true story of ordinary boys who became extraordinary men.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Animax Films",
+                "id": 227127
+            },
+            {
+                "name": "Foxtel",
+                "id": 79082
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0846672",
+        "original_language": "en",
+        "popularity": 1.627,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 228373,
+        "title": "Offside",
+        "release_date": "2006-06-01",
+        "overview": "One fence, four fans, and the game of their lives. This is a story about 4 men and a radio.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0774754",
+        "original_language": "en",
+        "popularity": 1.607,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 63074,
+        "title": "The Roses of the Desert",
+        "release_date": "2006-12-01",
+        "overview": "A sanitary battalion of Italian Army is sent to Sorman oasis in Lybia during the Africa campaign in 1940. Soon an Italian missionary, living nearby, succeed to transform the occupation by Italian Army in a kind of humanitarian mission. In fact all the battalion is involved to help the local population. The war anyway goes on with no regards to human feelings. The \"glorious\" Fascist campaign is going to became a fast retreat.",
+        "poster_path": "/gzW15mnUnKovV06Ggyomr1asp4u.jpg",
+        "backdrop_path": "/kORC0dKWM1Ya0fk6C9Q53bA66ts.jpg",
+        "production_companies": [
+            {
+                "name": "Mikado Film",
+                "id": 11912
+            },
+            {
+                "name": "Luna Rossa Cinematografica",
+                "id": 41630
+            },
+            {
+                "name": "RAI Cinema",
+                "id": 155990
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0470082",
+        "original_language": "it",
+        "popularity": 1.6,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 294727,
+        "title": "Tertium Non Datur",
+        "release_date": "2006-02-14",
+        "overview": "In the Ukrainian steppe, toward the end of World War II, the German and Romanian troops are retreating in the face of the unstoppable Red Army. A Romanian military unit has set up its headquarters in a deserted school. A visit of high-ranking Wehrmacht officers is suddenly announced. Hope is awakened: will they receive new orders? But disappointment comes quickly.",
+        "poster_path": "/qjfZouD5Lthe0DStTkimyrB3gh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Filmex Romania",
+                "id": 11217
+            },
+            {
+                "name": "Pavillon Rouge",
+                "id": 90142
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0800235",
+        "original_language": "ro",
+        "popularity": 1.489,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 87429,
+        "title": "Eve Giden Yol 1914",
+        "release_date": "2006-12-22",
+        "overview": "",
+        "poster_path": "/p3mZkQDIrMapoMVvu4EsyJXaFW1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Özen Film",
+                "id": 72673
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 2,
+        "vote_average": 4.714,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0826541",
+        "original_language": "tr",
+        "popularity": 1.455,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 584167,
+        "title": "Our War",
+        "release_date": "2006-09-17",
+        "overview": "\"Our War\" is a special drama produced by Japanese TBS TV. This is the third bomb of the war-themed TV series after the \"Song of Sugarcane Field\" and \"Guangzhou·Showa August 6th, 20th.\" It is said that in 2005, young people from the end of the island, Kenji and Showa’s 19-year-old pilot, Shi Tingwu, changed their identity because of time and space, and then used their respective perspectives to look at the Pacific War and the youthful story of peaceful modern life.",
+        "poster_path": "/wo3FHfUqM5gBnoXgZ7yRlZZwRJ2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TBS",
+                "id": 1393
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.445,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 58928,
+        "title": "Fragments of Antonin",
+        "release_date": "2006-11-08",
+        "overview": "A psychiatrist who probes the mind of traumatized soldiers attempts to unlock the secret that drove a gentle but deeply-disturbed World War I veteran to the edge of insanity.",
+        "poster_path": "/jAjP4ho9Okyi3vUfpCNr0eEVRA7.jpg",
+        "backdrop_path": "/h8nHUeVdJgNoRSc6RCuI3mdQt2Q.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0452780",
+        "original_language": "fr",
+        "popularity": 1.343,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 52511,
+        "title": "Nafaka",
+        "release_date": "2006-10-20",
+        "overview": "Sarajevo, 1992. They are called Ahmed, Lana, Sado, Saba, Sahbey, Beba, Nemanja, Marx, Matan. They live in and between wartimes. They have \"nafaka\", the destiny which was bestowed on them by God Almighty. They have enough gallows humor and courage to believe in freedom and happiness.",
+        "poster_path": "/jkZPiNarwWLPnoURDqFpW5TT0I7.jpg",
+        "backdrop_path": "/iwSSo18uE9qLWoYNevNhhe4vZL0.jpg",
+        "production_companies": [
+            {
+                "name": "FIST Production",
+                "id": 74988
+            },
+            {
+                "name": "Dream Company",
+                "id": 68129
+            },
+            {
+                "name": "Kult-B",
+                "id": 110909
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BA",
+                "name": "Bosnia and Herzegovina"
+            },
+            {
+                "iso_3166_1": "RS",
+                "name": "Serbia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.nafaka.fist.co.ba/",
+        "imdb_id": "tt0466562",
+        "original_language": "bs",
+        "popularity": 1.277,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 11100,
+        "title": "The Soldier's Star",
+        "release_date": "2006-09-05",
+        "overview": "A Russian guitarist was enlisted in 1984 in the Afghan war. Imprisoned, he will meet an Afghan musician and a French journalist.",
+        "poster_path": "/9AG79LoocG3uQZvjWucBZlawmCO.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Albert Films",
+                "id": 2637
+            },
+            {
+                "name": "Nef Filmproduktion",
+                "id": 2639
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0825348",
+        "original_language": "fr",
+        "popularity": 1.256,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 63862,
+        "title": "The Confrontation",
+        "release_date": "2006-03-16",
+        "overview": "Moldavia, 1944. An elite squad of Red Army scouts is sent to stop an equally elite squad of Germans soldiers committing war crimes behind Soviet lines.",
+        "poster_path": "/rcVUZN0oLZfJU8FXteQIeWyQI2t.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Montek",
+                "id": 75183
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 1000000,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1573479",
+        "original_language": "ru",
+        "popularity": 1.226,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1067630,
+        "title": "Glazed",
+        "release_date": "2006-05-26",
+        "overview": "Glazed, delves into the psyche of a listless veteran trapped in the past, yet fighting to live in the present. Through haunting images of war and love, we see the torment a soldier puts himself through as he tries to find a reason to go on.",
+        "poster_path": "/qbe0RPaGmysMyibOs66Mj6PZtlB.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Not Afraid!",
+                "id": 2803
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3200,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.notafraid.com/portfolio/glazed/",
+        "imdb_id": "tt1141646",
+        "original_language": "en",
+        "popularity": 1.215,
+        "status": "Released",
+        "tagline": "What do you want to hear?",
+        "video": false
+    },
+    {
+        "id_tmdb": 159717,
+        "title": "Ever Again",
+        "release_date": "2006-12-08",
+        "overview": "Ever Again examines the sweeping resurgence of antisemitism in 21st century Europe and its connection to global terrorism.",
+        "poster_path": "/vUWeCd6URTNlXaMi55FRpBz4k7U.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Moriah Films",
+                "id": 101283
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0930057",
+        "original_language": "en",
+        "popularity": 1.214,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 587355,
+        "title": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+        "release_date": "2006-04-26",
+        "overview": "Lieutenant Oliver May and the 603 Technical Division Unit aboard the Jotunheim continue testing and evaluating experimental weapons to aid the Zeon war effort against the Federation Forces. At the end of each experiment, the tale of the trials and tribulations faced by the weapon and its test pilot adds a small chapter to the long history of the One Year War",
+        "poster_path": "/xJQ1gbNjAswJAPVpj8bfQCo1UUM.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7127518",
+        "original_language": "ja",
+        "popularity": 1.208,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 81533,
+        "title": "Primo Levi's Journey",
+        "release_date": "2006-09-12",
+        "overview": "In February, 1945, Primo Levi (1919-1987) and other Auschwitz survivors set off for home. The journey took more then eight months. Sixty years later, a film crew retraces Levi's steps. Levi's words, mainly from \"The Truce\" (1963), tell us what he experienced. In turn, we see Poland's hollow post-war factories, nationalism in the Ukraine, Soviet-style Communism in Belarus, the abandoned town of Prypiat (Chernobyl), poverty and emigration from Moldavia, Italian factories in Romania, and on across Hungary and Slovakia to Munich where Levi's rage found no listeners. Then home to Turin. An aged Mario Rigoni Stern remembers his friend. What has changed? Some issues of the war remain unsettled.",
+        "poster_path": "/2R5sPDFZh5YoHb6HEd3rHjd8EE3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Adriana Chiesa Enterprises",
+                "id": 81033
+            },
+            {
+                "name": "Rossofuoco",
+                "id": 30824
+            },
+            {
+                "name": "RAI Cinema",
+                "id": 155990
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 166215,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0841173",
+        "original_language": "it",
+        "popularity": 1.207,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 379964,
+        "title": "The Somme: From Defeat to Victory",
+        "release_date": "2006-07-02",
+        "overview": "Based on diaries, records and eyewitness accounts, this is the story of the two Battles of the Somme from the perspective of British and German soldiers. It shows how the major lessons learned by the British Army leadership after the disastrous first attacks of July 1916 were turned into victory at the second attempt in September 1916, arguably the turning point for the First World War.",
+        "poster_path": "/83TfQVbjLCvzw2zwgS4pyDFeFEf.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            },
+            {
+                "name": "NDR",
+                "id": 7201
+            },
+            {
+                "name": "The Open University",
+                "id": 29377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.open.edu/openlearn/whats-on/ou-on-the-bbc-the-somme",
+        "imdb_id": "tt0827740",
+        "original_language": "en",
+        "popularity": 1.184,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 81535,
+        "title": "Mansfeld",
+        "release_date": "2006-09-14",
+        "overview": "At 15 he and his family became victims of state terror. At 16 he became a freedom fighter to participate in the 1956 Revolution against Soviet oppression. At 17 he is betrayed and arrested by the dreaded Secret Police (AVH). Now he has to spend the remainder of his life in a political prison, called Hell's Hallway, to reach the legal age of 18 before his death penalty can be carried out. Peter Mansfeld was 18 when he was unjustly executed by the totalitarian regime of Hungary. Today he is remembered as one of the national heroes of Hungary.",
+        "poster_path": "/dgwCCYRQ8YxLcMEsFD8ngtsR8qk.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ProsperoFilm",
+                "id": 89474
+            },
+            {
+                "name": "21st Century DreamQuest Films",
+                "id": 50068
+            },
+            {
+                "name": "Film-Art Kft.",
+                "id": 41213
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0469941",
+        "original_language": "hu",
+        "popularity": 1.169,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 597076,
+        "title": "Кто убил Рихарда Зорге?. Рождение мифа",
+        "release_date": "2006-02-12",
+        "overview": "",
+        "poster_path": "/raJeIjvjTLgx5xXEtl62nzG3IWo.jpg",
+        "backdrop_path": "/qXZVNLDNTCGivWFNIJgDdU4I0KN.jpg",
+        "production_companies": [
+            {
+                "name": "Sovinfilm",
+                "id": 32054
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10224868",
+        "original_language": "ru",
+        "popularity": 1.156,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 869664,
+        "title": "Dead Letters",
+        "release_date": "2006-07-15",
+        "overview": "On the ‘home front’ in 1943, Ngarie and Gerald sort air graph letterforms destined for New Zealand soldiers abroad. A tiny act of heroism brings together this unlikely pair in an unconventional love story that cleverly blends fact with fiction.",
+        "poster_path": "/1NIasKqxc2o81SGMlphbnFkWtXN.jpg",
+        "backdrop_path": "/1BArUz5LcLhBE6m1h9CJOC9IbPx.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0829138",
+        "original_language": "en",
+        "popularity": 1.131,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1003889,
+        "title": "Above and Beyond",
+        "release_date": "2006-10-29",
+        "overview": "True Story about the Atlantic Ferry Operation during World War II.",
+        "poster_path": "/emExGx23ukE67fLiJwUSWjdA7ua.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0478834",
+        "original_language": "en",
+        "popularity": 1.411,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 472078,
+        "title": "In the Name of the Father",
+        "release_date": "2006-07-08",
+        "overview": "This is about a father and his daughter who has been injured from the mines from Iran-Iraq war.",
+        "poster_path": "/2kLrXQAgtKsyORYiwlbK9wOFfqQ.jpg",
+        "backdrop_path": "/exWgY1vaHMgtqkbab7RbwIzWfGW.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1313230",
+        "original_language": "fa",
+        "popularity": 1.028,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 124692,
+        "title": "Ни шагу назад",
+        "release_date": "2006-01-01",
+        "overview": "",
+        "poster_path": "/6vOOWrT2nF0Yn5v8geOb9igWD1a.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 0.873,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 176729,
+        "title": "20.13: Purgatory",
+        "release_date": "2006-12-21",
+        "overview": "Mozambique, 1969. What was meant to be a peaceful Christmas Eve ends up badly as a group of soldiers brings home a prisoner that will be murdered. Simultaneously, the Capitan's wife arrives in surprise, bringing along a Priest, who is supposed to celebrate the mass.",
+        "poster_path": "/1Vkuf18SfS82GeEZxbbUHEsMMpA.jpg",
+        "backdrop_path": "/5J4AsPmnWgeClGSuJLVG7ceyl8k.jpg",
+        "production_companies": [
+            {
+                "name": "MGN Filmes",
+                "id": 2846
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PT",
+                "name": "Portugal"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0829086",
+        "original_language": "pt",
+        "popularity": 0.864,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 642406,
+        "title": "The Reward of Silence",
+        "release_date": "2006-08-01",
+        "overview": "Akbar Manafi is an injure of war and is hospitalized for that before. he is now working in a bus station. One day he sees in the TV his fellow soldier in the war Yahya. Yahya has been ...",
+        "poster_path": "/3ZcN8xSRg7yIQFILa4UpNMI3ihI.jpg",
+        "backdrop_path": "/kA2fdvzwa5P2nI8CNywBWBvzVJ3.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fa",
+        "popularity": 0.812,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 519847,
+        "title": "La Forteresse assiégée",
+        "release_date": "2006-11-22",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Les Films de la Croisade",
+                "id": 47128
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0896702",
+        "original_language": "fr",
+        "popularity": 0.79,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 458600,
+        "title": "Alka",
+        "release_date": "2006-05-09",
+        "overview": "When the war began, graduates of the choreographic school decided to make their way to the front. Young ballerinas Alka and Nadia also dreamed of exploits, but instead they were waiting for routine work as nurses in the hospital. The girls still achieved their goal and got to the front line, where Nadia died at the first shelling. After recovering from a severe concussion, Alka again went to the front line, to the Marine reconnaissance platoon. She received her first task – to get a \"tongue\"…",
+        "poster_path": "/eog0Yki192sPtlstyfM7d8MldOp.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 0.77,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 341445,
+        "title": "One Hundredth of a Second",
+        "release_date": "2006-08-21",
+        "overview": "Kate is a talented photojournalist. She risks her life to deliver powerful images to the waiting world until a photograph of a Girl changes her life forever.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.65,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0882795",
+        "original_language": "en",
+        "popularity": 0.763,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 118982,
+        "title": "Nuremberg: Goering's Last Stand",
+        "release_date": "2006-08-24",
+        "overview": "The Nuremberg trials, 1946 Goering and the Nazi high command stand trial. Within the prison a dangerous mind game is being conducted by Goering and the prison guards who stand watch over the perpetrators of the Holocaust.",
+        "poster_path": "/tt17RSzwDpnGOYtzrDrleZ9rXnd.jpg",
+        "backdrop_path": "/9J4ErFZSi2LzFHSKSWKgfuovgHq.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0843290",
+        "original_language": "en",
+        "popularity": 0.456,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 555079,
+        "title": "Dead Field",
+        "release_date": "2006-10-19",
+        "overview": "A group of soldiers is stuck on the Russian-Chechen border near the field which locals call dead.",
+        "poster_path": "/dr6bSErDZBGESH7OXhtlfK6k0hS.jpg",
+        "backdrop_path": "/lpCw19jmM5EYulbaTfInN8Rz0mM.jpg",
+        "production_companies": [
+            {
+                "name": "Dar XXI veka",
+                "id": 110326
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3311126",
+        "original_language": "ru",
+        "popularity": 0.706,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1356644,
+        "title": "L'Enfant tombée du ciel",
+        "release_date": "2006-07-16",
+        "overview": "",
+        "poster_path": "/7l4PVb2IaOoF7H2xzbIkwo1Q9pX.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lux Vide",
+                "id": 1082
+            },
+            {
+                "name": "Canale 5",
+                "id": 239045
+            },
+            {
+                "name": "Alizés Films",
+                "id": 30888
+            },
+            {
+                "name": "Rete Italia S.p.A.",
+                "id": 127714
+            },
+            {
+                "name": "TF1",
+                "id": 22123
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 0.658,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 276559,
+        "title": "The Air Force Story",
+        "release_date": "2006-01-01",
+        "overview": "The fascinating history of the U.S. Air Force comes to life via vintage footage culled from official Air Force newsreels that were created to educate the public during wartime. Formed in World War I as a tiny airborne offshoot of the Army's American Expeditionary Force, the division subsequently grew into its own armed services branch and became the largest modern air force in the world.",
+        "poster_path": "/tFd6FdDLIuAIGwp4veq4tJMSSnc.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.383,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 596392,
+        "title": "King of the World",
+        "release_date": "2006-12-06",
+        "overview": "Cinema version of the 5 part TV series. During World War II, Stan Vandewalle saves boxing trainer Max from the bombed German war prisoners camp, and shoots two German soldiers while escaping. After the war, Stan resolves to put all his frustration over the death of his slow-witted brother Aloïs, who dreamed of becoming an opera singer, with his side-car against a farmer's truck in making come true Aloïs other dream, to see Stan becoming 'king of the world' as boxer.",
+        "poster_path": "/5hKzS5Z04wp89OAtPoQalnoWsgN.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "nl",
+        "popularity": 0.63,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 92915,
+        "title": "Fire and Ice: The Winter War of Finland and Russia",
+        "release_date": "2006-02-01",
+        "overview": "The Winter War was an epic life and death struggle that changed the course of World War II, and saved a democracy. Fire and Ice documents this timeless story of courage against all odds by a people united to preserve their freedom.",
+        "poster_path": "/nMBkDiYfdgEhASfixbh5WbcXKvW.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.wfyi.org/fireandice/index.htm",
+        "imdb_id": "tt1043636",
+        "original_language": "en",
+        "popularity": 0.615,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 97575,
+        "title": "Dreams",
+        "release_date": "2006-09-29",
+        "overview": "Scarred Baghdad 2003... confusion, uncertainty and death engulf the bombed ruins of a Psychiatric Asylum. Voyeuristically we move between the past and the present of three Iraqi lives entangled by the chaos of the American 'Shock and Awe' campaign...",
+        "poster_path": "/vBfCfRrS3yak8VrPvk4ehJN45Tw.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IQ",
+                "name": "Iraq"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.humanfilm.co.uk/ff/ahlaam/characters.htm",
+        "imdb_id": "tt0854114",
+        "original_language": "ar",
+        "popularity": 0.367,
+        "status": "Released",
+        "tagline": "When dreaming is the only sane thing to do.",
+        "video": false
+    },
+    {
+        "id_tmdb": 587894,
+        "title": "The Blue Hills",
+        "release_date": "2006-05-08",
+        "overview": "A documentary on the volunteer Estonian Army's defense against the Soviet Army in 1944 with an emphasis on its last stand in the region known as the Blue Hills of Estonia.",
+        "poster_path": "/oIJmf9PqBy7MwEpbEXdNramC62a.jpg",
+        "backdrop_path": "/zTEuAno95Ubr9jfOprD21gs5QzF.jpg",
+        "production_companies": [
+            {
+                "name": "Ruut",
+                "id": 18014
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EE",
+                "name": "Estonia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "et",
+                "name": "Eesti"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 187527,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0940766",
+        "original_language": "et",
+        "popularity": 0.843,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 383448,
+        "title": "The Ship of Fools",
+        "release_date": "2006-11-07",
+        "overview": "Sarajevo in 1992. Vedran, a once famous musician, tries to shelter his family from the madness of war. He hides them in his old house and goes out of his way to give them a normal day to day life. For a while he manages to keep the war at a distance, but when his daughter gets pregnant Vedran wants to give her a proper wedding in the old town hall",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Matthias Lebeer Productions",
+                "id": 93421
+            },
+            {
+                "name": "Rits Erasmushogeschool",
+                "id": 88192
+            },
+            {
+                "name": "Scout Film Sarajevo",
+                "id": 88967
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "BA",
+                "name": "Bosnia and Herzegovina"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0887881",
+        "original_language": "bs",
+        "popularity": 0.584,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 751392,
+        "title": "Lie",
+        "release_date": "2006-06-07",
+        "overview": "The film is about the inner suffering and conflictions of Yavar, father of a soldier, who can't give the news of his son's death in the war to his heart-sick wife.",
+        "poster_path": "/pg1tAcSTJxNYDg9qaq9WZot7eR2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Azerbaijanfilm",
+                "id": 104565
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AZ",
+                "name": "Azerbaijan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "az",
+                "name": "Azərbaycan"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1198148",
+        "original_language": "az",
+        "popularity": 0.57,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1010598,
+        "title": "The last ones",
+        "release_date": "2006-01-01",
+        "overview": "Los Últimos is the remake of the frustrated Pozo de Zorro, by Miguel Mirra himself. A group of soldiers is isolated after a bloody battle, but they refuse to surrender. The Malvinas war is approached by Miguel Mirra from a different perspective than that known until now. The Last Ones is a war drama where there is no room for guilt and commiseration.",
+        "poster_path": "/7EbX0gOJSwhcfSjBg3RQwKzzmqo.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Susana Moreira Producciones",
+                "id": 180125
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "es",
+        "popularity": 0.505,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 384611,
+        "title": "Kosovo: Desperate Search",
+        "release_date": "2006-04-23",
+        "overview": "The film \"Kosova: Desperate Search\" recounts the repercussions and effects of the Kosovar war on the Albanian population. Ethnic cleansings and other atrocities mentally and physically destroyed the people. The entwined destinies of individual persons and families from various geographic regions and social classes are the basis of a closely interconnected storyline. Families are not only looking for their missing children, but also for new hope and perspectives.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lara Entertainment",
+                "id": 67485
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0816086",
+        "original_language": "sq",
+        "popularity": 0.481,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 278110,
+        "title": "Dear Enemy",
+        "release_date": "2006-03-28",
+        "overview": "Dear Enemy tells the true story of the director’s grandfather who became friends with a German officer during the WWII German occupation of Albania while hiding a partisan, an Italian soldier and a Jewish watchmaker in his cellar.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Les Films de Cinéma",
+                "id": 25721
+            },
+            {
+                "name": "Albanian General Vision",
+                "id": 25723
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0395489",
+        "original_language": "sq",
+        "popularity": 0.479,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 643688,
+        "title": "Bangla",
+        "release_date": "2006-07-14",
+        "overview": "2006 Bangladeshi film",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BD",
+                "name": "Bangladesh"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bn",
+                "name": "বাংলা"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6523152",
+        "original_language": "bn",
+        "popularity": 0.455,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 903557,
+        "title": "Meet Me in Wichita",
+        "release_date": "2006-01-01",
+        "overview": "A stop motion animated 16mm film combining the Wizard of Oz and the hunt for Bin Laden, with music by V. Vale and Jad Fair.",
+        "poster_path": "/lCqSEl9vNRBneqKPKVHDkXoDBYT.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.43,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43679,
+        "title": "Combat Diary: The Marines of Lima Company",
+        "release_date": "2006-05-25",
+        "overview": "A documentary chronicling Lima Company 3rd Battalion 25th Marines from Columbus Ohio and they deployment to Iraq.",
+        "poster_path": "/o2UvahKtzKtVf3A6BVKkGHaw6Wt.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0852946",
+        "original_language": "en",
+        "popularity": 0.426,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 345598,
+        "title": "Zolykha's Secret",
+        "release_date": "2006-08-27",
+        "overview": "A rural Afghan family living at the base of a mountain, struggles to survive during the last year of the Taliban and the beginning of a new war that still rages. Living under harsh and oppressive conditions, the family finds comfort in one another and in trying to rebuild their mountainous home. The youngest daughter, Zolykha, is specially receptive, curious and clairvoyant. Zolykha can sense and see spirits of strange men from the past that roam the hills and mountains behind her home. As Zolykha and her older siblings, Amena and Zalmai struggle to find meaning in life's natural and man-made tragedies, they discover new convictions to carry on.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shansab Films",
+                "id": 73593
+            },
+            {
+                "name": "Cinemapolitan Films",
+                "id": 73594
+            },
+            {
+                "name": "Cinemapolitan",
+                "id": 73595
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AF",
+                "name": "Afghanistan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "ps",
+                "name": "پښتو"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0860578",
+        "original_language": "en",
+        "popularity": 0.416,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 50062,
+        "title": "The Ground Truth",
+        "release_date": "2006-09-15",
+        "overview": "Sometimes the greatest act of courage is to tell the truth. Hear and witness our soldiers in this penetrating film. The shocking Iraq War ground conflict is only a prelude to the even more challenging battles these reluctant heroes face upon their return home.",
+        "poster_path": "/qi4IhP8KQfNoiojuIDHQYmWgonQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Plum Pictures",
+                "id": 203484
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 500000,
+        "revenue": 12207,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.thegroundtruth.net/",
+        "imdb_id": "tt0446345",
+        "original_language": "en",
+        "popularity": 0.404,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 106601,
+        "title": "Red White Black & Blue",
+        "release_date": "2006-01-01",
+        "overview": "In a secret battle that cost thousands of lives but was never revealed to the American public, the Japanese army invaded Alaska in June 1942. Sixty years later, two veterans embark on an intense and emotional journey, returning to their former battlefield.",
+        "poster_path": "/xdt85HukcrE2ZXd8DJ68mMNBkoB.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0469169",
+        "original_language": "en",
+        "popularity": 0.356,
+        "status": "Released",
+        "tagline": "On June 7, 1942 Japan invaded Alaska. 60 years later, one man has come to take it back.",
+        "video": false
+    },
+    {
+        "id_tmdb": 931448,
+        "title": "Life",
+        "release_date": "2006-12-19",
+        "overview": "",
+        "poster_path": "/1d783Lh0e7imU0DLmZzPvz0UuyA.jpg",
+        "backdrop_path": "/xgwjxwyfTPVMBTZNTFHnPdLr6zF.jpg",
+        "production_companies": [
+            {
+                "name": "Hãng Phim Truyện Việt Nam",
+                "id": 129722
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 50000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10231790",
+        "original_language": "vi",
+        "popularity": 0.347,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 342209,
+        "title": "Fields Of Freedom",
+        "release_date": "2006-03-01",
+        "overview": "The Battle of Gettysburg",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Greystone Communications",
+                "id": 24027
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0496294",
+        "original_language": "en",
+        "popularity": 0.341,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 896753,
+        "title": "The Filthy Thirteen: Real Stories from Behind the Lines",
+        "release_date": "2006-11-01",
+        "overview": "This is the true story of Jake McNiece, who led a band of tough and determined paratroopers called the Filthy Thirteen (part of the 101st Airborne platoon). His anti-authoritarian and no-nonsense attitude, mixed with his courageous spirit and wild antics, inspired the fictional tale of THE DIRTY DOZEN, both the book and subsequent film.",
+        "poster_path": "/kp0oAInjJFRSXiYkTunJbbWP8B0.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Warner Home Video",
+                "id": 113519
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0870108",
+        "original_language": "en",
+        "popularity": 0.332,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 812448,
+        "title": "25th hour",
+        "release_date": "2006-06-01",
+        "overview": "Taha (played by Amin Tarokh) returns to the country after many years of war and captivity in the war. But he realizes that everything has changed, even his family has changed, he does not know that there is a truth behind these bitter facts.",
+        "poster_path": "/qDUeOs8qOxSXKYI8zRRrrDyJxrv.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13577184",
+        "original_language": "fa",
+        "popularity": 0.325,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 424597,
+        "title": "Az I. Világháború: Az európai frontok nagy csatái",
+        "release_date": "2006-11-05",
+        "overview": "",
+        "poster_path": "/ltiJAVjhSU7y6VUQmqCsYHe5WOn.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "en",
+        "popularity": 0.31,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 206926,
+        "title": "Le Grand Complot",
+        "release_date": "2006-05-15",
+        "overview": "",
+        "poster_path": "/5Xs6FGS3EgzNVUnVMbNfP0s4yHs.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "fr",
+        "popularity": 0.304,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 532470,
+        "title": "La couleur du sacrifice",
+        "release_date": "2006-09-01",
+        "overview": "'The Colour of the Sacrifice' hands over to these men, for the greater part enlisted by force, who came from the colonized countries and played a crucial role during the Second World war.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1596270",
+        "original_language": "fr",
+        "popularity": 0.298,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 311723,
+        "title": "Navy SEALs: The Silent Option",
+        "release_date": "2006-01-01",
+        "overview": "This segment of filmmaker Gordon Forbes's documentary series explores top-of-the-line technological weaponry and artillery as the Navy SEALs unveil the hardware they use to quietly execute their highly specialized operations without a hitch. Forbes's series ushers viewers into the clandestine world of the SEALs and closely examines the elite maritime commando force's operations and procedures, from training and preparation to all-out combat.",
+        "poster_path": "/7bT0cEyLZBlOCsCrGRALhc7RsCh.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.294,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 368248,
+        "title": "Las Cruces, poblado próximo",
+        "release_date": "2006-08-24",
+        "overview": "Set during the civil war in 1980's Guatemala. A group of six men and a woman must find a way to work together to protect the village of Las Cruces from an impending military attack. The indigenous population of the area, inevitably is torn between their need to help and thoughts of fleeing, for self preservation.",
+        "poster_path": "/7VebRZM8fL0FM89tujETRorbfLx.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Casa Comal",
+                "id": 39378
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GT",
+                "name": "Guatemala"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0976200",
+        "original_language": "es",
+        "popularity": 0.253,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 143568,
+        "title": "Crossing the Dust",
+        "release_date": "2006-12-01",
+        "overview": "A road movie set in Iraq in 2003 during the fall of Saddam. Two Kurds are looking for the parents of a five-year-old boy who has been found in the street in tears. His name is Saddam too. At the same time the boy's parents are looking for him everywhere, worried because of the boy's name which is now taboo. All the attempts of the two Kurds to get rid of the child fail: neither the Americans nor the men of religion at the mosque want him. Little Saddam begins to become a real problem. In the streets and all around them, they are surrounded by the chaos and crazy atmosphere of those days, with violence always on the verge of exploding.",
+        "poster_path": "/6VVdyBUHepn4RKrQ4u3RjLa7zAB.jpg",
+        "backdrop_path": "/a4Y1unW8T28usIIpFkGLeXKqUr3.jpg",
+        "production_companies": [
+            {
+                "name": "Arc-en-Ciel Films",
+                "id": 112757
+            },
+            {
+                "name": "Narin Film",
+                "id": 93531
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IQ",
+                "name": "Iraq"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "ku",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1058739",
+        "original_language": "ku",
+        "popularity": 0.241,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 463544,
+        "title": "July Trip",
+        "release_date": "2006-06-04",
+        "overview": "\"When this last war broke out, I was faraway in Paris. I had but one idea: to return to Beirut as quickly as possible and to begin shooting a film, for historical moments were taking place. This film became indispensible: to film so that history would cease repeating itself and to build up a picture library for future generations. I never understood why so few films were made during the Lebanese Civil War. Apart from the odd film, nothing remains from that time. The war surely merited more attention.\" (Waël Noureddine)",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "LB",
+                "name": "Lebanon"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1034039",
+        "original_language": "en",
+        "popularity": 0.239,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1017209,
+        "title": "White Mountains",
+        "release_date": "2006-06-01",
+        "overview": "An old man is collecting the bodies of the dead in the fighting between the local parties and believes that everyone is the same and fighting for the same purpose.",
+        "poster_path": "/xEtTYCKdmkwxJmNgpHg4OyT6Lq6.jpg",
+        "backdrop_path": "/3boNHOPh6SG98aV8zDcbievr2oF.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            },
+            {
+                "iso_3166_1": "IQ",
+                "name": "Iraq"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ku",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt21913410",
+        "original_language": "ku",
+        "popularity": 0.201,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 789280,
+        "title": "Samurai and the Swastika",
+        "release_date": "2006-01-01",
+        "overview": "Chronicles the strategic alliance between the Axis powers. Examines how Japan supplied Germany with much-needed raw materials for the war, while German engineers shared sophisticated rocket and jet-propulsion technology with their Japanese counterparts. Jointly, they supported anti-English uprisings in India, giving aid and military supplies to Bose Chandras, a dissident Indian general, and his guerilla army. They conspired to destroy the Panama Canal and cut off America's Pacific war from its crucial Atlantic supply operations. Uses computer animations to illustrate this plan.",
+        "poster_path": "/vPq54iVJPlCUlzD0JEXQIdOzJ59.jpg",
+        "backdrop_path": "/uHSQ0IAvAEzxxxGUVHv3k6bAvvI.jpg",
+        "production_companies": [
+            {
+                "name": "History",
+                "id": 3507
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.119,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 274645,
+        "title": "Navy SEALs: Hell Week",
+        "release_date": "2006-01-01",
+        "overview": "In this segment of Gordon Forbes's documentary series, you'll witness the Navy SEALs' most grueling training sequences as candidates have their physical and emotional limits pushed to the brink while enduring countless obstacles and challenges. Forbes's four-part documentary explores one of the most elite multipurpose commando units in the United States, revealing fascinating aspects of an ultra-secret world that few have seen before.",
+        "poster_path": "/2N4WEOEXe5coiHC8qNPWWZQLRuh.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.182,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 564484,
+        "title": "Great Raids of World War II",
+        "release_date": "2006-06-12",
+        "overview": "Showcases a series of daring raid made by various sections of the British military during World War II. The raids highlighted are \"Stopping Hitler's A-Bomb\", \"Prison Busters\", Radar Beam Raiders\", \"Storm at St. Nazaire\", \"Cockleshell Raiders\" and \"Arctic Commando Assaults\". Each raid is analyzed, the reasons for it taking place, the planning and execution plus the results and consequences.",
+        "poster_path": "/vjLoAPaHd5Binm3cTsWXmaaJ8Tk.jpg",
+        "backdrop_path": "/8k7QEUIcJzDpuRmvNyoT1VGqVT2.jpg",
+        "production_companies": [
+            {
+                "name": "Nugus/Martin Productions",
+                "id": 83774
+            },
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2798686",
+        "original_language": "en",
+        "popularity": 0.14,
+        "status": "Released",
+        "tagline": "The greatest military confrontation the world has ever seen.",
+        "video": false
+    },
+    {
+        "id_tmdb": 275444,
+        "title": "D-Day: The Price Of Freedom",
+        "release_date": "2006-05-16",
+        "overview": "D-Day, June 6, 1944, was a turning point in the history of the world and thousands of young Americans played an important role that day. Travel with several of these men as they return to the beaches of Normandy to tell their stories of survival.",
+        "poster_path": "/e84KW16pMetjIr7f4BYQvAb4AlK.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.084,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 288976,
+        "title": "Horses of Gettysburg",
+        "release_date": "2006-05-02",
+        "overview": "Horses of Gettysburg celebrates the forgotten heroes of the Civil War and their critical role in shaping the United States of America that we live in today. Directed by Mark Bussler, producer and director of EXPO - Magic of the White City narrated by Gene Wilder and Gettysburg and Stories of Valor narrated by Keith Carradine, Horses of Gettysburg is a special edition 2-DVD Box Set in the CIVIL WAR MINUTES series.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Inecom Entertainment",
+                "id": 29524
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0462342",
+        "original_language": "en",
+        "popularity": 0.062,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 487649,
+        "title": "Weapons of War: US Navy Carriers",
+        "release_date": "2006-01-01",
+        "overview": "Packed with combat action from key conflicts, this DVD traces the fascinating rise of the biggest warships the world has ever known. Find out how US air power evolved from early biplanes landing on converted battleships to sophisticated warplanes on enormous modern super carriers. Discover everything you need to know about the most powerful and flexible war machines in existence, and why the first question the President is likely to ask in an international crisis is, \"Where is the nearest carrier?\"",
+        "poster_path": "/2YCUZPfmIhJUtmUaE4NYL6R0G56.jpg",
+        "backdrop_path": "/SEbEoT8iwRNLQgKFdNJqpbojQ1.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1606359",
+        "original_language": "en",
+        "popularity": 0.055,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 372874,
+        "title": "Men from the Forgotten Army",
+        "release_date": "2006-12-27",
+        "overview": "After World War II, Estonian (Latvian and Lithuanian) soldiers, airmen and sailors who had fought (been conscripted) on the German side ended in POW camps on the US side. They were the lucky ones. The others went to Siberia.  This story is about those soldiers who were sitting in their POW camps when all of a sudden they were conscripted yet one more time, this time into a civil variant of the US Army.",
+        "poster_path": "/mNBiwcyual2DG0pozCRbnRP0p2w.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Estonian Public Broadcasting (ERR)",
+                "id": 45345
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EE",
+                "name": "Estonia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "et",
+                "name": "Eesti"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.efis.ee/en/film-categotries/movies/id/4012",
+        "imdb_id": "",
+        "original_language": "et",
+        "popularity": 0.045,
+        "status": "Released",
+        "tagline": "World War II, Estonia, Nurnberg, Nuremberg War Crimes Tribunal",
+        "video": false
+    },
+    {
+        "id_tmdb": 460707,
+        "title": "The Nordic War",
+        "release_date": "2006-10-20",
+        "overview": "In August-September of 1939 Adolf Hitler and Joseph Stalin divided up the European countries between themselves, via a secret annex protocol in the Soviet-German non-aggression pact. Empowered by this document, Germany invaded Poland on 1. September 1939. Two days later Britain and France declared war on Germany. The Second World War was on. Due to the territorial divisions of the secret annex protocol, Finland ended up the target of attacks lunched by the Soviet Union, first on 30. November 1939 (the Winter War) and then again on 25. June 1941 (the Continuation War). In spite of the harsh conditions and having to fight an overwhelming enemy, Finland managed to keep her independence.",
+        "poster_path": "/beKKe7TcwkwhpIP8fRJA6m82RSP.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "poptori oy",
+                "id": 91120
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0905638",
+        "original_language": "fi",
+        "popularity": 0.042,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 257873,
+        "title": "Deadly Nam",
+        "release_date": "2006-01-25",
+        "overview": "",
+        "poster_path": "/vf0DPISsCNoAIprJ3coTbCMfyyl.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0780498",
+        "original_language": "de",
+        "popularity": 0.049,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 692271,
+        "title": "Patton's Ghost Corps",
+        "release_date": "2006-05-23",
+        "overview": "A group of WW2 soldiers who were never meant to see the front lines. Not only did they end up on the front lines, but they were under-gunned and under-manned. Patton called them his \"golden nugget\", the Nazi's called them \"The Ghost Corps\".",
+        "poster_path": "/q36nirSTeMhwRaBnHdUp5xjEhHi.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0818509",
+        "original_language": "en",
+        "popularity": 0.021,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1177408,
+        "title": "Enter the Dragon: Bruce Lee in Mostar",
+        "release_date": "2006-07-24",
+        "overview": "Who should have a monument in Mostar, an ethnically divided city that is still healing its war wounds? This is a story of people who, in spite of nationalists and trigger-happy myth maniacs, decided to erect a statue of Bruce Lee. And they made the news that traveled the world...",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 10000,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1039959",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1026781,
+        "title": "围剿",
+        "release_date": "2006-01-01",
+        "overview": "",
+        "poster_path": "/t0oAlXgv7jRJKxZvE6sDLd3Wbi0.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6286346",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 664638,
+        "title": "The Cave",
+        "release_date": "2006-07-01",
+        "overview": "The patriotic story of the five-year resistance movement from the Italian aggression.",
+        "poster_path": "/aCJC5lXsmgmYNRCJKlDGOvJa3zj.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "ET",
+                "name": "Ethiopia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "am",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "am",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 605019,
+        "title": "Rule of Law: Justice in Kosovo",
+        "release_date": "2006-01-01",
+        "overview": "Austrian United Nations Judge Claudia Fenz arrives in Kosovo to hear the case of a group of ethnic Albanian men accused of killing a Serbian woman. Whilst dealing with the peculiarities of the region, including rolling blackouts, she meets with prominent locals and learns of the traditional, somewhat radical, approach to justice in Kosovo, favoring reconciliation over punishment.",
+        "poster_path": "/nGLkK4cYGvwvbh905dt7dGCSeCW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Aichholzer Film",
+                "id": 1230
+            },
+            {
+                "name": "Envision Films",
+                "id": 5614
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1270846",
+        "original_language": "de",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 309271,
+        "title": "German Support Aircraft & Gliders of WWII",
+        "release_date": "2006-01-01",
+        "overview": "Exploring the design and deployment of German support aircraft and gliders, this documentary program highlights the airborne innovations of the Nazi Luftwaffe during World War II. Segments focus on reconnaissance and liaison aircraft; the employment of DFS 230s; and the unveiling of the six-engine Messerschmitt Me-323 \"Gigant.\" Extras include an interactive quiz designed to test your knowledge on everything you learned from the program.",
+        "poster_path": "/kxQlmO8R3LhEmZHH9BmqxbWRjt6.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 274546,
+        "title": "Encyclopedia of Modern Armor: The Anti-Tank Weapons",
+        "release_date": "2006-01-01",
+        "overview": "Documentary, Military Documentaries - With a focus on anti-tank weaponry, this visual encyclopedia of knowledge chronicles the development of 20th-century warfare technology via authentic military footage. Segments explore the use and effectiveness of the 37mm PaK 35 and 36; the Jager-tiger; land mines; the MIG-23; the American F-4 Phantom; the MIL-24; the German PAH-1; the MacDonell Douglas AH-64 Apache; and the British Harrier jump jet.",
+        "poster_path": "/tKpmn0A8IN3GgjIUlsdKqRHIM7P.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

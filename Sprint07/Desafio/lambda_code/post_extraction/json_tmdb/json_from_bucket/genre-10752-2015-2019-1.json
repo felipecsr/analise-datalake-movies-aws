@@ -1,0 +1,5909 @@
+[
+    {
+        "id_tmdb": 324786,
+        "title": "Hacksaw Ridge",
+        "release_date": "2016-10-07",
+        "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+        "poster_path": "/fTuxNlgEm04PPFkr1xfK94Jn8BW.jpg",
+        "backdrop_path": "/rshlQ6LfPRSWFhpGL4s5ZkIPR51.jpg",
+        "production_companies": [
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            },
+            {
+                "name": "Pandemonium",
+                "id": 8915
+            },
+            {
+                "name": "Cross Creek Pictures",
+                "id": 10246
+            },
+            {
+                "name": "Permut Presentations",
+                "id": 455
+            },
+            {
+                "name": "Vendian Entertainment",
+                "id": 50481
+            },
+            {
+                "name": "Argent Pictures",
+                "id": 92455
+            },
+            {
+                "name": "IM Global",
+                "id": 7437
+            },
+            {
+                "name": "AI Film",
+                "id": 51860
+            },
+            {
+                "name": "Bliss Media",
+                "id": 8186
+            },
+            {
+                "name": "Kylin Pictures",
+                "id": 94431
+            },
+            {
+                "name": "Cosmos Filmed Entertainment",
+                "id": 234199
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 175302354,
+        "vote_average": 8.196,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.lionsgate.com/movies/hacksaw-ridge",
+        "imdb_id": "tt2119532",
+        "original_language": "en",
+        "popularity": 95.636,
+        "status": "Released",
+        "tagline": "One of the greatest heroes in American history never fired a bullet.",
+        "video": false
+    },
+    {
+        "id_tmdb": 300671,
+        "title": "13 Hours: The Secret Soldiers of Benghazi",
+        "release_date": "2016-01-14",
+        "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+        "poster_path": "/4qnEeVPM8Yn5dIVC4k4yyjrUXeR.jpg",
+        "backdrop_path": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "3 Arts Entertainment",
+                "id": 787
+            },
+            {
+                "name": "Bay Films",
+                "id": 6734
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 69411370,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.thirteenhoursmovie.com/",
+        "imdb_id": "tt4172430",
+        "original_language": "en",
+        "popularity": 69.829,
+        "status": "Released",
+        "tagline": "When everything went wrong, six men had the courage to do what was right.",
+        "video": false
+    },
+    {
+        "id_tmdb": 281338,
+        "title": "War for the Planet of the Apes",
+        "release_date": "2017-07-11",
+        "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+        "poster_path": "/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+        "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            },
+            {
+                "name": "Chernin Entertainment",
+                "id": 7076
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 150000000,
+        "revenue": 490719763,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 173710,
+            "name": "Planet of the Apes (Reboot) Collection"
+        },
+        "homepage": "http://www.foxmovies.com/movies/war-for-the-planet-of-the-apes",
+        "imdb_id": "tt3450958",
+        "original_language": "en",
+        "popularity": 51.762,
+        "status": "Released",
+        "tagline": "For freedom. For family. For the planet.",
+        "video": false
+    },
+    {
+        "id_tmdb": 517093,
+        "title": "Balkan Line",
+        "release_date": "2019-03-21",
+        "overview": "After the NATO bombing of Yugoslavia in 1999, the Yugoslav army pulls out of Kosovo region, leaving Serbian people at the mercy of the Albanian UCK. A small band of soldiers must take over the Slatina airport, and hold it until the Russian peacekeepers arrive.",
+        "poster_path": "/okiB4NUriKKbGjAtVSzveicPTtu.jpg",
+        "backdrop_path": "/gh9YcpJ01IsrwGkB3IK8K3LWQ25.jpg",
+        "production_companies": [
+            {
+                "name": "Archangel Studios",
+                "id": 109270
+            },
+            {
+                "name": "Upgrade Vision",
+                "id": 113710
+            },
+            {
+                "name": "Bless Film",
+                "id": 113711
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "RS",
+                "name": "Serbia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3500000,
+        "revenue": 4944386,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5951188",
+        "original_language": "ru",
+        "popularity": 50.995,
+        "status": "Released",
+        "tagline": "No choice",
+        "video": false
+    },
+    {
+        "id_tmdb": 530915,
+        "title": "1917",
+        "release_date": "2019-12-25",
+        "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+        "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+        "backdrop_path": "/vDQwbN2ymkMQ8ldL3Sc275FGBw3.jpg",
+        "production_companies": [
+            {
+                "name": "DreamWorks Pictures",
+                "id": 7
+            },
+            {
+                "name": "Reliance Entertainment",
+                "id": 7294
+            },
+            {
+                "name": "New Republic Pictures",
+                "id": 114732
+            },
+            {
+                "name": "Neal Street Productions",
+                "id": 1522
+            },
+            {
+                "name": "Mogambo Films",
+                "id": 103476
+            },
+            {
+                "name": "Amblin Partners",
+                "id": 121685
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 100000000,
+        "revenue": 394638258,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.1917.movie/",
+        "imdb_id": "tt8579674",
+        "original_language": "en",
+        "popularity": 48.309,
+        "status": "Released",
+        "tagline": "Time is the enemy",
+        "video": false
+    },
+    {
+        "id_tmdb": 554600,
+        "title": "Uri: The Surgical Strike",
+        "release_date": "2019-01-11",
+        "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+        "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+        "backdrop_path": "/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+        "production_companies": [
+            {
+                "name": "RSVP Movies",
+                "id": 100972
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8291224",
+        "original_language": "hi",
+        "popularity": 47.637,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 374720,
+        "title": "Dunkirk",
+        "release_date": "2017-07-19",
+        "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+        "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+        "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Syncopy",
+                "id": 9996
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 150000000,
+        "revenue": 527000000,
+        "vote_average": 7.454,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.dunkirkmovie.com/",
+        "imdb_id": "tt5013056",
+        "original_language": "en",
+        "popularity": 42.948,
+        "status": "Released",
+        "tagline": "When 400,000 men couldn't get home, home came for them.",
+        "video": false
+    },
+    {
+        "id_tmdb": 515001,
+        "title": "Jojo Rabbit",
+        "release_date": "2019-10-18",
+        "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
+        "poster_path": "/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+        "backdrop_path": "/oT2DbUVEUc1AIgBBJwVl3hm0ID6.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Searchlight Pictures",
+                "id": 43
+            },
+            {
+                "name": "Defender Films",
+                "id": 6510
+            },
+            {
+                "name": "Piki Films",
+                "id": 76342
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NZ",
+                "name": "New Zealand"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 82468705,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.searchlightpictures.com/jojorabbit",
+        "imdb_id": "tt2584384",
+        "original_language": "en",
+        "popularity": 42.158,
+        "status": "Released",
+        "tagline": "It's definitely not a good time to be a Nazi.",
+        "video": false
+    },
+    {
+        "id_tmdb": 522162,
+        "title": "Midway",
+        "release_date": "2019-11-06",
+        "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
+        "poster_path": "/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+        "backdrop_path": "/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+        "production_companies": [
+            {
+                "name": "AGC Studios",
+                "id": 110799
+            },
+            {
+                "name": "Centropolis Entertainment",
+                "id": 347
+            },
+            {
+                "name": "Street Entertainment",
+                "id": 114885
+            },
+            {
+                "name": "Entertainment One",
+                "id": 8147
+            },
+            {
+                "name": "Starlight Culture Entertainment Group",
+                "id": 128493
+            },
+            {
+                "name": "Shanghai RuYi Entertainment",
+                "id": 175784
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 100000000,
+        "revenue": 127400000,
+        "vote_average": 7.139,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://midway.movie",
+        "imdb_id": "tt6924650",
+        "original_language": "en",
+        "popularity": 38.558,
+        "status": "Released",
+        "tagline": "One battle turned the tide of war.",
+        "video": false
+    },
+    {
+        "id_tmdb": 405775,
+        "title": "The Wall",
+        "release_date": "2017-05-12",
+        "overview": "An American sniper and his spotter engage in a deadly cat-and-mouse game with an Iraqi sniper.",
+        "poster_path": "/d9cehMtpg7trMo6nM1d7Na5WUR9.jpg",
+        "backdrop_path": "/eDw3ydtUpCE541mBFnEnSHyYuaH.jpg",
+        "production_companies": [
+            {
+                "name": "Big Indie Pictures",
+                "id": 6831
+            },
+            {
+                "name": "Amazon Studios",
+                "id": 20580
+            },
+            {
+                "name": "Picrow",
+                "id": 20581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 4500000,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4218696",
+        "original_language": "en",
+        "popularity": 37.322,
+        "status": "Released",
+        "tagline": "This isn't war. It's a game.",
+        "video": false
+    },
+    {
+        "id_tmdb": 407375,
+        "title": "Sniper: Ghost Shooter",
+        "release_date": "2016-08-02",
+        "overview": "Elite snipers Brandon Beckett and Richard Miller are fighting extremists in the Middle East when the Colonel gives them a new mission: to protect a gas pipeline stretching from the Republic of Georgia to Western Europe from extremists eager to make a political statement. But when skirmishes with the enemy lead to U.S. snipers being killed by a ghost shooter who locks into their exact location, a security breach is suspected. Fingers are pointed and battle lines are drawn, all leading up to an explosive climax.",
+        "poster_path": "/92YFviTZnjA6rj2jADoA2gmsjsz.jpg",
+        "backdrop_path": "/kgjg3FaCgv37ivD9g7v9d02Ap7J.jpg",
+        "production_companies": [
+            {
+                "name": "UFO International Productions",
+                "id": 7188
+            },
+            {
+                "name": "Destination Films",
+                "id": 769
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 14246,
+            "name": "Sniper Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt5090828",
+        "original_language": "en",
+        "popularity": 31.894,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 429351,
+        "title": "12 Strong",
+        "release_date": "2018-01-18",
+        "overview": "A team of special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.",
+        "poster_path": "/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg",
+        "backdrop_path": "/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
+        "production_companies": [
+            {
+                "name": "Torridon Films",
+                "id": 79529
+            },
+            {
+                "name": "Alcon Entertainment",
+                "id": 1088
+            },
+            {
+                "name": "Black Label Media",
+                "id": 33681
+            },
+            {
+                "name": "Jerry Bruckheimer Films",
+                "id": 130
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "16:14 Entertainment",
+                "id": 101829
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 67450815,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://12strongmovie.com",
+        "imdb_id": "tt1413492",
+        "original_language": "en",
+        "popularity": 31.698,
+        "status": "Released",
+        "tagline": "The declassified true story of the horse soldiers",
+        "video": false
+    },
+    {
+        "id_tmdb": 438799,
+        "title": "Overlord",
+        "release_date": "2018-11-01",
+        "overview": "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+        "poster_path": "/l76Rgp32z2UxjULApxGXAPpYdAP.jpg",
+        "backdrop_path": "/sHNC8hjAu4ZKXYhG3cp8ghRZ02B.jpg",
+        "production_companies": [
+            {
+                "name": "Bad Robot",
+                "id": 11461
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 38000000,
+        "revenue": 41657844,
+        "vote_average": 6.726,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.overlordmovie.com",
+        "imdb_id": "tt4530422",
+        "original_language": "en",
+        "popularity": 30.353,
+        "status": "Released",
+        "tagline": "Stop the unstoppable.",
+        "video": false
+    },
+    {
+        "id_tmdb": 369885,
+        "title": "Allied",
+        "release_date": "2016-02-12",
+        "overview": "In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+        "poster_path": "/5JlOrfXqKuaLuoTnmIPdQF1Nci2.jpg",
+        "backdrop_path": "/cdR0qwyaMfuZRfTYEixUmRnmdop.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "GK Films",
+                "id": 3281
+            },
+            {
+                "name": "ImageMovers",
+                "id": 11395
+            },
+            {
+                "name": "Huahua Media",
+                "id": 83645
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 106000000,
+        "revenue": 119520023,
+        "vote_average": 6.792,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.alliedmovie.com/",
+        "imdb_id": "tt3640424",
+        "original_language": "en",
+        "popularity": 29.099,
+        "status": "Released",
+        "tagline": "The enemy is listening.",
+        "video": false
+    },
+    {
+        "id_tmdb": 345009,
+        "title": "Mine",
+        "release_date": "2016-10-06",
+        "overview": "After a failed assassination attempt, a soldier finds himself stranded in the desert. Exposed to the elements, he must survive the dangers of the desert and battle the psychological and physical toll of the treacherous conditions.",
+        "poster_path": "/xfQV6nTH6zpvhmdcTOoBR2Q4Z2M.jpg",
+        "backdrop_path": "/7teoHvDIKJ8IN7FdVGFM4XdaQZd.jpg",
+        "production_companies": [
+            {
+                "name": "Eagle Pictures",
+                "id": 10400
+            },
+            {
+                "name": "The Safran Company",
+                "id": 11565
+            },
+            {
+                "name": "Roxbury",
+                "id": 63809
+            },
+            {
+                "name": "SUN FILM",
+                "id": 82798
+            },
+            {
+                "name": "MiC",
+                "id": 14016
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 1600000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3707104",
+        "original_language": "en",
+        "popularity": 28.83,
+        "status": "Released",
+        "tagline": "Stand Your Ground",
+        "video": false
+    },
+    {
+        "id_tmdb": 508664,
+        "title": "Danger Close: The Battle of Long Tan",
+        "release_date": "2019-08-08",
+        "overview": "Vietnam War, 1966. Australia and New Zealand send troops to support the United States and South Vietnamese in their fight against the communist North. Soldiers are very young men, recruits and volunteers who have never been involved in a combat. On August 18th, members of Delta Company will face the true horror of a ruthless battle among the trees of a rubber plantation called Long Tân. They are barely a hundred. The enemy is a human wave ready to destroy them.",
+        "poster_path": "/aB1rCWGMsM2mm1kBDleaPkqUCFo.jpg",
+        "backdrop_path": "/zA6uqJdLMfqg0srHccAK8aLTHJE.jpg",
+        "production_companies": [
+            {
+                "name": "Red Dune Films",
+                "id": 101576
+            },
+            {
+                "name": "Full Clip Productions",
+                "id": 89994
+            },
+            {
+                "name": "Deeper Water Films",
+                "id": 126370
+            },
+            {
+                "name": "Sunjive Studios",
+                "id": 106364
+            },
+            {
+                "name": "THN Nominees",
+                "id": 126371
+            },
+            {
+                "name": "Hoosegow Productions",
+                "id": 126372
+            },
+            {
+                "name": "Ingenious Media",
+                "id": 290
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 23934823,
+        "revenue": 2078370,
+        "vote_average": 6.805,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://dangerclosemovie.com",
+        "imdb_id": "tt0441881",
+        "original_language": "en",
+        "popularity": 28.248,
+        "status": "Released",
+        "tagline": "Outnumbered. Outgunned. Never out of courage.",
+        "video": false
+    },
+    {
+        "id_tmdb": 504949,
+        "title": "The King",
+        "release_date": "2019-10-11",
+        "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V.",
+        "poster_path": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+        "backdrop_path": "/pmwTANjISHvxOmO3iz5kRGAArso.jpg",
+        "production_companies": [
+            {
+                "name": "Plan B Entertainment",
+                "id": 81
+            },
+            {
+                "name": "Porchlight Films",
+                "id": 6237
+            },
+            {
+                "name": "Blue-Tongue Films",
+                "id": 32299
+            },
+            {
+                "name": "Yoki",
+                "id": 124854
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.158,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7984766",
+        "original_language": "en",
+        "popularity": 26.776,
+        "status": "Released",
+        "tagline": "All hail",
+        "video": false
+    },
+    {
+        "id_tmdb": 460555,
+        "title": "Operation Red Sea",
+        "release_date": "2018-02-16",
+        "overview": "A squad of the Jiaolong Commando Unit - Sea Dragon, a spec ops team of the Chinese Navy, carries out a hostage rescue operation in the nation of Yewaire, on the Arabian Peninsula, and fiercely fights against local rebel groups and Zaka, a terrorist organization.",
+        "poster_path": "/6ctXBO0o5fKQvGdSJsPc8TAYCvp.jpg",
+        "backdrop_path": "/uQNB6ccHv4uR21643xqyhK5Dk6W.jpg",
+        "production_companies": [
+            {
+                "name": "Bona Film Group",
+                "id": 30148
+            },
+            {
+                "name": "The P.L.A Navy Government TV Art Central of China",
+                "id": 109462
+            },
+            {
+                "name": "Star Dream Studio Media",
+                "id": 109463
+            },
+            {
+                "name": "Emperor Film Production",
+                "id": 109464
+            },
+            {
+                "name": "Film Fireworks Production",
+                "id": 109465
+            },
+            {
+                "name": "Zak Productions",
+                "id": 8881
+            },
+            {
+                "name": "Emperor Motion Pictures",
+                "id": 122289
+            },
+            {
+                "name": "Huaxia Film Distribution",
+                "id": 25660
+            },
+            {
+                "name": "Sun Entertainment Culture",
+                "id": 20542
+            },
+            {
+                "name": "Tao Piao Piao",
+                "id": 197030
+            },
+            {
+                "name": "China Film Co-Production Corp.",
+                "id": 2269
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 70000000,
+        "revenue": 579200000,
+        "vote_average": 7.372,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6878882",
+        "original_language": "zh",
+        "popularity": 25.237,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 553837,
+        "title": "Code Geass: Lelouch of the Re;Surrection",
+        "release_date": "2019-02-09",
+        "overview": "In the second year of the Kowa Period, the world has unified around the reorganised United Federation of Nations. However, the peace suddenly comes to an end.",
+        "poster_path": "/v0vnSvdBKPH5doDsDpcOoFWQniQ.jpg",
+        "backdrop_path": "/PVJqQItx8d4Ey1suNQyrR1mqAE.jpg",
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 9982083,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 680435,
+            "name": "Code Geass: Lelouch of the Rebellion"
+        },
+        "homepage": "http://www.geass.jp/R-geass/",
+        "imdb_id": "tt6344664",
+        "original_language": "ja",
+        "popularity": 25.198,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 454227,
+        "title": "Outlaw King",
+        "release_date": "2018-09-06",
+        "overview": "Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.",
+        "poster_path": "/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+        "backdrop_path": "/f5ZV3PyGVvZUqfcPybAtU76cHnC.jpg",
+        "production_companies": [
+            {
+                "name": "Anonymous Content",
+                "id": 10039
+            },
+            {
+                "name": "Sigma Films",
+                "id": 53874
+            },
+            {
+                "name": "Clockwork Sessions",
+                "id": 111127
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80190859",
+        "imdb_id": "tt6679794",
+        "original_language": "en",
+        "popularity": 22.351,
+        "status": "Released",
+        "tagline": "Based on the untold true story",
+        "video": false
+    },
+    {
+        "id_tmdb": 283587,
+        "title": "Beasts of No Nation",
+        "release_date": "2015-09-11",
+        "overview": "Based on the experiences of Agu, a child fighting in the civil war of an unnamed, fictional West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+        "poster_path": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+        "backdrop_path": "/qJj3Qy19FzboB6BI0RSZ07bIDiT.jpg",
+        "production_companies": [
+            {
+                "name": "Participant",
+                "id": 6735
+            },
+            {
+                "name": "Red Crown Productions",
+                "id": 16945
+            },
+            {
+                "name": "Levante Filmes",
+                "id": 120371
+            },
+            {
+                "name": "Mutressa Movies",
+                "id": 23318
+            },
+            {
+                "name": "Primary Productions",
+                "id": 14635
+            },
+            {
+                "name": "Parliament of Owls",
+                "id": 128226
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ak",
+                "name": ""
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 9077700,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80044545",
+        "imdb_id": "tt1365050",
+        "original_language": "en",
+        "popularity": 22.072,
+        "status": "Released",
+        "tagline": "Child. Captive. Killer.",
+        "video": false
+    },
+    {
+        "id_tmdb": 332270,
+        "title": "Battle for Sevastopol",
+        "release_date": "2015-04-02",
+        "overview": "The story of Lyudmila Pavlichenko, the most successful female sniper in history.",
+        "poster_path": "/cURuQIcuJ5U8ToPJByqytaIpL7U.jpg",
+        "backdrop_path": "/9q11rNi2hCla4KoiqQq3IRTMPHL.jpg",
+        "production_companies": [
+            {
+                "name": "Kinorob",
+                "id": 93035
+            },
+            {
+                "name": "New People Film Company",
+                "id": 20490
+            },
+            {
+                "name": "Ukrainian State Film Agency",
+                "id": 61460
+            },
+            {
+                "name": "Algous studio",
+                "id": 103067
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "UA",
+                "name": "Ukraine"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 5000000,
+        "revenue": 0,
+        "vote_average": 7.322,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4084744",
+        "original_language": "ru",
+        "popularity": 21.972,
+        "status": "Released",
+        "tagline": "One Woman Who Changed The World",
+        "video": false
+    },
+    {
+        "id_tmdb": 316152,
+        "title": "Free State of Jones",
+        "release_date": "2016-06-24",
+        "overview": "In 1863, Mississippi farmer Newt Knight serves as a medic for the Confederate Army. Opposed to slavery, Knight would rather help the wounded than fight the Union. After his nephew dies in battle, Newt returns home to Jones County to safeguard his family but is soon branded an outlaw deserter. Forced to flee, he finds refuge with a group of runaway slaves hiding out in the swamps. Forging an alliance with the slaves and other farmers, Knight leads a rebellion that would forever change history.",
+        "poster_path": "/pKhJLNHu5Aw8BgxOJ90lCmg0j0f.jpg",
+        "backdrop_path": "/crVDxx9KgNW7Bm1wyXqBYpzG2TS.jpg",
+        "production_companies": [
+            {
+                "name": "STXfilms",
+                "id": 47729
+            },
+            {
+                "name": "Huayi Brothers Pictures",
+                "id": 3393
+            },
+            {
+                "name": "IM Global",
+                "id": 7437
+            },
+            {
+                "name": "Route One Entertainment",
+                "id": 80834
+            },
+            {
+                "name": "Union Investment Partners",
+                "id": 88607
+            },
+            {
+                "name": "Vendian Entertainment",
+                "id": 50481
+            },
+            {
+                "name": "Bluegrass Films",
+                "id": 13778
+            },
+            {
+                "name": "Rahway Road Productions",
+                "id": 104907
+            },
+            {
+                "name": "Larger Than Life Productions",
+                "id": 1163
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 25035950,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://stxmovies.com/freestateofjones/",
+        "imdb_id": "tt1124037",
+        "original_language": "en",
+        "popularity": 21.211,
+        "status": "Released",
+        "tagline": "For justice. For pride. For freedom.",
+        "video": false
+    },
+    {
+        "id_tmdb": 333352,
+        "title": "Eye in the Sky",
+        "release_date": "2015-09-07",
+        "overview": "A UK-based military officer in command of a top secret drone operation to capture terrorists in Kenya discovers the targets are planning a suicide bombing and the mission escalates from “capture” to “kill.” As American pilot Steve Watts is about to engage, a nine-year old girl enters the kill zone, triggering an international dispute reaching the highest levels of US and British government over the moral, political, and personal implications of modern warfare.",
+        "poster_path": "/xMY2XbaRtmto9LXwo83wnYRKN2U.jpg",
+        "backdrop_path": "/puL7PZVbpOs2xWK06VRUqJb6U1z.jpg",
+        "production_companies": [
+            {
+                "name": "Raindog Films",
+                "id": 60262
+            },
+            {
+                "name": "Entertainment One Features",
+                "id": 69850
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "so",
+                "name": "Somali"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 13000000,
+        "revenue": 18704595,
+        "vote_average": 7.02,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2057392",
+        "original_language": "en",
+        "popularity": 20.627,
+        "status": "Released",
+        "tagline": "Welcome to the new front line",
+        "video": false
+    },
+    {
+        "id_tmdb": 271674,
+        "title": "Suite Française",
+        "release_date": "2015-03-12",
+        "overview": "France, 1940. In the first days of occupation, beautiful Lucile Angellier is trapped in a stifled existence with her controlling mother-in-law as they both await news of her husband: a prisoner of war. Parisian refugees start to pour into their small town, soon followed by a regiment of German soldiers who take up residence in the villagers' own homes. Lucile initially tries to ignore Bruno von Falk, the handsome and refined German officer staying with them. But soon, a powerful love draws them together and leads them into the tragedy of war.",
+        "poster_path": "/mPgijY9f79FfD7K8MmzsynXpq0R.jpg",
+        "backdrop_path": "/j82SfPOqas5rvHbAHAPq7OgaSir.jpg",
+        "production_companies": [
+            {
+                "name": "TF1 Droits Audiovisuels",
+                "id": 8350
+            },
+            {
+                "name": "SCOPE Pictures",
+                "id": 11199
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Entertainment One",
+                "id": 8147
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 9104716,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0900387",
+        "original_language": "en",
+        "popularity": 20.341,
+        "status": "Released",
+        "tagline": "Forced to host the enemy. Tormented by intruders. Tempted by desire.",
+        "video": false
+    },
+    {
+        "id_tmdb": 345934,
+        "title": "Air Strike",
+        "release_date": "2018-10-26",
+        "overview": "An American pilot is sent to a Chinese province to teach a crew of would-be pilots how to fly war planes against the Japanese during World War II.",
+        "poster_path": "/ve7xmUK167YZloN8LnSyhKmmNgE.jpg",
+        "backdrop_path": "/fhYWAKXeEbhD20S3sp4RFaxiOG9.jpg",
+        "production_companies": [
+            {
+                "name": "Origin Artistic",
+                "id": 83765
+            },
+            {
+                "name": "Shanghai Film Group",
+                "id": 3407
+            },
+            {
+                "name": "China Film Group Corporation",
+                "id": 14714
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 65000000,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4743226",
+        "original_language": "en",
+        "popularity": 19.944,
+        "status": "Released",
+        "tagline": "They fought World War II's greatest battle.",
+        "video": false
+    },
+    {
+        "id_tmdb": 339259,
+        "title": "The Man with the Iron Heart",
+        "release_date": "2017-05-25",
+        "overview": "With the Third Reich at its peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII –  Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader – Reinhardt Heydrich, head of the SS, the Gestapo and the architect of the Final Solution.",
+        "poster_path": "/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg",
+        "backdrop_path": "/pKXtR7X45VFyC1zpEXSw2zZyWPF.jpg",
+        "production_companies": [
+            {
+                "name": "Red Crown Productions",
+                "id": 16945
+            },
+            {
+                "name": "Nexus Factory",
+                "id": 7561
+            },
+            {
+                "name": "Légende Films",
+                "id": 22997
+            },
+            {
+                "name": "Cutting Edge Group",
+                "id": 94694
+            },
+            {
+                "name": "Echo Lake Entertainment",
+                "id": 2147
+            },
+            {
+                "name": "FilmNation Entertainment",
+                "id": 7493
+            },
+            {
+                "name": "Lantern Entertainment",
+                "id": 116979
+            },
+            {
+                "name": "The Weinstein Company",
+                "id": 308
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            },
+            {
+                "name": "Carmel Productions",
+                "id": 5695
+            },
+            {
+                "name": "C2M Productions",
+                "id": 87504
+            },
+            {
+                "name": "HHHH",
+                "id": 135823
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Ciné+",
+                "id": 10611
+            },
+            {
+                "name": "France Télévisions",
+                "id": 7131
+            },
+            {
+                "name": "Taxshelter. be",
+                "id": 11922
+            },
+            {
+                "name": "BNP Paribas Fortis",
+                "id": 11997
+            },
+            {
+                "name": "Mars Films",
+                "id": 819
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 32679734,
+        "revenue": 4412639,
+        "vote_average": 6.546,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3296908",
+        "original_language": "en",
+        "popularity": 19.692,
+        "status": "Released",
+        "tagline": "The true story of how the architect of the Holocaust was assassinated",
+        "video": false
+    },
+    {
+        "id_tmdb": 435129,
+        "title": "The Breadwinner",
+        "release_date": "2017-11-17",
+        "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
+        "poster_path": "/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+        "backdrop_path": "/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+        "production_companies": [
+            {
+                "name": "Aircraft Pictures",
+                "id": 94136
+            },
+            {
+                "name": "Cartoon Saloon",
+                "id": 23948
+            },
+            {
+                "name": "Melusine Productions",
+                "id": 13351
+            },
+            {
+                "name": "Jolie Pas",
+                "id": 39443
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "LU",
+                "name": "Luxembourg"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 312381,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.cartoonsaloon.ie/work/the-breadwinner/",
+        "imdb_id": "tt3901826",
+        "original_language": "en",
+        "popularity": 19.555,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 351339,
+        "title": "Anthropoid",
+        "release_date": "2016-08-12",
+        "overview": "In December 1941, Czech soldiers Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
+        "poster_path": "/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
+        "backdrop_path": "/lTjRJ18JzsSfpwIdhCjv5BAMs03.jpg",
+        "production_companies": [
+            {
+                "name": "22h22",
+                "id": 17653
+            },
+            {
+                "name": "Lucky Man Films",
+                "id": 63051
+            },
+            {
+                "name": "Silver A",
+                "id": 119084
+            },
+            {
+                "name": "LD Entertainment",
+                "id": 8533
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 4600000,
+        "vote_average": 7.14,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.bleeckerstreetmedia.com/anthropoid",
+        "imdb_id": "tt4190530",
+        "original_language": "en",
+        "popularity": 19.366,
+        "status": "Released",
+        "tagline": "Resistance has a code name",
+        "video": false
+    },
+    {
+        "id_tmdb": 435577,
+        "title": "The 12th Man",
+        "release_date": "2017-12-25",
+        "overview": "After a failed anti-Nazi sabotage mission leaves his eleven comrades dead, a Norwegian resistance fighter finds himself fleeing the Gestapo through the snowbound reaches of Scandinavia.",
+        "poster_path": "/dxZ8iGf5jQoLcNqBJL6uzNTivp.jpg",
+        "backdrop_path": "/u8IIXvpP12Njywuays2yP5v5mwP.jpg",
+        "production_companies": [
+            {
+                "name": "Zwart Arbeid",
+                "id": 44997
+            },
+            {
+                "name": "Nordisk Film Denmark",
+                "id": 235
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            },
+            {
+                "iso_639_1": "se",
+                "name": ""
+            }
+        ],
+        "budget": 7806306,
+        "revenue": 9567121,
+        "vote_average": 7.156,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3300980",
+        "original_language": "no",
+        "popularity": 19.319,
+        "status": "Released",
+        "tagline": "Based on a true story of survival and hope",
+        "video": false
+    },
+    {
+        "id_tmdb": 340945,
+        "title": "USS Indianapolis: Men of Courage",
+        "release_date": "2016-09-22",
+        "overview": "The harrowing true story of the crew of the USS Indianapolis, who were stranded in the Philippine Sea for five days after delivering the atomic weapons that would eventually end WWII. As they awaited rescue, they endured extreme thirst, hunger, and relentless shark attacks.",
+        "poster_path": "/aREeJV7avhlLnCicVG3fBjXiaW1.jpg",
+        "backdrop_path": "/7rVmPxSPm53SsVyUTmjrenOa8yH.jpg",
+        "production_companies": [
+            {
+                "name": "Union Patriot Capital Management",
+                "id": 85374
+            },
+            {
+                "name": "Saturn Films",
+                "id": 831
+            },
+            {
+                "name": "Patriot Pictures",
+                "id": 2373
+            },
+            {
+                "name": "Hannibal Pictures",
+                "id": 8692
+            },
+            {
+                "name": "MVP Films",
+                "id": 37580
+            },
+            {
+                "name": "USS Indianapolis Production",
+                "id": 82513
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 2158568,
+        "vote_average": 5.862,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2032572",
+        "original_language": "en",
+        "popularity": 18.878,
+        "status": "Released",
+        "tagline": "1196 men aboard, 5 days in water, 317 survived",
+        "video": false
+    },
+    {
+        "id_tmdb": 378108,
+        "title": "In This Corner of the World",
+        "release_date": "2016-11-12",
+        "overview": "Japan, 1943, during World War II. Young Suzu leaves her village near Hiroshima to marry and live with her in-laws in Kure, a military harbor. Her creativity to overcome deprivation quickly makes her indispensable at home. Inhabited by an ancestral wisdom, Suzu impregnates the simple gestures of everyday life with poetry and beauty. The many hardships, the loss of loved ones, the frequent air raids of the enemy, nothing alters her enthusiasm…",
+        "poster_path": "/9Z4H4M2F8OQTB04YC1Opds8MFBb.jpg",
+        "backdrop_path": "/iVt8RzQnsIr64m7iW5mR9PwvqmZ.jpg",
+        "production_companies": [
+            {
+                "name": "GENCO",
+                "id": 5751
+            },
+            {
+                "name": "MAPPA",
+                "id": 21444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 19496308,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.inthiscornermovie.com",
+        "imdb_id": "tt4769824",
+        "original_language": "ja",
+        "popularity": 18.877,
+        "status": "Released",
+        "tagline": "Torn apart by war. Brought together by love.",
+        "video": false
+    },
+    {
+        "id_tmdb": 635744,
+        "title": "Jarhead: Law of Return",
+        "release_date": "2019-10-01",
+        "overview": "Major Ronan Jackson, an accomplished fighter pilot for the Israel Defense Forces and son of a U.S. Senator, is shot down while flying through Syrian airspace. After miraculously surviving the crash, Jackson is taken captive by a group of Hezbollah militiamen. A squad of elite soldiers, led by Gunnery Sergeant Dave Torres, risk their own lives in the hopes of saving an ally they've never met.",
+        "poster_path": "/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg",
+        "backdrop_path": "/kTtBDUeDZATzrTUlqHUG0ZWjg9m.jpg",
+        "production_companies": [
+            {
+                "name": "Universal 1440 Entertainment",
+                "id": 17009
+            },
+            {
+                "name": "BUFO",
+                "id": 29185
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.534,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 285564,
+            "name": "Jarhead Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt10767720",
+        "original_language": "en",
+        "popularity": 18.771,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 489245,
+        "title": "The Kill Team",
+        "release_date": "2019-10-17",
+        "overview": "When Andrew Briggman—a young soldier in the US invasion of Afghanistan—witnesses other recruits killing innocent civilians under the direction of a sadistic Sergeant, he considers reporting them to higher-ups. However, the heavily-armed and increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear that he'll be the next target.",
+        "poster_path": "/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg",
+        "backdrop_path": "/5qef4Gl8hJcXvVLE0rsXSgEIbOj.jpg",
+        "production_companies": [
+            {
+                "name": "Nostromo Pictures",
+                "id": 11068
+            },
+            {
+                "name": "Temple Hill Entertainment",
+                "id": 12292
+            },
+            {
+                "name": "Marc Graue Recording Studios",
+                "id": 127127
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6196936",
+        "original_language": "en",
+        "popularity": 18.366,
+        "status": "Released",
+        "tagline": "Soldiers. Brothers. Enemies.",
+        "video": false
+    },
+    {
+        "id_tmdb": 468224,
+        "title": "Tolkien",
+        "release_date": "2019-05-03",
+        "overview": "England, early 20th century. The future writer and philologist John Ronald Reuel Tolkien (1892-1973) and three of his schoolmates create a strong bond between them as they share the same passion for literature and art, a true fellowship that strengthens as they grow up, but the outbreak of World War I threatens to shatter it.",
+        "poster_path": "/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg",
+        "backdrop_path": "/90YdQbOkbPjy6SuK4Gueg5EWGhd.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Searchlight Pictures",
+                "id": 43
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            },
+            {
+                "name": "Chernin Entertainment",
+                "id": 7076
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 8654322,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.foxsearchlight.com/tolkien/",
+        "imdb_id": "tt3361792",
+        "original_language": "en",
+        "popularity": 18.303,
+        "status": "Released",
+        "tagline": "A Life of Love, Courage & Fellowship.",
+        "video": false
+    },
+    {
+        "id_tmdb": 436391,
+        "title": "The Battleship Island",
+        "release_date": "2017-07-26",
+        "overview": "During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island 'Hashima Island' to mine for coal, attempt to escape.",
+        "poster_path": "/fBjgHOtN10glbcGRtqS76iKPYJ0.jpg",
+        "backdrop_path": "/sdgmx9smLbSdnR4bUNVNdcF0HHx.jpg",
+        "production_companies": [
+            {
+                "name": "Filmmaker R&K",
+                "id": 12987
+            },
+            {
+                "name": "CJ Entertainment",
+                "id": 7036
+            },
+            {
+                "name": "filmK",
+                "id": 112927
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 21000000,
+        "revenue": 46183383,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5969696",
+        "original_language": "ko",
+        "popularity": 17.847,
+        "status": "Released",
+        "tagline": "1945 Hashima. We called it hell on earth.",
+        "video": false
+    },
+    {
+        "id_tmdb": 433502,
+        "title": "The Aftermath",
+        "release_date": "2019-03-01",
+        "overview": "In the aftermath of World War II, a British colonel and his wife are assigned to live in Hamburg during the post-war reconstruction, but tensions arise with the German widower who lives with them.",
+        "poster_path": "/1EUXEHVTftYNwvSRIMepFuB3b0m.jpg",
+        "backdrop_path": "/nj15gARebe1AFDb6rRqqllNfNlr.jpg",
+        "production_companies": [
+            {
+                "name": "Scott Free Productions",
+                "id": 1645
+            },
+            {
+                "name": "Amusement Park Films",
+                "id": 36616
+            },
+            {
+                "name": "Fox Searchlight Pictures",
+                "id": 43
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 9215591,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.foxsearchlight.com/theaftermath",
+        "imdb_id": "tt5977276",
+        "original_language": "en",
+        "popularity": 17.752,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 335578,
+        "title": "Land of Mine",
+        "release_date": "2015-12-03",
+        "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war is handed over to the Danish authorities and subsequently sent to the West Coast, where they are ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys are forced to perform the dangerous work under the leadership of a Danish sergeant.",
+        "poster_path": "/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+        "backdrop_path": "/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+        "production_companies": [
+            {
+                "name": "Nordisk Film Denmark",
+                "id": 235
+            },
+            {
+                "name": "Amusement Park Films",
+                "id": 36616
+            },
+            {
+                "name": "Majgaard",
+                "id": 132511
+            },
+            {
+                "name": "K5 International",
+                "id": 6715
+            },
+            {
+                "name": "K5 Film",
+                "id": 23437
+            },
+            {
+                "name": "ZDF",
+                "id": 4606
+            },
+            {
+                "name": "Goethe Filmproduktion",
+                "id": 132512
+            },
+            {
+                "name": "Erfttal Film",
+                "id": 2221
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 5070773,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3841424",
+        "original_language": "da",
+        "popularity": 17.572,
+        "status": "Released",
+        "tagline": "They survived the second World War, now they must survive the cleanup",
+        "video": false
+    },
+    {
+        "id_tmdb": 403300,
+        "title": "A Hidden Life",
+        "release_date": "2019-08-27",
+        "overview": "Austrian farmer Franz Jägerstätter faces the threat of execution for refusing to fight for the Nazis during World War II.",
+        "poster_path": "/5lGqCKjy766NV7gIpAytd8RQeZG.jpg",
+        "backdrop_path": "/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
+        "production_companies": [
+            {
+                "name": "Studio Babelsberg",
+                "id": 264
+            },
+            {
+                "name": "Elizabeth Bay Productions",
+                "id": 84765
+            },
+            {
+                "name": "Aceway Productions",
+                "id": 211266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 4645140,
+        "vote_average": 7.144,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.foxsearchlight.com/ahiddenlife/",
+        "imdb_id": "tt5827916",
+        "original_language": "en",
+        "popularity": 17.542,
+        "status": "Released",
+        "tagline": "Based on true events.",
+        "video": false
+    },
+    {
+        "id_tmdb": 354287,
+        "title": "War Machine",
+        "release_date": "2017-05-26",
+        "overview": "A rock star general bent on winning the “impossible” war in Afghanistan takes us inside the complex machinery of modern war. Inspired by the true story of General Stanley McChrystal.",
+        "poster_path": "/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg",
+        "backdrop_path": "/jFDHwsTPrhIbXkPkwJGU3EORmPo.jpg",
+        "production_companies": [
+            {
+                "name": "Plan B Entertainment",
+                "id": 81
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ps",
+                "name": "پښتو"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 60000000,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80068327",
+        "imdb_id": "tt4758646",
+        "original_language": "en",
+        "popularity": 17.527,
+        "status": "Released",
+        "tagline": "We're gonna liberate the sh** out of you.",
+        "video": false
+    },
+    {
+        "id_tmdb": 426618,
+        "title": "Where Hands Touch",
+        "release_date": "2018-09-14",
+        "overview": "Germany, 1944. Leyna, the 15-year old daughter of a white German mother and a black African father, meets Lutz, a compassionate member of the Hitler Youth whose father is a prominent Nazi soldier, and they form an unlikely connection in this quickly changing world.",
+        "poster_path": "/omKzydOrom9kpdfQUE0G9Y9sPl0.jpg",
+        "backdrop_path": "/jua8HIE1NaQp55rb4abecsQsSOm.jpg",
+        "production_companies": [
+            {
+                "name": "Tantrum Films",
+                "id": 108725
+            },
+            {
+                "name": "uMedia",
+                "id": 19037
+            },
+            {
+                "name": "Head Gear Films",
+                "id": 5056
+            },
+            {
+                "name": "Pinewood Pictures",
+                "id": 62230
+            },
+            {
+                "name": "Isle of Man Film",
+                "id": 2268
+            },
+            {
+                "name": "BFI",
+                "id": 7281
+            },
+            {
+                "name": "Metrol Technology",
+                "id": 25954
+            },
+            {
+                "name": "British Film Company",
+                "id": 41115
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 128269,
+        "vote_average": 7.927,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1235187",
+        "original_language": "en",
+        "popularity": 17.517,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 535389,
+        "title": "The Great Battle",
+        "release_date": "2018-09-19",
+        "overview": "Kingdom of Goguryeo, ancient Korea, 645. The ruthless Emperor Taizong of Tang invades the country and leads his armies towards the capital, achieving one victory after another, but on his way is the stronghold of Ansi, protected by General Yang Man-chu, who will do everything possible to stop the invasion, even if his troops are outnumbered by thousands of enemies.",
+        "poster_path": "/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg",
+        "backdrop_path": "/oGe84ddxe2R90hFwvCDxOINE8qL.jpg",
+        "production_companies": [
+            {
+                "name": "Soojak Film",
+                "id": 74844
+            },
+            {
+                "name": "Next Entertainment World",
+                "id": 20064
+            },
+            {
+                "name": "Studio & New",
+                "id": 106996
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 13305000,
+        "revenue": 41509280,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.wellgousa.com/films/the-great-battle",
+        "imdb_id": "tt6931414",
+        "original_language": "ko",
+        "popularity": 17.506,
+        "status": "Released",
+        "tagline": "Fight to the death.",
+        "video": false
+    },
+    {
+        "id_tmdb": 316042,
+        "title": "Hyena Road",
+        "release_date": "2015-10-09",
+        "overview": "Three different men, three different worlds, three different wars – all stand at the intersection of modern warfare – a murky world of fluid morality where all is not as it seems. A unique and dramatic look at the Canadian Army in Afghanistan.",
+        "poster_path": "/zdn34Jx3rRkhDGsD0qcB0cA1HzB.jpg",
+        "backdrop_path": "/mEY0A0qJLYSnIPpjNtafB6CTdqn.jpg",
+        "production_companies": [
+            {
+                "name": "Rhombus Media",
+                "id": 164
+            },
+            {
+                "name": "International Traders",
+                "id": 6408
+            },
+            {
+                "name": "Buffalo Gal Pictures",
+                "id": 11517
+            },
+            {
+                "name": "Triple 7 Films",
+                "id": 43344
+            },
+            {
+                "name": "Bron Studios",
+                "id": 13240
+            },
+            {
+                "name": "Whizbang Films",
+                "id": 6533
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 87768,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://rhombusmedia.com/film/hyena-road/",
+        "imdb_id": "tt4034452",
+        "original_language": "en",
+        "popularity": 16.965,
+        "status": "Released",
+        "tagline": "One bullet can change everything",
+        "video": false
+    },
+    {
+        "id_tmdb": 335462,
+        "title": "Wolf Warrior",
+        "release_date": "2015-04-02",
+        "overview": "A Chinese special force soldier with extraordinary marksmanship is confronted by a group of deadly foreign mercenaries who are hired to assassinate him by a vicious drug lord.",
+        "poster_path": "/9tGyxJcPUQclngSCcT18oEs80Yn.jpg",
+        "backdrop_path": "/sW5j1dRjrrRS2Xbc0xPffQ0JpaN.jpg",
+        "production_companies": [
+            {
+                "name": "Nanking Military Area Command Of The TV Art Centre",
+                "id": 65444
+            },
+            {
+                "name": "DF Pictures",
+                "id": 65442
+            },
+            {
+                "name": "Chunqiu Time Co.",
+                "id": 65443
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 80000000,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 471435,
+            "name": "Wolf Warrior Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt3540136",
+        "original_language": "zh",
+        "popularity": 16.797,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 452557,
+        "title": "Wolf Warrior 2",
+        "release_date": "2017-07-27",
+        "overview": "China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector.",
+        "poster_path": "/87aWrVqaVhXhblhO7sYHLC2y8TT.jpg",
+        "backdrop_path": "/dpbjivY5OdZjAr1gmRZVCsEkYRC.jpg",
+        "production_companies": [
+            {
+                "name": "Spring Era Film Company",
+                "id": 95816
+            },
+            {
+                "name": "Beijing Century Media Culture",
+                "id": 76394
+            },
+            {
+                "name": "Chao Feng Pictures",
+                "id": 95818
+            },
+            {
+                "name": "Orange Image",
+                "id": 95819
+            },
+            {
+                "name": "Beijing Culture",
+                "id": 148024
+            },
+            {
+                "name": "DF Pictures",
+                "id": 65442
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 29700000,
+        "revenue": 870322670,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 471435,
+            "name": "Wolf Warrior Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt7131870",
+        "original_language": "zh",
+        "popularity": 16.75,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 289222,
+        "title": "The Zookeeper's Wife",
+        "release_date": "2017-03-24",
+        "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+        "poster_path": "/5TVBtMhwOldZW82g1Ka11IE86wC.jpg",
+        "backdrop_path": "/gg3cTP8AzphuvbpsIiO8cqoLuJi.jpg",
+        "production_companies": [
+            {
+                "name": "Scion Films",
+                "id": 7419
+            },
+            {
+                "name": "Czech Anglo Pictures",
+                "id": 20473
+            },
+            {
+                "name": "Focus Features",
+                "id": 10146
+            },
+            {
+                "name": "Electric City Entertainment",
+                "id": 8600
+            },
+            {
+                "name": "Mike Tollin Productions",
+                "id": 93633
+            },
+            {
+                "name": "Sierra/Affinity",
+                "id": 24049
+            },
+            {
+                "name": "MadRiver Pictures",
+                "id": 73492
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 26200000,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.focusfeatures.com/thezookeeperswife/",
+        "imdb_id": "tt1730768",
+        "original_language": "en",
+        "popularity": 16.661,
+        "status": "Released",
+        "tagline": "They gave all they had to save all they could",
+        "video": false
+    },
+    {
+        "id_tmdb": 553839,
+        "title": "Saga of Tanya the Evil: The Movie",
+        "release_date": "2019-02-08",
+        "overview": "With its armies sweeping across the continent, the Empire seems unstoppable. After securing victory over the remnants of the Republic's army, the Empire's ultimate victory is finally within reach. However, dark clouds are gathering in the East. The communist-led Russy Federation is mustering troops on its western border, preparing to enter the war. Supported by a detachment of Allied volunteer magicians—among whom is Mary Sioux, the daughter of a soldier killed by Tanya—the Federation is determined to spread the communist creed and bring the Empire to its knees.\r Meanwhile, Tanya and her battalion return to the imperial capital from the southern front. Upon their arrival, they are tasked with investigating troop movements on the border with the Federation. Any escalation of violence at this point may lead to new conflicts, plunging the world into a global war.\r Will the Empire eventually emerge victorious from its struggle, or will it crumble in the face radically different ideologies?",
+        "poster_path": "/slamFBuUGFtL4LtWpS9qXQ1qSLl.jpg",
+        "backdrop_path": "/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
+        "production_companies": [
+            {
+                "name": "NUT",
+                "id": 122161
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1196769,
+            "name": "Saga of Tanya the Evil Collection"
+        },
+        "homepage": "http://youjo-senki.jp/",
+        "imdb_id": "tt9507276",
+        "original_language": "ja",
+        "popularity": 16.495,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 463319,
+        "title": "Shadow",
+        "release_date": "2018-09-30",
+        "overview": "In a kingdom ruled by a young and unpredictable king, the military commander has a secret weapon: a shadow, a look-alike who can fool both his enemies and the King himself. Now he must use this weapon in an intricate plan that will lead his people to victory in a war that the King does not want.",
+        "poster_path": "/qVXFyASEt1kLpZv9EYze0S0mZe4.jpg",
+        "backdrop_path": "/bk2NtbQh84QEsL2bKVCbFx3ZOUa.jpg",
+        "production_companies": [
+            {
+                "name": "Village Roadshow Pictures Asia",
+                "id": 22839
+            },
+            {
+                "name": "LeVision Pictures",
+                "id": 20966
+            },
+            {
+                "name": "Bona Film Group",
+                "id": 30148
+            },
+            {
+                "name": "Perfect Village Entertainment",
+                "id": 115544
+            },
+            {
+                "name": "Tencent Pictures",
+                "id": 81620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 44005000,
+        "revenue": 91708374,
+        "vote_average": 6.741,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6864046",
+        "original_language": "zh",
+        "popularity": 16.194,
+        "status": "Released",
+        "tagline": "The Battlefield in Ink.",
+        "video": false
+    },
+    {
+        "id_tmdb": 475132,
+        "title": "A Private War",
+        "release_date": "2018-11-16",
+        "overview": "One of the most celebrated war correspondents of our time, Marie Colvin is an utterly fearless and rebellious spirit, driven to the frontlines of conflicts across the globe to give voice to the voiceless.",
+        "poster_path": "/pAh6uDR9bBznybiJCVYZNJmjg63.jpg",
+        "backdrop_path": "/xNgFmX4odJG6tJZY3tTLvq8tmQN.jpg",
+        "production_companies": [
+            {
+                "name": "Kamala Films",
+                "id": 3540
+            },
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "Denver & Delilah Productions",
+                "id": 3574
+            },
+            {
+                "name": "Savvy Media Holdings",
+                "id": 100460
+            },
+            {
+                "name": "Our Time Projects",
+                "id": 52707
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 3944165,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.aprivatewarfilm.com/",
+        "imdb_id": "tt2368254",
+        "original_language": "en",
+        "popularity": 16.146,
+        "status": "Released",
+        "tagline": "The Most Powerful Weapon Is The Truth",
+        "video": false
+    },
+    {
+        "id_tmdb": 407887,
+        "title": "Operation Chromite",
+        "release_date": "2016-07-27",
+        "overview": "A squad of soldiers fight in the Korean War's crucial Battle of Incheon.",
+        "poster_path": "/kHnmjA8w4wf4fLsPB9Wmhy2qqTy.jpg",
+        "backdrop_path": "/7kyhEU4T9SnUiB6qseTPQjClTuz.jpg",
+        "production_companies": [
+            {
+                "name": "Taewon Entertainment",
+                "id": 3965
+            },
+            {
+                "name": "CJ Entertainment",
+                "id": 7036
+            },
+            {
+                "name": "Union Investment Partners",
+                "id": 88607
+            },
+            {
+                "name": "Finecut",
+                "id": 11590
+            },
+            {
+                "name": "Celltrion Entertainment",
+                "id": 113206
+            },
+            {
+                "name": "KBS Media",
+                "id": 77994
+            },
+            {
+                "name": "Korea Investment Partners",
+                "id": 136989
+            },
+            {
+                "name": "KBS",
+                "id": 154810
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 12700000,
+        "revenue": 49196532,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1111318,
+            "name": "Operation Chromite Collection"
+        },
+        "homepage": "http://www.taewon.com/104",
+        "imdb_id": "tt4939066",
+        "original_language": "ko",
+        "popularity": 15.831,
+        "status": "Released",
+        "tagline": "The Odds Were 5000 to 1 … One was all They Needed.",
+        "video": false
+    },
+    {
+        "id_tmdb": 424488,
+        "title": "Megan Leavey",
+        "release_date": "2017-06-09",
+        "overview": "The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.",
+        "poster_path": "/ajZUEsDpo3EgiHZ8HX9yQJIRnFf.jpg",
+        "backdrop_path": "/maDBFV1ZpL9eJ2yRMEv4xw0pcwX.jpg",
+        "production_companies": [
+            {
+                "name": "LD Entertainment",
+                "id": 8533
+            },
+            {
+                "name": "Calle Cruzada",
+                "id": 199001
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 13406883,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4899370",
+        "original_language": "en",
+        "popularity": 15.749,
+        "status": "Released",
+        "tagline": "Based on the true story of a marine's best friend.",
+        "video": false
+    },
+    {
+        "id_tmdb": 475094,
+        "title": "The Captain",
+        "release_date": "2018-02-02",
+        "overview": "Germany, 1945. Soldier Willi Herold, a deserter of the German army, stumbles into a uniform of Nazi captain abandoned during the last and desperate weeks of the Third Reich. Newly emboldened by the allure of a suit that he has stolen only to stay warm, Willi discovers that many Germans will follow the leader, whoever he is.",
+        "poster_path": "/jdUSP7svZ3DOgCnB0upT1yiueUY.jpg",
+        "backdrop_path": "/tT39MXJPY3XGumjjMBpBUTcoyLD.jpg",
+        "production_companies": [
+            {
+                "name": "Hands-on Producers",
+                "id": 56832
+            },
+            {
+                "name": "Filmgalerie 451",
+                "id": 17178
+            },
+            {
+                "name": "Alfama Films",
+                "id": 3061
+            },
+            {
+                "name": "Opus Film",
+                "id": 6477
+            },
+            {
+                "name": "Facing East",
+                "id": 94774
+            },
+            {
+                "name": "Eurimages",
+                "id": 850
+            },
+            {
+                "name": "Worst Case Entertainment",
+                "id": 109878
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Ciné+",
+                "id": 10611
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.derhauptmann-film.de/",
+        "imdb_id": "tt6763252",
+        "original_language": "de",
+        "popularity": 15.485,
+        "status": "Released",
+        "tagline": "Follow the leader",
+        "video": false
+    },
+    {
+        "id_tmdb": 378385,
+        "title": "Jarhead 3: The Siege",
+        "release_date": "2016-01-20",
+        "overview": "Corporal Evan Albright joined the elite Marine Corps Security Guards to save the world and see some action-not necessarily in that order. But his first assignment, protecting a U. S. Embassy in a seemingly safe Middle Eastern capitol, relegates his unit to wrangling \"gate groupies\" protesting outside the compound and honing their marksmanship by playing video games. So Albright and his team are caught off guard when well-armed and well-trained militants launch a surprise attack aimed at killing an informant in the embassy. Heavily out-gunned, they will have to muster all the courage and fire power they can as their once routine assignment spirals into all-out war.",
+        "poster_path": "/nVV0egJSawDYOSMyzUbOL6wfzmZ.jpg",
+        "backdrop_path": "/sr55z05MvFdCooDif7xbjmwJUU3.jpg",
+        "production_companies": [
+            {
+                "name": "UFO International Productions",
+                "id": 7188
+            },
+            {
+                "name": "Universal 1440 Entertainment",
+                "id": 17009
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 285564,
+            "name": "Jarhead Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt4616014",
+        "original_language": "en",
+        "popularity": 15.389,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 440626,
+        "title": "Sobibor",
+        "release_date": "2018-05-03",
+        "overview": "The film is based on a real story that happened in 1943 in the Sobibor concentration camp in German-occupied Poland. The main character of the movie is the Soviet-Jewish soldier Alexander Pechersky, who at that time was serving in the Red Army as a lieutenant. In October 1943, he was captured by the Nazis and deported to the Sobibor concentration camp, where Jews were being exterminated in gas chambers. But, in just 3 weeks, Alexander was able to plan an international uprising of prisoners from Poland and Western Europe. This uprising resulted in being the only successful one throughout the war, which led to the largest escape of prisoners from a Nazi concentration camp.",
+        "poster_path": "/dnexT2if0lRTp8jsGSOY4JVAnnj.jpg",
+        "backdrop_path": "/fx70AwHSIDkX6U8WNfUQW53SoU3.jpg",
+        "production_companies": [
+            {
+                "name": "Patriot Productions",
+                "id": 42878
+            },
+            {
+                "name": "Karoprokat",
+                "id": 20505
+            },
+            {
+                "name": "Channel One",
+                "id": 1039
+            },
+            {
+                "name": "Ministry of Culture of the Russian Federation",
+                "id": 15755
+            },
+            {
+                "name": "All Media A Start Company",
+                "id": 71928
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 4988176,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6324614",
+        "original_language": "ru",
+        "popularity": 15.352,
+        "status": "Released",
+        "tagline": "Based On a True Story That Changed The World",
+        "video": false
+    },
+    {
+        "id_tmdb": 415214,
+        "title": "Operation Mekong",
+        "release_date": "2016-09-30",
+        "overview": "Inspired by the true story known as the Mekong Massacre--two Chinese commercial vessels are ambushed while traveling down the Mekong River in the waters of the Golden Triangle, one of the largest drug-manufacturing regions in the world. 13 sailors are executed at gunpoint, and 900,000 methamphetamine pills are recovered at the scene. Upon discovery, the Chinese government immediately sends a band of elite narcotics officers led by Captain Gao Gang (Zhang Hanyu) to the Golden Triangle to uncover the truth behind the murders. Tea field owner and Golden Triangle-based intelligence officer Fang Xinwu (Eddie Peng) joins the investigation. After it is discovered that the drugs seized on the Chinese ships had been planted by the henchman of a notorious drug cartel leader named Naw Khar, the governments of Thailand, Laos, Myanmar and China launch a joint task force to apprehend the criminal. The road to justice is, however, paved with dangerous and deadly obstacles.",
+        "poster_path": "/wghFabaZgRorsMQWuPtKUlzq4W1.jpg",
+        "backdrop_path": "/xUmZHFZa85KxIKzsIdr16oGMjCH.jpg",
+        "production_companies": [
+            {
+                "name": "Film Fireworks Production",
+                "id": 109465
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "my",
+                "name": ""
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 30200000,
+        "revenue": 173000000,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6044910",
+        "original_language": "zh",
+        "popularity": 14.921,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 334517,
+        "title": "The Siege of Jadotville",
+        "release_date": "2016-09-19",
+        "overview": "Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during the early 1960s.",
+        "poster_path": "/adrno1y0mKpMwjSlMQojZEUk82V.jpg",
+        "backdrop_path": "/ohHq0PZvDWeFOVtY1QRG04y3zJo.jpg",
+        "production_companies": [
+            {
+                "name": "Parallel Films",
+                "id": 5122
+            },
+            {
+                "name": "Fís Éireann/Screen Ireland",
+                "id": 1898
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ga",
+                "name": "Gaeilge"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80041653",
+        "imdb_id": "tt3922798",
+        "original_language": "en",
+        "popularity": 14.695,
+        "status": "Released",
+        "tagline": "The Irish army's forgotten battle",
+        "video": false
+    },
+    {
+        "id_tmdb": 467952,
+        "title": "The Catcher Was a Spy",
+        "release_date": "2018-06-22",
+        "overview": "Former major league baseball player Moe Berg lives a double life working for the Office of Strategic Services in World War II Europe.",
+        "poster_path": "/3aBv9Oln0aoBrEbkMabHIVat6CY.jpg",
+        "backdrop_path": "/pHFNaNHqiaZ2myMAsylIm2y17c7.jpg",
+        "production_companies": [
+            {
+                "name": "Serena Films",
+                "id": 64541
+            },
+            {
+                "name": "Animus Films",
+                "id": 4135
+            },
+            {
+                "name": "PalmStar Media",
+                "id": 24277
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.ifcfilms.com/films/the-catcher-was-a-spy",
+        "imdb_id": "tt4602066",
+        "original_language": "en",
+        "popularity": 14.655,
+        "status": "Released",
+        "tagline": "Based on the true story of Moe Berg",
+        "video": false
+    },
+    {
+        "id_tmdb": 567629,
+        "title": "Battle of Jangsari",
+        "release_date": "2019-09-25",
+        "overview": "Korean War, September 1950. In order to fight the enemy forces based in the South of the peninsula, General MacArthur orders the start of the Incheon Landing Operation, deploying diversionary attacks in other locations. Without real military forces to spare, 772 very young Korean student soldiers, barely trained, are sent to Jangsari Beach, where they will face a heroic fate and discover the value of friendship. (A sequel to Operation Chromite, released in 2016.)",
+        "poster_path": "/caYipV8vKfj628YKpEk3cHDc2jv.jpg",
+        "backdrop_path": "/9Z8olJDr2myWLt6UuyFkZWRMO4D.jpg",
+        "production_companies": [
+            {
+                "name": "Taewon Entertainment",
+                "id": 3965
+            },
+            {
+                "name": "Warner Bros. Korea",
+                "id": 103747
+            },
+            {
+                "name": "Film 295",
+                "id": 111891
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 7883200,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1111318,
+            "name": "Operation Chromite Collection"
+        },
+        "homepage": "http://www.taewon.com/107",
+        "imdb_id": "tt9018916",
+        "original_language": "ko",
+        "popularity": 14.329,
+        "status": "Released",
+        "tagline": "The forgotten heroes",
+        "video": false
+    },
+    {
+        "id_tmdb": 517148,
+        "title": "Beanpole",
+        "release_date": "2019-06-20",
+        "overview": "1945, Leningrad. World War II has devastated the city, demolishing its buildings and leaving its citizens in tatters, physically and mentally. Two young women, Iya and Masha, search for meaning and hope in the struggle to rebuild their lives amongst the ruins.",
+        "poster_path": "/nKVrJm1dOwALdr2KHxNFhkbTSZc.jpg",
+        "backdrop_path": "/t3BM7zeE7T0i12ZTA0PFDc92rGz.jpg",
+        "production_companies": [
+            {
+                "name": "Non-Stop Productions",
+                "id": 5630
+            },
+            {
+                "name": "Algous studio",
+                "id": 103067
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.kinolorber.com/film/view/id/3731",
+        "imdb_id": "tt10199640",
+        "original_language": "ru",
+        "popularity": 14.311,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 390054,
+        "title": "Sand Castle",
+        "release_date": "2017-04-21",
+        "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+        "poster_path": "/aw2K9mV3DE4ez3glmKmBxpzrDPQ.jpg",
+        "backdrop_path": "/eM9MZ1dhDCbRzwQg0FWpWWtLPMn.jpg",
+        "production_companies": [
+            {
+                "name": "The Mark Gordon Company",
+                "id": 1557
+            },
+            {
+                "name": "International Traders",
+                "id": 6408
+            },
+            {
+                "name": "Treehouse Pictures",
+                "id": 14580
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "IQ",
+                "name": "Iraq"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80118916",
+        "imdb_id": "tt2582576",
+        "original_language": "en",
+        "popularity": 14.268,
+        "status": "Released",
+        "tagline": "Home is a war away",
+        "video": false
+    },
+    {
+        "id_tmdb": 433694,
+        "title": "Sgt. Stubby: An American Hero",
+        "release_date": "2018-04-13",
+        "overview": "The true story of the most decorated dog in American military history -- Sgt. Stubby -- and the enduring bonds he forged with his brothers-in-arms in the trenches of World War I.",
+        "poster_path": "/o3eKgsZARPMrCoMZbPa3SI0La6H.jpg",
+        "backdrop_path": "/4pEbf7P2xlifhNmwAemcdAbomyZ.jpg",
+        "production_companies": [
+            {
+                "name": "Fun Academy Media Group",
+                "id": 112595
+            },
+            {
+                "name": "Mikros Image",
+                "id": 8649
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 4900000,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.stubbymovie.com/",
+        "imdb_id": "tt5314190",
+        "original_language": "en",
+        "popularity": 14.078,
+        "status": "Released",
+        "tagline": "The incredible true story of America's top underdog",
+        "video": false
+    },
+    {
+        "id_tmdb": 485296,
+        "title": "Redbad",
+        "release_date": "2018-06-28",
+        "overview": "In the year of 754 AD, during a time of epic battles and bloodshed, the legend of the pagan warrior king, Rebad, is born, but so is a new weapon against his people: Christianity. Redbad must ultimately unite a Viking army powerful enough to defeat the seemingly invincible Franks.",
+        "poster_path": "/jmBXIR1nv1ueIBFBqKg60rLBzmQ.jpg",
+        "backdrop_path": "/fQgSMbHVREjf1mop0m9ZEa5DdBs.jpg",
+        "production_companies": [
+            {
+                "name": "Bulletproof Cupid",
+                "id": 54850
+            },
+            {
+                "name": "Farmhouse Film & TV B.V.",
+                "id": 85770
+            },
+            {
+                "name": "Rebel Entertainment",
+                "id": 98124
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 8155000,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.redbadthemovie.com/",
+        "imdb_id": "tt6155374",
+        "original_language": "nl",
+        "popularity": 14.057,
+        "status": "Released",
+        "tagline": "The legend",
+        "video": false
+    },
+    {
+        "id_tmdb": 559957,
+        "title": "Shanghai Fortress",
+        "release_date": "2019-08-09",
+        "overview": "Set in the future, the city of Shanghai battle to defend itself against an ongoing attack by an alien force that has attacked and laid siege to numerous cities around the globe in it's quest to harvest a hidden energy only found on earth.",
+        "poster_path": "/qPqlhcsiu7U20aQu2r6wI4RgsnE.jpg",
+        "backdrop_path": "/Armljge2RumJDqYPDc8UKm1AGqp.jpg",
+        "production_companies": [
+            {
+                "name": "H.S.M. Entertainment",
+                "id": 80849
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 16900000,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6628322",
+        "original_language": "zh",
+        "popularity": 14.012,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 293767,
+        "title": "Billy Lynn's Long Halftime Walk",
+        "release_date": "2016-11-10",
+        "overview": "19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad – contrasting the realities of war with America's perceptions.",
+        "poster_path": "/vblJ5cTqZKg3DSyN1z8JxTUyf2Y.jpg",
+        "backdrop_path": "/bPYxAInKgQbvLCUqDA3ZrMhx6Kq.jpg",
+        "production_companies": [
+            {
+                "name": "Bona Film Group",
+                "id": 30148
+            },
+            {
+                "name": "The Ink Factory",
+                "id": 28275
+            },
+            {
+                "name": "Marc Platt Productions",
+                "id": 2527
+            },
+            {
+                "name": "Studio 8",
+                "id": 77863
+            },
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            },
+            {
+                "name": "LStar Capital",
+                "id": 34034
+            },
+            {
+                "name": "Haishang Films",
+                "id": 13480
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 30930984,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2513074",
+        "original_language": "en",
+        "popularity": 13.952,
+        "status": "Released",
+        "tagline": "To walk the path of a hero, you have to see how it all began.",
+        "video": false
+    },
+    {
+        "id_tmdb": 336050,
+        "title": "Son of Saul",
+        "release_date": "2015-06-11",
+        "overview": "In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival trying to save from the flames the body of a boy he takes for his son, seeking to give him a proper jewish burial.",
+        "poster_path": "/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
+        "backdrop_path": "/vM7FGdOnzSHYNdlJYxlzKamSPa.jpg",
+        "production_companies": [
+            {
+                "name": "Hungarian National Film Fund",
+                "id": 48581
+            },
+            {
+                "name": "Laokoon Filmgroup",
+                "id": 12520
+            },
+            {
+                "name": "Playtime",
+                "id": 108769
+            },
+            {
+                "name": "Mozinet",
+                "id": 87855
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 1000000,
+        "revenue": 1777043,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.sonofsaul.co.uk/",
+        "imdb_id": "tt3808342",
+        "original_language": "hu",
+        "popularity": 13.898,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 225728,
+        "title": "Macbeth",
+        "release_date": "2015-09-22",
+        "overview": "Feature film adaptation of Shakespeare's Scottish play about General Macbeth whose ambitious wife urges him to use wicked means in order to gain power of the throne over the sitting king, Duncan.",
+        "poster_path": "/a5NEpil29Uns1wEYF8k99qVgj1T.jpg",
+        "backdrop_path": "/gkJkemR5EUFYRrO6YFZFFMKZIru.jpg",
+        "production_companies": [
+            {
+                "name": "Anton Capital Entertainment",
+                "id": 20664
+            },
+            {
+                "name": "See-Saw Films",
+                "id": 7217
+            },
+            {
+                "name": "Creative Scotland",
+                "id": 8087
+            },
+            {
+                "name": "DMC Film",
+                "id": 58085
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            },
+            {
+                "name": "StudioCanal",
+                "id": 694
+            },
+            {
+                "name": "The Weinstein Company",
+                "id": 308
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 16322067,
+        "vote_average": 6.467,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2884018",
+        "original_language": "en",
+        "popularity": 13.814,
+        "status": "Released",
+        "tagline": "All hail Macbeth that shall be king",
+        "video": false
+    },
+    {
+        "id_tmdb": 427342,
+        "title": "Panfilov's 28 Men",
+        "release_date": "2016-11-24",
+        "overview": "USSR, Late November, 1941. Based on the account by reporter Vasiliy Koroteev that appeared in the Red Army's newspaper, Krasnaya Zvezda, shortly after the battle, this is the story of Panifilov's Twenty-Eight, a group of twenty-eight soldiers of the Red Army's 316th Rifle Division, under the command of General Ivan Panfilov, that stopped the advance on Moscow of a column of fifty-four Nazi tanks of the 11th Panzer Division for several days. Though armed only with standard issue Mosin-Nagant infantry rifles and DP and PM-M1910 machine guns, all useless against tanks, and with wholly inadequate RPG-40 anti-tank grenades and PTRD-41 anti-tank rifles, they fight tirelessly and defiantly, with uncommon bravery and unwavering dedication, to protect Moscow and their Motherland.",
+        "poster_path": "/L8aLFIITBjsn3HlQp0M0sT0Xe7.jpg",
+        "backdrop_path": "/bLMJpAriDt1VvRBi3i0An9ieYhu.jpg",
+        "production_companies": [
+            {
+                "name": "Gaijin Entertainment",
+                "id": 84834
+            },
+            {
+                "name": "Lybian Palette",
+                "id": 84835
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5207204",
+        "original_language": "ru",
+        "popularity": 13.671,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 334522,
+        "title": "Alone in Berlin",
+        "release_date": "2016-02-15",
+        "overview": "Berlin in June of 1940. While Nazi propaganda celebrates the regime’s victory over France, a kitchen-cum-living room in Prenzlauer Berg is filled with grief. Anna and Otto Quangel’s son has been killed at the front. This working class couple had long believed in the ‘Führer’ and followed him willingly, but now they realise that his promises are nothing but lies and deceit. They begin writing postcards as a form of resistance and in a bid to raise awareness: Stop the war machine! Kill Hitler! Putting their lives at risk, they distribute these cards in the entrances of tenement buildings and in stairwells. But the SS and the Gestapo are soon onto them, and even their neighbours pose a threat.",
+        "poster_path": "/8BuRgEY3dMw8usxelybUS1K3NMd.jpg",
+        "backdrop_path": "/dXWn1cKafO7tCR2WusGbZvjMQkD.jpg",
+        "production_companies": [
+            {
+                "name": "X Filme Creative Pool",
+                "id": 96
+            },
+            {
+                "name": "Master Movies",
+                "id": 85509
+            },
+            {
+                "name": "FilmWave",
+                "id": 85510
+            },
+            {
+                "name": "Pathé",
+                "id": 7981
+            },
+            {
+                "name": "Buffalo Films",
+                "id": 113170
+            },
+            {
+                "name": "WS Film",
+                "id": 96594
+            },
+            {
+                "name": "Lipsync Productions",
+                "id": 9987
+            },
+            {
+                "name": "Alone in Berlin",
+                "id": 236658
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 33125,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3026488",
+        "original_language": "en",
+        "popularity": 13.646,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 405965,
+        "title": "An Ordinary Man",
+        "release_date": "2017-10-09",
+        "overview": "A war criminal in hiding forms a relationship with his only connection to the outside world - his maid.",
+        "poster_path": "/2u2sidGEx7xpszHVSrQtL402XHU.jpg",
+        "backdrop_path": "/b48yqgYlaA9EZdCjh1EAtPe12fY.jpg",
+        "production_companies": [
+            {
+                "name": "Enderby Entertainment",
+                "id": 21608
+            },
+            {
+                "name": "Reveal Entertainment",
+                "id": 41251
+            },
+            {
+                "name": "Lavender Pictures",
+                "id": 79160
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "RS",
+                "name": "Serbia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1785288",
+        "original_language": "en",
+        "popularity": 13.618,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 498448,
+        "title": "Kesari",
+        "release_date": "2019-03-21",
+        "overview": "In 1897, an army of 21 Sikhs battles 10,000 Afghans to prevent the Saragarhi Fort from being taken down.",
+        "poster_path": "/ctjT1pMNAGD9ou0kuhz806tf7kX.jpg",
+        "backdrop_path": "/notcxmT6RN93g43BnRI8GvRktZ.jpg",
+        "production_companies": [
+            {
+                "name": "Dharma Productions",
+                "id": 19146
+            },
+            {
+                "name": "Azure Entertainment",
+                "id": 71969
+            },
+            {
+                "name": "Zee Studios",
+                "id": 86347
+            },
+            {
+                "name": "Cape Of Good Films",
+                "id": 35063
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pa",
+                "name": "ਪੰਜਾਬੀ"
+            },
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6264938",
+        "original_language": "hi",
+        "popularity": 13.282,
+        "status": "Released",
+        "tagline": "The bravest battle ever fought.",
+        "video": false
+    },
+    {
+        "id_tmdb": 437081,
+        "title": "The Fortress",
+        "release_date": "2017-10-03",
+        "overview": "Ancient Korea, 17th century. The powerful Khan of the Jurchen tribe of Manchuria, who fights the Ming dinasty to gain China, becomes the first ruler of the Qing dinasty and demands from King In-jo of Joseon to bow before him; but he refuses, being loyal to the Mings. On December 14th, 1636, the Qing horde invades Joseon, so King In-jo and his court shelter in the mountain fortress of Namhan and prepare to defend the kingdom.",
+        "poster_path": "/ww0h7mVg9AdPEMjRJKAic1w3ELa.jpg",
+        "backdrop_path": "/yWAixjgr2U8JQsm0zWxCbT6iqUL.jpg",
+        "production_companies": [
+            {
+                "name": "Siren Pictures",
+                "id": 112647
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 28645448,
+        "vote_average": 6.723,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7160176",
+        "original_language": "ko",
+        "popularity": 13.19,
+        "status": "Released",
+        "tagline": "The fate of the nation is in their hands",
+        "video": false
+    },
+    {
+        "id_tmdb": 396616,
+        "title": "The King's Choice",
+        "release_date": "2016-09-29",
+        "overview": "On 9 April 1940, German soldiers arrive in the city of Oslo. The King of Norway faces a choice that will change his country forever.  The King's Choice is a story about the three most dramatic days in Norway's history, the royal family's escape and King Haakon's difficult choice after Nazi Germany's invasion of Norway.",
+        "poster_path": "/qulAxlraNWYrvtq2lIi6AakbeUs.jpg",
+        "backdrop_path": "/7X2OUTjCpoY3JYVnoZgLY7OzKn7.jpg",
+        "production_companies": [
+            {
+                "name": "Newgrange Pictures",
+                "id": 16076
+            },
+            {
+                "name": "Film i Väst",
+                "id": 2801
+            },
+            {
+                "name": "Zentropa International Sweden",
+                "id": 8288
+            },
+            {
+                "name": "Paradox Produksjon",
+                "id": 5111
+            },
+            {
+                "name": "Nordisk Film Norway",
+                "id": 38072
+            },
+            {
+                "name": "Copenhagen Film Fund",
+                "id": 73539
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            },
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            },
+            {
+                "iso_639_1": "sv",
+                "name": "svenska"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 7500000,
+        "revenue": 9100000,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4353996",
+        "original_language": "no",
+        "popularity": 13.18,
+        "status": "Released",
+        "tagline": "Three Days in April",
+        "video": false
+    },
+    {
+        "id_tmdb": 528210,
+        "title": "The Chinese Widow",
+        "release_date": "2017-11-10",
+        "overview": "It’s 1941 and the Japanese attack on Pearl Harbor has destroyed America’s morale. The US President Franklin D. Roosevelt then decides to risk it all by bombing Tokyo and raise more hope for his citizens. After completing its mission, a unit of the US Air Force is forced to make an emergency landing in China. Its commander Jack Turner (Emilie Hirsch) barely survives but gets rescued by Ying (Crystal Liu), a local widow who will stop at nothing to hide him from the Japanese occupant.",
+        "poster_path": "/ztcaeAzK3VkllaWB0VEQdcSD7BO.jpg",
+        "backdrop_path": "/430DV9AgQ4mV8WjahXDvMKEfOHJ.jpg",
+        "production_companies": [
+            {
+                "name": "ROC Pictures",
+                "id": 67451
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5759434",
+        "original_language": "zh",
+        "popularity": 12.69,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 253414,
+        "title": "Rock the Kasbah",
+        "release_date": "2015-10-22",
+        "overview": "A washed-up music producer finds one last shot at redemption with a golden-voiced young girl in Afghanistan. However, when jealousy gets the better of a disgruntled ex-boyfriend, he decides to oppose the young star with talent of his own.",
+        "poster_path": "/jGNOsJjpsJ4yWe3InuiXgYk8VuW.jpg",
+        "backdrop_path": "/wldeDiuEBhYi1Q4FjSHzAQ3yS80.jpg",
+        "production_companies": [
+            {
+                "name": "Shangri-La Entertainment",
+                "id": 2265
+            },
+            {
+                "name": "QED International",
+                "id": 11029
+            },
+            {
+                "name": "Dune Films",
+                "id": 19477
+            },
+            {
+                "name": "Venture Forth",
+                "id": 20313
+            },
+            {
+                "name": "Open Road Films",
+                "id": 10427
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 3020664,
+        "vote_average": 5.399,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://rockthekasbahmovie.com/",
+        "imdb_id": "tt3164256",
+        "original_language": "en",
+        "popularity": 12.429,
+        "status": "Released",
+        "tagline": "Opportunity rocks where you least expect it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 618219,
+        "title": "Mosul",
+        "release_date": "2019-09-04",
+        "overview": "When ISIS took their homes, families and city, one group of men fought to take it all back. Based on true events, this is the story of the Nineveh SWAT team, a renegade police unit who waged a guerrilla operation against ISIS in a desperate struggle to save their home city of Mosul.",
+        "poster_path": "/dW1UNgDkVNreqYJk1YKo4ACa705.jpg",
+        "backdrop_path": "/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",
+        "production_companies": [
+            {
+                "name": "AGBO",
+                "id": 106544
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/81041495",
+        "imdb_id": "tt9252468",
+        "original_language": "ar",
+        "popularity": 12.274,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 472454,
+        "title": "Ayla: The Daughter of War",
+        "release_date": "2017-10-27",
+        "overview": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight and he risks his own life to save her, smuggling her into his army base and out of harm’s way.",
+        "poster_path": "/8RELLU0RK9hRIteLzHFZ0dK8YSi.jpg",
+        "backdrop_path": "/6EbxuGgAjizKqd9CmG5HG0m0t23.jpg",
+        "production_companies": [
+            {
+                "name": "Dijital Sanatlar",
+                "id": 94806
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 4200000,
+        "revenue": 21107423,
+        "vote_average": 8.074,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://aylafilmi.com/",
+        "imdb_id": "tt6316138",
+        "original_language": "tr",
+        "popularity": 12.267,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 489763,
+        "title": "The Keeper",
+        "release_date": "2018-12-05",
+        "overview": "The story of a man whose love for football, for England and for the love of his life, Margaret, saw him rise from Nazi 'villain' to British hero. Bert Trautmann, the German goalkeeper won over even his harshest opponents by winning the FA Cup Final for Manchester City in 1956 - playing on with a broken neck to secure victory.",
+        "poster_path": "/nNPsc5USXEr90FoFaXXljaC1O3r.jpg",
+        "backdrop_path": "/8n4aiFihHkFLsezZIY4Rp34jH9r.jpg",
+        "production_companies": [
+            {
+                "name": "Lieblingsfilm",
+                "id": 13535
+            },
+            {
+                "name": "Zephyr Films",
+                "id": 16923
+            },
+            {
+                "name": "British Film Company",
+                "id": 41115
+            },
+            {
+                "name": "Northern Ireland Screen",
+                "id": 11667
+            },
+            {
+                "name": "Square One Entertainment",
+                "id": 22923
+            },
+            {
+                "name": "MEDIA Programme of the European Union",
+                "id": 851
+            },
+            {
+                "name": "Beta Film",
+                "id": 1080
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.472,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://thekeeperfilm.co.uk",
+        "imdb_id": "tt4642192",
+        "original_language": "de",
+        "popularity": 12.239,
+        "status": "Released",
+        "tagline": "He won her love and our hearts and minds",
+        "video": false
+    },
+    {
+        "id_tmdb": 347629,
+        "title": "Thank You for Your Service",
+        "release_date": "2017-10-26",
+        "overview": "A group of U.S. soldiers returning from Iraq struggle to integrate back into family and civilian life, while living with the memory of a war that threatens to destroy them long after they've left the battlefield.",
+        "poster_path": "/z8OKWw6DAZAOyz8F421euawr3Hs.jpg",
+        "backdrop_path": "/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg",
+        "production_companies": [
+            {
+                "name": "DreamWorks Pictures",
+                "id": 7
+            },
+            {
+                "name": "Amblin Entertainment",
+                "id": 56
+            },
+            {
+                "name": "Dune Films",
+                "id": 19477
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 9400000,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2776878",
+        "original_language": "en",
+        "popularity": 12.177,
+        "status": "Released",
+        "tagline": "For your courage. For your love. For your sacrifice.",
+        "video": false
+    },
+    {
+        "id_tmdb": 505954,
+        "title": "T-34",
+        "release_date": "2018-12-27",
+        "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+        "poster_path": "/7oZA31r9NzVGBZOKs5qmKwZyraZ.jpg",
+        "backdrop_path": "/uHiyMzYDdUkAtIofD7QdtzjQ1tA.jpg",
+        "production_companies": [
+            {
+                "name": "Mars Media Entertainment",
+                "id": 54307
+            },
+            {
+                "name": "AMedia",
+                "id": 31797
+            },
+            {
+                "name": "Studio Trite",
+                "id": 3467
+            },
+            {
+                "name": "Mosfilm",
+                "id": 170585
+            },
+            {
+                "name": "Cinema Foundation of Russia",
+                "id": 76049
+            },
+            {
+                "name": "Algous studio",
+                "id": 103067
+            },
+            {
+                "name": "Russia-1",
+                "id": 69587
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 8000000,
+        "revenue": 36220872,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8820590",
+        "original_language": "ru",
+        "popularity": 11.945,
+        "status": "Released",
+        "tagline": "Fast And Furious On Tanks",
+        "video": false
+    },
+    {
+        "id_tmdb": 506863,
+        "title": "Hurricane",
+        "release_date": "2018-09-07",
+        "overview": "The story of the Polish fliers who found themselves fighting for the freedom of their own country in foreign skies. Seen through the eyes of a Polish fighter ace and adventurer, it tells how the Poles—driven across Europe by the German war machine—finally make their last stand. Flying Hurricanes for the RAF over Britain, they became a key component in the legend of ‘The Few’. Up against the might of the Luftwaffe they hoped that, by saving Great Britain from Nazi invasion, they were keeping the dream of a free Poland alive.",
+        "poster_path": "/mTpmZORhYswd9YinB23wV9QE2cx.jpg",
+        "backdrop_path": "/wNqytPDXc9DULFbklchOg01tclm.jpg",
+        "production_companies": [
+            {
+                "name": "Head Gear Films",
+                "id": 5056
+            },
+            {
+                "name": "Metrol Technology",
+                "id": 25954
+            },
+            {
+                "name": "Prospect 3",
+                "id": 104517
+            },
+            {
+                "name": "Stray Dog Films",
+                "id": 21602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 2137751,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7515456",
+        "original_language": "en",
+        "popularity": 11.93,
+        "status": "Released",
+        "tagline": "In foreign skies they fought for their country",
+        "video": false
+    },
+    {
+        "id_tmdb": 644613,
+        "title": "The Legend of Tomiris",
+        "release_date": "2019-10-01",
+        "overview": "This is the story of the life of the great queen of the steppe - legendary Tomiris. She is destined to become a skillful warrior, survive the loss of close people and unite the Scythian/Saka tribes under her authority.",
+        "poster_path": "/5PJqVblJsq4LfninHPoEzkp1Tuc.jpg",
+        "backdrop_path": "/2S0J4PWNY95uLodCAfY7rhAVKla.jpg",
+        "production_companies": [
+            {
+                "name": "Kazakhfilm Studios",
+                "id": 3623
+            },
+            {
+                "name": "Satai Film",
+                "id": 48860
+            },
+            {
+                "name": "Hollywood Film Academy",
+                "id": 206693
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KZ",
+                "name": "Kazakhstan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            },
+            {
+                "iso_639_1": "kk",
+                "name": "қазақ"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 6500000,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7985648",
+        "original_language": "kk",
+        "popularity": 11.885,
+        "status": "Released",
+        "tagline": "The queen born to magnify the steppe.",
+        "video": false
+    },
+    {
+        "id_tmdb": 627879,
+        "title": "Rogue Warfare",
+        "release_date": "2019-10-04",
+        "overview": "A group of military elite from the U.S., Russia, UK, China and France join forces to fight an elite underground terrorist network.",
+        "poster_path": "/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg",
+        "backdrop_path": "/sQENipE4TjyTnY8xBZvPKzi23jo.jpg",
+        "production_companies": [
+            {
+                "name": "Highland Films",
+                "id": 571
+            },
+            {
+                "name": "Dovecheck Productions Ltd.",
+                "id": 138332
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 653222,
+            "name": "Rogue Warfare Collection"
+        },
+        "homepage": "https://highlandfilmgroup.com/movies/rogue-warfare",
+        "imdb_id": "tt5266668",
+        "original_language": "en",
+        "popularity": 11.879,
+        "status": "Released",
+        "tagline": "All nations, one enemy.",
+        "video": false
+    },
+    {
+        "id_tmdb": 618326,
+        "title": "Sisters in Arms",
+        "release_date": "2019-10-09",
+        "overview": "Kenza and Yaël are two young French women who go to Syria to fight alongside the Kurdish forces. There they meet Zara, a Yezidi survivor. Born in different cultures but deeply united, the women-fighters heal their past wounds and discover their present strength, especially the fear they inspire in their opponents. The three young women soon bound together and become true sisters-in-arms.",
+        "poster_path": "/6sqF5XvmcawutVXkzzefqrbxlJ4.jpg",
+        "backdrop_path": "/s3Mwtw1MtILMYIu5749DjCEOdgt.jpg",
+        "production_companies": [
+            {
+                "name": "Kador",
+                "id": 128893
+            },
+            {
+                "name": "Place du Marché Productions",
+                "id": 128894
+            },
+            {
+                "name": "Davis Films",
+                "id": 342
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            },
+            {
+                "name": "Eagle Pictures",
+                "id": 10400
+            },
+            {
+                "name": "Happy Moon Productions",
+                "id": 128895
+            },
+            {
+                "name": "Metropolitan Filmexport",
+                "id": 16419
+            },
+            {
+                "name": "Sierra/Affinity",
+                "id": 24049
+            },
+            {
+                "name": "France Télévisions",
+                "id": 7131
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Ciné+",
+                "id": 10611
+            },
+            {
+                "name": "DeliCe Film",
+                "id": 178045
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "ku",
+                "name": ""
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 5600000,
+        "revenue": 540482,
+        "vote_average": 7.214,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7858472",
+        "original_language": "fr",
+        "popularity": 11.838,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 377447,
+        "title": "Railroad Tigers",
+        "release_date": "2016-12-23",
+        "overview": "A railroad worker in China in 1941 leads a team of freedom fighters against the Japanese in order to get food for the poor.",
+        "poster_path": "/1aSkP9geZCbqIoxjF7Jy9dT8UfY.jpg",
+        "backdrop_path": "/ygcbiJgTQMjnoSLyzKLmzR7u3gN.jpg",
+        "production_companies": [
+            {
+                "name": "Shan Dong Satellite TV Media",
+                "id": 90633
+            },
+            {
+                "name": "Shanghai Film Group",
+                "id": 3407
+            },
+            {
+                "name": "Sparkle Roll Media",
+                "id": 36958
+            },
+            {
+                "name": "Beijing Going Zoom Media",
+                "id": 72091
+            },
+            {
+                "name": "Mango Entertainment",
+                "id": 90634
+            },
+            {
+                "name": "J.Q. Pictures",
+                "id": 90635
+            },
+            {
+                "name": "Nextainment Pictures (Wuxi)",
+                "id": 90636
+            },
+            {
+                "name": "Golden Network Asia",
+                "id": 79046
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 102205175,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.wellgousa.com/films/railroad-tigers",
+        "imdb_id": "tt4687848",
+        "original_language": "zh",
+        "popularity": 11.784,
+        "status": "Released",
+        "tagline": "Roaring soon",
+        "video": false
+    },
+    {
+        "id_tmdb": 339987,
+        "title": "The Exception",
+        "release_date": "2017-06-02",
+        "overview": "Nothing is as it seems in this riveting World War 2 thriller as a wary soldier goes to investigate a mysterious German monarch at his secluded mansion, leading him into a web of deceit and a dangerous love affair with a local Jewish woman.",
+        "poster_path": "/nNCS7JdLFzLKaqtce4lzjtGfdp4.jpg",
+        "backdrop_path": "/no9d3vuwxJix8Htw7qmA2hdJB0v.jpg",
+        "production_companies": [
+            {
+                "name": "Egoli Tossell KLK",
+                "id": 85554
+            },
+            {
+                "name": "Alton Road Productions",
+                "id": 90975
+            },
+            {
+                "name": "Ostar Productions",
+                "id": 21754
+            },
+            {
+                "name": "uMedia",
+                "id": 19037
+            },
+            {
+                "name": "Egoli Tossell Film",
+                "id": 2254
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 708973,
+        "vote_average": 6.929,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://a24films.com/films/the-exception",
+        "imdb_id": "tt4721124",
+        "original_language": "en",
+        "popularity": 11.735,
+        "status": "Released",
+        "tagline": "One duty. One desire. One decision.",
+        "video": false
+    },
+    {
+        "id_tmdb": 296523,
+        "title": "Man Down",
+        "release_date": "2015-09-12",
+        "overview": "When a U.S. Marine returns home from Afghanistan, he finds that the place he once called home is no better than the battlefields he fought on overseas. Accompanied by his best friend, he searches desperately for the whereabouts of his estranged son and wife. In their search, the two intercept a man carrying vital information about his family.",
+        "poster_path": "/6sv6YqD7CPbk1Wn7ayq5zosPeCi.jpg",
+        "backdrop_path": "/xEaNiGowJgrS8wHKZdPjnKgZI06.jpg",
+        "production_companies": [
+            {
+                "name": "Binary Light",
+                "id": 95674
+            },
+            {
+                "name": "Mpower Pictures",
+                "id": 5294
+            },
+            {
+                "name": "Krannel Pictures",
+                "id": 51942
+            },
+            {
+                "name": "Wild Bunch",
+                "id": 856
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 167085,
+        "vote_average": 6.041,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2461520",
+        "original_language": "en",
+        "popularity": 11.692,
+        "status": "Released",
+        "tagline": "He's coming home to the war he never left.",
+        "video": false
+    },
+    {
+        "id_tmdb": 256962,
+        "title": "Little Boy",
+        "release_date": "2015-04-23",
+        "overview": "An eight-year-old boy is willing to do whatever it takes to end World War II so he can bring his father home. The story reveals the indescribable love a father has for his little boy and the love a son has for his father.",
+        "poster_path": "/lAU9pgq3niI6sFemcKm4FGGmrnW.jpg",
+        "backdrop_path": "/xKtWcQD2yugIKz49LvZNHdLM09T.jpg",
+        "production_companies": [
+            {
+                "name": "Santa Fe Films",
+                "id": 90508
+            },
+            {
+                "name": "Metanoia Films",
+                "id": 7075
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 6500000,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.littleboymovie.com/",
+        "imdb_id": "tt1810683",
+        "original_language": "en",
+        "popularity": 11.679,
+        "status": "Released",
+        "tagline": "Believe the impossible.",
+        "video": false
+    },
+    {
+        "id_tmdb": 567566,
+        "title": "The Rifleman",
+        "release_date": "2019-11-11",
+        "overview": "The love story of sixteen-year-old Arturs is interrupted by the First World War. After losing his mother and his home, he finds some consolation in joining the army, because this is the first time national battalions are allowed in the Russian Empire. But war is nothing like Arturs imagined – no glory, no fairness. It is brutal and painful. Arturs is now completely alone as war takes the lives of his father and brother. Also, no progress is made in the promised quick resolution of the war and timely return home. Within the notion that only he alone cares about returning home and that his homeland is just a playground for other nations, Arturs finds strength for the final battle and eventually returns home to start everything from scratch, just like his newly born country.",
+        "poster_path": "/z3lVSySBEW17JK4k5RZJ5mALHM5.jpg",
+        "backdrop_path": "/hxPi9FOd46WEVajcjhON8m3sihG.jpg",
+        "production_companies": [
+            {
+                "name": "KULTFILMA",
+                "id": 112129
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "LV",
+                "name": "Latvia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6084202",
+        "original_language": "lv",
+        "popularity": 11.664,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 400728,
+        "title": "Unknown Soldier",
+        "release_date": "2017-10-27",
+        "overview": "The film follows Finnish army machine gun company in Continuation War against Soviet Union, 1941–1944. Based on Väinö Linna's best selling novel Tuntematon Sotilas (The Unknown Soldier) and the novel's uncensored version, Sotaromaani (A War Novel).",
+        "poster_path": "/dR37hrF6YDMSJCT4r30tOYzVath.jpg",
+        "backdrop_path": "/4lI768UFQXijUf9TlfWDnxS1nlk.jpg",
+        "production_companies": [
+            {
+                "name": "SCOPE Pictures",
+                "id": 11199
+            },
+            {
+                "name": "Elokuvaosakeyhtiö Suomi 2017",
+                "id": 77737
+            },
+            {
+                "name": "Kvikmyndafélag Íslands",
+                "id": 96653
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IS",
+                "name": "Iceland"
+            },
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 8000000,
+        "revenue": 15550000,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4065552",
+        "original_language": "fi",
+        "popularity": 11.595,
+        "status": "Released",
+        "tagline": "Finland, behold, thy daylight now is dawning.",
+        "video": false
+    },
+    {
+        "id_tmdb": 357407,
+        "title": "Genocidal Organ",
+        "release_date": "2017-02-03",
+        "overview": "The war on terror exploded, literally, the day Sarajevo was destroyed by a homemade nuclear device. The leading democracies transformed into total surveillance states, and the developing world has drowned under a wave of genocides. The mysterious American John Paul seems to be behind the collapse of the world system, and it's up to intelligence agent Clavis Shepherd to track John Paul across the wreckage of civilizations and to find the true heart of darkness—a genocidal organ.",
+        "poster_path": "/iDclwXgOxnr9Vgl7HYG2drTtho8.jpg",
+        "backdrop_path": "/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+        "production_companies": [
+            {
+                "name": "Geno Studio",
+                "id": 104682
+            },
+            {
+                "name": "Manglobe",
+                "id": 33347
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 499070,
+            "name": "Project Itoh Collection"
+        },
+        "homepage": "http://project-itoh.com/#/geno/top/",
+        "imdb_id": "tt3615160",
+        "original_language": "ja",
+        "popularity": 11.567,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 340101,
+        "title": "Their Finest",
+        "release_date": "2017-02-19",
+        "overview": "During the Blitz of World War II, a female screenwriter works on a film celebrating England's resilience as a way to buoy a weary populace's spirits. Her efforts to dramatise the true story of two sisters who undertook their own maritime mission to rescue wounded soldiers are met with mixed feelings by a dismissive all-male staff.",
+        "poster_path": "/tF0dhJfxzOjvkybJVfNPuuj5ClH.jpg",
+        "backdrop_path": "/vZbAwP1LthxHzRnodvVwXKwUk4n.jpg",
+        "production_companies": [
+            {
+                "name": "BBC Film",
+                "id": 288
+            },
+            {
+                "name": "HanWay Films",
+                "id": 2395
+            },
+            {
+                "name": "Number 9 Films",
+                "id": 11752
+            },
+            {
+                "name": "Filmgate Films",
+                "id": 18230
+            },
+            {
+                "name": "Ripken Productions",
+                "id": 58546
+            },
+            {
+                "name": "Pinewood Pictures",
+                "id": 62230
+            },
+            {
+                "name": "Wildgaze Films",
+                "id": 1508
+            },
+            {
+                "name": "Film i Väst",
+                "id": 2801
+            },
+            {
+                "name": "EuropaCorp",
+                "id": 6896
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 11795877,
+        "revenue": 3603484,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1661275",
+        "original_language": "en",
+        "popularity": 11.528,
+        "status": "Released",
+        "tagline": "In the fight for freedom everyone played a part.",
+        "video": false
+    },
+    {
+        "id_tmdb": 497916,
+        "title": "The Resistance Banker",
+        "release_date": "2018-03-08",
+        "overview": "In the occupied Netherlands during World War II, banker Walraven van Hall is asked to use his financial contacts to help the Dutch resistance. With his brother Gijs, he comes up with a risky plan to take out huge loans and use the money to finance the Resistance.",
+        "poster_path": "/sqAJF2muVamUQfmGmrRK9w8s1KS.jpg",
+        "backdrop_path": "/pDtquB9mFRxdK7kJ9TgY48roquh.jpg",
+        "production_companies": [
+            {
+                "name": "Dutch Filmworks",
+                "id": 29326
+            },
+            {
+                "name": "NL Film en TV",
+                "id": 5573
+            },
+            {
+                "name": "Mollywood",
+                "id": 22071
+            },
+            {
+                "name": "EO",
+                "id": 107563
+            },
+            {
+                "name": "Zilvermeer Productions",
+                "id": 81406
+            },
+            {
+                "name": "Nanook Entertainment",
+                "id": 108973
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.nlfilm.tv/nl/films-1/bankier-van-het-verzet/",
+        "imdb_id": "tt4610378",
+        "original_language": "nl",
+        "popularity": 11.494,
+        "status": "Released",
+        "tagline": "The greatest concealed act of resistance",
+        "video": false
+    },
+    {
+        "id_tmdb": 554805,
+        "title": "Kingdom",
+        "release_date": "2019-04-19",
+        "overview": "Set in Qin Dynasty during the warring states period in ancient China. Shin was a war orphan. He has a dream of becoming a great general Shin has a fateful encounter with young King Eisei. King Eisei aims to unify all of China.",
+        "poster_path": "/6TaQdmCvuJx6VqC4CsGlpO5lD0P.jpg",
+        "backdrop_path": "/sx9dBw5dvbXtXIx2mO9VyzujgS2.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            },
+            {
+                "name": "Nippon Television Network Corporation",
+                "id": 6755
+            },
+            {
+                "name": "Sony Pictures",
+                "id": 82346
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Sony Pictures International Productions",
+                "id": 63520
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 50570000,
+        "vote_average": 7.255,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 982641,
+            "name": "Kingdom Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt9099938",
+        "original_language": "ja",
+        "popularity": 11.474,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 647498,
+        "title": "1942: Unknown Battle",
+        "release_date": "2019-12-05",
+        "overview": "WWII 1942: Rzhev, USSR. Stuck in a crucial strategical position, a small company from the Red Army does whatever it takes to fend off the Nazis.",
+        "poster_path": "/k0dKShTvJZdqkwzJ4qqloy2nNFP.jpg",
+        "backdrop_path": "/zZpWJh5kiYapUdMcSp6mkHTL3RQ.jpg",
+        "production_companies": [
+            {
+                "name": "3xMedia",
+                "id": 125039
+            },
+            {
+                "name": "Cinema Alliance",
+                "id": 160637
+            },
+            {
+                "name": "Aurum Production",
+                "id": 159120
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.694,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11426562",
+        "original_language": "ru",
+        "popularity": 11.379,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 556018,
+        "title": "Tankers",
+        "release_date": "2018-10-25",
+        "overview": "The film is based on the true story about a Soviet KV-1 crew of a Soviet KV-1 tank, under the command of Semyon Konovalov , whom despite being heavily outnumbered by German forces, destroyed 16 tanks, 2 armored vehicles and 8 other enemy vehicles  at the village of Nizhnemytyakin, Tarasovsky district, Rostov region on July 13th, 1942.",
+        "poster_path": "/9td0GQVt0YKV3xUh5c81HuwVVsP.jpg",
+        "backdrop_path": "/eFV2sefPWsY3DXj98oUvvbnmMxA.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 170585
+            },
+            {
+                "name": "Oda Film",
+                "id": 20499
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9415552",
+        "original_language": "ru",
+        "popularity": 11.237,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 540841,
+        "title": "Vlad the Impaler",
+        "release_date": "2018-11-23",
+        "overview": "The true story of 7 oddly dressed fearless men of ottoman army fight against cruel Vlad.",
+        "poster_path": "/cSCuvcNM4SvMK5hUNDD94V0NjRP.jpg",
+        "backdrop_path": "/B4ZhigHvuOj0LRIbDQBWn7EF60.jpg",
+        "production_companies": [
+            {
+                "name": "Angel Film Yapim",
+                "id": 171096
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt8748608",
+        "original_language": "tr",
+        "popularity": 11.057,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 398924,
+        "title": "A Bag of Marbles",
+        "release_date": "2017-01-18",
+        "overview": "At the beginning of the 1940s, in a France occupied by Nazi forces, lived the Jewish Joffo family. Happy and tight-knit, she sees her future darken when all members of the family are forced to wear the yellow star. Fearing the worst, the parents organized their family to flee to the free zone in the south of the country. Maurice, twelve years old, and Joseph, ten years old, will therefore leave alone in order to maximize their chances of finding their older brothers already settled in Nice.  The brothers left to their own devices demonstrate an incredible amount of cleverness, courage, and ingenuity to escape the enemy invasion and to try to reunite their family once again.",
+        "poster_path": "/kjVPBXfo7frULyUzQ8NRPAflP8G.jpg",
+        "backdrop_path": "/iVQifEAWEGA5ajuTjLFv3kFSIOK.jpg",
+        "production_companies": [
+            {
+                "name": "TF1 Films Production",
+                "id": 356
+            },
+            {
+                "name": "Forecast Pictures",
+                "id": 12686
+            },
+            {
+                "name": "Main Journey",
+                "id": 91331
+            },
+            {
+                "name": "Gaumont",
+                "id": 9
+            },
+            {
+                "name": "Quad Productions",
+                "id": 7038
+            },
+            {
+                "name": "IDL Films",
+                "id": 133977
+            },
+            {
+                "name": "Panache Productions",
+                "id": 133979
+            },
+            {
+                "name": "Proximus",
+                "id": 92187
+            },
+            {
+                "name": "Okko Production",
+                "id": 31660
+            },
+            {
+                "name": "La Compagnie Cinématographique",
+                "id": 12406
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "budget": 21400000,
+        "revenue": 10898998,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.gaumont.fr/fr/film/Un-sac-de-billes.html",
+        "imdb_id": "tt5091612",
+        "original_language": "fr",
+        "popularity": 11.04,
+        "status": "Released",
+        "tagline": "Home Is Where Family Is",
+        "video": false
+    },
+    {
+        "id_tmdb": 573791,
+        "title": "The Battle: Roar to Victory",
+        "release_date": "2019-08-07",
+        "overview": "Over a 4 day period, a fierce battle takes place between Korean independence militias and imperialist Japanese forces in Manchuria, China. The militia includes a master swordsman and an expert marksman.",
+        "poster_path": "/KOiETUJcXcm6HTtEXbzv4ZWj6J.jpg",
+        "backdrop_path": "/nFdWuAqdDIrGe9G2CXMkn3cX7NT.jpg",
+        "production_companies": [
+            {
+                "name": "Showbox",
+                "id": 3491
+            },
+            {
+                "name": "W-Pictures",
+                "id": 113239
+            },
+            {
+                "name": "Big Stone Pictures",
+                "id": 53445
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10510654",
+        "original_language": "ko",
+        "popularity": 11.026,
+        "status": "Released",
+        "tagline": "Fight for the last border.",
+        "video": false
+    },
+    {
+        "id_tmdb": 438259,
+        "title": "Journey's End",
+        "release_date": "2017-12-14",
+        "overview": "Set in a dugout in Aisne in 1918, a group of British officers, led by the mentally disintegrating young officer Stanhope, variously await their fate.",
+        "poster_path": "/5gGkt84bCPt7XRo35FcsrOeer78.jpg",
+        "backdrop_path": "/32c48NEZOJxBvpN4FkaObQTOhjH.jpg",
+        "production_companies": [
+            {
+                "name": "Fluidity Films",
+                "id": 92963
+            },
+            {
+                "name": "BFI",
+                "id": 7281
+            },
+            {
+                "name": "Wales Screen",
+                "id": 105678
+            },
+            {
+                "name": "British Film Company",
+                "id": 41115
+            },
+            {
+                "name": "Metro International Entertainment",
+                "id": 105679
+            },
+            {
+                "name": "Third Wednesday Films",
+                "id": 105680
+            },
+            {
+                "name": "Anyway Productions",
+                "id": 40240
+            },
+            {
+                "name": "uMedia",
+                "id": 19037
+            },
+            {
+                "name": "Good Deed Entertainment",
+                "id": 49937
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.353,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://gooddeedentertainment.com/journeysend/",
+        "imdb_id": "tt3780500",
+        "original_language": "en",
+        "popularity": 10.92,
+        "status": "Released",
+        "tagline": "Innocence Lost... Courage Found",
+        "video": false
+    },
+    {
+        "id_tmdb": 433356,
+        "title": "The Ottoman Lieutenant",
+        "release_date": "2017-03-28",
+        "overview": "Lillie, a determined American woman, ventures overseas to join Dr. Jude at a remote medical mission in the Ottoman Empire (now Turkey). However, Lillie soon finds herself at odds with Jude and the mission’s founder, Woodruff, when she falls for the titular military man, Ismail, just as the war is about to erupt.",
+        "poster_path": "/keHVpf7x6Na3KK7ep2BXzd2jlCv.jpg",
+        "backdrop_path": "/7RJmCyuTPbckzian3DvSbfgWSYE.jpg",
+        "production_companies": [
+            {
+                "name": "Eastern Sunrise Films",
+                "id": 93065
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 413844,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.uphe.com/movies/the-ottoman-lieutenant",
+        "imdb_id": "tt4943322",
+        "original_language": "en",
+        "popularity": 10.907,
+        "status": "Released",
+        "tagline": "In a land on the brink of war the most dangerous place to be is in love.",
+        "video": false
+    }
+]

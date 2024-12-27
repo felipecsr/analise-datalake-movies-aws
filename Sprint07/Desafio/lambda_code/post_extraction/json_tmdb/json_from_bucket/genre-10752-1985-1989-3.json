@@ -1,0 +1,3975 @@
+[
+    {
+        "id_tmdb": 633528,
+        "title": "Faith, Hope, Love",
+        "release_date": "1985-09-01",
+        "overview": "",
+        "poster_path": "/3u74pfUQoRNibZoWYv4t6dQbAzX.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0171884",
+        "original_language": "ru",
+        "popularity": 1.435,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 74107,
+        "title": "1918",
+        "release_date": "1985-04-26",
+        "overview": "It's 1918, the height of United States involvement in World War I - Liberty Bonds are sold, German immigrants are suspected as traitors or saboteurs, young men everywhere succumb to the patriotism and propaganda and enlist.  In a small Texas town, Horace Robedaux feels the pressure - he doesn't want to leave his young wife Elizabeth and their young child Jenny - but Elizabeth's can't-do-anything-right little brother is constantly talking about the war, and Elizabeth's stern father, who opposed the marriage initially, now has plans to take care of his daughter and the child so Horace can fight for his country. However, the influenza epidemic sweeping the town (and the nation) may change everyone's plans.",
+        "poster_path": "/7R0F3RYClHzzt7HGWUWuCDCpNqI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Guadalupe Productions",
+                "id": 53380
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1262712,
+            "name": "The Orphans' Home Cycle"
+        },
+        "homepage": "",
+        "imdb_id": "tt0088645",
+        "original_language": "en",
+        "popularity": 1.435,
+        "status": "Released",
+        "tagline": "The war in Europe wasn't their only struggle for life.",
+        "video": false
+    },
+    {
+        "id_tmdb": 489549,
+        "title": "The Escape",
+        "release_date": "1987-01-01",
+        "overview": "The tragic story of a group of prisoners, ordinary people, were detained in the camp at Lager in Naise at the beginning of WWII, after that mighty torture and abuse by the Germans, will try escape from the camp. A few succeeded.",
+        "poster_path": "/1LbAHNKCdKzxHQXzvzGyLzT2rDu.jpg",
+        "backdrop_path": "/foBmdMLja8ZoMXUgnFIdMT5DmOa.jpg",
+        "production_companies": [
+            {
+                "name": "Centar film",
+                "id": 15165
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174849",
+        "original_language": "sh",
+        "popularity": 1.432,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 530024,
+        "title": "Der Krieg meines Vaters",
+        "release_date": "1985-06-30",
+        "overview": "Munich Film Festival 1985.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0087574",
+        "original_language": "de",
+        "popularity": 1.431,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1219243,
+        "title": "Beybars",
+        "release_date": "1989-08-19",
+        "overview": "The first part of a historical film dilogy based on the story “Emshan” by Maurice Simashko.  XIII century. Equal to God, Sultan Beybars — the ruler of Egypt, who has the largest fleet in the Mediterranean, crushed the Crusader troops and countless hordes of Genghis Khan’s descendant – recalls the life path he passed before ascending to the throne of the ruler.",
+        "poster_path": "/h5gr2ey9697bUKJ7X6oRW12XooD.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Yalta Film Studio",
+                "id": 10420
+            },
+            {
+                "name": "Kazakhfilm",
+                "id": 232195
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "kk",
+                "name": "қазақ"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1261278,
+            "name": "Beybars"
+        },
+        "homepage": "",
+        "imdb_id": "tt30101576",
+        "original_language": "ru",
+        "popularity": 1.428,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 154433,
+        "title": "Wild Team",
+        "release_date": "1985-06-01",
+        "overview": "A South American rebel leader in exile in Miami is given one last chance to overthrow his successor, a brutal dictator, by a multi-national mining group out to exploit his countries' mineral resources.",
+        "poster_path": "/xyl33pMD3UmVeHuyVcmVIyvEyAt.jpg",
+        "backdrop_path": "/cZIRceF1reyHa5sa3Th6hhDZyXz.jpg",
+        "production_companies": [
+            {
+                "name": "Lisa Film",
+                "id": 10437
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0125700",
+        "original_language": "it",
+        "popularity": 1.427,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 371577,
+        "title": "Küchengespräche mit Rebellinnen",
+        "release_date": "1985-03-08",
+        "overview": "Oral witnesses tell about their work in the Austrian underground movement against the national socialist regime. Agnes Primoschitz, Johanna Sadolschek-Zala, Rosl Grossmann-Breuer and Anni Haider talk about helping concenreation camp prisoners escape, fighting with the partisans and imprisonment, and about various experiences which bring back happy and sad memories. Many of their friends and relatives did not survive the terrible time. Some of the oral witnesses hadn't counted on surviving the prisons and concentration camps.",
+        "poster_path": "/cxQQ4gBxz6mbM1wMU4wru0twu7z.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Projektgruppe Frauen im antifaschistischen Widerstand",
+                "id": 144224
+            },
+            {
+                "name": "Medienwerkstatt Wien",
+                "id": 50820
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "de",
+        "popularity": 1.422,
+        "status": "Released",
+        "tagline": "A documentary film with oral witnesses which emphasized the role of women in the resistance against national socialism.",
+        "video": false
+    },
+    {
+        "id_tmdb": 481576,
+        "title": "Journey's End",
+        "release_date": "1988-01-01",
+        "overview": "A British Company in the WWI trenches await an inevitable German attack in this 1988 adaptation of R.C. Sherriff's play.",
+        "poster_path": "/gKwCrZzZnObffDF6n4C2vWyBXMF.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095413",
+        "original_language": "en",
+        "popularity": 1.4,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 535179,
+        "title": "На исходе ночи",
+        "release_date": "1988-05-16",
+        "overview": "",
+        "poster_path": "/zhtz7a9Z4eX1rNZIDBJvbzrlsLc.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093592",
+        "original_language": "ru",
+        "popularity": 1.393,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 191479,
+        "title": "Fucking Fernand",
+        "release_date": "1987-10-21",
+        "overview": "A bombing raid makes travelling companions of a blind man, Fernand, and Antoine, a criminal. Fernand is a virgin and is depending on his new friend to find him a woman. But to Antoine, on the run, his fellow victim is more a burden than a boon.",
+        "poster_path": "/cBYqsAwFY6iFWJHGpUx7pqyIv3y.jpg",
+        "backdrop_path": "/yxNQJXvHbAqy0NiAM2cs7gl0ei4.jpg",
+        "production_companies": [
+            {
+                "name": "Films A2",
+                "id": 875
+            },
+            {
+                "name": "Delta Film",
+                "id": 239811
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093057",
+        "original_language": "fr",
+        "popularity": 1.39,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531058,
+        "title": "State Border: Vol. 8. On the Far Border",
+        "release_date": "1989-05-28",
+        "overview": "At the southern border outpost the Soviet border guards managed to neutralize a spy from one of the Western intelligence services and discover an electronic unit recording data about secret strategic military facilities located on the territory of the USSR.",
+        "poster_path": "/xtR3SLoMYWnZgdNESwzKIUxuNBv.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            },
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1264437,
+            "name": "State Border"
+        },
+        "homepage": "",
+        "imdb_id": "tt2693920",
+        "original_language": "ru",
+        "popularity": 1.375,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 47376,
+        "title": "The Attic: The Hiding of Anne Frank",
+        "release_date": "1988-04-17",
+        "overview": "During the Nazi occupation of Amsterdam, Otto Frank decides to hide his family, who are Jewish, after his daughter Margot is called to appear for transport to a Nazi labour camp. Miep Gies, Otto Frank's office assistant hides them in the attic above the office. The film tells the true story of Gies' struggle to keep the family hidden and safe, as the Nazis turn Amsterdam upside-down. Based upon Gies' memoirs and Anne Frank's famous diary.",
+        "poster_path": "/2eT6heN8TPvPgE4GjCHRoHxtE0o.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094685",
+        "original_language": "en",
+        "popularity": 1.372,
+        "status": "Released",
+        "tagline": "Despite everything, I believe that people are really good at heart.",
+        "video": false
+    },
+    {
+        "id_tmdb": 213559,
+        "title": "Murderers Among Us: The Simon Wiesenthal Story",
+        "release_date": "1989-04-22",
+        "overview": "A biographical portrayal of Simon Wiesenthal, famous Nazi Hunter. From his imprisonment in a Nazi Concentration Camp, the film follows his liberation and his rise to become one of the leading Nazi hunters in the world, bringing such criminals to justice as Adolf Eichmann and Klaus Barbee.  (Written by Anthony Hughes)",
+        "poster_path": "/seMsZmiE5qnObCg686l3sPTaS1D.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097933",
+        "original_language": "en",
+        "popularity": 1.364,
+        "status": "Released",
+        "tagline": "Biography,Drama,War,Nazi",
+        "video": false
+    },
+    {
+        "id_tmdb": 29645,
+        "title": "Night of the Eagles",
+        "release_date": "1989-05-18",
+        "overview": "In World War II Germany, two young men, one, an ardent Nazi, and the other, a secret anti-Nazi, are in love with the same woman, the daughter of a wealthy banker. The two join the Army, and the young woman becomes a nightclub singer. Eventually she joins the Army too, to entertain the troops, but circumstances soon result in her entire world being changed.",
+        "poster_path": "/bYZurv8Xytc9akwZlbDEt0CL9O6.jpg",
+        "backdrop_path": "/fQxRpKWwnPyEQ1dhwcJWxLvnckL.jpg",
+        "production_companies": [
+            {
+                "name": "BelFilm",
+                "id": 28951
+            },
+            {
+                "name": "Eurociné",
+                "id": 4799
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0212872",
+        "original_language": "fr",
+        "popularity": 1.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 314709,
+        "title": "Секретный фарватер",
+        "release_date": "1986-01-01",
+        "overview": "",
+        "poster_path": "/akMCYDXf1OIxxM4EI6Dz6PMGdRH.jpg",
+        "backdrop_path": "/5UqTzx7NXo8JeBmD0FHbs1bxDJb.jpg",
+        "production_companies": [
+            {
+                "name": "Odessa Film Studio",
+                "id": 3161
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2317100",
+        "original_language": "ru",
+        "popularity": 1.356,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 892292,
+        "title": "Instruct General Nesterov...",
+        "release_date": "1985-05-01",
+        "overview": "By order of General Sytko, a rock ridge explodes during the construction of an important strategic facility in the desert, leading to human casualties. And now General Nesterov will have to mobilize people in the difficult conditions that have arisen and cope with the task in a short time.",
+        "poster_path": "/jN9NBAqwbbklM1dJeeacW18Tjpl.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0263882",
+        "original_language": "ru",
+        "popularity": 1.354,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 155203,
+        "title": "Santa Fe",
+        "release_date": "1987-01-01",
+        "overview": "After arriving in 1940 New York, Freddy struggles to find work. His world of refugee acquaintances includes the depressed daughter of a poet/delicatessen owner, an aging surgeon who cannot find work, and a lovable charlatan photographer.",
+        "poster_path": "/qIjzIZehFmZNZSLL4eI52OuDCa.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Thalia-Film",
+                "id": 30630
+            },
+            {
+                "name": "ZDF",
+                "id": 4606
+            },
+            {
+                "name": "ORF",
+                "id": 3391
+            },
+            {
+                "name": "SRG SSR",
+                "id": 12431
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 932713,
+            "name": "Wohin und zurück Kollektion"
+        },
+        "homepage": "",
+        "imdb_id": "tt0090335",
+        "original_language": "de",
+        "popularity": 1.341,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 246528,
+        "title": "The Mother of the Kings",
+        "release_date": "1987-03-01",
+        "overview": "Made in 1982, shelved for five years. Story opens with Lucja Krol's husband under the tram. She gives birth to her fourth son on the floor of their new apartment. Neighbor Wiktor, a communist intellectual, befriends the poverty-stricken family but is soon arrested and sent to jail. During the war Lucja narrowly escapes a Nazi roundup at the black market. Her sons hold ardent Communist meetings in their apartment, with her blessing. Lucja works hard, but without complaint. After the war, Klemens is inexplicably arrested, accused by the new regime of being a collaborator. Wiktor, now a high-ranking party member, trying to defend him, himself falls into disgrace. Klemens is tortured to \"confess\" and dies in jail, a Communist to the end. Lucja is never told about his fate.",
+        "poster_path": "/svQY99DdvWyBHykXcppu0CHWaGA.jpg",
+        "backdrop_path": "/e9VJe4besPmw66UytbwlyQjy0af.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Rondo\"",
+                "id": 12301
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0085916",
+        "original_language": "pl",
+        "popularity": 1.337,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 107690,
+        "title": "Action",
+        "release_date": "1987-06-06",
+        "overview": "Summer 1943. Soviet commanders become aware about a spies school in the occupied territory of Ukraine running the traitor Karayev. The group of five is sent to destroy the school.",
+        "poster_path": "/h0ixXNdiYNTOR8uOyywa33U5VrV.jpg",
+        "backdrop_path": "/dkti6hnVeVzxh8gQnAzl0GGDmbM.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092526",
+        "original_language": "ru",
+        "popularity": 1.32,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 638547,
+        "title": "Name",
+        "release_date": "1988-06-01",
+        "overview": "",
+        "poster_path": "/gMs7nZfF2yd5G8p2g4OQu7oowSw.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.308,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 482125,
+        "title": "Alamo: The Price of Freedom",
+        "release_date": "1988-03-06",
+        "overview": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+        "poster_path": "/zVGsXJ49vmW1ACt5vpYNwi451Kr.jpg",
+        "backdrop_path": "/iRmFcaqb3pKzRH0oH1hRBLPqoFs.jpg",
+        "production_companies": [
+            {
+                "name": "MacGillivray Freeman Films",
+                "id": 2753
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094628",
+        "original_language": "en",
+        "popularity": 1.299,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 312973,
+        "title": "The Man Who Lived at the Ritz",
+        "release_date": "1988-11-28",
+        "overview": "In this drama, an American art student is trapped amidst the political turmoil of war-torn Europe while visiting Paris and staying at the fabulous Ritz hotel. Rather than cope constructively with it all, the fellow opts to ignore it and continue living the high-life for as long as possible.",
+        "poster_path": "/yBi5sr7MI2zhWME61IesOFPVc77.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Harmony Gold",
+                "id": 7901
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094507",
+        "original_language": "en",
+        "popularity": 1.299,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 56617,
+        "title": "Deadline",
+        "release_date": "1987-07-02",
+        "overview": "An American journalist is set up and fed false information after the Lebanon war.",
+        "poster_path": "/iY5i97Pa64B1nu7FQBowlO8D0d1.jpg",
+        "backdrop_path": "/kI5K5ciDsmwTVPis89VXf3iT5bo.jpg",
+        "production_companies": [
+            {
+                "name": "Caro Film GmbH",
+                "id": 42770
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092844",
+        "original_language": "en",
+        "popularity": 1.291,
+        "status": "Released",
+        "tagline": "Sometimes a hero doesn't carry a gun.",
+        "video": false
+    },
+    {
+        "id_tmdb": 288984,
+        "title": "Days of Hell",
+        "release_date": "1986-04-20",
+        "overview": "This fast-paced film stars (Conrad Nichols) as the tough Captain Williams, head of a crack commando squad who goes into Afghanistan to save the U.S.S.R. -- and indirectly, the U.S. -- from some very bad publicity. A journalist and his daughter have evidence that the Russians are using biological and chemical weapons in their war in Afghanistan. The unit of five commandos smuggle themselves into Afghanistan through its neighbor Iran, bribing the leaders of that country with some spare parts for its war planes (shades of Iran-Contra!). Once inside the country they discover that the journalist has already died from exposure to nerve gas, and his daughter is already getting sick. Williams starts to guess that they are all being set up because everything is going just a little too well, and he adjusts his plans accordingly. ~ Eleanor Mannikka, Rovi",
+        "poster_path": "/ee3r9nigl2vd1BISzi47VT5EQgO.jpg",
+        "backdrop_path": "/tLt0GGfnNrVg6kQHMTUZx2O7QLe.jpg",
+        "production_companies": [
+            {
+                "name": "Mary Film",
+                "id": 61505
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089207",
+        "original_language": "it",
+        "popularity": 1.289,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 262983,
+        "title": "The Road Raiders",
+        "release_date": "1989-04-25",
+        "overview": "Filled with anachronisms and rip offs from \"The 'A' Team\" and \"The Dirty Dozen\" - It's 1942 in Manila and an American saloon owner organizes a misfit group to fight in WWII.",
+        "poster_path": "/zV33p9gWfX4V1hNU1VxNGtDkyFL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Universal Television",
+                "id": 26727
+            },
+            {
+                "name": "New East Entertainment",
+                "id": 193637
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098207",
+        "original_language": "en",
+        "popularity": 1.287,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 512599,
+        "title": "My Father, My Son",
+        "release_date": "1988-03-21",
+        "overview": "When an Admiral orders the use of Agent Orange in Vietnam, he has no idea the deadly consequences of his actions for his son.",
+        "poster_path": "/yKW2JWSwUxCxZNlmolsFgUrnj0j.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Fred Weintraub Productions",
+                "id": 2732
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095685",
+        "original_language": "en",
+        "popularity": 1.278,
+        "status": "Released",
+        "tagline": "A true story of love and courage.",
+        "video": false
+    },
+    {
+        "id_tmdb": 373989,
+        "title": "Sign of Disaster",
+        "release_date": "1987-04-28",
+        "overview": "A woman defends during World War II her home and her family against Hitler's soldiers.",
+        "poster_path": "/1tqu958Xb3R2LsIhU9y0szXqgBP.jpg",
+        "backdrop_path": "/e9RkwPjOlgycJ4qaYpvVottaVCJ.jpg",
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092293",
+        "original_language": "ru",
+        "popularity": 1.271,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 328908,
+        "title": "Blanche and Marie",
+        "release_date": "1985-04-03",
+        "overview": "A little town in the north of France, 1941. Blanche has three children. She worries about her husband Victor, who often goes out at night. Actually, Victor belongs to the Resistance. Soon, Blanche will be a resistant too. In the network, there is also Germinal, the hairdresser. His daughter Marie knows everything and asks to be part of it... Chronicle of the occupation and of the resistance through the eyes of the women.",
+        "poster_path": "/pwE7YNMeMDaV7yTggciPDloYO6L.jpg",
+        "backdrop_path": "/gqZ171Rdoo01KRs2gYinUte62bz.jpg",
+        "production_companies": [
+            {
+                "name": "Odessa Films",
+                "id": 1712
+            },
+            {
+                "name": "G.A. Films",
+                "id": 116985
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0086975",
+        "original_language": "fr",
+        "popularity": 1.268,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 206400,
+        "title": "A Case of Honor",
+        "release_date": "1988-01-01",
+        "overview": "A Case of Honor is a 1991 film directed by Eddie Romero. After escaping from a Vietnamese pow camp where they had suffered for five years, five American soldiers attempt to get out of the country before being spotted by Russian and Vietnamese",
+        "poster_path": "/9KpQYnNw9PPXH3R0Bg66JqrTPv4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Eastern Film Management Corporation",
+                "id": 49266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094844",
+        "original_language": "en",
+        "popularity": 1.252,
+        "status": "Released",
+        "tagline": "Chasing Liberty, One Battle at a Time",
+        "video": false
+    },
+    {
+        "id_tmdb": 67423,
+        "title": "Promised... sworn!",
+        "release_date": "1987-12-09",
+        "overview": "The life and love affairs of a 12-year-old boy Pierre who lived in France during the Nazi occupation in 1944. We see his family, his chubby friend, the girl who ignores him - and the German defector who hides in the cellar. He suffers from a slightly more prominent nasal appendage than the average of his congeners. This complex initially serving it, will ultimately be the detonator of his success with women and the entire population of the city.",
+        "poster_path": "/nEM1uvK1v6wMLLLsxusfnDt02fS.jpg",
+        "backdrop_path": "/8ir78cmrRS0n6ywF5Y5DCNZAsr8.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont International",
+                "id": 7961
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095915",
+        "original_language": "fr",
+        "popularity": 1.245,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 560558,
+        "title": "92 Grosvenor Street",
+        "release_date": "1985-12-29",
+        "overview": "Professor-turned-spy Col. Calvin Turner and his associate, workaholic Lt. Shelley Flynn, plan a daring rescue behind enemy lines in World War II German-occupied Norway of a brilliant scientist who may or may not be aiding the Germans.",
+        "poster_path": "/1GoZuhjYdT3HTHo0prksCICgJzN.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0088783",
+        "original_language": "en",
+        "popularity": 1.236,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 205311,
+        "title": "Hitman the Cobra",
+        "release_date": "1987-10-03",
+        "overview": "Philippe (Richard Harrison) kills Roger (who sold information to the Japanese). Mike (Mike Abbott), Roger's brother, wants revenge and sends Bob, Blackie (Nathan Mutanda Chukueke) to find Philip.",
+        "poster_path": "/d4fFIr37XpQ3xxQ8qnAtORvqptB.jpg",
+        "backdrop_path": "/3oKmy99XttdcYG9NBW2p2bLz6Dj.jpg",
+        "production_companies": [
+            {
+                "name": "IFD Films and Arts",
+                "id": 45467
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1040019",
+        "original_language": "en",
+        "popularity": 1.234,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 540006,
+        "title": "Reporting from the Line of Fire",
+        "release_date": "1985-05-23",
+        "overview": "",
+        "poster_path": "/9ZL1LkmjLInaVhvthx8fhyzsxMt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0263932",
+        "original_language": "ru",
+        "popularity": 1.23,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 409749,
+        "title": "From Spring to Summer",
+        "release_date": "1988-01-01",
+        "overview": "This is a Democratic People’s Republic of Korea and Union of Soviet Socialist Republics co-production. This film is set during World War II, and is about a female Russian soldier named Masha. She is on a mission to discover a secret Japanese base in Korea. Everybody who accompanies her on the mission shortly dies, and she’s forced to stay with a local fisherman. She is trying to get the information about the base location back to the Russian army, because if she doesn’t, the Japanese will unleash the “Sakura Plan”, which is an all-out biological warfare assualt on the world.",
+        "poster_path": "/m2ZQT51W4vTRMl2tBQSLmrdzWHP.jpg",
+        "backdrop_path": "/vbPmiaRxzv5DQQs2zNwmTP8gagy.jpg",
+        "production_companies": [
+            {
+                "name": "National Film Studio of North Korea",
+                "id": 62249
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "Korean studio feature films",
+                "id": 105733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0307623",
+        "original_language": "ko",
+        "popularity": 1.182,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 424057,
+        "title": "Wartime",
+        "release_date": "1988-01-01",
+        "overview": "While on a seemingly routine delivery run for the Brigadier, Benton finds himself close to his childhood home, where ghosts from his past have never rested easily…  Trapped in a nightmare world where past and present are one, will he be lost forever or can he fight his way back to reality, where he is desperately needed?",
+        "poster_path": "/aSt8eWxb7yhfyNrqvfZcVLQgzfJ.jpg",
+        "backdrop_path": "/zwtcMC8GTEXPdGl7md1mIaT7SnG.jpg",
+        "production_companies": [
+            {
+                "name": "Reeltime Pictures",
+                "id": 51415
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6022,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://timetraveltv.com/programme/455",
+        "imdb_id": "tt0176315",
+        "original_language": "en",
+        "popularity": 1.181,
+        "status": "Released",
+        "tagline": "Warrant Officer John Benton never failed in his duty - but once, long ago, he did.",
+        "video": false
+    },
+    {
+        "id_tmdb": 933827,
+        "title": "...nebo být zabit",
+        "release_date": "1986-02-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0171039",
+        "original_language": "cs",
+        "popularity": 1.173,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 283655,
+        "title": "Esmeralda Bay",
+        "release_date": "1989-05-18",
+        "overview": "A priest secretly leads rebels in their struggle against the corrupt military dictatorship of the Central American country of Puerto Santo.",
+        "poster_path": "/gjnb09vzG4WV8BCer3viifKyO5g.jpg",
+        "backdrop_path": "/g8pLFGfzxhbkP2to1SdAHva695E.jpg",
+        "production_companies": [
+            {
+                "name": "Eurociné",
+                "id": 4799
+            },
+            {
+                "name": "Lluria Films",
+                "id": 119664
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 94104,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0096877",
+        "original_language": "en",
+        "popularity": 1.172,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 81617,
+        "title": "The Heroes",
+        "release_date": "1988-01-01",
+        "overview": "Based on a true story, The Heroes follows one of the most extraordinary and heroic exploits of World War II.  After months of rigorous training in the north of Australia, a team of 14 men, most barely out of their teens, set sail from Cairns on board a leaky old fishing boat called 'The Krait'.  Their mission, code-named Operation Jaywick, became a tense voyage through thousands of kilometres of Japanese held territory to launch a daring attack on Singapore Harbour.  The raid is a success but within sight of safety they encounter a Japanese destroyer, and all prepare to die rather than be taken prisoner.",
+        "poster_path": "/hv5CofKX6dw7ElZ0KonqF9mzeDq.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095297",
+        "original_language": "en",
+        "popularity": 1.165,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 162539,
+        "title": "Surname Viêt Given Name Nam",
+        "release_date": "1989-04-01",
+        "overview": "The film evolves around questions of identity, popular memory and culture. While focusing on aspects of Vietnamese reality as seen through the lives and history of women resistance in Vietnam and in the U.S, it raises questions on the politics of interviewing and documenting.",
+        "poster_path": "/tlvMUtwV4epz57VvL1nE6JcM2xd.jpg",
+        "backdrop_path": "/z8M0lUFo0JHan5jZGFdMDyNIMPQ.jpg",
+        "production_companies": [
+            {
+                "name": "Women Make Movies",
+                "id": 24488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://trinhminh-ha.com/films",
+        "imdb_id": "tt0098414",
+        "original_language": "en",
+        "popularity": 1.156,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 90505,
+        "title": "Soldier's Revenge",
+        "release_date": "1986-12-11",
+        "overview": "Frank Morgan risked his life for his country in the Vietnam War, but when he came home, no hero's welcome awaited him; instead he was branded a traitor. Nonetheless, he's about to make one more trip into hell to save the woman he loves and preserve her war-torn country.",
+        "poster_path": "/sqFRON2iPYdJrGHvYqcumbTVHsM.jpg",
+        "backdrop_path": "/iIFQYSMU45KvBajWZBXe2rYLEwX.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "PA",
+                "name": "Panama"
+            },
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0088345",
+        "original_language": "en",
+        "popularity": 1.147,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531054,
+        "title": "State Border: Vol. 7. Salty Wind",
+        "release_date": "1988-05-26",
+        "overview": "A group of saboteurs was sent into Estonia in 1959. This group included a local resident who also has his own personal goal: to find the daughter he lost at the end of the war while fleeing abroad.",
+        "poster_path": "/4ypOXEbyLym5pwRQQTO4KSOat0v.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            },
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1264437,
+            "name": "State Border"
+        },
+        "homepage": "",
+        "imdb_id": "tt1542808",
+        "original_language": "ru",
+        "popularity": 1.134,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 363075,
+        "title": "Jimbo",
+        "release_date": "1985-12-05",
+        "overview": "A military man temporarily discharged from service, returns to his hometown and incurs the ire of a ruthless landowner who orders his uncle and brothers killed.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Golden L Productions",
+                "id": 172472
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2509530",
+        "original_language": "tl",
+        "popularity": 1.128,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1095136,
+        "title": "The Drummer's Tale",
+        "release_date": "1985-07-11",
+        "overview": "A story about the feat of an unusual military unit - a brass band that took part in the heroic defense of Sevastopol.",
+        "poster_path": "/4HDwQlR6UQjW7HZuK725lQxo0Ez.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ukrtelefilm",
+                "id": 24299
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5652642",
+        "original_language": "ru",
+        "popularity": 1.127,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 499542,
+        "title": "Area 88 Act II: The Requirements of Wolves",
+        "release_date": "1985-08-05",
+        "overview": "Shin Kazama, tricked and forced into flying for the remote country of Aslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. Through the course of the series, Shin must deal with the consequences of killing and friends dying around him as tries to keep his mind on freeing himself from this nightmare.",
+        "poster_path": "/tBQ7J6uhYtB5gh5Z9CFtns8Dfnh.jpg",
+        "backdrop_path": "/nM9TysLUDIlHJt4YvoLpHhmXpXo.jpg",
+        "production_companies": [
+            {
+                "name": "Project 88",
+                "id": 99828
+            },
+            {
+                "name": "Pierrot",
+                "id": 3234
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 694676,
+            "name": "Area 88 Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt7758644",
+        "original_language": "ja",
+        "popularity": 1.115,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 167662,
+        "title": "War Story",
+        "release_date": "1989-09-27",
+        "overview": "This claymation short film uses a real interview for dialogue. Bill Perry relates stories about his youth, his tilted house, and adventures during WWII in Bristol, England during the blitz.  Preserved by the Academy Film Archive.",
+        "poster_path": "/iDDSfUiaZLu3KtupBHQMmqMNerW.jpg",
+        "backdrop_path": "/6T2sbFvi8N8k04XQF3dhTtlVeQm.jpg",
+        "production_companies": [
+            {
+                "name": "Aardman",
+                "id": 297
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098620",
+        "original_language": "en",
+        "popularity": 1.112,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 179068,
+        "title": "Batallions Ask for Fire",
+        "release_date": "1985-02-18",
+        "overview": "A story of a several days of intense fighting on the Eastern Front during one of the Soviet offensives in WWII.",
+        "poster_path": "/izg7YsiggWirENPsDrAIweXNeEI.jpg",
+        "backdrop_path": "/mLyaDNIBxYbyF2Oklv8PbshNm16.jpg",
+        "production_companies": [
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0088777",
+        "original_language": "ru",
+        "popularity": 1.108,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 403931,
+        "title": "Flag of Honor",
+        "release_date": "1987-10-07",
+        "overview": "Hong Kong romance set in wartime",
+        "poster_path": "/spDEq0HOcWd70EvUqMacGBW03Gy.jpg",
+        "backdrop_path": "/epPUGITipel7HqBXO459LepfJxz.jpg",
+        "production_companies": [
+            {
+                "name": "Central Motion Picture Corporation",
+                "id": 25345
+            },
+            {
+                "name": "Tomson Film Co., Ltd.",
+                "id": 81013
+            },
+            {
+                "name": "Golden Harvest Company Ltd.",
+                "id": 6379
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1295913",
+        "original_language": "zh",
+        "popularity": 1.106,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 265234,
+        "title": "Brothers in Blood",
+        "release_date": "1987-05-12",
+        "overview": "War is Hell... especially NAM. A group of battle weary soldiers in Vietnam are trapped behind enemy lines. There is no way back. No help on the way. It's only a matter of time and these guys intend to \"Die Fighting\". Bo Svenson and Peter Hooten together again (Inglorious Bastards) join the Late, great Werner Porchat (as a part-time drag queen commando) in this explosive Italian commando film.",
+        "poster_path": "/ep4QYd0V9x56zjQrQKaGg1jHn5h.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Minerva Pictures Group",
+                "id": 141270
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091997",
+        "original_language": "en",
+        "popularity": 1.102,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 237202,
+        "title": "A Soldier's Tale",
+        "release_date": "1988-06-16",
+        "overview": "In the days following the D-Day invasion in Normandy, France, a British platoon leader named Saul (Gabriel Byrne) and his corporal (Paul Wyett) reach an isolated farmhouse and encounter a beautiful French girl named Belle (Marianne Basler). Love blooms between Saul and Belle, but the grim realities of war catch up with them when a French Resistance trio claims that Belle is a Nazi collaborator. Judge Reinhold appears briefly as the token Yank.",
+        "poster_path": "/jFkbUcYCmGZ57g9wvoiVxbiHOuD.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mirage Atlantic",
+                "id": 81903
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NZ",
+                "name": "New Zealand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0096131",
+        "original_language": "en",
+        "popularity": 1.096,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 61760,
+        "title": "De Nuremberg à Nuremberg",
+        "release_date": "1989-11-21",
+        "overview": "Frédéric Rossif and Philippe Meyer draw the terrible fresco of the Second World War of the rise of Hitler and the Nazi party until his ultimate defeat (1933-1945). While carefully describing the sequence of events, they go back to the genesis of fascism, and the picture they draw from this first half of the twentieth century is both lucid and frightening. A page of history illustrated by a large number of unpublished documents.",
+        "poster_path": "/sQMBAEQNq1qhsRCZbOkGG5tTtgW.jpg",
+        "backdrop_path": "/l6BHa4Md2IbkittgVIxFi7nYvED.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.923,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0271455",
+        "original_language": "fr",
+        "popularity": 1.091,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 111522,
+        "title": "Eye of the Eagle 2: Inside the Enemy",
+        "release_date": "1989-06-20",
+        "overview": "When soldier Anthony Glenn discovers that Mai is missing, he sets out to rescue her from the corrupt Major Sorenson pitting soldier against soldier in a bloody game of honor.",
+        "poster_path": "/yJsxg7X6NQyN0PppzRLkRBoHOdU.jpg",
+        "backdrop_path": "/6OsYSQAwmTsw0fLtaZLRXMQK7Fs.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097317",
+        "original_language": "en",
+        "popularity": 1.088,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 283495,
+        "title": "Evening Bells",
+        "release_date": "1986-01-02",
+        "overview": "Trials and tribulations of a Croatian communist intellectual in the turbulent years before, during and after the Second World War.",
+        "poster_path": "/514HgKJAYfY8q02nbXMxishTuJz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "Montenegroexport",
+                "id": 31642
+            },
+            {
+                "name": "Jugoart",
+                "id": 31643
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092153",
+        "original_language": "sh",
+        "popularity": 1.086,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 121374,
+        "title": "Ninja Project Daredevils",
+        "release_date": "1985-01-01",
+        "overview": "A secret mission with the code name Project Daredevil is planned by the notorious Black Ninja Gang.",
+        "poster_path": "/2kH95bE6zgXZF3coRH4iaQpN2Lb.jpg",
+        "backdrop_path": "/bxrjVll4yy9irJjOoMZfZOjaoSZ.jpg",
+        "production_companies": [
+            {
+                "name": "Filmark International Ltd",
+                "id": 13029
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0199837",
+        "original_language": "en",
+        "popularity": 1.067,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531049,
+        "title": "State Border: Vol. 6. Beyond the Threshold of Victory",
+        "release_date": "1987-05-27",
+        "overview": "In the border zone of the Soviet-Polish state border, gangs of the Organization of Ukrainian Nationalists operated. Captain Olkhovik was given the task of infiltrating the OUN gang.",
+        "poster_path": "/uC1pwOZtt1iyqf7eI3EgI20KkJ8.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            },
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1264437,
+            "name": "State Border"
+        },
+        "homepage": "",
+        "imdb_id": "tt2693872",
+        "original_language": "ru",
+        "popularity": 1.06,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 430517,
+        "title": "Ordinary Heroes",
+        "release_date": "1986-05-17",
+        "overview": "This is about a man falling in love with a girl and then immediately gets drafted into the Army during the Vietnam War. In the war he becomes blind and gets discharged.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091693",
+        "original_language": "en",
+        "popularity": 1.053,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 165379,
+        "title": "Weekend in Hell",
+        "release_date": "1987-12-09",
+        "overview": "Two POWs - Russian and Lithuanian - are trying to escape a German Camp during WWII.",
+        "poster_path": "/uVmaR3jsVxgFd6yuouUTssCIyoI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lithuanian Film Studio",
+                "id": 2064
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lt",
+                "name": "Lietuvių"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0287104",
+        "original_language": "lt",
+        "popularity": 1.05,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 218117,
+        "title": "Those Whom Death Refused",
+        "release_date": "1988-08-29",
+        "overview": "The story of a woman who searches through the country for her husband, a resistant, while the war for independence is raging. She finds him at last and saves his life. When peace finally arrives, they have to learn how to be together again and start living in a destroyed land.",
+        "poster_path": "/1zoeJIVVU1EYAXy2qluy2EYUc8U.jpg",
+        "backdrop_path": "/yvZpjy3RZKd2pq4NbxHaFcPJiqZ.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GW",
+                "name": "Guinea-Bissau"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095658",
+        "original_language": "pt",
+        "popularity": 1.044,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 341265,
+        "title": "The Last Assault",
+        "release_date": "1985-01-01",
+        "overview": "The film tells about the period when Romania joined the Allies against the Axis in WW2.",
+        "poster_path": "/ruAtiF84I1GxELJ0HZYpkdFpVIb.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0126544",
+        "original_language": "ro",
+        "popularity": 1.043,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 67779,
+        "title": "My Combat Team",
+        "release_date": "1987-06-06",
+        "overview": "1945 год, война позади. Восемнадцатилетний сержант Сергей Кружкой после тяжелого ранения возвращается домой. Узнав, что в городе орудует банда преступников, герой решает помочь органам правопорядка и в одиночку начинает расследование. После первого столкновения с бандитами Сергей попадает в госпиталь. К нему приезжают фронтовые друзья и они вместе разрабатывают план действий…",
+        "poster_path": "/vp18KH90PPEkqvHygfN09nKKrdp.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093576",
+        "original_language": "ru",
+        "popularity": 1.038,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 269195,
+        "title": "Order No. 027",
+        "release_date": "1986-01-01",
+        "overview": "A group of elite soldiers is sent across the border to South Korea to destroy a military base.",
+        "poster_path": "/10JE0NXVpyBxI0NQNXK28A6iLSC.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Korea February 8 Film Studio",
+                "id": 76870
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0254594",
+        "original_language": "ko",
+        "popularity": 1.037,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 260803,
+        "title": "Madrid",
+        "release_date": "1987-03-18",
+        "overview": "Hans, a German director, is in Madrid to film a television production about the capital and the Civil War, 50 years after it occurred. Accompanied by Lucía, his editor, and Goyo, his cinematographer, he films shots of the modern city, searching for spaces and people related to its past. At the same time, he views materials related to the past. In this search, Hans questions the point of his project, and disagrees with his producers until he discovers a project that he is passionate about.",
+        "poster_path": "/81LBbvvrqLFHKOjB7pk1syQtF21.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093470",
+        "original_language": "es",
+        "popularity": 1.034,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 31928,
+        "title": "Ricochets",
+        "release_date": "1986-01-01",
+        "overview": "The story of a platoon of Israeli soldiers in Lebanon of 1986, shortly before Israeli withdrawal, and the dilemmas they face in having to fight against Lebanese guerilla in a hostile but civilian area.",
+        "poster_path": "/5DPFGkq5amrOL1vb4txu7ea0viS.jpg",
+        "backdrop_path": "/jBczXmg77sCBgIBQnmsEcOlRSgZ.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091950",
+        "original_language": "he",
+        "popularity": 1.033,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 169685,
+        "title": "Contact",
+        "release_date": "1985-01-06",
+        "overview": "A platoon of British paratroopers on border patrol in South Armagh face a series of tense encounters.",
+        "poster_path": "/cX2FpXcpEIjs2jMb3Xmp1k0jhNJ.jpg",
+        "backdrop_path": "/7xI9FCDuRDWbeiMqzOvtLtBlXmw.jpg",
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.591,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0088949",
+        "original_language": "en",
+        "popularity": 1.027,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 242638,
+        "title": "Raiders of the Golden Triangle",
+        "release_date": "1985-06-07",
+        "overview": "The Thai government sends a man in undercover to a guerrilla compound to bring down Thailand's biggest drug lord, who supplies opium to most of the world.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0238547",
+        "original_language": "en",
+        "popularity": 1.013,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 358118,
+        "title": "Displaced Person",
+        "release_date": "1985-05-06",
+        "overview": "Displaced Person is a 1985 Emmy award winning drama based on a short story by Kurt Vonnegut. It was directed by Alan Bridges and adapted by Fred Barron from a story in the Welcome to the Monkey House collection.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "HTV Cymru Wales",
+                "id": 24791
+            },
+            {
+                "name": "Hemisphere Productions",
+                "id": 115801
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0178364",
+        "original_language": "en",
+        "popularity": 1.005,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 210889,
+        "title": "Latino",
+        "release_date": "1985-02-28",
+        "overview": "The fighting between the Sandinista government in Nicaragua and the Contra rebels backed by U.S. money and expertise is the focus of this pro-Sandinista film by Haskell Wexler. On a secret mission to help the U.S. Special Forces train Contra rebels in the jungles of Nicaragua, American soldier Eddie Guerrero begins to question the morality of the task at hand and consider how his actions may influence the fate of a nation.",
+        "poster_path": "/yg6naaxerohdtclA1syKHb3AoWE.jpg",
+        "backdrop_path": "/uY9STPwmLv6pJPdoH2n46bIlxgo.jpg",
+        "production_companies": [
+            {
+                "name": "Neruda Corporation",
+                "id": 93089
+            },
+            {
+                "name": "Las Flores Company",
+                "id": 93090
+            },
+            {
+                "name": "Lucasfilm Ltd.",
+                "id": 1
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089463",
+        "original_language": "en",
+        "popularity": 0.998,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 153383,
+        "title": "Phantom Soldiers",
+        "release_date": "1987-01-01",
+        "overview": "Texas Ranger Daniel Custer leaves for Vietnam to find his brother Michael, a Green Beret Lieutenant who has been reported missing in action. Michael's squad was searching for a mysterious group of 'phantom soldiers' that had been using US-made arms for massacring villages and killing unarmed civilians. Daniel goes out on his own into the jungles of Vietnam to find his brother and stop these killers.",
+        "poster_path": "/sCO3edEVNx0qmj4Vk3vJ1r3afz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Regal Entertainment",
+                "id": 8238
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0222269",
+        "original_language": "it",
+        "popularity": 0.996,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 433130,
+        "title": "Special Forces Squad",
+        "release_date": "1987-12-20",
+        "overview": "",
+        "poster_path": "/a3Rraw3mBY0hZ605pXevCkaVHI1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sverdlovsk Film Studio",
+                "id": 11436
+            },
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4760824",
+        "original_language": "ru",
+        "popularity": 0.989,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 54661,
+        "title": "Balkan Express 2",
+        "release_date": "1988-01-01",
+        "overview": "A group of musicians, whose band is called \"Balkan express\", in fact a quintet of small-time crooks , trying to make some money in Nazi-occupied Serbia.",
+        "poster_path": "/pqbpXJmvoXpf5AFjwLsiaqyfgIa.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TRZ Ton i film",
+                "id": 65883
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0383905",
+        "original_language": "sh",
+        "popularity": 0.986,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 484418,
+        "title": "Romance of the Three Kingdoms",
+        "release_date": "1985-03-20",
+        "overview": "Sangokushi is set in the waning days of the Han dynasty. Central rule has disintegrated, and the land is controlled by multiple warlords. Liu Bei Xuande is a warrior who aspires to build a just state and to serve the people.",
+        "poster_path": "/j0MFvysE66FBWKsJyzel72spHyu.jpg",
+        "backdrop_path": "/6Pt3iGLPAax9CyPpcv5iaggh9bR.jpg",
+        "production_companies": [
+            {
+                "name": "Shin-Ei Animation",
+                "id": 5141
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 739569,
+            "name": "Sangokushi OVA Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt7973996",
+        "original_language": "ja",
+        "popularity": 0.972,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 653040,
+        "title": "Blue Comet SPT Layzner: Act-II Le Cain 1999",
+        "release_date": "1986-09-21",
+        "overview": "OVA that recaps the second part (episodes 26-37) of the Layzner TV series.",
+        "poster_path": "/bVNi2GDmU6KitedPZQPzoN3wL6Y.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 653043,
+            "name": "Blue Comet SPT Layzner OVA Collection"
+        },
+        "homepage": "http://www.sunrise-inc.co.jp/international/works/detail.php?cid=213",
+        "imdb_id": "tt31091123",
+        "original_language": "ja",
+        "popularity": 0.96,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 471480,
+        "title": "A Tale of a Loud Drum",
+        "release_date": "1987-08-18",
+        "overview": "A tale of a twelve years old Larik, one of the young heroes of Civil War in Russia.",
+        "poster_path": "/mQ99diznNavahCuutWXO6dmmZ2V.jpg",
+        "backdrop_path": "/fD6TPRZjqL54go5zwLZIcU8CNhR.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0300490",
+        "original_language": "ru",
+        "popularity": 0.956,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 636773,
+        "title": "War is Raging Somewhere",
+        "release_date": "1986-08-02",
+        "overview": "The seventeen-year-old Mitya Nenashkin, whom the war found far behind the lines in Siberia, had to endure and see a lot of difficult and tragic things. But the overwhelming majority of Mitya met kind, courageous people who were ready to help others and share their last. In this environment, the character of a smart, brave guy who volunteered for the front was formed.",
+        "poster_path": "/4er7CznRM92oeVCrfvROPmyfGNN.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "uk",
+                "name": "Український"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5665560",
+        "original_language": "uk",
+        "popularity": 0.951,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 255198,
+        "title": "Jungle Assault",
+        "release_date": "1989-10-18",
+        "overview": "Two Vietnam vets with nothing to lose are called back into the bloodiest action of their lives. Their assignment: locate and destroy a terrorist base and bring back a General's daughter alive.",
+        "poster_path": "/rkSX1jUiPNxNr5HMzqlSU4zYMUZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Action International Pictures",
+                "id": 1971
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097632",
+        "original_language": "en",
+        "popularity": 0.944,
+        "status": "Released",
+        "tagline": "Kidnapped, Framed and Marked to Die!",
+        "video": false
+    },
+    {
+        "id_tmdb": 1127868,
+        "title": "Morenga",
+        "release_date": "1985-02-16",
+        "overview": "Set in 1904, this is an uneven tale of war and intrigue between native South Africans, German colonialists, and British colonialists, a war no one really wins.",
+        "poster_path": "/3g9HswDY5GDKcYDOQpuS7h3IhWj.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Provobis Gesellschaft für Film und Fernsehen",
+                "id": 51311
+            },
+            {
+                "name": "Telenormfilm",
+                "id": 53938
+            },
+            {
+                "name": "WDR",
+                "id": 46
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0124011",
+        "original_language": "de",
+        "popularity": 0.939,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 313540,
+        "title": "Movie in Action",
+        "release_date": "1987-01-01",
+        "overview": "A movie crew is shooting in Thailand when some military guys kidnap the female star. The crew decide to fight back to get the movie star while shooting their movie.",
+        "poster_path": "/bFEKEC9B3llv1SeLKjvgnsZQB0N.jpg",
+        "backdrop_path": "/s8rdoiu55GBNLhIAYkofB4EsZyL.jpg",
+        "production_companies": [
+            {
+                "name": "Silver Star Film Corporation",
+                "id": 12741
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0378389",
+        "original_language": "en",
+        "popularity": 0.938,
+        "status": "Released",
+        "tagline": "It started as a war ... but ended with real violence!",
+        "video": false
+    },
+    {
+        "id_tmdb": 295838,
+        "title": "Last Platoon",
+        "release_date": "1988-08-21",
+        "overview": "After ex-cop and highly decorated war hero Chet Costa's Vietnamese girlfriend disappears, he accepts a risky mission: he shall blow up a bridge at the Vietnamese border to close the Vietcong's line of communication. He's given a group of prisoners to accompany him. Already on the way there their helicopter is shot down; a march through the wilderness begins. When his soldiers recognize that they're effectively on a suicide mission, they decide to get rid of their Seargent and to flee to Bangkok.",
+        "poster_path": "/mKJSi5Ls7o12BDLOwvzo35kWada.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Reteitalia",
+                "id": 1242
+            },
+            {
+                "name": "Gico Cinematografica S.r.L.",
+                "id": 4787
+            },
+            {
+                "name": "DMV Distribuzione",
+                "id": 12740
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095493",
+        "original_language": "en",
+        "popularity": 0.931,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 361167,
+        "title": "Встреча перед разлукой",
+        "release_date": "1985-09-24",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ekran",
+                "id": 6608
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0266019",
+        "original_language": "ru",
+        "popularity": 0.926,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 189325,
+        "title": "The Dark Night of the Soul",
+        "release_date": "1989-02-23",
+        "overview": "Pantheon filmmaker Carlos Saura bounced back from a handful of failures with 1989's La Noche Oscura (The Dark Night). Juan Diego stars as San Juan de la Cruz (St. John of the Cross), the legendary 16th-century poet-prophet. Galvanized into action by the spirit of Santa Teresa de Jesus, San Juan fought to install reforms in the Carmelite Order. Like many another visionary, he was regarded as a heretic, and promptly subjected to the most appalling of tortures. Writer-director Saura manages to draw several parallels between the religious persecution of the 1700s and the political despotism of Fascist Spain.",
+        "poster_path": "/b5Hv9CUI8SO0NDVjuL0gFkAjnyH.jpg",
+        "backdrop_path": "/frexIfupsoYQIU9Qx11VyfR8u9R.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097998",
+        "original_language": "es",
+        "popularity": 0.921,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 934780,
+        "title": "Anxiety of the First Birds",
+        "release_date": "1986-02-15",
+        "overview": "1944 Sergeant Vasily Kalina returns to his native village of Pastoron after the hospital. But he does not find the village: retreating, the Germans burned all the houses and mined the fields. The restoration of the economy is led by the former commander of the partisan detachment Grigory Gorovoy. He appoints Vasily as the chairman of the collective farm. Soon Kalina learns that Claudia, whom he loved before the war, considering him dead, married Gorovoy. The current situation is not an easy test for all three...",
+        "poster_path": "/b9e51URmDlpKlaIYLOEop2jWPmI.jpg",
+        "backdrop_path": "/7Ue5yO8031XnNX9sYS63X4wl4oy.jpg",
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0265899",
+        "original_language": "ru",
+        "popularity": 0.92,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 657502,
+        "title": "Special Mission",
+        "release_date": "1987-10-05",
+        "overview": "In 1943, a drunk cook is mistaken for a secret agent and sent on a special mission from London to Nazi-occupied Poland.",
+        "poster_path": "/WjOO1FNuTU6azBaVuRR2JX2cYG.jpg",
+        "backdrop_path": "/wDWNmLeC1ceo30Gp3hhL03umWuZ.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Perspektywa\"",
+                "id": 2552
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093547",
+        "original_language": "pl",
+        "popularity": 0.919,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1244324,
+        "title": "The Trembing Gold Wings",
+        "release_date": "1986-01-01",
+        "overview": "Forest workers need protection from bugs.",
+        "poster_path": "/zV5SWvK7FC0b89xLFTQurcnUiRd.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0354449",
+        "original_language": "zh",
+        "popularity": 0.911,
+        "status": "Released",
+        "tagline": "Forest workers need protection from bugs.",
+        "video": false
+    },
+    {
+        "id_tmdb": 259706,
+        "title": "Cobra Mission 2",
+        "release_date": "1988-09-09",
+        "overview": "A Vietnam vet who specializes in freeing POWs goes behind enemy lines on a rescue mission with a group of mercenaries.",
+        "poster_path": "/gnsnXGEbrJDmDLhbBHl2hWK0t5m.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Fulvia Film",
+                "id": 13682
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097072",
+        "original_language": "en",
+        "popularity": 0.906,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 558061,
+        "title": "Coordinates of Death",
+        "release_date": "1986-03-17",
+        "overview": "The story of a group of Soviet sailors aboard the freighter Chelyabinsk who aid their Vietnamese comrades after their ship is sunk during the Vietnam War.",
+        "poster_path": "/opmw6cwYpAFW8RjRwBsTMst7Py.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            },
+            {
+                "name": "Sovinfilm",
+                "id": 32054
+            },
+            {
+                "name": "Vietnam Feature Film Studio",
+                "id": 21300
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0264766",
+        "original_language": "ru",
+        "popularity": 0.893,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 669119,
+        "title": "Sentenced to Death",
+        "release_date": "1987-04-04",
+        "overview": "",
+        "poster_path": "/2TjKowC2tp2DDiksGXiESKvBW25.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "K Video Productions",
+                "id": 128582
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1045001",
+        "original_language": "el",
+        "popularity": 0.888,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 119590,
+        "title": "Jungle Rats",
+        "release_date": "1988-03-10",
+        "overview": "The American army sets up a special force to free two American officers who were captured by the Vietcong in Vietnam in 1976.",
+        "poster_path": "/htpYQeLAKQfBxdp2GcYk1fJOY1f.jpg",
+        "backdrop_path": "/dCzOVFYarzWuhJdmWjMEsqztXEm.jpg",
+        "production_companies": [
+            {
+                "name": "Pacific Media Film Group",
+                "id": 113577
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093322",
+        "original_language": "en",
+        "popularity": 0.887,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 746417,
+        "title": "The Crossing",
+        "release_date": "1988-06-27",
+        "overview": "WWII. Joined forces of Polish and Russian partisans (despite they are in conflict) stand against German Sturmwind I & II actions.",
+        "poster_path": "/t2461R3tAtteUDLOvIHdYiSbqSu.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "PRF Zespoły Filmowe",
+                "id": 140689
+            },
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "be",
+                "name": "беларуская мова"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0300329",
+        "original_language": "pl",
+        "popularity": 0.879,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 505738,
+        "title": "Three Cloaked Men",
+        "release_date": "1985-03-17",
+        "overview": "Three cloaked partisans are carrying out their duty in the harsh winter. During the way, they are disovered by the Germans.. The shepherd, Xhemo use a brave trick to save them, thus risking his life.",
+        "poster_path": "/2oAY7RJiOK9ZGkOsxxmLnuPYajF.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0354121",
+        "original_language": "sq",
+        "popularity": 0.876,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 705813,
+        "title": "Virtuti",
+        "release_date": "1989-09-20",
+        "overview": "",
+        "poster_path": "/s91lygx8dwFqfvv5LTm5AHIKX2A.jpg",
+        "backdrop_path": "/7lOZDvV0dkEcukGGHMWRofFgZVO.jpg",
+        "production_companies": [
+            {
+                "name": "Centralna Wytwórnia Programów i Filmów Telewizyjnych „POLTEL”",
+                "id": 75789
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7605524",
+        "original_language": "pl",
+        "popularity": 0.871,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 369006,
+        "title": "Gabi Na, Kumander",
+        "release_date": "1986-11-20",
+        "overview": "Gabi Na Kumander is the story of two brothers with opposite beliefs who suddenly find themselves in a fight for what each one believes is right. Ramil Macan had been assigned to fight the rebels in Sto. Nio and he discovers that the rebel leader is no other than his younger brother, whom he had given up for dead years ago. Ronald Macan, former law student and activist, took to the hills with the imposition of martial law. He is known as Kumander Kobra. Ramil had been assigned to put a stop to his activities and in the name of the law to take him dead or alive.",
+        "poster_path": "/89mST0QemwbF5BWdUByfDhzaUNx.jpg",
+        "backdrop_path": "/kpmEvMW7cw1JDgQ6fbLGQ45688x.jpg",
+        "production_companies": [
+            {
+                "name": "Viva Films",
+                "id": 8356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0408807",
+        "original_language": "tl",
+        "popularity": 0.86,
+        "status": "Released",
+        "tagline": "He is the deadliest rebel in the land. For ten years, he built his army in the mountains. now he's about to face his greatest challenge.",
+        "video": false
+    },
+    {
+        "id_tmdb": 364554,
+        "title": "The Bloody Battle of Taierzhuang",
+        "release_date": "1986-01-01",
+        "overview": "The Chinese army stops the Japanese army in 1938 at Suzhou.",
+        "poster_path": "/hed9RFqawfGPun7jbYesMhuRrri.jpg",
+        "backdrop_path": "/h1s3FNJRfy2RniE7QkGJUZM6wkZ.jpg",
+        "production_companies": [
+            {
+                "name": "Guangxi Film Studio",
+                "id": 38550
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0340453",
+        "original_language": "zh",
+        "popularity": 0.855,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 209496,
+        "title": "The Debt",
+        "release_date": "1988-08-04",
+        "overview": "The drama tells the story of an Argentine elementary-school teacher sent by the government to a rural hamlet located in the northwestern province of Jujuy. It shows how he touches the lives of the villagers, especially the young and impressionable boy Verónico, whose mother died and father left to seek work when he was an infant. The film is based on a non-fiction book written by Fortunato Ramos, a rural teacher in northwest Argentina, that discusses his teaching experiences.",
+        "poster_path": "/xgNbrxnRSQoycosF6Q1zVEfKFoq.jpg",
+        "backdrop_path": "/3JiKzYyHnIm9PqEjlJkI5jLSQah.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092880",
+        "original_language": "es",
+        "popularity": 0.854,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 547250,
+        "title": "In the Name of Freedom",
+        "release_date": "1987-09-09",
+        "overview": "A wounded Greek partisan is helped by Albanian partisans and hidden in the house of an old woman, but his life is still in danger due to the presence of Nazis.",
+        "poster_path": "/jgyioGpraCmPlDbiqySBGBPjDFg.jpg",
+        "backdrop_path": "/oR82aWoCsAzRsVnpv7DONBjpgas.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0298090",
+        "original_language": "sq",
+        "popularity": 0.845,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 327223,
+        "title": "Time of the Leopards",
+        "release_date": "1985-06-16",
+        "overview": "As children, a Mozambique native and a Portuguese colonialist were friends. Years have passed and Mozambique is fighting for its independence. Two childhood friends meet on opposing sides.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            },
+            {
+                "name": "Instituto Nacional de Cinema de Moçambique",
+                "id": 178289
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MZ",
+                "name": "Mozambique"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            },
+            {
+                "iso_639_1": "sw",
+                "name": "Kiswahili"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090280",
+        "original_language": "pt",
+        "popularity": 0.838,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1188248,
+        "title": "Malhamat Kabreet",
+        "release_date": "1985-10-07",
+        "overview": "",
+        "poster_path": "/gAJIgtvks4365CsCxv6uapyuuCA.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ar",
+        "popularity": 0.832,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43983,
+        "title": "Marriage of the Blessed",
+        "release_date": "1989-02-01",
+        "overview": "Haji is severely traumatized by the war with Iraq. Back from the front, he's unable to adapt to civilian life. Despite family opposition, his fiancée stands by him as together they challenge both the authority of family and state to lead their own lives.",
+        "poster_path": "/hUK0Zriw9LZBZY5WIGaIROhE6io.jpg",
+        "backdrop_path": "/f4zp7xO7WKPniiSJ7fQimJBaPJB.jpg",
+        "production_companies": [
+            {
+                "name": "Open City Entertainment",
+                "id": 54086
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fa",
+                "name": "فارسی"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0096833",
+        "original_language": "fa",
+        "popularity": 0.832,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 96615,
+        "title": "Shadow of Victory",
+        "release_date": "1986-01-16",
+        "overview": "",
+        "poster_path": "/c7LIL4EZJ9MV27rwdo3h8ikZOiN.jpg",
+        "backdrop_path": "/br5FoYidUwtEITzuNRSe0p6hkmV.jpg",
+        "production_companies": [
+            {
+                "name": "Sigma Film Productions",
+                "id": 15187
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091263",
+        "original_language": "nl",
+        "popularity": 0.827,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 612970,
+        "title": "Miss Arizona",
+        "release_date": "1988-02-04",
+        "overview": "Story of the owners (Mastroianni and Schygulla) of a fancy nightclub in Budapest before and during WWII.",
+        "poster_path": "/6BWi639Fm8xaAfuQS6OgLyzG0X2.jpg",
+        "backdrop_path": "/vGLk8CH32YHh7z5OinjD8d6G7oS.jpg",
+        "production_companies": [
+            {
+                "name": "Mastro Film",
+                "id": 120295
+            },
+            {
+                "name": "Video Distributori Associati",
+                "id": 120296
+            },
+            {
+                "name": "Reteitalia",
+                "id": 1242
+            },
+            {
+                "name": "Hungarofilm",
+                "id": 7014
+            },
+            {
+                "name": "Hunnia Filmstúdió",
+                "id": 7013
+            },
+            {
+                "name": "Milano Film",
+                "id": 203790
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093579",
+        "original_language": "en",
+        "popularity": 0.826,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 110138,
+        "title": "Night Wars",
+        "release_date": "1988-03-01",
+        "overview": "Two Vietnam Veterans have realistic nightmares about the war. So real are these nightmares that they start getting injured in them, and bringing things back that they had in the dream. They then buy weapons and go in to try and get one of their friends out that originally died in a POW camp during the Vietnam war. This is made harder by a traitor from the US Military Corps.",
+        "poster_path": "/ep45WUkHuYTYl6wgBghIWMpdq6b.jpg",
+        "backdrop_path": "/pB47N1A9lj6fxlgxZWvRlMuTg2B.jpg",
+        "production_companies": [
+            {
+                "name": "Action International Pictures",
+                "id": 1971
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095734",
+        "original_language": "en",
+        "popularity": 0.822,
+        "status": "Released",
+        "tagline": "Where dreams turn to deadly nightmares…",
+        "video": false
+    },
+    {
+        "id_tmdb": 356035,
+        "title": "Sokol Did Not Love Him",
+        "release_date": "1988-07-20",
+        "overview": "The story begins in a small rural village in Ladimirevci, Eastern Croatia in 1943, where a land owner Sima is helping the Partisan Movement and the official Ustasha regime in order to save the life of his son Beneš, who is enlisted in the German army. Sima doesn't want to let his son fight for the wrong side any more, and doesn't want to give him to the Partisans either, so he hides him in his attic for the time being. The story is interwoven with episodes of Sima trying to muster a beautiful stallion - Sokol - who only answers to his son Beneš and clearly doesn't like his old man.",
+        "poster_path": "/aXqqic0rdSs2wsAuUYrFXFkgwFB.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zagreb film",
+                "id": 5724
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0121757",
+        "original_language": "sh",
+        "popularity": 0.816,
+        "status": "Released",
+        "tagline": "Sokol Did Not Love Him",
+        "video": false
+    }
+]

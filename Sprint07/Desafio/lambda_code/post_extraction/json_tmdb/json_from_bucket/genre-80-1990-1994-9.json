@@ -1,0 +1,3833 @@
+[
+    {
+        "id_tmdb": 1296133,
+        "title": "Murder at Cloister Ponds",
+        "release_date": "1991-05-05",
+        "overview": "On the night of the murder of a high-ranking official, the police apprehend a group of young men on motorbikes drinking near the scene of the crime. Captain Rogalev and investigator Avdeev are ordered to solve the murder at any cost.",
+        "poster_path": "/6DgA90CGMvBSdcQOrmUGoagB0f7.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100831",
+        "original_language": "ru",
+        "popularity": 1.813,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 475696,
+        "title": "Yakuza Ladies Revisited: Love is Hell",
+        "release_date": "1994-01-15",
+        "overview": "The seventh movie of the series “Yakuza Ladies” focuses on a wife of a small Osaka family. She risks her life to protect her husband’s family and its members against much larger, more established organizations.",
+        "poster_path": "/kdvRoQH8C2X3S8obR9ybS83wRzZ.jpg",
+        "backdrop_path": "/4toQATvID74y1wlplVAJ2iI0cZL.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 520945,
+            "name": "Yakuza Ladies series"
+        },
+        "homepage": "",
+        "imdb_id": "tt0226441",
+        "original_language": "ja",
+        "popularity": 1.808,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 179825,
+        "title": "Polski Crash",
+        "release_date": "1994-01-25",
+        "overview": "Early 90's. The political and economic landscape of Poland, Russia and Germany is changing. Both good and bad sides of freedom are revealed. The mafia is becoming more and more bold, operating without obstacles across borders. One of the more lucrative \"businesses\" is the trade in luxury cars, stolen in Germany and transferred to Russia by Russia.",
+        "poster_path": "/iHHQ41f5qwVnBjGdydhI1JY4FNw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gemini Filmproduktion",
+                "id": 13657
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107849",
+        "original_language": "pl",
+        "popularity": 1.807,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 447205,
+        "title": "The Untold Story: Vizconde Massacre II - May the Lord Be with Us!",
+        "release_date": "1994-06-16",
+        "overview": "Follow-up to the previous year's sensationalist hit The Vizconde Massacre: God, Help Us! (based on a real, gruesome, then-unsolved triple murder that was hogging Filipino newspaper space at the time), this includes new evidence in the case.",
+        "poster_path": "/ckkHau5Hng7WF4iIscv4cfrQwbG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Viva Films",
+                "id": 8356
+            },
+            {
+                "name": "Golden Lions Films",
+                "id": 59631
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0428022",
+        "original_language": "tl",
+        "popularity": 1.806,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 518400,
+        "title": "Tulips in August",
+        "release_date": "1992-01-01",
+        "overview": "Tulips in August is a Hong Kong made-for-TV movie starring Lau Ching Wan",
+        "poster_path": "/9kYkhRSbqvLUf0EASS75U0HCS3.jpg",
+        "backdrop_path": "/m0NJFdRwi7dbbEx33d2AKewPhQg.jpg",
+        "production_companies": [
+            {
+                "name": "TVB",
+                "id": 79261
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0121834",
+        "original_language": "cn",
+        "popularity": 1.804,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 649867,
+        "title": "Return to Blood River",
+        "release_date": "1994-04-13",
+        "overview": "Douglas Livingstone has direct experience of the tensions in South Africa. On a research visit there in the summer of 1993, he was mugged within 24 hours of arriving in Johannesburg. Over the following week. the East Rand riots claimed 600 lives.",
+        "poster_path": "/sjbdF2M6tJWHayl6tF6C9NnJxA1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0390432",
+        "original_language": "en",
+        "popularity": 1.798,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 590830,
+        "title": "The American Gangster",
+        "release_date": "1992-07-01",
+        "overview": "They fixed the World Series. They built Las Vegas. They terrorized America with their vicious murders and fearless robberies. They are men named Bugsy Siegel, Al Capone, John Dillinger, Pretty Boy Floyd, and Lucky Luciano. And, for the first time, THE AMERICAN GANGSTER tells the true story behind their ruthless rise to wealth and power. Filled with vintage film and actual photographs, THE AMERICAN GANGSTER is a gripping look at the birth of organized crime. From prohibition to prostitution, from gangland massacres to gambling empires, their most infamous deeds are chronicled in shocking detail. Even more explosive than the movies they inspired, such as Scarface and The Godfather, are the true histories of the brilliant, brutal gangsters who turned the American Dream into an ongoing nightmare.",
+        "poster_path": "/s4YvR3LPn4FMnSBN2PDb52G7s3y.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0297726",
+        "original_language": "en",
+        "popularity": 1.798,
+        "status": "Released",
+        "tagline": "Crime pays.",
+        "video": false
+    },
+    {
+        "id_tmdb": 396417,
+        "title": "I Know My Son Is Alive",
+        "release_date": "1994-02-20",
+        "overview": "A couple's life is torn apart by the disappearance of their new-born son.",
+        "poster_path": "/nXZjyh0nnxVa0TBRjBaK2L55urg.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Alexander/Enright & Associates",
+                "id": 9022
+            },
+            {
+                "name": "World International Network (WIN)",
+                "id": 9024
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0108529",
+        "original_language": "en",
+        "popularity": 1.796,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 71341,
+        "title": "Varenyi's Last Job",
+        "release_date": "1994-06-06",
+        "overview": "After four years, a young freight forwarder Sizuhin suddenly learns that under the guise of shipments of baby food his firm is involved in drug smuggling. Deciding to understand this case, he begins to fight the mafia and seeks help from a professional thief named \"Varyoniy\".",
+        "poster_path": "/pNZNHuyu0KsM1b4dCldlmGIlH5Z.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 170208
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2375425",
+        "original_language": "ru",
+        "popularity": 1.793,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1000939,
+        "title": "Pacifico Guevarra: Dillinger ng Dose Pares",
+        "release_date": "1992-12-08",
+        "overview": "Raymart Santiago stars as the title character of this thrilling biopic that chronicles a local thief’s action-packed reputation by emulating an infamous American gangster. When shady officials try to test him, he makes sure to show them that he’s more than just a namesake.",
+        "poster_path": "/5vSkNM0BcziRM3yZPno7H6oHhZz.jpg",
+        "backdrop_path": "/s99jglYGMTKUAMV3jBXL0lPjVLl.jpg",
+        "production_companies": [
+            {
+                "name": "Viva Films",
+                "id": 8356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0786986",
+        "original_language": "tl",
+        "popularity": 1.792,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 303490,
+        "title": "Braveful Police",
+        "release_date": "1990-01-01",
+        "overview": "Four Taiwanese women are tricked and forced into sexual slavery in Japan. However, they manage to escape. They now seek revenge.",
+        "poster_path": "/44nybtwmsCzeRirEFTTMnZBQzvq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "New Ship Film Enterprise",
+                "id": 81070
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099886",
+        "original_language": "zh",
+        "popularity": 1.788,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 161412,
+        "title": "Sangdil Sanam",
+        "release_date": "1994-02-02",
+        "overview": "Kailash Nath is the Manager of a Bank and lives a comfortable lifestyle with his wife and son. He is friendly with the Bank Watchman, Shankar Dayal Khurana, so much so that he arranges the marriage of Kishan with Shankar's daughter, Sanam.",
+        "poster_path": "/8Tk1tRfaSbMNO56ACuyWnq99X07.jpg",
+        "backdrop_path": "/5gA51sr2Jmol39MmWl8E0ZHJLak.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0111067",
+        "original_language": "hi",
+        "popularity": 1.788,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 26309,
+        "title": "Replikator",
+        "release_date": "1994-01-01",
+        "overview": "In a poisoned world where sunshine kills, a hit squad from the Zyklor Corporation interrupts the testing of a matter replikator capable of duplicating living tissue for the purpose of extending human life. When the smoke clears, scientist Ludovic finds himself framed for murder and on the run from an exact duplicate... of himself. Joining forces with ex-lover Kat Moscow and cynical Detective Valiant, Ludovic follows the bloody path of destruction wrought by a monster with his face.",
+        "poster_path": "/w7RFI8dLcYQLknwGPaIT1iDRUrl.jpg",
+        "backdrop_path": "/rEqNSiBqcoJw7U7UVOlh4eE51BY.jpg",
+        "production_companies": [
+            {
+                "name": "Producers Network Associates",
+                "id": 40014
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.667,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110972",
+        "original_language": "en",
+        "popularity": 1.785,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 755029,
+        "title": "Stop",
+        "release_date": "1991-03-02",
+        "overview": "Fattouh works in change currency and heroin . He is surprised that his girlfriend Susu has become addicted. A Zionist drug smuggling organization recruits him to steal the serum of scientist Dr. Nomani, that purifies the blood of addiction. Fattouh decides to take down the members of the organization and help the police catches them.",
+        "poster_path": "/bg41QpPn7Gz76WIgMA2mwM4wakk.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "am",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ar",
+        "popularity": 1.783,
+        "status": "Released",
+        "tagline": "Stop",
+        "video": false
+    },
+    {
+        "id_tmdb": 526513,
+        "title": "Maji!",
+        "release_date": "1991-04-13",
+        "overview": "Based on the comic book by Ayumi Tachihara.",
+        "poster_path": "/hk3TZifbHo6QbHD7YPiGWl2gtU1.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.776,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 471962,
+        "title": "Я сама",
+        "release_date": "1993-08-09",
+        "overview": "",
+        "poster_path": "/2Sn3alSq9eTzZIfUzpCDvVZDLgD.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Odissey",
+                "id": 13852
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "UA",
+                "name": "Ukraine"
+            },
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0108617",
+        "original_language": "ru",
+        "popularity": 1.776,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 611624,
+        "title": "Group Molesters: Peeping on the Housewife",
+        "release_date": "1991-11-23",
+        "overview": "",
+        "poster_path": "/jjQVREHYMVFq63w3DzKtxPyzmL2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Kokuei Company",
+                "id": 9301
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0291482",
+        "original_language": "ja",
+        "popularity": 1.775,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1074354,
+        "title": "Shizukanaru Don: Yakuza Side Story",
+        "release_date": "1991-04-12",
+        "overview": "",
+        "poster_path": "/jzg1E1pzehcDYCtSjsrCm31Q8hi.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Tokyo Movie Shinsha",
+                "id": 3069
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.774,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 261194,
+        "title": "Requital",
+        "release_date": "1992-11-19",
+        "overview": "A young Taiwanese man after being released from prison starts his life as a gangster. He goes to Hong Kong to do some business with the Triads.",
+        "poster_path": "/or9sHBsZtNgccu81Ge52hxWyCuw.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105845",
+        "original_language": "cn",
+        "popularity": 1.773,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 434288,
+        "title": "Chop-Chop Lady: The Elsa Castillo Story",
+        "release_date": "1994-02-01",
+        "overview": "A battered housewife was butchered into pieces by her spurned lover and throw her body parts in different places.",
+        "poster_path": "/jA8F2tpJtC9lsxWbx5A7sCbEjBL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "FLT Films International",
+                "id": 58470
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5256744",
+        "original_language": "tl",
+        "popularity": 1.772,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 572145,
+        "title": "Killer",
+        "release_date": "1990-01-01",
+        "overview": "In a sudden rush Smirnovyh family tragedy: their underage daughter Tanyu raped three guys. One of them - the son of director of the factory where his father Thani. The investigator refuses to parents, girls in the criminal complaint: the body has no signs of violence, there are no witnesses of crime. The next day, Tanya povesilas. Her father is desperate solves ...",
+        "poster_path": "/4TXlCq03drt9o7Ywkqa4XP4FMIY.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sverdlovsk Film Studio",
+                "id": 11436
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100832",
+        "original_language": "ru",
+        "popularity": 1.77,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 229088,
+        "title": "Perry Mason: The Case of the Poisoned Pen",
+        "release_date": "1990-01-21",
+        "overview": "The chief suspects in the murder of an author are the numerous colleagues whom he continuously plagiarized.",
+        "poster_path": "/8wbUyxL1Ccw0Nh7J4Qv50YzAbW4.jpg",
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "production_companies": [
+            {
+                "name": "Viacom Productions",
+                "id": 12077
+            },
+            {
+                "name": "Dean Hargrove Productions",
+                "id": 56689
+            },
+            {
+                "name": "Fred Silverman Company",
+                "id": 56690
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 977885,
+            "name": "The Perry Mason TV Movie Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0100351",
+        "original_language": "en",
+        "popularity": 1.769,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 234227,
+        "title": "Long Arm of the Law IV: Underground Express",
+        "release_date": "1990-06-05",
+        "overview": "The final entry in Michael and Johnny Mak's Long Arm of the Law series, Underground Express once again tells a story of gangsters versus police, focusing on the difference between how both factions act depending if they're coming from Hong Kong or Mainland China.",
+        "poster_path": "/1Zj74OyuaKbqirQWp2QS21vzJFX.jpg",
+        "backdrop_path": "/6hKNkIPCWhttKxCCJUVPXpmzrbB.jpg",
+        "production_companies": [
+            {
+                "name": "Johnny Mak Production Co. Ltd.",
+                "id": 22067
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 289763,
+            "name": "Long Arm of the Law Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0103162",
+        "original_language": "cn",
+        "popularity": 1.768,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 229166,
+        "title": "Perry Mason: The Case of the Lethal Lifestyle",
+        "release_date": "1994-05-10",
+        "overview": "A former associate of Perry Mason returns to handle the defense of a world-class chess player accused of murdering a prominent TV personality.",
+        "poster_path": "/2mMubeBHcvjjvRJQIcbbfTEexZ5.jpg",
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "production_companies": [
+            {
+                "name": "Viacom Productions",
+                "id": 12077
+            },
+            {
+                "name": "Dean Hargrove Productions",
+                "id": 56689
+            },
+            {
+                "name": "Fred Silverman Company",
+                "id": 56690
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 977885,
+            "name": "The Perry Mason TV Movie Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0110813",
+        "original_language": "en",
+        "popularity": 1.767,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 561377,
+        "title": "No Guilty",
+        "release_date": "1992-11-12",
+        "overview": "The film is about Ming, a famous photographer that is suspected of killing womens and committing necrophilia on their bodies, his buddy (who's a cop, played by Wai Lam) embarks in a quest to clear Ming's name.",
+        "poster_path": "/aMVex4o2KmiYWa3om2DB8XDGd4s.jpg",
+        "backdrop_path": "/gqMflBVbfjg0wQSLaDjOQu0BKEC.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185551",
+        "original_language": "cn",
+        "popularity": 1.764,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 619078,
+        "title": "Apradhi",
+        "release_date": "1992-10-28",
+        "overview": "Satyaprakash is an honest security officer who works at the docks in a small town in India, and lives with his parents, Mr. and Mrs. Vishambernath; wife, Janki, a blind daughter, Munni; and an unmarried sister, Juhi. He hopes to make enough money to get Munni's vision back and ensure that Juhi gets married and the rest of the family are looked after well. Before that could happen, he is killed. When the Police come to his house looking for his killer, Janki, unknowingly shields the killer, but when she finds out the truth, she tells them about his location, but the killer flees.",
+        "poster_path": "/nlyQ5NktH3Z2QSoEWzRdJVNAIm9.jpg",
+        "backdrop_path": "/oL9qq5BZjIZ9hB510xWsyCPG5IU.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0103709",
+        "original_language": "hi",
+        "popularity": 1.761,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 262237,
+        "title": "The Bay of Death",
+        "release_date": "1991-06-10",
+        "overview": "The hero of the film, police captain Anatoly Lensky, is an adventurer who is characterized by nobility, a sense of honor and intrigue. Together with other characters goes to the \"Bay of death\" in search of hidden treasures there. All heroes movie must to meet in one place. There they will converge, but not all come back…",
+        "poster_path": "/stdUyX1l9wFDQIIk2TEyjuc9wqv.jpg",
+        "backdrop_path": "/o3Oli85gqdaI8FwGzDABketuQ83.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            },
+            {
+                "name": "SKIF",
+                "id": 95628
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0321545",
+        "original_language": "ru",
+        "popularity": 1.761,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 228178,
+        "title": "The Big Exchange",
+        "release_date": "1992-10-15",
+        "overview": "USSR. The time of the monetary reform of 1961. One hundred rubles turned into ten overnight. But the reform did not affect copper money. Enterprising administrator of the Park of culture and recreation Prokhor Ignatievich, wanting to increase his capital, tries to exchange a big amount of money for small copper with the help of simple-minded driver Zhora Grakin and ex-convict Roland Babaskin...",
+        "poster_path": "/c58z40m8sc8huJsnEo86z4plT6t.jpg",
+        "backdrop_path": "/ecKPpOe0sinV1cCqnjTqZJVzoQx.jpg",
+        "production_companies": [
+            {
+                "name": "Kinostudiya 12",
+                "id": 47917
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104853",
+        "original_language": "ru",
+        "popularity": 1.76,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 505885,
+        "title": "Sentence",
+        "release_date": "1994-01-01",
+        "overview": "In one of the American States committed a major Bank robbery, which killed two guards. Jim Conley, a Bank employee, is charged with the murder. With irrefutable evidence, attorney General Ted Talbot is seeking a death sentence for Conley. A day later, one of the witnesses confesses to the murder, a little later they find his corpse. Bolbat's career comes to an end. His friend and assistant, Leo Harman, knowing that Talbot cleverly framed, begins a full investigation into unthinkable intrigue.",
+        "poster_path": "/1b51vYiwmfsZiHP3g36CIqbXtNV.jpg",
+        "backdrop_path": "/yOHsybfr6109BM8WovPBC9QAXuf.jpg",
+        "production_companies": [
+            {
+                "name": "Goldfilm",
+                "id": 224301
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.759,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 66353,
+        "title": "Mahanadhi",
+        "release_date": "1994-01-14",
+        "overview": "Krishnaswamy, an honest man, is conned into a chit fund business and imprisoned. While he faces unspeakable hardships in prison, his family disintegrates.",
+        "poster_path": "/7ViQHCPXktA2RSNJHQrJa49Vu1P.jpg",
+        "backdrop_path": "/oHVNpE04onurMEEuJddn3TnJwav.jpg",
+        "production_companies": [
+            {
+                "name": "Sree Amman Creations",
+                "id": 79984
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ta",
+                "name": "தமிழ்"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0140348",
+        "original_language": "ta",
+        "popularity": 1.757,
+        "status": "Released",
+        "tagline": "The Great River",
+        "video": false
+    },
+    {
+        "id_tmdb": 34741,
+        "title": "Beyond Suspicion",
+        "release_date": "1994-07-27",
+        "overview": "She was an eyewitness to murder. He was the cop she thought she could trust. But, when they fell in love, she discovered that no one is... \"Beyond Suspicion.\" Morality, justice and obsessive love are combined in this chilling psychological thriller loaded with deception, double twists and double-cross",
+        "poster_path": "/mVz7hM7Er7JdIH7y0wrqtunp3wy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Libra Pictures",
+                "id": 4106
+            },
+            {
+                "name": "Shavick Entertainment",
+                "id": 4679
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109259",
+        "original_language": "en",
+        "popularity": 1.753,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1050318,
+        "title": "Mahjong Madness : 10 Years Early!",
+        "release_date": "1993-01-14",
+        "overview": "Idol vehicle Mahjong flick",
+        "poster_path": "/irikb14yjWUuU2aaFJKyNYjOjP9.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.752,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 90810,
+        "title": "Hit the Dutchman",
+        "release_date": "1992-06-12",
+        "overview": "In early 1920s New York, a young man is befriended by a neighborhood mobster. He learns the trade then decides to go straight and join the police force. It isn't long before he uses his connections to destroy the mob from within.",
+        "poster_path": "/u2ex6DvWXPtTdm5v7lUV6StL1fb.jpg",
+        "backdrop_path": "/cn2lSuqj6S75znKSB8dxLzJ5BLX.jpg",
+        "production_companies": [
+            {
+                "name": "21st Century Film Corporation",
+                "id": 13282
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104423",
+        "original_language": "en",
+        "popularity": 1.751,
+        "status": "Released",
+        "tagline": "He worked for Legs Diamond. He schemed with Lucky Luciano, His name was Dutch Schultz.",
+        "video": false
+    },
+    {
+        "id_tmdb": 153725,
+        "title": "Rapeman 2",
+        "release_date": "1994-03-11",
+        "overview": "The story is about Rapeman and his Uncle who are a tag-team of sorts and created a company together where their motto is \"Righting Wrongs Through Penetration\". People want revenge Rapeman style, they go to the Uncle, and if it's rape worthy, Rapeman does what he does best. Anyways in Rapeman 2, Rapeman Co. has realized that the hospital and the mafia are somehow related and they decide enough is enough. What follows is even more of what you wouldn't expect from a movie called Rapeman. It's full of kind and silly humor but also inserted with a some serious emotional scenes.",
+        "poster_path": "/l29GLfg8EkJ22Bq3ljZxAuIosiy.jpg",
+        "backdrop_path": "/vdS41WtNgP7foENyh4lx73c4ip7.jpg",
+        "production_companies": [
+            {
+                "name": "Pink Pineapple",
+                "id": 80856
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 313607,
+            "name": "Rapeman Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0287650",
+        "original_language": "ja",
+        "popularity": 1.75,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 926416,
+        "title": "The Anthropology of a Fight Scene",
+        "release_date": "1993-11-13",
+        "overview": "A man must overcome many obstacles as he works his way through the dangerous crime world to the level of yakuza.",
+        "poster_path": "/uhL6rh8nQYoW2Dzvh8SNdN4Zo1h.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TFC",
+                "id": 1780
+            },
+            {
+                "name": "Toei Video Company",
+                "id": 9221
+            },
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt16982908",
+        "original_language": "ja",
+        "popularity": 1.749,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 689172,
+        "title": "Love to Kill",
+        "release_date": "1991-04-26",
+        "overview": "This shot on video film revolves around two women’s affection for their male partners against their better interest.  One, a nightclub singer, befriends a fugitive from a gang, while the other - a Japanese played by Yukari Oshima - is befriended by an HK detective investigating the case.  The men’s subsequent conflict with the gang eventually draws both women in and leads to their deaths.",
+        "poster_path": "/nHIjN5hSZOpG1KhJQLPrkmtxKod.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Superstar Films",
+                "id": 131569
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "cn",
+        "popularity": 1.748,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 215131,
+        "title": "Fugitive Among Us",
+        "release_date": "1992-02-04",
+        "overview": "An increasingly obsessed detective chases an escaped rapist across the Southwest and enters into a complicated relationship with one of the victims.",
+        "poster_path": "/n0GI8ORbgJC9S7w75glivUKWr7s.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Empty Chair Productions Inc.",
+                "id": 28083
+            },
+            {
+                "name": "ABC Productions",
+                "id": 3668
+            },
+            {
+                "name": "Andrew Adelson Company",
+                "id": 3669
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104311",
+        "original_language": "en",
+        "popularity": 1.746,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1139866,
+        "title": "Otoki",
+        "release_date": "1990-04-14",
+        "overview": "A feature-length animated film released in theaters in 1990. The main character, Kyosuke, whose father is the head of the gang Murata-gumi, pushes forward through a turbulent and turbulent life in search of a new way of life for a man. Kyosuke tries to live a life completely different from his father's because of his repulsion and self-reliance. The original is a masterpiece chivalrous manga of the same name by Hiroshi Motomiya, a master who has continued to ask the world about the way men live.",
+        "poster_path": "/7r8LXgYgyiycEdZvhRKHGqK4w3h.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.744,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1088725,
+        "title": "Quiet Don 6",
+        "release_date": "1993-07-15",
+        "overview": "Shizuya, who appeared on the first anniversary of Ken Sakamoto's death, the fourth Kishu-gumi. He again asks Ryuko to accept the sake cup. What about Shizuya and Ryuko? On the other hand, Shizuya, who went to see Akino after studying abroad in France, was frustrated by his gangster side...",
+        "poster_path": "/2MyiwuGYcoHhmAOIn575OdKfXSL.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1379298,
+            "name": "Quiet Don Collection"
+        },
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.742,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 46759,
+        "title": "Silent Scream",
+        "release_date": "1990-01-01",
+        "overview": "A biopic about convicted murderer Larry Winters.",
+        "poster_path": "/1X9n4yJ9keT7pOxa9tu0kxMTKLu.jpg",
+        "backdrop_path": "/6xDIkJEHYhr3Z3NQJ2voVjJuAaw.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100619",
+        "original_language": "en",
+        "popularity": 1.741,
+        "status": "Released",
+        "tagline": "The true story of a life behind bars.",
+        "video": false
+    },
+    {
+        "id_tmdb": 286097,
+        "title": "Spider Force",
+        "release_date": "1992-01-01",
+        "overview": "Two HK police officers (Stuart and Sharon) are on the trail of drug smugglers from China, when they find out that Sharon's uncle is the head of the drug syndicate. They follow him to a remote island, which turns out to be his headquarters.",
+        "poster_path": "/jNTyJRyGH80TvdJRF2cK4X2U1m8.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Tai Seng Entertainment",
+                "id": 3190
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0284510",
+        "original_language": "en",
+        "popularity": 1.74,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 396867,
+        "title": "The Escape",
+        "release_date": "1991-04-16",
+        "overview": "Ahmed Zaki plays a peasant, Mountasir, who gets involved in a criminal racket run by his friend Midhat. Mountasir is betrayed by Midhat and goes to jail. Upon discovering that his wife was forced into prostitution by Midhat, he swears to extract revenge when he leaves jail.",
+        "poster_path": "/cF3FEvuYC2XvcVMAxImMGBHJqtz.jpg",
+        "backdrop_path": "/nQCxfMTLNGrDijquyIS895TIZrY.jpg",
+        "production_companies": [
+            {
+                "name": "Tamido Film Production and Distribution (Medhat El-Sherif)",
+                "id": 229066
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095111",
+        "original_language": "ar",
+        "popularity": 1.734,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 649858,
+        "title": "Grushko",
+        "release_date": "1994-03-24",
+        "overview": "A restaurant is fire-bombed, a TV journalist and a member of a local mafia are murdered, and a valuable statuette is stolen. Yevgeni Grushko is Head of the Mafia Investigations Division of the local police force, facing new challenges as the internicine gang rivalries escalate towards war on the streets.",
+        "poster_path": "/3oobvQQDe2IUL1dpOORBgDCEFXA.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107051",
+        "original_language": "en",
+        "popularity": 1.733,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 295244,
+        "title": "Zärtliche Erpresserin",
+        "release_date": "1992-12-09",
+        "overview": "A drama directed by Beat Lottaz.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Schweizer Fernsehen für die deutsche und rätoromanische Schweiz (SF DRS)",
+                "id": 34048
+            },
+            {
+                "name": "Radio Bremen",
+                "id": 1775
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105910",
+        "original_language": "en",
+        "popularity": 1.73,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 404335,
+        "title": "Savage City: Angel Whisper",
+        "release_date": "1991-04-26",
+        "overview": "A corrupt cop teams up with an unlikely partner to protect the city from a gang of ruthless drug addicts.",
+        "poster_path": "/tqkr0X5VLjhb9KRhLwUSg5ql0mN.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0227843",
+        "original_language": "ja",
+        "popularity": 1.729,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 279765,
+        "title": "The Return of Eliot Ness",
+        "release_date": "1991-11-10",
+        "overview": "Detective Eliot Ness comes back to town to fight corruption and avenge a former partner's murder with the help of the son.",
+        "poster_path": "/kA0RA8wEEWTXv9sABDN7HJW6KjX.jpg",
+        "backdrop_path": "/uYiq8FORc3N9M1NBlX7fKBoFoJD.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102781",
+        "original_language": "en",
+        "popularity": 1.726,
+        "status": "Released",
+        "tagline": "You can't touch him. You can't scare him. And these days, the Mob still can't get rid of him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 143045,
+        "title": "Wanderers Rest",
+        "release_date": "1991-10-10",
+        "overview": "Retired police colonel starts his own murder investigation.",
+        "poster_path": "/iuADl8pg9wBfIKbEuIJwlUpsY6q.jpg",
+        "backdrop_path": "/h9NdVxIVzCK06mxcwHGSZdrg8o4.jpg",
+        "production_companies": [
+            {
+                "name": "Fora Film",
+                "id": 14810
+            },
+            {
+                "name": "Soyuztelefilm",
+                "id": 13851
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0261915",
+        "original_language": "ru",
+        "popularity": 1.726,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1043754,
+        "title": "Fatal Dream",
+        "release_date": "1993-11-03",
+        "overview": "A little-known Hong Kong crime film.",
+        "poster_path": "/3BWM30bPzjRIN9S8zuxosiVAPvG.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13794734",
+        "original_language": "cn",
+        "popularity": 1.725,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 858926,
+        "title": "Ooh, Train Robbery",
+        "release_date": "1991-11-10",
+        "overview": "A high-crime investigator goes to the scene where corruption and crime have taken on new and sophisticated forms in the mountainous southern region of the country. Under the guise of a random train robbery, individual cars loaded with waste from metallurgical production - and essentially enriched gold ore - are stolen. The kidnappers have all the means at their disposal. They mercilessly kill those who try to stop them from stealing tons of gold...",
+        "poster_path": "/vZGdetQubmEyWMSyGrUDIMCgf80.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Puls-Film",
+                "id": 158662
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101380",
+        "original_language": "ru",
+        "popularity": 1.724,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 283770,
+        "title": "A Dark Adapted Eye",
+        "release_date": "1994-01-02",
+        "overview": "This psychological mystery/thriller, adapted from Barbara Vine aka Ruth Rendell's novel of the same name, depicts a family on the edge. Two sisters, the elder, obsessive Vera, and the younger, manipulative Eden, cut a path of secrecy and jealousy that leads to disaster.",
+        "poster_path": "/ipesPY9wRshuDfKV4Eo6jyHUCeC.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109541",
+        "original_language": "en",
+        "popularity": 1.724,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 379024,
+        "title": "The Widowmaker",
+        "release_date": "1990-12-29",
+        "overview": "The Widowmaker is a 1990 made for television film starring Annabelle Apsion, Alun Armstrong, David Morrissey and Kenneth Welsh. The film deals with a woman whose husband has been arrested after going on a killing rampage and the reaction of her local community. It was produced In the United Kingdom by Central Independent Television for the ITV Network and aired on 29 December 1990. It received a nomination for Best Single Drama at the 1991 BAFTA Awards.",
+        "poster_path": "/1CrqEPv70mIWatcPExhiJAYWkos.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ITV Central",
+                "id": 5238
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100932",
+        "original_language": "en",
+        "popularity": 1.723,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 78682,
+        "title": "Pudhiya Mannargal",
+        "release_date": "1994-12-09",
+        "overview": "Two men end up falling for the same woman, but which one will she choose?",
+        "poster_path": "/ieb2f7g3jBseZTbtgegBZD9giki.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Paradise Pictures",
+                "id": 63972
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ta",
+                "name": "தமிழ்"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0432004",
+        "original_language": "ta",
+        "popularity": 1.723,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 850788,
+        "title": "STREET KIDS: Bousou Gishiki",
+        "release_date": "1992-05-15",
+        "overview": "The life of a young man who aspires to be in the  judicial power  begins to decline when he gets involved with street kids",
+        "poster_path": "/l4U1KhyAm342r9VBdZt2nnccQHh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Toei Video Company",
+                "id": 9221
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ja",
+        "popularity": 1.722,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 504703,
+        "title": "Maruthu Pandi",
+        "release_date": "1990-04-27",
+        "overview": "In the village Ammapatti, Maruthu Pandi is a coracle operator in day and the village protector at night. The villagers give him food in exchange of his work. Maruthu Pandi has a mentally ill sister Lakshmi who is pregnant and he takes care of Lakshmi like a mother. Kanagavalli, a dancer, slowly falls in love with Maruthu Pandi. Kanagavalli is in fact a police officer who wants to arrest Maruthu Pandi. Maruthu Pandi's real name is Manickam, and after a revealed flashback, police team come to Ammapatti to arrest Manickam. What transpires later forms the crux of the story.",
+        "poster_path": "/nI5qdvLHApaUTa3aZA8e2gBU0IZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ponmanam Films",
+                "id": 100912
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ta",
+                "name": "தமிழ்"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0234209",
+        "original_language": "ta",
+        "popularity": 1.721,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 418494,
+        "title": "Offence Storm",
+        "release_date": "1993-05-06",
+        "overview": "Three young women struggle to survive on the streets of Hong Kong via any means necessary.",
+        "poster_path": "/qDCzYmpzp8dJ6I5qfpnzfzIAPyX.jpg",
+        "backdrop_path": "/uQhAhL0Tk3VL0Dh5Me0CB1p8iip.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt14160610",
+        "original_language": "cn",
+        "popularity": 1.719,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 425315,
+        "title": "Kojak: None So Blind",
+        "release_date": "1990-04-07",
+        "overview": "After a flighty young woman accidentally witnesses a Mob hit in an Italian restaurant, New York Police Inspector Theo Kojak must both protect her from an unscrupulous Dutch hitman, and bring Mob kingpin Tony Salducci to justice.",
+        "poster_path": "/yAAZxl3jzrNegj0it70ra4DK4Ui.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 492884,
+            "name": "Kojak Movie Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0099948",
+        "original_language": "en",
+        "popularity": 1.715,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 81072,
+        "title": "Kshana Kshanam",
+        "release_date": "1991-10-09",
+        "overview": "Chandu is a petty thief who comes across Satya, an innocent girl who unwittingly comes across a way to a huge amount of money stolen from a bank. While the gang that robbed the bank go after her for the clue, one member dies in her apartment and she believes she's the one that killed him. Every one including the original gang that robbed the bank, the police and now Chandu and Satya go after the money.",
+        "poster_path": "/orDjQMwYxKANQCs0JGsY2EuYLvX.jpg",
+        "backdrop_path": "/lcmfVMnKKp6FGQxupOoVGS6afMM.jpg",
+        "production_companies": [
+            {
+                "name": "Sri Durga Arts",
+                "id": 98173
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "te",
+                "name": "తెలుగు"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0187115",
+        "original_language": "te",
+        "popularity": 1.712,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 357885,
+        "title": "Johnny Ryan",
+        "release_date": "1990-07-29",
+        "overview": "An honest, hard-working cop has to go up against the mob in 1949 New York City.",
+        "poster_path": "/h9OS0I7kouHEXvT0U1JApVgVzdP.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dan Curtis Productions",
+                "id": 9228
+            },
+            {
+                "name": "NBC Productions",
+                "id": 5253
+            },
+            {
+                "name": "MGM Television",
+                "id": 2230
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099893",
+        "original_language": "en",
+        "popularity": 1.711,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1023145,
+        "title": "Golden mist",
+        "release_date": "1994-02-15",
+        "overview": "Boris and his accomplices decide to \"throw\" the famous artist Kirill for a large sum of money. The bandits are trying to kidnap Cyril's daughter. And if it weren't for the arrival of Kirill's brother Dmitry, who is fluent in hand-to-hand combat, the deadly ending cannot be avoided.",
+        "poster_path": "/dMdZDmJtEjZaYZiPCurt10K7xKq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Miliana Film Company",
+                "id": 189371
+            },
+            {
+                "name": "Gradient",
+                "id": 189372
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0208599",
+        "original_language": "ru",
+        "popularity": 1.707,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 401926,
+        "title": "Underground Judgement",
+        "release_date": "1994-01-29",
+        "overview": "Hot shot cop Gold Eagle drops out after the evil Mr Chau disrupts his wedding by killing a number of the guests. Eagle hides in an isolated village disguised as a drunkard garbage collector. But neither old flame Senny nor Chau have given up finding him.",
+        "poster_path": "/zf3lIGclqf3WBdlZjY3mm4LVNdv.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109616",
+        "original_language": "cn",
+        "popularity": 1.705,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 184929,
+        "title": "Terror Stalks the Class Reunion",
+        "release_date": "1992-06-12",
+        "overview": "A beautiful young detective goes to the rescue of a teacher kidnapped by a former student.",
+        "poster_path": "/tw2QUwBMeNAfcqNpKfhJ22Rzfx.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Telescene Film Group Productions",
+                "id": 29812
+            },
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            },
+            {
+                "name": "M6 Métropole Télévision",
+                "id": 8210
+            },
+            {
+                "name": "Gemini Filmproduktion",
+                "id": 13657
+            },
+            {
+                "name": "Caméras Continentales",
+                "id": 22492
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105566",
+        "original_language": "en",
+        "popularity": 1.702,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 150134,
+        "title": "Dead in the Water",
+        "release_date": "1991-12-04",
+        "overview": "Charlie Deegan has almost everything he has ever wanted. He has an important law practice, a beautiful secretary as his lover, and the chance to be appointed to the high court. The only thing wrong with this is that his shrewish wife Olivia, whose father made all the wealth and all the power, is living and that greatly upsets Charlie. So when his lover, Laura, suggests that they get rid of Olivia, Charlie thinks, being a lawyer, that he can create a fool-proof plan. In this plan, he must incorporate a woman named Victoria whom he detests, but she can help him get into the court and be part of the plan for Olivia. But dreams of judgeship, money and Laura makes him proceed. However, things never turn out as planned and he may not be as smart as he considers himself.",
+        "poster_path": "/mIG46prDlrKdxl9nOnZ1wEqAcX6.jpg",
+        "backdrop_path": "/6aDVYUTyqZrL9etPORWlQnYCGkn.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101678",
+        "original_language": "en",
+        "popularity": 1.701,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1152244,
+        "title": "Hong Kong Criminal Archives - The Robbery",
+        "release_date": "1991-01-01",
+        "overview": "plot is unknown",
+        "poster_path": "/zOEBVjIu4uDXFe13UtrjmliI7Jj.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 1.7,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 261188,
+        "title": "Running on Empty",
+        "release_date": "1991-04-08",
+        "overview": "Based on a true story, and recreated from the personal account of one of the robbers, the film follows an immigrant from mainland China in 1975 as he works with a team to plan to rob an armored car carrying seven million dollars from the Hang Seng Bank in Hong Kong.",
+        "poster_path": "/1wVMroZph4ZCayQAjH4CeAJyVkq.jpg",
+        "backdrop_path": "/8sOzObTmFuh0BiBtZK8m4V0r4uD.jpg",
+        "production_companies": [
+            {
+                "name": "Chun Sing Film Company",
+                "id": 24319
+            },
+            {
+                "name": "Mei Ah Film Production Co., Ltd.",
+                "id": 142798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "cn",
+        "popularity": 1.7,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 817373,
+        "title": "Dinosaurs of the Twentieth Century",
+        "release_date": "1990-02-03",
+        "overview": "Returning to his native village, a demobilized paratrooper learns that his brother has become a victim of a drug mafia. He decides to avenge his death and goes to the city...",
+        "poster_path": "/50PA2Toaim25xUCwWoNJTz540bx.jpg",
+        "backdrop_path": "/fK4UiYqEt1H2wd7w2afOH6LjRWU.jpg",
+        "production_companies": [
+            {
+                "name": "Katarsis",
+                "id": 116722
+            },
+            {
+                "name": "Goskino USSR",
+                "id": 105448
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ru",
+        "popularity": 1.698,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 177102,
+        "title": "The Final Contract",
+        "release_date": "1993-02-07",
+        "overview": "David Sloan is 40 and is a Vietnam veteran unable to accept his violent past. Decides to consult a psychiatrist and gradually begins to understand that there are other things in life besides killing.",
+        "poster_path": "/6Rdg5lID7TX4d0Pjxt9dlx45igi.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104148",
+        "original_language": "it",
+        "popularity": 1.693,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 222353,
+        "title": "Dance with Death",
+        "release_date": "1992-04-22",
+        "overview": "A string of murders at a local strip joint gives a reporter the chance to do an undercover investigation. She gets a job as a stripper at the establishment, where she befriends some of the other women, who know more about what is happening than they have publicly admitted. As she gets closer to the truth, her life is put in jeopardy.",
+        "poster_path": "/pU23Sb6DdkF5TrXEnIpda5CP2SQ.jpg",
+        "backdrop_path": "/sctNkufIu5yEn1ZTqjfxt6FTisO.jpg",
+        "production_companies": [
+            {
+                "name": "Concorde Pictures",
+                "id": 4527
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101653",
+        "original_language": "en",
+        "popularity": 1.692,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 348791,
+        "title": "The Blind Cat",
+        "release_date": "1993-07-14",
+        "overview": "The first film about Kiriko - a blind woman with a sword.",
+        "poster_path": "/2wzny9ZhebdCeKxIWVjEfx5IIxz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Phantom Products",
+                "id": 75344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1308270,
+            "name": "Kiriko Collection"
+        },
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ja",
+        "popularity": 1.691,
+        "status": "Released",
+        "tagline": "Sexy, hard violence",
+        "video": false
+    },
+    {
+        "id_tmdb": 626613,
+        "title": "Greyhounds",
+        "release_date": "1994-06-24",
+        "overview": "A retired sheriff, judge, coroner and con-man team up to solve crimes. Pilot.",
+        "poster_path": "/cTKPnXXSPcfAiyJ2aOXzayxbI3c.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.cannell.com/tv-show-detail/18/greyhounds.html",
+        "imdb_id": "tt0109941",
+        "original_language": "en",
+        "popularity": 1.686,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 261161,
+        "title": "Against All",
+        "release_date": "1990-12-28",
+        "overview": "A love triangle between a singer and two men; one good, the other evil.",
+        "poster_path": "/zHkfD6oLYYjsvXaWMYfjcdS8R94.jpg",
+        "backdrop_path": "/1OnTJIx42PgiBRiHkT98j78vMTZ.jpg",
+        "production_companies": [
+            {
+                "name": "Magnum Films Limited",
+                "id": 44693
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100344",
+        "original_language": "cn",
+        "popularity": 1.681,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 343410,
+        "title": "Midnight Fear",
+        "release_date": "1991-05-30",
+        "overview": "A sheriff tracks down a killer who skinned a woman alive.",
+        "poster_path": "/da4ysI9QLhrtWaBcs70rlrB6epe.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Danyves Enterprises",
+                "id": 145204
+            },
+            {
+                "name": "The Crain Company",
+                "id": 145205
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100147",
+        "original_language": "en",
+        "popularity": 1.68,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 86978,
+        "title": "The Gunrunner",
+        "release_date": "1990-06-01",
+        "overview": "1926. The Chinese Civil War. Drifter Ted Beaubien is captured and forced to witness his girlfriend's execution. He finally escapes and vows to avenge her death by taking on a deadly mission to buy guns abroad and smuggle them back. Arriving in his hometown, Ted is shocked to find his elderly mother and younger brother George are penniless. But time is running out, and before he can help them, he's got to get the guns. In setting up the deal, Ted meets and falls for the seductive nightclub owner Maud Ryan who introduces him to the treacherous gangsters who will sell him the artillery. For a gun-runner, falling in love is like pointing a pistol at your heart - and pulling the trigger!",
+        "poster_path": "/gA2yS8xCoLwTFg1u3J5JxEfujP8.jpg",
+        "backdrop_path": "/wg5JPgC74xq124NOhbQmaVa4xg1.jpg",
+        "production_companies": [
+            {
+                "name": "New World Pictures",
+                "id": 1950
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0087374",
+        "original_language": "en",
+        "popularity": 1.68,
+        "status": "Released",
+        "tagline": "He lives by one rule... shoot to kill.",
+        "video": false
+    },
+    {
+        "id_tmdb": 172852,
+        "title": "Dude - Water Winner",
+        "release_date": "1990-12-29",
+        "overview": "The film tells about the engineer Gorelikov, who, together with his disabled friend, opens a salon with computers for children and students. And suddenly they are attacked by a gang of racketeers.",
+        "poster_path": "/acWEenZHrwJNvwxcsb23O6EQsUb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104747",
+        "original_language": "ru",
+        "popularity": 1.679,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 55080,
+        "title": "Ozone",
+        "release_date": "1994-01-04",
+        "overview": "While on a stakeout, hardboiled cop Eddie Boone gets injected with a dangerous new designer drug causing nightmarish side effects. As he searches for his missing partner, Eddie discovers the urban streets full of mutants, monsters, and mayhem orchestrated by the mastermind behind the lethal narcotic.",
+        "poster_path": "/lXPNWst3BYUX8Ral9YbvlLeIlcw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Suburban Tempe Company",
+                "id": 68915
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3500,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107764",
+        "original_language": "en",
+        "popularity": 1.679,
+        "status": "Released",
+        "tagline": "This stuff will blow your mind...",
+        "video": false
+    },
+    {
+        "id_tmdb": 281443,
+        "title": "Probable Cause",
+        "release_date": "1994-11-20",
+        "overview": "A series of cop murders plagues the city. The remaining officers on the force are increasingly worried as the deaths increase with no leads. As the department's finest must solve the case before the killer strikes again.",
+        "poster_path": "/rGBHIsJsxNrIb7PIIDUJlTwHBkr.jpg",
+        "backdrop_path": "/mVJscj06RTQZhPljINTy3EeFu39.jpg",
+        "production_companies": [
+            {
+                "name": "Wilmont Productions Inc.",
+                "id": 178120
+            },
+            {
+                "name": "Showtime Networks",
+                "id": 4343
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110898",
+        "original_language": "en",
+        "popularity": 1.678,
+        "status": "Released",
+        "tagline": "When a cop killer is on the loose, the city streets can be murder.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1207680,
+        "title": "SuperCop",
+        "release_date": "1990-05-25",
+        "overview": "An adventurous action-packed story about a police officer nicknamed \"Sheriff\", who, bravely fighting mafia functionaries, easily and simply takes bribes from its bosses.",
+        "poster_path": "/kyhJ6wVPP1ZUXA4TM1ntIE2IpAL.jpg",
+        "backdrop_path": "/7pd02v0z09MCOxZE4vzgAoc5MBa.jpg",
+        "production_companies": [
+            {
+                "name": "Boyana Film Studios",
+                "id": 120256
+            },
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            },
+            {
+                "name": "Maysles Films",
+                "id": 14563
+            },
+            {
+                "name": "MTV",
+                "id": 21809
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0807769",
+        "original_language": "ru",
+        "popularity": 1.667,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 897545,
+        "title": "Убить «Шакала»",
+        "release_date": "1991-06-01",
+        "overview": "",
+        "poster_path": "/rmTVZ2LX5visjIHjaRPpLmAnwLE.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Kiev-ACK",
+                "id": 164345
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5844554",
+        "original_language": "ru",
+        "popularity": 1.667,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 181888,
+        "title": "The Lady Punisher",
+        "release_date": "1994-01-01",
+        "overview": "The carefree days of a happy lesbian Hong Kong couple are over when they are attacked by three drug dealers while enjoying a swim; the girls are raped and one of them is killed. Three years later, the surviving girl, now a boutique owner, accidentally runs across one of those men, and decides this is the perfect opportunity to take her revenge.",
+        "poster_path": "/rlPCty1E3bq83rnP4PhIQt0ZvCK.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "T & M International Film Co., Ltd.",
+                "id": 116600
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0319723",
+        "original_language": "cn",
+        "popularity": 1.658,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 290874,
+        "title": "Anna Lee: Headcase",
+        "release_date": "1993-01-10",
+        "overview": "A bright, pretty and determined young lady named Anna Lee quits the police department in search of adventure, and joins a small and somewhat stuffy detective agency, whose members don't look particularly kindly on her short skirts, somewhat cavalier attitude toward agency rules--like showing up for work on time--and her overall demeanor. However, the agency's owner takes a shine to her and assigns her to what seems to be a relatively straightforward case: finding a young girl who's gone missing and whose family is worried about her. As it turns out, the case involves quite a bit more than just a missing girl.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "LWT",
+                "id": 6197
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0463866",
+        "original_language": "en",
+        "popularity": 1.656,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 252465,
+        "title": "Father & Son: Dangerous Relations",
+        "release_date": "1993-04-19",
+        "overview": "An estranged father and son are paroled from the same maximum-security prison with one unusual condition, they must become roommates. Their severed bonds are strained as the father battles to keep his son free from the lures of street life.",
+        "poster_path": "/eQf3yTOypKxuBJvv4zdYtYIipWL.jpg",
+        "backdrop_path": "/zsPDWJtqK0lpGI4GR4tl5ft5ssJ.jpg",
+        "production_companies": [
+            {
+                "name": "Gregory/Kahn Productions",
+                "id": 130104
+            },
+            {
+                "name": "Logo Entertainment",
+                "id": 57933
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0106876",
+        "original_language": "en",
+        "popularity": 1.652,
+        "status": "Released",
+        "tagline": "Hanging n' slanging.",
+        "video": false
+    },
+    {
+        "id_tmdb": 220113,
+        "title": "Witness to the Execution",
+        "release_date": "1994-02-13",
+        "overview": "This movie deals with a television network hoping to draw the biggest ratings ever while televising an execution live into the home of every American family.",
+        "poster_path": "/xjEZMgASNS10gkbDslffshZniIa.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Frederick S. Pierce Company",
+                "id": 37170
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0111737",
+        "original_language": "en",
+        "popularity": 1.652,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1184953,
+        "title": "Hong Kong Criminal Archives - Husband in Cook",
+        "release_date": "1992-01-01",
+        "overview": "",
+        "poster_path": "/pQOCEjlEZRAWG6aSLSMw6vG24Do.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "cn",
+        "popularity": 1.65,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 496308,
+        "title": "Inside Edge",
+        "release_date": "1993-11-02",
+        "overview": "For months, Richard Montana has been giving drug lord Mario Gio hell. But it's only when he meets Gio's leggy blonde girlfriend, nightclub singer Lisa, that things get personal. And after Montana and Lisa have been in bed, things get absolutely deadly. Especially because the headstrong beauty has her own plans. Because only she is the key to Gio's next big deal. And Lisa wants the drugs, the dollars and Montana all to herself. And because that's the case, all hell breaks loose and Gio's killers go on the hunt!",
+        "poster_path": "/vZvSvNh8Lb0x98jhneNqF1os78e.jpg",
+        "backdrop_path": "/kSi7LuldmDesHo0DUwusko2BfrF.jpg",
+        "production_companies": [
+            {
+                "name": "Atlantic Releasing Corporation",
+                "id": 18947
+            },
+            {
+                "name": "Film Mex Entertainment",
+                "id": 127498
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107219",
+        "original_language": "en",
+        "popularity": 1.649,
+        "status": "Released",
+        "tagline": "Cold Cash. Hot War. A tough cop takes a gang for a rough ride...",
+        "video": false
+    },
+    {
+        "id_tmdb": 148707,
+        "title": "Old Rascal",
+        "release_date": "1992-12-25",
+        "overview": "A story of a modest ordinary crook trying his best to turn his boring life into an affordable extraordinary adventure.",
+        "poster_path": "/taoD06KtZaCtq2MhivNUZdJCOXP.jpg",
+        "backdrop_path": "/r5E9SkCDHsBLFEgn38S0C0dwTA1.jpg",
+        "production_companies": [
+            {
+                "name": "J.M. Productions",
+                "id": 77404
+            },
+            {
+                "name": "France 3 Cinéma",
+                "id": 591
+            },
+            {
+                "name": "Auvergne-Rhône-Alpes Cinéma",
+                "id": 109756
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105752",
+        "original_language": "fr",
+        "popularity": 1.647,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 271222,
+        "title": "Shotgun Wedding",
+        "release_date": "1994-05-26",
+        "overview": "Shotgun Wedding is a 1993 Australian film based on the Wally Melish siege.",
+        "poster_path": "/3ZonZGe94So4vKljQT2RP8kowjM.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0108123",
+        "original_language": "en",
+        "popularity": 1.646,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 111507,
+        "title": "Detective Malone",
+        "release_date": "1991-01-01",
+        "overview": "The producers of the Black Cobra series create an odd patch work film out of out takes and reused footage. A gang of terrorists kidnap an electronics engineer, hold him hostage, and demand he create a security system for their compound.",
+        "poster_path": "/vZnJ3M1wPmLNACU2k15QGDH8Ytj.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 463165,
+            "name": "Black Cobra"
+        },
+        "homepage": "",
+        "imdb_id": "tt0099414",
+        "original_language": "it",
+        "popularity": 1.646,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1319979,
+        "title": "Ore no Sora Keiji-hen",
+        "release_date": "1991-10-21",
+        "overview": "Yasuda Ippei (Shonozaki Ken) is the son of Yasuda Seijiro (Osugi Ren), the head of Yasuda Group, Japan's biggest business conglomerate. Although he is the son of a distinguished family, he has absolutely no disagreeable areas and is liked by everyone.  His academic achievements are exceptional. He completed his entire high school programme in 2 years and qualified for Tokyo University's Faculty of Law without studying for the exams. In order to establish his own concept of justice, Yasuda leaves his position as the heir to the Yasuda Group to attend the police academy. He becomes a detective at Kyobashi Police Precinct and bravely faces great evil.",
+        "poster_path": "/8fRMYMpO2o8Pi7JohvumfKMm5Or.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt28863748",
+        "original_language": "ja",
+        "popularity": 1.638,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 279941,
+        "title": "Molly and Gina",
+        "release_date": "1994-05-18",
+        "overview": "Molly is the former secretary of a murdered private detective. Gina, a budding actress, witnessed the shooting which also killed her boyfriend. Together, they set out to bring the culprits to justice.",
+        "poster_path": "/mqj8sAR22ihLjCard9qqd5zzT9t.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Curb Entertainment",
+                "id": 5993
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107590",
+        "original_language": "en",
+        "popularity": 1.635,
+        "status": "Released",
+        "tagline": "One's hot. One's cool. They're both boiling mad.",
+        "video": false
+    },
+    {
+        "id_tmdb": 302445,
+        "title": "Balwaan",
+        "release_date": "1992-09-11",
+        "overview": "A brave cop - who has always stood up to injustice and corruption - runs afoul of an influential gangster, when he is assigned to Mumbai.",
+        "poster_path": "/ktxYI6fNKnXDD1OsnNXI49AdfYL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jayraj Productions",
+                "id": 103586
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0103763",
+        "original_language": "hi",
+        "popularity": 1.634,
+        "status": "Released",
+        "tagline": "One man army against crime.",
+        "video": false
+    },
+    {
+        "id_tmdb": 31071,
+        "title": "New Crime City: Los Angeles 2020",
+        "release_date": "1994-09-28",
+        "overview": "In the 21st Century, Tony Ricks was a criminal who was executed for his crimes. In the distant year 2020, he is revived in a freak accident, and must infiltrate a futuristic prison and retrieve a powerful bioweapon in exchange for his freedom... and his life.",
+        "poster_path": "/4JwjUwrrTIHAY0mE7L4s3pGgNDF.jpg",
+        "backdrop_path": "/rat7543CSFehXpH1W8UwbcyPYjt.jpg",
+        "production_companies": [
+            {
+                "name": "Iguana Producciones",
+                "id": 11134
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PE",
+                "name": "Peru"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110651",
+        "original_language": "en",
+        "popularity": 1.634,
+        "status": "Released",
+        "tagline": "He Was Executed Today. Tomorrow He Saves the World.",
+        "video": false
+    },
+    {
+        "id_tmdb": 356991,
+        "title": "He Will Receive",
+        "release_date": "1992-08-01",
+        "overview": "",
+        "poster_path": "/uX2VCgFkMWdGom3x1JQndSAgUgA.jpg",
+        "backdrop_path": "/j8TgpCz2DZXDVUg9hRPruXqZxyd.jpg",
+        "production_companies": [
+            {
+                "name": "Parus",
+                "id": 171267
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5129738",
+        "original_language": "ru",
+        "popularity": 1.633,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 214991,
+        "title": "Coldfire",
+        "release_date": "1990-04-29",
+        "overview": "The \"Coldfire\" is a lethal new designer-drug with destructive capabilities. Its origins are unknown...and its effects are irreversible. This drug promises the \"ultimate high.\" However, what does the user acquire instead? The ultimate way to die... The main purpose of the \"Coldfire\" drug is to help the enemy cripple the United States. An epidemic is imminent if the use of this drug spreads everywhere... Entering the scene are Nick and Jake Edwards two audacious police officers. They may lack age, but they certainly have attitude. These Generation-X cops hope to show some of the veteran members of the police force a trick or to. These two officers will be working with a company of experienced pros including the seasoned Lars and the short-tempered Dix. Their assignment is to track down who or what is responsible for the distribution of this virulent drug substance... Written by David Choi",
+        "poster_path": "/1h0q7v6uhkzhTzUqxn7FbyFBIQL.jpg",
+        "backdrop_path": "/6iulucYfOg2XJdw83M4FDsZpxpF.jpg",
+        "production_companies": [
+            {
+                "name": "PM Entertainment Group",
+                "id": 125558
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101599",
+        "original_language": "en",
+        "popularity": 1.623,
+        "status": "Released",
+        "tagline": "New cops, a new drug and a new way to die",
+        "video": false
+    },
+    {
+        "id_tmdb": 191277,
+        "title": "Bonnie & Clyde: The True Story",
+        "release_date": "1992-08-16",
+        "overview": "Bonnie Parker is estranged from her husband while still only just barely eighteen. Clyde Barrow, a handsome charmer who is in love with Bonnie, is a small-time thief, 'borrowing' cars to teach Bonnie to drive. He falls in with W.D. Jones, and their crime levels quickly rise. Soon Bonnie is dragged in with them, due to her love for Clyde, and within a short space of time, everyone is baying for the blood of Bonnie and Clyde.",
+        "poster_path": "/tBIqwI4Yts7wHmgUdbz76gDI9bj.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "FNM Films",
+                "id": 3398
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0103858",
+        "original_language": "en",
+        "popularity": 1.62,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1139588,
+        "title": "Hertzienne Connexion",
+        "release_date": "1993-01-01",
+        "overview": "",
+        "poster_path": "/kGGc3oT21YLXKJqFeghtQlWWqFx.jpg",
+        "backdrop_path": "/zoEXx89q4b9HzHfZsrNGommb5A7.jpg",
+        "production_companies": [
+            {
+                "name": "Shem's",
+                "id": 112906
+            },
+            {
+                "name": "Les Films Sur La Place",
+                "id": 27122
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MA",
+                "name": "Morocco"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "fr",
+        "popularity": 1.618,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 561398,
+        "title": "Water Tank Murder Mystery",
+        "release_date": "1994-11-12",
+        "overview": "A body is found inside a water tank a top of an apartment building. It's not a hard case to solve for Danny Lee and company.",
+        "poster_path": "/qorg39ZfFEc1oc948y62r4HLFOM.jpg",
+        "backdrop_path": "/769DkOkvhN6Pc4kLNdZDNAX2hjA.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1375426,
+            "name": "重案實錄（系列）"
+        },
+        "homepage": "",
+        "imdb_id": "tt0121859",
+        "original_language": "cn",
+        "popularity": 1.614,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 356983,
+        "title": "Sniper",
+        "release_date": "1991-10-01",
+        "overview": "",
+        "poster_path": "/v1awqpdkN9HhvrD9q3TBm7Q9VUY.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            },
+            {
+                "name": "Skif Studio",
+                "id": 194387
+            },
+            {
+                "name": "Talisman",
+                "id": 144775
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105433",
+        "original_language": "ru",
+        "popularity": 1.613,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 222371,
+        "title": "Reflections on a Crime",
+        "release_date": "1994-06-10",
+        "overview": "Seven years ago, Regina (Mimi Rogers) was tried for the death. On the night before she becomes the first woman in over 40 years to be executed in a federal penitentiary, she befriends the lone, curious prison guard Colin Reeves (Billy Zane), who has been assigned to watch over her. By telling Regina's story through flashbacks interwoven with her present situation, the film helps us understand this woman in a unique, disturbing and sympathetic way",
+        "poster_path": "/5jjAjSXYL0nR3YP75yvb4fRCUPh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Concorde-New Horizons",
+                "id": 4688
+            },
+            {
+                "name": "New Horizons Picture",
+                "id": 20235
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110956",
+        "original_language": "en",
+        "popularity": 1.612,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1126321,
+        "title": "Operation \"Lucifer\"",
+        "release_date": "1993-04-13",
+        "overview": "Examines the assassination of Russian musician and actor Igor Talkov.",
+        "poster_path": "/z5D8XLzy4FSBFPXK7AJs0xe7qaP.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Studiya-S",
+                "id": 80669
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4402742",
+        "original_language": "ru",
+        "popularity": 1.602,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 202111,
+        "title": "Night of the Wilding",
+        "release_date": "1990-07-18",
+        "overview": "Joseph Gainer is a high priced attorney, notorious for getting guilty criminals off the hook. But Gainer is forced to take another look at the price you pay for defending the guilty when he takes on a case of three young men accused of a heinous crime. And when he discovers that his ex-wife is the prosecuting attorney, Gainer finds he suddenly has more on the line than he ever imagined.",
+        "poster_path": "/q5v3DexsEuV4z3dKvR4yZmp7oJ2.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "PM Entertainment Group",
+                "id": 125558
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100259",
+        "original_language": "en",
+        "popularity": 1.602,
+        "status": "Released",
+        "tagline": "The law is our best defense",
+        "video": false
+    },
+    {
+        "id_tmdb": 358966,
+        "title": "Jurm",
+        "release_date": "1990-07-05",
+        "overview": "Police Inspector Shekhar Varma lives in Khar, Bombay, along with his wife, Meena, and a school-going daughter. His office is notified that Editor Ritesh Nandy has received death threats as he come across evidence that would expose some very influential people.",
+        "poster_path": "/nxkCmxstJ26LCmFJNO5bxGUvvFk.jpg",
+        "backdrop_path": "/aeOsN1qJiAwq9OH0MQuVpt0izMN.jpg",
+        "production_companies": [
+            {
+                "name": "Vishesh Films",
+                "id": 3749
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0156659",
+        "original_language": "hi",
+        "popularity": 1.597,
+        "status": "Released",
+        "tagline": "The Crime",
+        "video": false
+    }
+]

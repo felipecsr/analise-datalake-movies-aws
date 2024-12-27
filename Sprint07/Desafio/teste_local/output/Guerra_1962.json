@@ -1,0 +1,4082 @@
+[
+    {
+        "id_tmdb": 947,
+        "title": "Lawrence of Arabia",
+        "release_date": "1962-12-11",
+        "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+        "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+        "backdrop_path": "/mx2jS5Kaa5rmaldEFzKeKpDN9Q2.jpg",
+        "production_companies": [
+            {
+                "name": "Horizon Pictures",
+                "id": 11356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 69995385,
+        "vote_average": 8.004,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056172",
+        "original_language": "en",
+        "popularity": 41.677,
+        "status": "Released",
+        "tagline": "Nothing is written.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9289,
+        "title": "The Longest Day",
+        "release_date": "1962-09-25",
+        "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
+        "poster_path": "/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
+        "backdrop_path": "/rLYXSX8DjLvjq9bPrUiCaHopQGi.jpg",
+        "production_companies": [
+            {
+                "name": "Darryl F. Zanuck Productions",
+                "id": 13630
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 50100000,
+        "vote_average": 7.576,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056197",
+        "original_language": "en",
+        "popularity": 20.041,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 31442,
+        "title": "Ivan's Childhood",
+        "release_date": "1962-05-09",
+        "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
+        "poster_path": "/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+        "backdrop_path": "/jOulpNwtoJP5fF1LJX1ojw6BxBq.jpg",
+        "production_companies": [
+            {
+                "name": "Tretye Tvorcheskoe Obyedinenie",
+                "id": 81478
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.849,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056111",
+        "original_language": "ru",
+        "popularity": 13.862,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 19972,
+        "title": "The 300 Spartans",
+        "release_date": "1962-08-01",
+        "overview": "Essentially true story of how Spartan king Leonidas led an extremely small army of Greek Soldiers (300 of his personal body guards from Sparta) to hold off an invading Persian army now thought to have numbered 250,000.",
+        "poster_path": "/8VpEjt2QIlvJ9lC06vvYPdaiqm.jpg",
+        "backdrop_path": "/i5hSiMd2RKbOZ6mvP2zlGxbn08Q.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055719",
+        "original_language": "en",
+        "popularity": 10.985,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 32041,
+        "title": "Hell Is for Heroes",
+        "release_date": "1962-06-26",
+        "overview": "World War II drama where the action centers around a single maneuver by a squad of GIs in retaliation against the force of the German Siegfried line. Reese joins a group of weary GIs unexpectedly ordered back into the line when on their way to a rest area. While most of the men withdraw from their positions facing a German pillbox at the far side of a mine-field, half a dozen men are left to protect a wide front. By various ruses, they manage to convince the Germans that a large force is still holding the position. Then Reese leads two of the men in an unauthorized and unsuccessful attack on the pillbox, in which the other two are killed; and when the main platoon returns, he is threatened with court-martial. Rather that face the disgrace, and in an attempt to show he was right, he makes a one-man attack on the pillbox.",
+        "poster_path": "/nZ0h8V0jsS5NLKdUZIZ2I2xMWtR.jpg",
+        "backdrop_path": "/m1NdU25axOn22J42c9SDt3VNDhf.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.432,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056062",
+        "original_language": "en",
+        "popularity": 9.47,
+        "status": "Released",
+        "tagline": "The brutal realities that faced every G.I. during World War II",
+        "video": false
+    },
+    {
+        "id_tmdb": 43012,
+        "title": "Taras Bulba",
+        "release_date": "1962-11-21",
+        "overview": "Ukraine, 16th century. While the Poles dominate the Cossack steppes, Andrei, son of Taras Bulba, a Cossack leader, must choose between his love for his family and his folk and his passion for a Polish woman.",
+        "poster_path": "/8bnn12yMugSBIKlrhSuCOVJKrgH.jpg",
+        "backdrop_path": "/laaodHo902FemL66r8Zvdq8jWmy.jpg",
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            },
+            {
+                "name": "Harold Hecht Productions",
+                "id": 11585
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 7000000,
+        "revenue": 4000000,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056556",
+        "original_language": "en",
+        "popularity": 8.328,
+        "status": "Released",
+        "tagline": "A love story of flesh and fire!",
+        "video": false
+    },
+    {
+        "id_tmdb": 50474,
+        "title": "The Four Horsemen of the Apocalypse",
+        "release_date": "1962-02-07",
+        "overview": "In Argentina, one daughter of patriarch Madariaga is married to a Frenchman while the other is married to a German thus leading to a crisis when Nazi Germany occupies France and some Madariaga family members fight on opposite sides.",
+        "poster_path": "/lwJ50x2djMVYpgUzPOiFIo4amZz.jpg",
+        "backdrop_path": "/47vaUixME69vAungk1fuAE9Y83A.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.918,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0054890",
+        "original_language": "en",
+        "popularity": 8.032,
+        "status": "Released",
+        "tagline": "From Ibanez' immortal classic, Metro-Goldwyn-Mayer presents an unforgettable motion picture",
+        "video": false
+    },
+    {
+        "id_tmdb": 42997,
+        "title": "H.M.S. Defiant",
+        "release_date": "1962-04-15",
+        "overview": "Defiant's crew is part of a fleet-wide movement to present a petition of grievances to the Admiralty. Violence must be no part of it. The continual sadism of Defiant's first officer makes this difficult, and when the captain is disabled, the chance for violence increases.",
+        "poster_path": "/xN8zeOsIqsyZGsEHDX403pMkf0G.jpg",
+        "backdrop_path": "/n4j994w22L2V1YVEzTRsfPjldmp.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055884",
+        "original_language": "en",
+        "popularity": 7.705,
+        "status": "Released",
+        "tagline": "The cry was MUTINY... and the decks ran red!...",
+        "video": false
+    },
+    {
+        "id_tmdb": 63304,
+        "title": "Ballad of a Hussar",
+        "release_date": "1962-11-11",
+        "overview": "A young girl decides to join a Hussar squadron and fight against Napoleon. Dressed as a man, she proves herself an excellent, even heroic soldier, but complications ensue when her real identity is revealed.",
+        "poster_path": "/4Bzy43hgPcFKF4OYH5ih3Jrzadn.jpg",
+        "backdrop_path": "/1eA14ee9HceViYc2vHe5e7T8HAK.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.076,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056045",
+        "original_language": "ru",
+        "popularity": 6.407,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 76814,
+        "title": "No Man Is an Island",
+        "release_date": "1962-09-20",
+        "overview": "The true story of George Tweed, an American sailor who became the only serviceman on the island of Guam to avoid capture by the Japanese during the early years of World War II.",
+        "poster_path": "/lxDjhG0l7zopErFJHcjRApZoI8L.jpg",
+        "backdrop_path": "/9ONYpVoddAhTB092M8njkVsbccS.jpg",
+        "production_companies": [
+            {
+                "name": "Gold Coast Productions",
+                "id": 90086
+            },
+            {
+                "name": "Universal International Pictures",
+                "id": 10330
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056283",
+        "original_language": "en",
+        "popularity": 5.872,
+        "status": "Released",
+        "tagline": "Most incredible true story in U.S. Navy history!",
+        "video": false
+    },
+    {
+        "id_tmdb": 55305,
+        "title": "The War Lover",
+        "release_date": "1962-10-25",
+        "overview": "Buzz Rickson is a dare-devil World War II bomber pilot with a death wish. Failing at everything not involving flying, Rickson lives for the most dangerous missions. His crew lives with this aspect of his personality only because they know he always brings them back alive.",
+        "poster_path": "/4YHNVfhiUuZ3bJ5J0OsOM60ppzB.jpg",
+        "backdrop_path": "/u1XOyGjEnLSFmRDR35LXs2Fkpqn.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia British Productions",
+                "id": 16124
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056676",
+        "original_language": "en",
+        "popularity": 5.035,
+        "status": "Released",
+        "tagline": "The men of the flying forts whose bravery became a legend",
+        "video": false
+    },
+    {
+        "id_tmdb": 65048,
+        "title": "The Four Days of Naples",
+        "release_date": "1962-11-16",
+        "overview": "September 1943. After Italy surrenders to the Allies, people in Naples believe the war is finally over, but soon they realize Germans are still in control — and as ruthless as ever. Armed with makeshift weapons, the Neapolitan civilians spontaneously rise up en masse against the invaders — and overwhelming odds.",
+        "poster_path": "/kTaSb8eTHl0rIHuLrH6G45DGPXL.jpg",
+        "backdrop_path": "/lugVUlwpvVP7wnuvZCMoZBgUW2i.jpg",
+        "production_companies": [
+            {
+                "name": "Titanus",
+                "id": 641
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 800000,
+        "revenue": 0,
+        "vote_average": 7.522,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056389",
+        "original_language": "it",
+        "popularity": 4.938,
+        "status": "Released",
+        "tagline": "Stunning! Brilliant! Stirring! Scorching! Epic!",
+        "video": false
+    },
+    {
+        "id_tmdb": 35392,
+        "title": "Merrill's Marauders",
+        "release_date": "1962-03-16",
+        "overview": "Brigadier General Frank D. Merrill leads the 3,000 American volunteers of his 5307th Composite Unit (Provisional), aka \"Merrill's Marauders\", behind Japanese lines across Burma to Myitkyina, pushing beyond their limits and fighting pitched battles at every strong-point.",
+        "poster_path": "/gj3SuPPTGcz4XnHL6jHr3G8K1h9.jpg",
+        "backdrop_path": "/dwEl5fjIUdqJViFcszRUYKi8mCo.jpg",
+        "production_companies": [
+            {
+                "name": "United States Pictures",
+                "id": 11276
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.114,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056234",
+        "original_language": "en",
+        "popularity": 4.907,
+        "status": "Released",
+        "tagline": "How they fought those last 500 miles will remain forever in your memory!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43013,
+        "title": "The Counterfeit Traitor",
+        "release_date": "1962-04-17",
+        "overview": "Blacklisted in modern day WW2, a Swedish oil trader opts to assist British Allies, by means of infiltrating and surveying Nazi Germany.",
+        "poster_path": "/eKppEJWQZpf6VY9hqYYqsR5IEaq.jpg",
+        "backdrop_path": "/uFeS0iA9IdaReCtLQR21vvwAG4T.jpg",
+        "production_companies": [
+            {
+                "name": "Perlsea Company",
+                "id": 5015
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.441,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055871",
+        "original_language": "en",
+        "popularity": 4.755,
+        "status": "Released",
+        "tagline": "The Most Suspenseful Adventure Ever Lived!",
+        "video": false
+    },
+    {
+        "id_tmdb": 723593,
+        "title": "Operation Sewer Rats",
+        "release_date": "1962-06-01",
+        "overview": "Towards the end of World War II, five men are tasked with freeing the son of a general from Chinese captivity.",
+        "poster_path": "/b8FyTOXDkDYCfaWZWGaZfyxc5Vc.jpg",
+        "backdrop_path": "/iNJWaIQoQWI4GFr3n9ji098gxq0.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0057003",
+        "original_language": "ja",
+        "popularity": 4.439,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 596971,
+        "title": "Rainbow Over Kinmon",
+        "release_date": "1962-11-03",
+        "overview": "Three years had passed since Ichiro Takeo left Japan. He was a young physician with a promising future, until his medical error caused the death of a big-shot politician. He was discharged from the hospital and had since sailed around the world as an on-board doctor. As he was about to reach the Taiwanese piers of Kinmon Island, thoughts of his days in Japan crossed his mind - he reminisced about the Taiwanese girl, Yan, who had scooped him out of his misery during the time of the medical accident. At times of war, the two rekindle an old flame.",
+        "poster_path": "/6yN3UubSDFrCTocX2HpPmuErs4T.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            },
+            {
+                "name": "Central Motion Picture Corporation",
+                "id": 25345
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9815160",
+        "original_language": "ja",
+        "popularity": 4.295,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 333080,
+        "title": "Farewell to the Duman River",
+        "release_date": "1962-04-02",
+        "overview": "Patriotic university student Youngwoo and his friends, led by their teacher Lee Sung, along with a British friend bid farewell to their families and become freedom fighters in Manchuria fighting against the Japanese occupation around the Tumen River.",
+        "poster_path": "/1lv4OEotaAQRdZwjx9caGXIG0d5.jpg",
+        "backdrop_path": "/kM17Z7it7JTQLTFvRiEQ9czUP02.jpg",
+        "production_companies": [
+            {
+                "name": "Han-Hong Movies",
+                "id": 49727
+            },
+            {
+                "name": "Han Heung Film",
+                "id": 154309
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0144881",
+        "original_language": "ko",
+        "popularity": 4.127,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 32071,
+        "title": "War Hunt",
+        "release_date": "1962-05-01",
+        "overview": "Dispatched to the front lines during the Korean War, an idealistic American soldier discovers the horrors of combat and comes at odds with a psychopathic member of his platoon.",
+        "poster_path": "/31b3W1v8MOeOpYuk3dBSXFNpiHG.jpg",
+        "backdrop_path": "/oDkBxSBH3zPvcVjkFb1Nn3Xx3EL.jpg",
+        "production_companies": [
+            {
+                "name": "T-D Enterprises",
+                "id": 14114
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056675",
+        "original_language": "en",
+        "popularity": 3.702,
+        "status": "Released",
+        "tagline": "It happened on a raging battlefield, but he could have been a murderer stalking a city's streets!",
+        "video": false
+    },
+    {
+        "id_tmdb": 263838,
+        "title": "By the Ravine",
+        "release_date": "1962-08-08",
+        "overview": "Senya, a young hunter, hunts for two wolves that have been preying on sheep of various farms in Siberia. Kira Muratova and husband Oleksandr Muratov's diploma film.",
+        "poster_path": "/6HLThxFaj19N4wwpZavLi0LtrBI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            },
+            {
+                "name": "Kiev Film Studio",
+                "id": 13896
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0057613",
+        "original_language": "ru",
+        "popularity": 3.607,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 253105,
+        "title": "The Boys",
+        "release_date": "1962-11-02",
+        "overview": "When Continuation War started in Summer 1941, German soldiers arrived to Oulu. With their charm they conquered women and town boys. Finnish boys communicated with them on many levels: had trades, worked as interpreters, rotated business, spied on German love adventures and fought with each other about the favor of soldiers. In autumn 1944, the war was ending. Germans left Oulu by leaving behind fragile relationships, bastard kids and unfinished businesses. The most shocking of all was the faith of young Jake...",
+        "poster_path": "/fhv4pZvvjiqKwUEuGNJ9s2xpOnU.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Suomen Filmiteollisuus",
+                "id": 12982
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 45000,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056356",
+        "original_language": "fi",
+        "popularity": 3.488,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 639366,
+        "title": "Mother Country",
+        "release_date": "1962-04-29",
+        "overview": "In 1919, a group of Japanese immigrants arrives in Hawaii. Among them Yoshio Inoue and his wife Kishimo and Sumi, a young woman ready to get married soon. With the soil that is hard to work and the subtroipical climate, the immigrants have to cope with a hard life. But after years of hard work, Yoshio finds work as a teacher while his wife manages to open a small grocery store. But with the war around the corner, life becomes more and more complicated for the Japanese immigrants in a foreign country.",
+        "poster_path": "/AjicyLTWl9yO97vDHYYxemrP9uU.jpg",
+        "backdrop_path": "/h0OH13sMMOMOVZfEuEcsBng5b71.jpg",
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0202563",
+        "original_language": "ja",
+        "popularity": 3.263,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43000,
+        "title": "The Elusive Corporal",
+        "release_date": "1962-05-23",
+        "overview": "The story serves as a companion piece to Renoir's 1937 film, Grand Illusion, once more bringing together men from across the broad social spectrum of French society to depict one man's Sisyphean efforts to escape captivity in a German POW camp.",
+        "poster_path": "/32gR2wkvNQr7GoJpDiCfHFoNL72.jpg",
+        "backdrop_path": "/zjLR7DbWujKiG7VhtjQ4r3gsjou.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films du Cyclope",
+                "id": 16059
+            },
+            {
+                "name": "Société Nouvelle Pathé Cinéma",
+                "id": 643
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055827",
+        "original_language": "fr",
+        "popularity": 3.119,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 102155,
+        "title": "Hitler",
+        "release_date": "1962-03-21",
+        "overview": "Richard Basehart stars as one of the most influential and one of the most reviled men in history in this probing psychological study of a man who nearly gained dominance over the entire western world--at the cost of millions of lives--Hitler.",
+        "poster_path": "/NDK54o9AKgSot77EvTWq7D3nWy.jpg",
+        "backdrop_path": "/opft4JXMgqaIgO51R9O1AlHxDfW.jpg",
+        "production_companies": [
+            {
+                "name": "Three Crown Productions Inc.",
+                "id": 78243
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.719,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056072",
+        "original_language": "en",
+        "popularity": 2.972,
+        "status": "Released",
+        "tagline": "The private life of Hitler revealed for the first time!",
+        "video": false
+    },
+    {
+        "id_tmdb": 170195,
+        "title": "The Pigeon That Took Rome",
+        "release_date": "1962-06-19",
+        "overview": "An American Infantry officer assigned to a cloak-and-dagger role in Rome uses homing pigeons for outside contact, with humorous results.",
+        "poster_path": "/7S5IvDK58h8CT9xLLyuIxBDH2Lf.jpg",
+        "backdrop_path": "/nlzaQD7k10cIgcGmnNMyAjUI6sE.jpg",
+        "production_companies": [
+            {
+                "name": "Llenoc Productions",
+                "id": 98465
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056349",
+        "original_language": "en",
+        "popularity": 2.883,
+        "status": "Released",
+        "tagline": "He is a military-type pigeon, now a sitting duck.",
+        "video": false
+    },
+    {
+        "id_tmdb": 81409,
+        "title": "The Fury of Achilles",
+        "release_date": "1962-09-23",
+        "overview": "In the tenth year of the Trojan War, tensions between Achilles and Agamemnon divide the Greek camp while giving hope to the Trojans.",
+        "poster_path": "/gIGkbDm3NIrFzIzY25TzwUAqrxY.jpg",
+        "backdrop_path": "/tcTZhM3uWyBh0dkwIv82dV3PQPH.jpg",
+        "production_companies": [
+            {
+                "name": "Uneurop Film",
+                "id": 95315
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056104",
+        "original_language": "it",
+        "popularity": 2.639,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 187563,
+        "title": "The Changing of the Guard",
+        "release_date": "1962-10-31",
+        "overview": "During WW2, it's not wise to be a mayor chosen by the fascists with the Americans' impending arrival.",
+        "poster_path": "/1V9dZMs7brCJF99BfXMQgZKiJpR.jpg",
+        "backdrop_path": "/k9KRMFkGzZGIO2dA08ef4girGsI.jpg",
+        "production_companies": [
+            {
+                "name": "Paris Elysées Films",
+                "id": 1738
+            },
+            {
+                "name": "Apo Film",
+                "id": 118964
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0185167",
+        "original_language": "it",
+        "popularity": 2.477,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 100461,
+        "title": "The Christian Revolt",
+        "release_date": "1962-03-21",
+        "overview": "In the year 1637 in Shimabara of Tokugawa-era Japan, oppressed peasant Christians revolt against the shogunate with the aid of a charismatic Christian rebel leader Shiro Amakusa.",
+        "poster_path": "/ynz8m4KuqaRZTdNT98rITaPn4wn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055743",
+        "original_language": "ja",
+        "popularity": 2.4,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 159052,
+        "title": "The Valiant",
+        "release_date": "1962-06-13",
+        "overview": "Having placed mines on the hull of a British warship whilst it is safe in harbour during the second World War , the two man crew of an Italian miniature submarine are captured and held prisoner whist the crew try and discover the nature of their mission!",
+        "poster_path": "/sIyksSC8gCpcWInN4NtqIdtMZ6p.jpg",
+        "backdrop_path": "/44z2FRXKM9r6cIBJ47iwQ3ecffW.jpg",
+        "production_companies": [
+            {
+                "name": "Euro International Films",
+                "id": 8930
+            },
+            {
+                "name": "BHP",
+                "id": 76479
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056645",
+        "original_language": "en",
+        "popularity": 2.345,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 150361,
+        "title": "The Horizontal Lieutenant",
+        "release_date": "1962-04-18",
+        "overview": "A luckless army intelligence lieutenant finds himself stationed on a remote island army outpost during World War II, where all the action is between the sheets.",
+        "poster_path": "/9hNVweHabwqO6obuGVWBee1JcfT.jpg",
+        "backdrop_path": "/i0WjPJtS7OeSdYvkiRHX8XlMqnc.jpg",
+        "production_companies": [
+            {
+                "name": "Euterpe Productions",
+                "id": 4402
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056079",
+        "original_language": "en",
+        "popularity": 2.293,
+        "status": "Released",
+        "tagline": "It's the funniest service comedy since the War of 1812!",
+        "video": false
+    },
+    {
+        "id_tmdb": 453264,
+        "title": "Sol en llamas",
+        "release_date": "1962-04-19",
+        "overview": "A powerful rancher loses his power and wealth during the Revolution, and his daughter falls in love with a revolutionary.",
+        "poster_path": "/rrqs1af0rJ2SMB5u4FmfxgHK8SN.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Rosas Films S.A.",
+                "id": 76055
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0272300",
+        "original_language": "es",
+        "popularity": 2.196,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 305706,
+        "title": "The Honors of War",
+        "release_date": "1962-02-16",
+        "overview": "One morning in August 1944, the inhabitants of a French village are celebrating their premature liberation. The festivities are interrupted by the arrival of an exhausted, leaderless German detachment. A few kilometers away, the inhabitants of the village of Muzière negotiate with the Germans and agree to a truce. But the arrival of a Wehrmacht captain, anxious to regain control of the men, puts an end to this fragile peace process. The captain suggested meeting the Americans and surrendering to regular troops rather than civilians. The inhabitants of Muzière, believing the truce to be broken, fire on the Germans and, on this misunderstanding, the guns start talking again.",
+        "poster_path": "/rHbxfuPm4u8IknUObs8ZrewuQjj.jpg",
+        "backdrop_path": "/nHw1q8YlTEtmLrV2QZzyzXcY56a.jpg",
+        "production_companies": [
+            {
+                "name": "AKO Films",
+                "id": 92941
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0259352",
+        "original_language": "fr",
+        "popularity": 2.162,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 67749,
+        "title": "The Password Is Courage",
+        "release_date": "1962-06-01",
+        "overview": "Sergeant-Major Charles Coward, a brave British soldier is captured by German forces during World War II. When he's thrown into a prisoner of war camp, he immediately plans his escape. Masquerading as a wounded German soldier, he makes it as far as the medical tent, where the deceived enemy forces award him the Iron Cross. Though he is ultimately discovered, he goes on to courageously pursue his freedom with a whimsical and undying audacity.",
+        "poster_path": "/jXfygm4kwDmWAWtQpInnbgFj0U2.jpg",
+        "backdrop_path": "/eUuI7MyC49QH562zkEWUmX69KLc.jpg",
+        "production_companies": [
+            {
+                "name": "Andrew L. Stone Productions",
+                "id": 14828
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056335",
+        "original_language": "en",
+        "popularity": 2.12,
+        "status": "Released",
+        "tagline": "The only man ever awarded the Iron Cross by the enemy!!!",
+        "video": false
+    },
+    {
+        "id_tmdb": 384722,
+        "title": "The Pacific War and Himeyuri Corps",
+        "release_date": "1962-04-07",
+        "overview": "The last fight put up by remaining forces and a special volunteer nursing corps in 1944-5.",
+        "poster_path": "/yTZMMNNCb2H5VHsIqq1IC9EEXpq.jpg",
+        "backdrop_path": "/8F0sYT6YMM8EZu24nIQZDRUe89.jpg",
+        "production_companies": [
+            {
+                "name": "Okura Pictures",
+                "id": 138285
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0194216",
+        "original_language": "ja",
+        "popularity": 2.005,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 955831,
+        "title": "První jízdní",
+        "release_date": "1962-12-12",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Československá televize Brno",
+                "id": 121216
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "cs",
+        "popularity": 2.004,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204188,
+        "title": "Introduction to Life",
+        "release_date": "1962-05-06",
+        "overview": "A boy from Leningrad has his world turned upside down by his parent's separation and World War II. He leaves town amidst the fighting and returns to find a friend in his step-brother. The war is seen through the eyes of children and told in flashback form. The film was a special prize winner at the Venice Film Festival.",
+        "poster_path": "/7ZXNmQB8rXN6ug4AE9WXDgwYsO3.jpg",
+        "backdrop_path": "/caZNbJrwDWvFqHVLk8QnJUqVARy.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0175312",
+        "original_language": "ru",
+        "popularity": 1.976,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 447286,
+        "title": "The Great Hero Yi Sun Shin",
+        "release_date": "1962-04-14",
+        "overview": "Movie despicting the life and accomplishments of Korean Admiral Yi Sun Shin.",
+        "poster_path": "/6TrYRVa6WCUg2l0buL6JQirZdiY.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0323923",
+        "original_language": "ko",
+        "popularity": 1.891,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 39524,
+        "title": "The Silent Raid",
+        "release_date": "1962-12-21",
+        "overview": "In 1944 Leeuwarden, the Netherlands, a band of Dutch resistance fighters plot to covertly rescue dozens of compatriots from the local Nazi prison.",
+        "poster_path": "/eS2qZ6QLSNPB7nvrCCRin3jJKUy.jpg",
+        "backdrop_path": "/Cfpzh6VlPEuZXLtsmIG0Abcywm.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056321",
+        "original_language": "nl",
+        "popularity": 1.876,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 114508,
+        "title": "Black Fox: The Rise and Fall of Adolf Hitler",
+        "release_date": "1962-08-25",
+        "overview": "The rise and fall of Nazi Germany in part through the use of classical allegory.",
+        "poster_path": "/23Mb2uN6LcYfF1yeCgWreITJWoG.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055801",
+        "original_language": "en",
+        "popularity": 1.852,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 333245,
+        "title": "The War and an Old Man",
+        "release_date": "1962-08-09",
+        "overview": "A platoon of South Korean soldiers find themselves cut off from their squad without communication. They are aided by an old man in a nearby village who did not evacuate his home.",
+        "poster_path": "/eqyBPuttRHUUMrzsLMiGJgG301A.jpg",
+        "backdrop_path": "/bAPZSPgka63QxbCzRmKCclabBbE.jpg",
+        "production_companies": [
+            {
+                "name": "Daeyang Movies",
+                "id": 17082
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0144823",
+        "original_language": "ko",
+        "popularity": 1.842,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 455078,
+        "title": "Sakura Official",
+        "release_date": "1962-02-28",
+        "overview": "As Japan’s Tokugawa shogunate nears the end of its rule, Edo North Magistrate Toyama no Kinsan is called upon to judge the most difficult case of his career. In a masterfully woven tale, he has to face the truth about his estranged father’s possible involvement in a nefarious plot to take over rule of the Hizen Shimabara clan by assassinating the rightful lord, his son, and install one of Shogun Ienari’s offspring as daimyo.",
+        "poster_path": "/yKXugT4SEoweW4SetVIpzZDmlls.jpg",
+        "backdrop_path": "/qOwk6kuOSJMeJiah1U2g6jkHm9T.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 799204,
+            "name": "Tōyama no Kin-san Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0165458",
+        "original_language": "ja",
+        "popularity": 1.803,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 94696,
+        "title": "Four Winds of Heaven",
+        "release_date": "1962-06-01",
+        "overview": "A young girl Svetlana just arrived to the small town when a war begun. Her fiancé Igor did not meet Svetlana so she stayed alone to wait for him.",
+        "poster_path": "/6s7vQzrhYDI4kuWeoWZklNL1G4B.jpg",
+        "backdrop_path": "/13j1jnf7W3Nuz3M2N4lQ8iUD59S.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056269",
+        "original_language": "ru",
+        "popularity": 1.793,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 376686,
+        "title": "Ultimatum alla vita",
+        "release_date": "1962-01-11",
+        "overview": "Women held in prison by the Nazi's in Italy during WW2.",
+        "poster_path": "/2CgprsabzHKmPR2J20cl6L3WCr3.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055566",
+        "original_language": "en",
+        "popularity": 1.736,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73059,
+        "title": "Kozara",
+        "release_date": "1962-07-25",
+        "overview": "In June of 1942 Germans and their collaborators decide to get rid of partisans and their stronghold in the woods of Mount Kozara in Northern Bosnia. They encircle the mountain and begin the mop up operation. Out gunned and outnumbered the partisans must not only take care of themselves but try to protect thousands of refugees too.",
+        "poster_path": "/6iPIOm2htpLhJsmYOvGZ8sakF8w.jpg",
+        "backdrop_path": "/91kyfBfuPHCcifeuk0UohSLaEHr.jpg",
+        "production_companies": [
+            {
+                "name": "Bosna Film",
+                "id": 10617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055059",
+        "original_language": "sh",
+        "popularity": 1.662,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 365602,
+        "title": "Cat Under a Helmet",
+        "release_date": "1962-01-01",
+        "overview": "A tragicomic tale of lumberjack who joined the partisans during WW2. As a corporal, he successfully and courageously fulfilled the combat tasks with his partisan battalion. The commander sends him on a special assignment.",
+        "poster_path": "/ga6Lr3zBsVMSQfDhKOZ2w6rd6zi.jpg",
+        "backdrop_path": "/cMdmnZYRXzpStGrsirWvwi0cGzx.jpg",
+        "production_companies": [
+            {
+                "name": "Bosna Film",
+                "id": 10617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0179954",
+        "original_language": "sh",
+        "popularity": 1.661,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 65912,
+        "title": "Lafayette",
+        "release_date": "1962-02-16",
+        "overview": "The story of Lafayette, the 19 year old pacifist who takes the side of the Colonials during the American war of Independence.",
+        "poster_path": "/tdIWE4H8XNHcVqOinKhS1hIZCmi.jpg",
+        "backdrop_path": "/pKOAPsVpZH9TbDgxWLV9AnFCGVo.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films Copernic",
+                "id": 1740
+            },
+            {
+                "name": "Cosmos",
+                "id": 52643
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055070",
+        "original_language": "fr",
+        "popularity": 1.633,
+        "status": "Released",
+        "tagline": "The shot heard round the world thunders across the screen !",
+        "video": false
+    },
+    {
+        "id_tmdb": 315200,
+        "title": "Commando",
+        "release_date": "1962-11-14",
+        "overview": "A French Foreign Legion commander is told to assemble a unit and capture an Algerian rebel leader. He gathers in his old unit, most of whom are no longer in top form. One is having nightmares of past indiscretions, another is now drinking, another has lost his nerve. He takes them in captures the leader, but then is unable to make it to the pick up. He encounters a rebel patrol and is trapped unless they can escape before their water runs out.",
+        "poster_path": "/qY3kksEnXYPVOOlIsAfP7HKOdGL.jpg",
+        "backdrop_path": "/vncj6W4yxB3AtbJT4molee5Vyc0.jpg",
+        "production_companies": [
+            {
+                "name": "Tempo Film",
+                "id": 54583
+            },
+            {
+                "name": "Midega Film",
+                "id": 1125
+            },
+            {
+                "name": "Monachia Zeynfilm",
+                "id": 18909
+            },
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056221",
+        "original_language": "de",
+        "popularity": 1.544,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 421383,
+        "title": "Operation Enemy Fort",
+        "release_date": "1962-10-20",
+        "overview": "Soldiers on the front lines in China during World War II are besieged by guerrilla attacks and attempt to destroy an enemy fort.",
+        "poster_path": "/wyhA8hvTFZO748bOKrAVJ4g15Bj.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056707",
+        "original_language": "ja",
+        "popularity": 1.504,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 900525,
+        "title": "Akce Kalimantan",
+        "release_date": "1962-08-17",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Biro hubungan masjarakat angkatan udara Republik Indonesia",
+                "id": 164895
+            },
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            },
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0302243",
+        "original_language": "cs",
+        "popularity": 1.49,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 2215,
+        "title": "Star-Crossed Lovers",
+        "release_date": "1962-06-08",
+        "overview": "Magdalena and Michael have loved each other since they were children. But when the Nazis come to power, Michael rebels against the regime and is sentenced to fifteen years in a concentration camp. Magdalena, meanwhile, goes underground with the help of a friend and later immigrates to the Soviet Union. Michael, who has joined the Red Army, discovers on the way to Moscow that Magdalena is staying there. But when his plane lands, she is already on her way back to Germany. Michael hopes that one day, he and Magdalena will be reunited.",
+        "poster_path": "/pP6HaOzk7Hh8Mo4s1mue9qBJt11.jpg",
+        "backdrop_path": "/cumhG8mthpwoasDp7NBMSRJSI9g.jpg",
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056161",
+        "original_language": "de",
+        "popularity": 1.425,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 676009,
+        "title": "La tórtola del Ajusco",
+        "release_date": "1962-02-08",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "España Sono Films",
+                "id": 77685
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0277405",
+        "original_language": "es",
+        "popularity": 1.359,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 261148,
+        "title": "The Passerine Bird",
+        "release_date": "1962-04-18",
+        "overview": "Story of an innocent and carefree little girl whose father is a member of the anti-French resistance.",
+        "poster_path": "/5I2M6vK1naUjQNN4KHmonDPoMdk.jpg",
+        "backdrop_path": "/dq5x4V5udmvaHhgRYgBxzo7fbzh.jpg",
+        "production_companies": [
+            {
+                "name": "Xuong Phim Hanoi",
+                "id": 74837
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2077731",
+        "original_language": "vi",
+        "popularity": 1.348,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 562279,
+        "title": "The Country Left Behind",
+        "release_date": "1962-03-01",
+        "overview": "Before the Korean War (1950-1953), a daughter of a Russian soldier stationed at Heungnam falls in love with a young Korean anti-Communist. Their love story shows how cruel the Russian soldiers were and how badly many North Koreans craved for freedom.",
+        "poster_path": "/lgTbticColQ2U3bhbmQW9hE0qpz.jpg",
+        "backdrop_path": "/n0mibxKlIBdw4mFu47LlfFCBzfS.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0372250",
+        "original_language": "ko",
+        "popularity": 1.344,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 200778,
+        "title": "Lost Battalion",
+        "release_date": "1962-05-17",
+        "overview": "In the Philippines during World War II, a girl is rescued from bandits by a guerrilla fighter.",
+        "poster_path": "/ki4s8kfMkR6N1zuaID1cOXEO0lg.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Alta Vista Productions",
+                "id": 4820
+            },
+            {
+                "name": "Com Productions",
+                "id": 17473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0236449",
+        "original_language": "en",
+        "popularity": 1.257,
+        "status": "Released",
+        "tagline": "200 Men and one girl trapped in a ring of steel!",
+        "video": false
+    },
+    {
+        "id_tmdb": 278969,
+        "title": "Conquered City",
+        "release_date": "1962-12-05",
+        "overview": "Filmed in 1962 but not released in the US until 1966 (with 20 of its 108 minutes removed), Conquered City is an all-star World War II drama financed in Italy and filmed in Greece. An Athens hotel, full of refugees and expatriates of all nationalities, is captured by Allied troops in the closing days of the War. British Major David Niven has been ordered to prevent a cache of weapons hidden in the hotel from falling into the hands of renegade troops. He cannot allow himself to trust anyone--not even the most innocent-looking (or attractive) of guests. Originally titled La Citta Prigioniera. Conquered City was released in English-speaking countries outside the U.S. as Captive City.",
+        "poster_path": "/ltkvyKb4y3xwDoG59NOI2wEr39a.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Galatea Film",
+                "id": 106101
+            },
+            {
+                "name": "Maxima Film",
+                "id": 52586
+            },
+            {
+                "name": "Lux Film",
+                "id": 1679
+            },
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055851",
+        "original_language": "it",
+        "popularity": 1.25,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 606641,
+        "title": "Midnight Mass",
+        "release_date": "1962-08-24",
+        "overview": "On Christmas Eve, 1944, in Nazi-occupied Slovakia, the Kubiš family grapples with survival amidst brutal reprisals. Marián collaborates as a fascist guard leader, while his sister Angela has an affair with their Nazi lodger, Major Brecker. The situation escalates when their younger son, Juraj, a former partisan fighter, returns home wounded. As Germans search homes for escapees, Juraj hides in the attic, while an unsettling Christmas dinner unfolds below with Major Brecker present.",
+        "poster_path": null,
+        "backdrop_path": "/gYw8DgQI62BvfMenDkUTNDNokVz.jpg",
+        "production_companies": [
+            {
+                "name": "Štúdio hraných filmov Bratislava",
+                "id": 12508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173013",
+        "original_language": "sk",
+        "popularity": 1.245,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 57449,
+        "title": "Operasjon Løvsprett",
+        "release_date": "1962-01-01",
+        "overview": "A group of very different men are summoned for their refresher training at Haglemoen military camp. One more strange than the other, we get to meet jovial salesman Goggen Rask, car mechanic Bottolph Johansen, nicknamed daydreamer, and ship-owner Rieber Larsen Jr. They form an unruly faction which Major Kampstrup struggles to maintain structured and prepared, not to mention keeping them inside the camp premises before they pretend sick to see the nurses Bitten and Florence.  The men do their best to get through their rigourous training, with great confusion and comical situations.",
+        "poster_path": "/mPkmstb1X0eKtbFphyVdm7SrcNk.jpg",
+        "backdrop_path": "/jMavQvmVJjJExW57iuaNalz6PVd.jpg",
+        "production_companies": [
+            {
+                "name": "Norena Film",
+                "id": 14622
+            },
+            {
+                "name": "Teamfilm AS",
+                "id": 14623
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0141697",
+        "original_language": "no",
+        "popularity": 1.234,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 152387,
+        "title": "Venus fra Vestø",
+        "release_date": "1962-12-21",
+        "overview": "Vestø island's isolated community's prize cow is in danger of being abducted by German WWII occupation forces.",
+        "poster_path": "/2ZLGU2hAQe3a4Djmisv2oLlaj0d.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Saga Studio",
+                "id": 12530
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.583,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0122780",
+        "original_language": "da",
+        "popularity": 1.216,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 562507,
+        "title": "Bells Without Joy",
+        "release_date": "1962-04-20",
+        "overview": "In November 1942, American troops landed in Tunisia. German paratroopers were immediately launched and occupied Tunis. A French squadron of chasseurs d'Afrique was sent to Medjez-el Bab with the mission of occupying the bridge over the Medjerda. But the captain is mute and the cavalrymen don't know whether the operation is being prepared against the Germans or the Allies. The first hypothesis inflames Maréchal des Logis Bourgeon and his friend Maurice, who have not forgotten the defeat of '40. In the village, Maurice meets up with his friend Léa, a refugee, and discovers with fury that she is Jewish, because he doesn't like Jews any more than he likes English or Germans! The hunters set up camp on the bridge. Soon, a German column appears and demands passage. The captain refuses, awaiting orders from Vichy. But in Tunis, confusion reigns. Finally, the captain himself takes the initiative to oppose the passage of the German troops...",
+        "poster_path": "/xtPGvncpwyigMwln1VTO6iyddp3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Da.Ma. Cinematografica",
+                "id": 56122
+            },
+            {
+                "name": "Unidex",
+                "id": 216059
+            },
+            {
+                "name": "Régis Films",
+                "id": 96549
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0155586",
+        "original_language": "fr",
+        "popularity": 1.213,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1302087,
+        "title": "Great Monk Wonhyo",
+        "release_date": "1962-02-15",
+        "overview": "",
+        "poster_path": "/mZ903JmMgmHnJRLIy5Y1suLwUMN.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ko",
+        "popularity": 1.21,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 940302,
+        "title": "Tam za lesem",
+        "release_date": "1962-11-23",
+        "overview": "",
+        "poster_path": "/bTIK194hvzOyccOe1FK1t2XB8vE.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0396243",
+        "original_language": "cs",
+        "popularity": 1.175,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198848,
+        "title": "Tobacco",
+        "release_date": "1962-11-05",
+        "overview": "Boris Morev dreams of money and power, he’ll do everything to reach the top, including leaving his beloved Irina, to marry the daughter of the local tobacco factory owner. With the death of his father-in-law and the illness of his wife, Morev becomes the new owner of \"Nicotiana\" and rules with an iron fist, resulting in massive labour strikes and murder. He ropes Irina back into his life, first as a mistress and later as his second wife, but his ambitions still come first as he plans on emerging as the biggest tobacco seller once the war is over. Irina’s love for Boris is fading and she finds a lover in one of the Germans Boris is trying to strike a deal with. Set against the backdrop of World War II and communist partisans fighting against the Nazi-allied Bulgarian monarchy, the film is a screen adaptation of the Bulgarian classic novel \"Tobacco\" released in 1954.",
+        "poster_path": "/xAGj96FNr2iaQnyQkvC0NwrgfzB.jpg",
+        "backdrop_path": "/rYoWt4iMgFETw4Akyq3O5nA2xxw.jpg",
+        "production_companies": [
+            {
+                "name": "Boyana Film",
+                "id": 15567
+            },
+            {
+                "name": "Bulgarofilm",
+                "id": 51798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173374",
+        "original_language": "bg",
+        "popularity": 1.128,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 33948,
+        "title": "Friends at Arms: Causing Mischief",
+        "release_date": "1962-10-05",
+        "overview": "",
+        "poster_path": "/8B61EpPLh8yEs6U4rX2ZvIEswJz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Merry Film",
+                "id": 4294
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 94921,
+            "name": "Friends at Arms Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0056506",
+        "original_language": "da",
+        "popularity": 1.099,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 355982,
+        "title": "The Coward",
+        "release_date": "1962-04-13",
+        "overview": "In a remote Slovak village in the closing days of World War II, a schoolteacher and his young wife find a wounded Russian parachutist in their front yard just as the Germans are coming in to occupy their village. As his wife readily becomes involved with anti-Nazi partisans, the schoolteacher collaborates with the Germans in fear.",
+        "poster_path": "/gJCcz6oOS4ATa8NLGlEBd5bvbBW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0176338",
+        "original_language": "cs",
+        "popularity": 1.092,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 366697,
+        "title": "Atrás de las nubes",
+        "release_date": "1962-11-04",
+        "overview": "All it says in my notes is \"Like 'Juan Sin Miedo', only with soldiers.\" So... Army officer seeks revenge for... something...",
+        "poster_path": "/4EYLpt1CdCOtA8wyWwZC0DaPahT.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Cinematográfica Jalisco S.A.",
+                "id": 35323
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0242289",
+        "original_language": "es",
+        "popularity": 1.069,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 281433,
+        "title": "The Nun and the Sergeant",
+        "release_date": "1962-01-01",
+        "overview": "A weary sergeant in Korea commands military prisoners on a dangerous mission and is joined by a nun and a group of schoolgirls in enemy territory.",
+        "poster_path": "/bp0dAn08LT1VdC0VHnm0fTifuxM.jpg",
+        "backdrop_path": "/8OV3gGDu41g8xcCN8FiLMBuMfCB.jpg",
+        "production_companies": [
+            {
+                "name": "Springfield Productions",
+                "id": 47552
+            },
+            {
+                "name": "Eastern Productions",
+                "id": 3359
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 1.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056296",
+        "original_language": "en",
+        "popularity": 1.033,
+        "status": "Released",
+        "tagline": "It pulls the pin on the screen's most explosive war drama!",
+        "video": false
+    },
+    {
+        "id_tmdb": 286798,
+        "title": "Suicide Commandoes",
+        "release_date": "1962-06-12",
+        "overview": "The story line, although in fiction, was set in the last days of the Second World War  in the Philippines, particularly the Bessang Pass in the island of Luzon. The combined Filipino and American military forces are having a hard time in defeating the Japanese Imperial Army. Because of this situation, many military personnel and civilians on the side of the Filipino and Americans caught between the opposing forces are dying in large numbers everyday. Equipment and logistics in large quantities are also lost during the same time. The top brass of the United States Armed Forces in the Far East (USAFFE) decided to select six Filipinos from various several guerrilla units under its command to execute a mission codenamed “Mission X-310”:",
+        "poster_path": "/bG2mTPyygVxHt1ipezfbPtsGla1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Tagalog Ilang-Ilang Productions",
+                "id": 23941
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1155734",
+        "original_language": "tl",
+        "popularity": 1.009,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 273573,
+        "title": "Airborne",
+        "release_date": "1962-05-30",
+        "overview": "Hoping to follow in his uncle's footsteps, an Indiana teenager enlists in the army's Airborne Division and undergoes training to become a paratrooper at Fort Bragg, NC.",
+        "poster_path": "/nAiquwbIApYCkQtNY7LRaNZsul9.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0165081",
+        "original_language": "en",
+        "popularity": 1.004,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 865739,
+        "title": "Le Temps des assassins",
+        "release_date": "1962-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Société des Films d’Art et de Culture",
+                "id": 68562
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0316742",
+        "original_language": "fr",
+        "popularity": 0.95,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 387046,
+        "title": "Gunfight",
+        "release_date": "1962-03-12",
+        "overview": "In this sequel to \"Captain Leshi\", a group of Albanian nationalist movement (ballists) continues obstruction of the new Yugoslavian authorities even after the war. Captain Leshi manages to fight them successfully, as well as to fulfill his romance with beautiful Azira.",
+        "poster_path": "/wuLP4HVSNqnz8boE7zFD0ycoUJr.jpg",
+        "backdrop_path": "/bTHY9UZWg1X0fECSosEnwEQoo8C.jpg",
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0172903",
+        "original_language": "sh",
+        "popularity": 0.942,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198847,
+        "title": "Sky",
+        "release_date": "1962-08-31",
+        "overview": "During the cold spring of 1941, with Greece already under German occupation, a long-suffering squad of war-battered soldiers receives orders from the headquarters in Athens to fall back, leaving behind the Albanian Front. As the men retreat through the snow-covered landscapes of the bomb-scarred Greek countryside, the terrifying certainty that nothing will ever be the same again crushes their weary human souls.",
+        "poster_path": "/r5OyJNlqUNPHZqFFwRGvvzBUYMX.jpg",
+        "backdrop_path": "/orWphH09HpsGXy3N6C9Vylo4jW0.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0196817",
+        "original_language": "el",
+        "popularity": 0.892,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 965992,
+        "title": "Nad rzeką",
+        "release_date": "1962-01-01",
+        "overview": "A boy accidentally gets involved in a fight between partisans and a German patrol.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Se-Ma-For",
+                "id": 6551
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2056660",
+        "original_language": "pl",
+        "popularity": 0.87,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1150591,
+        "title": "Fighting Lions",
+        "release_date": "1962-10-11",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ko",
+        "popularity": 0.832,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 762767,
+        "title": "Trigo limpio",
+        "release_date": "1962-01-01",
+        "overview": "",
+        "poster_path": "/6QJ2rcHumWL835mibZGmun9YnSM.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ignacio Ferrés Iquino (IFISA)",
+                "id": 12395
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056616",
+        "original_language": "es",
+        "popularity": 0.829,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 269214,
+        "title": "Chickamauga",
+        "release_date": "1962-01-01",
+        "overview": "A deaf and mute little boy wanders away from home in the aftermath of the battle of Chickamauga, one of the bloodiest conflagrations of the American Civil War.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0369328",
+        "original_language": "en",
+        "popularity": 0.82,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 262545,
+        "title": "Two on the Steppes",
+        "release_date": "1962-07-05",
+        "overview": "In the summer of 1942, the Soviet army is fighting the Germans on the Don River. Young lieutenant Ogarkov gets lost in the steppe and fails to deliver a redeployment order. For that, he is sentenced to death. Now, another soldier has to lead him across the steppes to his death.",
+        "poster_path": "/mSXhMHE2WOyygzMBKYEEVLoNKRv.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173783",
+        "original_language": "ru",
+        "popularity": 0.655,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 605269,
+        "title": "Desert War",
+        "release_date": "1962-03-03",
+        "overview": "A woman is discovered in a shelled-out truck in the Libyan Desert by a small group of soldiers.",
+        "poster_path": "/Aqd7XKSYErQHuvdq5TdHxex9Sr4.jpg",
+        "backdrop_path": "/wC9KaXLoYh3gE5aljNkne93XWDD.jpg",
+        "production_companies": [
+            {
+                "name": "Apo Film",
+                "id": 118964
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0196885",
+        "original_language": "it",
+        "popularity": 0.647,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 324777,
+        "title": "Sasha",
+        "release_date": "1962-01-01",
+        "overview": "A mysterious person is killing pro-Nazi officials in a small Serbian town. A group of children accidentally reveal his identity.",
+        "poster_path": "/5v160aT1MmofYUwJfATs8h6anqN.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056446",
+        "original_language": "sh",
+        "popularity": 0.629,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 284363,
+        "title": "The Hole In The Ground",
+        "release_date": "1962-07-29",
+        "overview": "Made at the height of 'cold war' paranoia, this drama-documentary shows the work of the UK Warning and Monitoring Organisation, who's duties included the issuing of public warnings of any nuclear missile strike and the subsequent fallout.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "United Kingdom Warning and Monitoring Organisation",
+                "id": 81717
+            },
+            {
+                "name": "Film Producers Guild",
+                "id": 63834
+            },
+            {
+                "name": "Guild Animation",
+                "id": 81718
+            },
+            {
+                "name": "Home Office, The",
+                "id": 44582
+            },
+            {
+                "name": "R.H.R. Productions",
+                "id": 81720
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1863412",
+        "original_language": "en",
+        "popularity": 0.627,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 258412,
+        "title": "Magueyes",
+        "release_date": "1962-03-07",
+        "overview": "Experimental filmmaker Rubén Gámez explores the iconography of the maguey plant in Mexican cinematic history.",
+        "poster_path": "/f4x3d3XuQGvbzJEDv2b6KcCaqIG.jpg",
+        "backdrop_path": "/nkTbfuuqaPmlVYSZcZ2S8hckgnQ.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0298047",
+        "original_language": "es",
+        "popularity": 0.601,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 243244,
+        "title": "The Game",
+        "release_date": "1962-01-01",
+        "overview": "In this child's game, a live-action boy and girl draw characters and compete who is better. The girl draws a flower and the boy draws a car that runs it over. Then a drawn lion chases a drawn girl, until it all becomes frightfully serious.",
+        "poster_path": "/oFFBa3wmz3bcoWHRRpgYROcnIWy.jpg",
+        "backdrop_path": "/i2m0xUDDsv7Msg2DOCGlhZZAgGD.jpg",
+        "production_companies": [
+            {
+                "name": "Zagreb film",
+                "id": 5724
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0057185",
+        "original_language": "sh",
+        "popularity": 0.589,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 728735,
+        "title": "Seven Days and Seven Nights",
+        "release_date": "1962-03-20",
+        "overview": "",
+        "poster_path": "/baPQx6v27Cr7X9QFymlxqhgjMzv.jpg",
+        "backdrop_path": "/bTJQ9s0RAkLdBoAwebIr6Lza1YM.jpg",
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            },
+            {
+                "name": "Xi'an Film Studio",
+                "id": 4582
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.587,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1246352,
+        "title": "Rodzina Milcarków",
+        "release_date": "1962-11-09",
+        "overview": "The fate of a working-class family during the third Silesian Uprising.",
+        "poster_path": "/rI0TzO7FeLvWkPoAwnRNFlZfMp7.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Start\"",
+                "id": 56351
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056421",
+        "original_language": "pl",
+        "popularity": 0.577,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1021730,
+        "title": "停战以后",
+        "release_date": "1962-05-06",
+        "overview": "",
+        "poster_path": "/4tLRuevYN9RMDO7NUvfPLV7be9D.jpg",
+        "backdrop_path": "/yZc9TLFdkJUZyt2NC0hpDcgHHq7.jpg",
+        "production_companies": [
+            {
+                "name": "北京电影制片厂",
+                "id": 181847
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6760852",
+        "original_language": "zh",
+        "popularity": 0.565,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 281255,
+        "title": "Warriors Five",
+        "release_date": "1962-09-30",
+        "overview": "World War II Italy...1943. After parachuting behind enemy lines on an espionage mission, an American soldier is imprisoned by the enemy. He escapes with four Italian prisoners, enlisting their aid in exploding a bridge.",
+        "poster_path": "/rKNmWINg4cAt0RckWFyNwlfdYHg.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Italian International Film",
+                "id": 1429
+            },
+            {
+                "name": "SNC",
+                "id": 16670
+            },
+            {
+                "name": "Film Servis",
+                "id": 52382
+            },
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056041",
+        "original_language": "it",
+        "popularity": 0.533,
+        "status": "Released",
+        "tagline": "THE SEETHING PASSIONS OF WARRIORS WITHOUT WOMEN...THIS IS THE UNTOLD HOLOCAUST OF WAR!!!",
+        "video": false
+    },
+    {
+        "id_tmdb": 534417,
+        "title": "The Silent Invasion",
+        "release_date": "1962-12-01",
+        "overview": "During WWII, a German garrison is stationed in the small French town of Mereux. French local Maria falls in love with a German captain. However, the romance comes to an abrupt end when her brother, a saboteur working for the Resistance, is killed.",
+        "poster_path": "/A91Mm8ck4DXVwVRZgdbZR8wcUj5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Danziger Productions Ltd.",
+                "id": 5078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056489",
+        "original_language": "en",
+        "popularity": 0.489,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 314945,
+        "title": "The Mockingbird",
+        "release_date": "1962-06-06",
+        "overview": "A civil war soldier is lost in the woods when he shoots what he thinks is his enemy.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2297011",
+        "original_language": "fr",
+        "popularity": 0.487,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 269103,
+        "title": "14,000 Witnesses",
+        "release_date": "1962-10-23",
+        "overview": "Story of conflict of two opposite ideas, set in a POW camp after the Korean War.",
+        "poster_path": "/4knOHR52k3YM1BzI63IX1aeg3bB.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hai Yen Film Company",
+                "id": 226850
+            },
+            {
+                "name": "Chinese Oversea Film Co.",
+                "id": 80821
+            },
+            {
+                "name": "Tai Wan Provincial Motion Picture Association",
+                "id": 77234
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0231061",
+        "original_language": "zh",
+        "popularity": 0.475,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 229992,
+        "title": "Cold Tracks",
+        "release_date": "1962-01-10",
+        "overview": "Guilt and sexual jealousy are the main dynamics behind Skouen's gloomy and intense tale about Oddmund, a former Resistance leader who caused the death of 12 refugees during the war.",
+        "poster_path": "/ldcTEou7hl3w9bJVn8uGkPafRN5.jpg",
+        "backdrop_path": "/h68QOoT80HTexmRtgsA1m8AO5k4.jpg",
+        "production_companies": [
+            {
+                "name": "ARA-Films",
+                "id": 73449
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056133",
+        "original_language": "no",
+        "popularity": 0.473,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 318629,
+        "title": "The Naval Battle of 1894",
+        "release_date": "1962-01-01",
+        "overview": "In 1894 the Japanese Imperial Navy provokes the Chinese navy to test defenses. Some Chinese want to make concessions while others want to fight. When Japan invades, some naval officers put up a heroic resistance.",
+        "poster_path": "/rr7umOdrrnmR6yhVG7NvqJnxL73.jpg",
+        "backdrop_path": "/yNTBTnhS6oMnVaOcXMl0lqiFAd5.jpg",
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0353580",
+        "original_language": "zh",
+        "popularity": 0.472,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 243236,
+        "title": "The Road to the Wall",
+        "release_date": "1962-01-01",
+        "overview": "A brief summary on Comumunism, its origins with Marx, passing through two world wars which leads all the way to the Berlin Wall. Oscar nominated documentary narrated by James Cagney.",
+        "poster_path": "/ykwfolyezoarjhtryVLQmVwJevb.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056418",
+        "original_language": "en",
+        "popularity": 0.41,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 562502,
+        "title": "Dawn on the Third Day",
+        "release_date": "1962-01-26",
+        "overview": "The inhabitants of Praxos, a mountain village in an occupied country, organize their own resistance to the oppressor. Faced with reprisals, they decide that every hour a man will cross the bridge that is the population's only supply route. The action, which results in the death of all those taking part, continues until dawn on the third day.",
+        "poster_path": "/gnEvldggK6zpxOESbFJoXvIwc9t.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lodice Films",
+                "id": 172900
+            },
+            {
+                "name": "Carayannis Films",
+                "id": 172901
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0196860",
+        "original_language": "el",
+        "popularity": 0.359,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 556565,
+        "title": "Dong jin xu qu",
+        "release_date": "1962-01-01",
+        "overview": "“It’s a story, adapted from the homonymous drama, that the new Forth Army struggles with the branch of Jiangsu-Shandong-Anhui of Kuomindang for Anti-Japanese, solidification and against surrender, abruption during the way going east.It reflects the complicate situation during the Anti-Japanese War andthe victory of the Anti-Japanese unibus policies of the CCP Center and Chairman Mao.”  From the English Red Movie blurb",
+        "poster_path": "/9gd3nBDCauPfFRljSoAmO3HEN3h.jpg",
+        "backdrop_path": "/niLk8t9og6Gi8wVQ5Qm5tUjPN1W.jpg",
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0350831",
+        "original_language": "zh",
+        "popularity": 0.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 851357,
+        "title": "Drugi brzeg",
+        "release_date": "1962-04-30",
+        "overview": "A Polish communist in prison breaks out at the start of the war, fight against the Germans and tries to find out who put him behind bars.",
+        "poster_path": "/sISDSkgP9EQAcTin4yTv5WiAmA.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Studio\"",
+                "id": 34272
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0055933",
+        "original_language": "pl",
+        "popularity": 0.354,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 502055,
+        "title": "The Last Roll-Call",
+        "release_date": "1962-02-05",
+        "overview": "In October 1941 the Nazis decide to crush a rebellion in Serbia by mass shootings of civilians. In the city of Kragujevac thousands of people, including entire high school classes, were rounded up and shot in one day. The movie follows the fate of one of such classes.",
+        "poster_path": "/2l2GfAvEHdZai3eDFonPVP3Y7FG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "UFUS",
+                "id": 8024
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0056382",
+        "original_language": "sh",
+        "popularity": 0.332,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 990647,
+        "title": "Walang Pagkalupig",
+        "release_date": "1962-08-22",
+        "overview": "The story of the heroic exploits of PC Ranger Captain Laudemer Kahulugan tasked to hunt down Huk dissident leader Casto Alejandrino.",
+        "poster_path": "/dAjLWP9UDa8X1cpdPjXZWiCiOOR.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Jasmin Tagalog Pictures",
+                "id": 171155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1182333",
+        "original_language": "tl",
+        "popularity": 0.329,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 448990,
+        "title": "From Evening Till Morning",
+        "release_date": "1962-10-14",
+        "overview": "During the German occupation of Estonia a young mother finds a Red Army soldier hiding in the hay in her barn.",
+        "poster_path": "/ysmWZ8UJGJESNmCWhRhG8plyA4l.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Tallinnfilm",
+                "id": 6147
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "et",
+                "name": "Eesti"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0447571",
+        "original_language": "et",
+        "popularity": 0.192,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1113250,
+        "title": "Стальная колыбель",
+        "release_date": "1962-06-17",
+        "overview": "",
+        "poster_path": "/mZxQcGufymQUT8d0kNFJD2vGes3.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 0.004,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 678198,
+        "title": "An Early Autumn Day",
+        "release_date": "1962-01-01",
+        "overview": "",
+        "poster_path": "/kwgCSiewm8twudGMwsSmJ2Uhar.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Studio Hanoi-Films",
+                "id": 85655
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt16287358",
+        "original_language": "vi",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 677805,
+        "title": "Two Soldiers",
+        "release_date": "1962-07-16",
+        "overview": "",
+        "poster_path": "/xCORcdV648ncE4m74grnWZg1KQi.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Xuong Phim Hanoi",
+                "id": 74837
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt21225838",
+        "original_language": "vi",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 359669,
+        "title": "Cat under the helm",
+        "release_date": "1962-01-01",
+        "overview": "Cat under the helmet",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "A tragicomic tale of lumberjack who joined the partisans during WW2.",
+        "video": false
+    },
+    {
+        "id_tmdb": 328836,
+        "title": "World War I Overseas Fliers Reunion",
+        "release_date": "1962-01-01",
+        "overview": "A color film on the exploits of America's first fighter pilots as they hold a reunion.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

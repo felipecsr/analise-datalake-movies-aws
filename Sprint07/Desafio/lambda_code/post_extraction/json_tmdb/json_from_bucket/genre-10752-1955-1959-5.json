@@ -1,0 +1,2641 @@
+[
+    {
+        "id_tmdb": 453302,
+        "title": "The Stone Sky",
+        "release_date": "1959-11-16",
+        "overview": "The Warsaw Uprising. Five people hiding in a basement under an apartment complex get buried by the rubble when it's bombed by the Germans. With no way of escape, the people gradually descend into madness.",
+        "poster_path": "/fv09RCXb1yI892WTBQFgB1vZ1H5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy \"Studio\"",
+                "id": 34272
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052959",
+        "original_language": "pl",
+        "popularity": 0.396,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 808177,
+        "title": "V hodine dvanástej",
+        "release_date": "1959-08-28",
+        "overview": "",
+        "poster_path": "/6mtGl7rucLqrwBZdNHcIJISIYjM.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Štúdio hraných filmov Bratislava",
+                "id": 12508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0250801",
+        "original_language": "sk",
+        "popularity": 0.395,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 368275,
+        "title": "Spion 503",
+        "release_date": "1958-08-29",
+        "overview": "",
+        "poster_path": "/ggtzifYv5sTVPYQqsVSAyOKDFvG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dansk Film Co.",
+                "id": 26274
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0133213",
+        "original_language": "da",
+        "popularity": 0.387,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 267245,
+        "title": "The World's Craziest Army",
+        "release_date": "1958-10-30",
+        "overview": "",
+        "poster_path": "/7SdnJ76MZ1qiMmJW7S4IVkLCGKl.jpg",
+        "backdrop_path": "/bklFoq9oCZFnLca6Hfv1y3EF8QI.jpg",
+        "production_companies": [
+            {
+                "name": "Arca-Filmproduktion",
+                "id": 20803
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052068",
+        "original_language": "de",
+        "popularity": 0.385,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1169123,
+        "title": "Guľometný pás",
+        "release_date": "1959-01-01",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "sk",
+        "popularity": 0.382,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 318651,
+        "title": "Red Children",
+        "release_date": "1958-03-31",
+        "overview": "The story of village children in the 1930s who do their part to help overthrow the White forces in semi-feudal China and bring the Reds to power.",
+        "poster_path": "/oTT53iApaGKjVlqRPkYLvxrBJGI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13866600",
+        "original_language": "zh",
+        "popularity": 0.372,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 317637,
+        "title": "The Long March",
+        "release_date": "1959-09-25",
+        "overview": "A general depiction of the famous 1930's Long March of the Chinese Red Army.",
+        "poster_path": "/u3hiEapNrGlCcP70KXnaRttE7cJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0334683",
+        "original_language": "zh",
+        "popularity": 0.367,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 250234,
+        "title": "O Sobrado",
+        "release_date": "1956-05-28",
+        "overview": "Based on Erico Verissimo's masterpiece, O Sobrado follows the Terra-Cambará family during the siege imposed to their house by enemies due to political differences. As the siege goes, the family tensions start to show off.",
+        "poster_path": "/no1LDKaHPSqGcRt3CGT2MrozqlE.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Brasil Vita Filmes",
+                "id": 34239
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0211632",
+        "original_language": "pt",
+        "popularity": 0.355,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 738783,
+        "title": "Hob Min Narr",
+        "release_date": "1958-02-24",
+        "overview": "Two young men, Ahmed and Mohamed, who live in Port Said, develop feelings for the same girl, Najaf. However, when the Tripartite Aggression reaches Port Said, they abandon life trivialities and join the militants as Najaf joins the Red Crescent; the three unite for a single patriotic cause.",
+        "poster_path": "/3WwEPwA0mp5VMwvnbUkJUjhtEg2.jpg",
+        "backdrop_path": "/i0sq29zR1bWsWKwk9UL1DxPVG6v.jpg",
+        "production_companies": [
+            {
+                "name": "Mary Queeny",
+                "id": 228568
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0355547",
+        "original_language": "ar",
+        "popularity": 0.352,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 836078,
+        "title": "Osudy dobrého vojáka Švejka – Švejkova budějovická anabase",
+        "release_date": "1956-09-21",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Loutkový film Praha",
+                "id": 97261
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "cs",
+        "popularity": 0.351,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 653768,
+        "title": "Neporažení",
+        "release_date": "1956-11-16",
+        "overview": "",
+        "poster_path": "/nIEMDcMIQFCYvZ8RjnBJdaAFoZz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Studio hraných filmů",
+                "id": 126159
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174978",
+        "original_language": "cs",
+        "popularity": 0.346,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 498375,
+        "title": "Meçhul Kahramanlar",
+        "release_date": "1958-01-14",
+        "overview": "",
+        "poster_path": "/oMsHsNiwDiLAzKSHc0GbgRJlkVl.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Güven Film",
+                "id": 98695
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0312962",
+        "original_language": "tr",
+        "popularity": 0.338,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 373724,
+        "title": "The Only Way Out",
+        "release_date": "1958-01-01",
+        "overview": "A group of partisans goes to destroy a German gas warehouse at Postojnska Jama. One of them grows distrustful towards the new commander, and it spreads among the rest of the squad. The situation culminates when the mentioned partisan remains cut off inside a cave.",
+        "poster_path": "/uVdVgL9lDN32vengt9pRUUCkzjn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Zastava Film",
+                "id": 15245
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051795",
+        "original_language": "sh",
+        "popularity": 0.336,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 470925,
+        "title": "The Twisted Cross",
+        "release_date": "1956-03-14",
+        "overview": "",
+        "poster_path": "/438RQwY0u75OSH5Rg5qZp8BTcXc.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "McGraw-Hill Films",
+                "id": 48101
+            },
+            {
+                "name": "NBC",
+                "id": 1502
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0211081",
+        "original_language": "en",
+        "popularity": 0.33,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 490954,
+        "title": "Under Fire",
+        "release_date": "1957-09-23",
+        "overview": "An Army lawyer defends a World War II hero and his men accused of desertion.",
+        "poster_path": "/6bqPXBCAyLxJm9bfqnLIQuCVovl.jpg",
+        "backdrop_path": "/e0kl7fULQLBpYdDxQHSHXHKZ1UG.jpg",
+        "production_companies": [
+            {
+                "name": "Regal Films",
+                "id": 13973
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051129",
+        "original_language": "en",
+        "popularity": 0.327,
+        "status": "Released",
+        "tagline": "FRONT LINE HEROES - suddenly facing the most shocking charge that could ever be hurled at fighting men!",
+        "video": false
+    },
+    {
+        "id_tmdb": 742298,
+        "title": "Song of the Coconut Grove",
+        "release_date": "1957-01-01",
+        "overview": "To restore communications to the island of Hainan, the People's Army sends scouts across the Palm Grove Strait to the Leizhou Peninsula, where the detachment radio station was located.",
+        "poster_path": "/ofBqSSwTWLJgfKEHpDeda71tTZ1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studios",
+                "id": 111276
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0343201",
+        "original_language": "zh",
+        "popularity": 0.321,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 806505,
+        "title": "Tiltas",
+        "release_date": "1956-12-23",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lithuanian film studio",
+                "id": 150928
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "lt",
+        "popularity": 0.315,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 726008,
+        "title": "Dawn of Menghe",
+        "release_date": "1955-07-01",
+        "overview": "",
+        "poster_path": "/4N9oyt9SglC4KO8XtRYVJ9Jnqdq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9174166",
+        "original_language": "zh",
+        "popularity": 0.311,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 665169,
+        "title": "Magirama",
+        "release_date": "1958-04-21",
+        "overview": "A portmanteau work in four segments,designed to illustrate the expressive possibilities of director Abel Gance,s creation, Polyvision, which preceded the American invention of Cinerama, and used three screens to present a drama of simultaneous images.",
+        "poster_path": "/lUcQg2fvWLYLKcWpJEHqXSd54oi.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0208271",
+        "original_language": "fr",
+        "popularity": 0.31,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 479080,
+        "title": "Nights and Days",
+        "release_date": "1959-07-14",
+        "overview": "A partisan battalion who was surrounded from all sides brings up decision to enter the city, so that the fighters could rest and recover. Due to fear of one of the partisans, the enemy discovers their plan, but fails to sabotage it.",
+        "poster_path": "/mjB74NIPK0xq6Jkmp0Jg0jJ7ly.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Bosna Film",
+                "id": 10617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0180877",
+        "original_language": "sh",
+        "popularity": 0.308,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 459942,
+        "title": "Wolfe and Montcalm",
+        "release_date": "1957-01-01",
+        "overview": "Two generals prepare for battle at the Plains of Abraham.",
+        "poster_path": "/8ckYOpYWd0CqlfObsP4XxjiKCx4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ONF | NFB",
+                "id": 10473
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0224405",
+        "original_language": "en",
+        "popularity": 0.308,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 820270,
+        "title": "Ciao pais..!",
+        "release_date": "1956-01-01",
+        "overview": "",
+        "poster_path": "/lnSA0FnaXRuRHxqn6iCQhw5rIuD.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049076",
+        "original_language": "it",
+        "popularity": 0.298,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 965229,
+        "title": "Boksingera",
+        "release_date": "1956-10-26",
+        "overview": "A mother gives birth to a baby girl but her father wants a boy, so as the girl grows up her father trains her in boxing so she becomes tomboyish, then World War 2 breaks out.",
+        "poster_path": "/jQ8WF0ZhhsSfixIqr2giusWFEYR.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sampaguita Pictures",
+                "id": 25859
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0421761",
+        "original_language": "tl",
+        "popularity": 0.296,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 784346,
+        "title": "Mt. Baekdu can be seen everywhere",
+        "release_date": "1956-12-27",
+        "overview": "A screen adaptation of the novel by North Korean writer Yong Song. On the anti-Japanese partisan struggle of the Korean partisans in the 1930s.",
+        "poster_path": "/r5BqQcfHoVRjHvNdixoFk1OTUsU.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Chosun Art Film Studio",
+                "id": 136914
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13779060",
+        "original_language": "ko",
+        "popularity": 0.296,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 754246,
+        "title": "Reed Pipe Canso",
+        "release_date": "1957-12-01",
+        "overview": "",
+        "poster_path": "/sw1mPP2b54lxv49H6e3cfjtBnCi.jpg",
+        "backdrop_path": "/83DDRJwIODNKn7N2VQhZMu967eR.jpg",
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13787346",
+        "original_language": "zh",
+        "popularity": 0.296,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 455731,
+        "title": "Railroad Guerrilla",
+        "release_date": "1956-01-01",
+        "overview": "This movie is based on the true story, which happened in Shan-Dong Province of China during World War II. It is based on a collection of memoirs of the guerrilla members. Due to the fact that it happened during World War II and there was not much secrets, this movie is that it was more realistic than other movies in that many real names were used, and the actual site was not changed either like other war movies of the time. The drawback of the movie was that in the latter stage of World War II, the guerrilla force was developed into an impressive 400 plus members from its original beginning of 3, and it launched many major offensives against the enemy, but this part was not shown. The movie only concentrated on the time there were only several dozen members.",
+        "poster_path": "/o97njCdg5YuDcNBO65Oj6LVL8lX.jpg",
+        "backdrop_path": "/pDhMBzAkrNzJpVdSFlfFv8tb2gZ.jpg",
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studio",
+                "id": 1078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0354964",
+        "original_language": "zh",
+        "popularity": 0.29,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 476984,
+        "title": "Two Peasants",
+        "release_date": "1955-03-13",
+        "overview": "The struggle of two Serbian peasants to choose between love of their families and love of their country.",
+        "poster_path": "/g1pWVOateTc0J8NBVvACbKUbfOl.jpg",
+        "backdrop_path": "/n5ai3Ol8Pwxy6DOjo4on30nEmrT.jpg",
+        "production_companies": [
+            {
+                "name": "UFUS",
+                "id": 8024
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053118",
+        "original_language": "sh",
+        "popularity": 0.288,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 797144,
+        "title": "The Rape of Malaya",
+        "release_date": "1959-08-31",
+        "overview": "'Mata Hari' was Malay Film Productions’ second war movie based on the Japanese invasion of Malaya/Singapore in 1941-42, released a few months after the resounding success of Lamberto Avellana and P. Ramlee’s 'Sergeant Hassan'.  Written by Abdul Razak (who did the scripts for the 'Pontianak' film series) and directed by the prolific Ramon Estella, the movie stars beauty queen Maria Menado (of Pontianak fame) as ‘Matahari’, the daughter of a kampong headman who is captured by the Japanese. She witnesses the atrocities committed by the invaders, who tortured her father to death and rounded up innocent women to become prostitutes and mistresses for their commanders. Not wanting to cower to the enemy, Matahari (which means the sun in Malay and was also the name of a real-life WWI German spy) decides to form and lead a guerrilla force to fight the Japanese.",
+        "poster_path": "/uYnws42LPglvCKcslv7mbHYMB84.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "MY",
+                "name": "Malaysia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ms",
+                "name": "Bahasa melayu"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ms",
+        "popularity": 0.287,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1069135,
+        "title": "Zhan dou li cheng zhang",
+        "release_date": "1957-01-01",
+        "overview": "After being swindled out of his land by a local landlord in 1930s China, a grandfather commits suicide. His son burns down the landlord's house in a fit of rage, then escapes to join the PLA. His grandson later joins the PLA too in the 1940s to avenge his father, grandfather and mother.",
+        "poster_path": "/5ADDJpsQzSC8rZUaScYUcr4MaLB.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0960100",
+        "original_language": "zh",
+        "popularity": 0.283,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 532066,
+        "title": "For the Power of the Soviets",
+        "release_date": "1956-08-02",
+        "overview": "Petya meets his father from a partisan detachment in the Odessa Catacombs.",
+        "poster_path": "/7c3f8qjuTU3eQkmXVFm8IL493zs.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049977",
+        "original_language": "ru",
+        "popularity": 0.28,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 856587,
+        "title": "返老还童",
+        "release_date": "1958-01-01",
+        "overview": "",
+        "poster_path": "/9t2rpQklTeCcjPYZd0uQnyTXTUi.jpg",
+        "backdrop_path": "/e4WmoEsu1ufl7K4CwDxbgJtFrBh.jpg",
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.266,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 455031,
+        "title": "Outpost",
+        "release_date": "1959-01-01",
+        "overview": "In the 1950s, an army reconnaissance group finds an enemy spy organization lurking in a coastal town in southeast China intending to collect military intelligence.",
+        "poster_path": "/ft2PgpgHpIrZF5Pe1voqFLvqJ3F.jpg",
+        "backdrop_path": "/3vQ2ftYdWXqwBoTbw9Ul3r6aHGg.jpg",
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6896580",
+        "original_language": "zh",
+        "popularity": 0.262,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 390632,
+        "title": "We Want to Live",
+        "release_date": "1956-01-01",
+        "overview": "A realistic depiction of the bloody land reform campaign in North Vietnam under Communist-dominated Vietminh.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Tan Viet Dien Anh",
+                "id": 176140
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VN",
+                "name": "Vietnam"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt11230600",
+        "original_language": "vi",
+        "popularity": 0.262,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 189636,
+        "title": "The Betrayal",
+        "release_date": "1957-01-01",
+        "overview": "Fourteen years after he was blinded in a WWII concentration camp, a Canadian perfume executive travels to London on business and recognizes the voice of the traitor who betrayed him and his fellow prisoners to the Germans.",
+        "poster_path": "/xpJcti6TgTNWpFXAB1bCqSwk5GL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Danziger Productions Ltd.",
+                "id": 5078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050186",
+        "original_language": "en",
+        "popularity": 0.244,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 432448,
+        "title": "Alone",
+        "release_date": "1959-03-12",
+        "overview": "A group of partisans fight to the last man to cover a retreat, leaving only five, who take the newborn child of a dead woman with them. Based on the novel by Mihajlo Ranovcevic.",
+        "poster_path": "/b1hLtXWatISJaQocO0oGFrqjb0N.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053239",
+        "original_language": "sh",
+        "popularity": 0.236,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 442501,
+        "title": "Dogface",
+        "release_date": "1959-01-01",
+        "overview": "This unaired pilot for a series Fuller pitched to CBS about a U.S. infantry troop fighting its way through Nazi-held North Africa offers a fascinating new angle on Fuller’s relationship with the average foot soldier and moral complexity of war.",
+        "poster_path": "/jjFaW5cjcdIekGPPLZDOQoxq0fc.jpg",
+        "backdrop_path": "/dycCqinogPQlfNwdsu9VOnxm9iT.jpg",
+        "production_companies": [
+            {
+                "name": "CBS Studios",
+                "id": 1081
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5023966",
+        "original_language": "en",
+        "popularity": 0.223,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 272139,
+        "title": "The Enemy Cut down the Ways",
+        "release_date": "1959-01-01",
+        "overview": "Set in the period of the Turkish War of Independence, the film depicts the smuggling of arms and ammunition from Istanbul to Ankara.it is also an intelligent, brilliantly written multiple character study with rich psychological depth.",
+        "poster_path": "/olbDjDohv3NS4wLRdOLZV4HWhTU.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Kemal Film",
+                "id": 21249
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0279058",
+        "original_language": "tr",
+        "popularity": 0.221,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 660273,
+        "title": "Rintamalotta",
+        "release_date": "1956-11-02",
+        "overview": "Irma has been sent to the front immediately after her marriage to Erik Vuori. Irma and her new \"Lotta\" companions find themselves in many dangerous situations during the fighting of the Continuation War. Irma is also concerned about Erik's loyalty.",
+        "poster_path": "/y2XWy9GIrSn0tkAdGhQRMPUmqHe.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Fennada-Filmi",
+                "id": 12986
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049677",
+        "original_language": "fi",
+        "popularity": 0.199,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 534626,
+        "title": "The Bridge",
+        "release_date": "1956-12-23",
+        "overview": "A small Lithuanian town. The young engineer Algirdas Araminas completed the construction of the new bridge. On the day the opening was supposed to take place, the bridge was destroyed by German bombs. The war has begun. Algirdas is depressed, he gets down and starts drinking. However, when the Germans began to rebuild the bridge, he agrees to work.",
+        "poster_path": "/whAz6crmezECnpchJEhcsGPGDcH.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Lithuanian Film Studio",
+                "id": 2064
+            },
+            {
+                "name": "Lithuanian Television",
+                "id": 114133
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lt",
+                "name": "Lietuvių"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10438510",
+        "original_language": "lt",
+        "popularity": 0.195,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 693540,
+        "title": "Mamula Camp",
+        "release_date": "1959-07-23",
+        "overview": "Story of people in a camp, situated on a small island and ruled by Nazis.",
+        "poster_path": "/nlnwWtEnYfxP16TRGRaihssg9PS.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0179701",
+        "original_language": "sh",
+        "popularity": 0.188,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 728705,
+        "title": "Hei shan zu ji zhan",
+        "release_date": "1958-01-01",
+        "overview": "",
+        "poster_path": "/6gKBhjF1VkDqlddzGOZPGvJhyVP.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0339132",
+        "original_language": "zh",
+        "popularity": 0.186,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 756489,
+        "title": "Soul of the Sea",
+        "release_date": "1958-03-22",
+        "overview": "The sailors on a Kuomintang warship revolt, arrest their officers and defect to the Chinese People's Liberation Army.",
+        "poster_path": "/wR5T8sZHq9EtldZnVBGPQv8irFW.jpg",
+        "backdrop_path": "/9MkUvbNncVIF23gfkyvPOD8QS1m.jpg",
+        "production_companies": [
+            {
+                "name": "Haiyan Film Studio",
+                "id": 115745
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13791110",
+        "original_language": "zh",
+        "popularity": 0.18,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 784336,
+        "title": "The Unending Battle",
+        "release_date": "1957-12-30",
+        "overview": "",
+        "poster_path": "/aoPYx5LdJdLJnM6VXFzFcUYKSB6.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Chosun Art Film Studio",
+                "id": 136914
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13767698",
+        "original_language": "ko",
+        "popularity": 0.171,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 710181,
+        "title": "Sangue, Amor e Neve",
+        "release_date": "1958-10-14",
+        "overview": "",
+        "poster_path": "/mZaiZXnO8j8tR15zlyv2mk6OBnD.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt14081126",
+        "original_language": "pt",
+        "popularity": 0.17,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 972810,
+        "title": "Vår egen tid",
+        "release_date": "1959-05-05",
+        "overview": "Shows footage from King Haakon the 7th arrival in Norway in 1905 to the beginning of the space age.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Norsk Film",
+                "id": 12984
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0275058",
+        "original_language": "no",
+        "popularity": 0.162,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 479109,
+        "title": "The Good Old Piano",
+        "release_date": "1959-06-13",
+        "overview": "Composer and pianist Blaz Gaber lives only for his music and does not want to know anything about the outside world, where the war is raging. Upon his arrival from his poorly attended concert, he finds himself in prison for having stars drawn in his notebook by a little boy. A young illegal activist seeks refugee in the school, where the pupils hide his pistol inside the Gaber's piano. A German officer comes with his soldiers to find the hidden illegal, orders the school to be evacuated and takes the piano together with him on a train.",
+        "poster_path": "/guK92cpnlfdqtolFkt9jOoePBl0.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Triglav film",
+                "id": 27706
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sl",
+                "name": "Slovenščina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052743",
+        "original_language": "sl",
+        "popularity": 0.16,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 584984,
+        "title": "The Troop Leader",
+        "release_date": "1959-08-31",
+        "overview": "Members of a partisan underground unit struggle during the anti-fascist Bulgarian Resistance of World War II.",
+        "poster_path": "/lJd8p14jMWk39EBDAg3cwfxDA17.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Boyana Film",
+                "id": 15567
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0309776",
+        "original_language": "bg",
+        "popularity": 0.15,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 589283,
+        "title": "A 'Soir' Full of Joy",
+        "release_date": "1955-01-28",
+        "overview": "Based on a true story from November 1943 : the Resistance manages to publish a fake edition of the pro-German newspaper 'Le Soir', put on sale by surprise in the newsstands and stuffed full of parodic articles pouring ridicule upon occupying forces. The film faithfully traced the course of this humorous and enterprising attempt to wake up the populace, filling out the basic plot with irreverent patriotic gags.",
+        "poster_path": "/rWAVRmIYVgYTw0U0ToSgrLLSxJG.jpg",
+        "backdrop_path": "/fUZSMeSsrwzQLzuXLF0abJgZIdZ.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0249217",
+        "original_language": "fr",
+        "popularity": 0.134,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 239719,
+        "title": "Rita",
+        "release_date": "1958-01-06",
+        "overview": "",
+        "poster_path": "/xOUaKVvYYd3EqYf9AYHuaFmZZmt.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Rīgas kinostudija",
+                "id": 82801
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0351661",
+        "original_language": "lv",
+        "popularity": 0.134,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 685672,
+        "title": "Khoon va sharaf",
+        "release_date": "1955-12-12",
+        "overview": "",
+        "poster_path": "/z30nzutIlslVBdjEy2sJhdbMZT4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Diana Film",
+                "id": 21411
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IR",
+                "name": "Iran"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0378188",
+        "original_language": "fa",
+        "popularity": 0.132,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 578039,
+        "title": "Son of the Militia",
+        "release_date": "1958-03-07",
+        "overview": "A spy story during libertion war somewhere in Jiaodong, China.",
+        "poster_path": "/djsaPhIonryEmy3silS2gf2VROQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.106,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 755531,
+        "title": "Hongse de zhongzi",
+        "release_date": "1958-01-01",
+        "overview": "",
+        "poster_path": "/6pbmMebx9Gnd4kJabqvoYbD4Owe.jpg",
+        "backdrop_path": "/6EtnPpj2FFxJKedwXnabMreIEvi.jpg",
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studio",
+                "id": 1078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13788742",
+        "original_language": "zh",
+        "popularity": 0.087,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 675682,
+        "title": "Morir de pie",
+        "release_date": "1957-01-01",
+        "overview": "",
+        "poster_path": "/kKuE7f5lQHpuHLCdf0p1TgdSXYL.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0271069",
+        "original_language": "es",
+        "popularity": 0.072,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 930575,
+        "title": "İstiklal Uğrunda",
+        "release_date": "1958-01-01",
+        "overview": "A heroic story during the War of Independence.",
+        "poster_path": "/cNpPTv3htPkSSUdDLmjv1A1uVL8.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0304206",
+        "original_language": "tr",
+        "popularity": 0.071,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 857013,
+        "title": "Pioneer honor",
+        "release_date": "1959-02-01",
+        "overview": "The story of how the pioneers helped to hide the equipment of the mine where gold was mined from the enemy, and thereby disrupted the restoration of the work.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Korean Film",
+                "id": 45494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt15145886",
+        "original_language": "ko",
+        "popularity": 0.064,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 149264,
+        "title": "Heartbreak Ridge",
+        "release_date": "1955-05-04",
+        "overview": "Garcet, a young French officer just out of military school, joins the French Batallion of the United Nations Forces fighting in Korea.",
+        "poster_path": "/e7F0SFdBANEnt7nr9W6XlQ24NGJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048151",
+        "original_language": "fr",
+        "popularity": 0.062,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 569060,
+        "title": "In Soupy Mountain",
+        "release_date": "1959-01-01",
+        "overview": "Set in the 1950s, the PLA exterminates residual bandits in the Yunwushan Mountain.",
+        "poster_path": "/l9eain7isNQ6cuFuNXR78h8mAkW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6912588",
+        "original_language": "zh",
+        "popularity": 0.044,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 991037,
+        "title": "Cry Freedom",
+        "release_date": "1959-07-01",
+        "overview": "A man and a woman fight for the freedom of their country Marking with his gun Yay with her typewriter. Thrown together by a cause greater than either of them they share the suffering of the flesh and the spirit among the country's guerrilla fighters. They emerge, out of the crucible of war, heroes-and lovers.",
+        "poster_path": "/f0Faj23CYadV0WOTCkzz3jybOvy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Banaue Pictures",
+                "id": 177556
+            },
+            {
+                "name": "Parallel Film Distributors Inc.",
+                "id": 177557
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0054771",
+        "original_language": "tl",
+        "popularity": 0.024,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 854466,
+        "title": "Love the Future",
+        "release_date": "1959-11-01",
+        "overview": "",
+        "poster_path": "/dM8PYdRdhzdGeA8xsBT30ACicLi.jpg",
+        "backdrop_path": "/g5OHZQCY6EpdlnFdlEhN5zefo2T.jpg",
+        "production_companies": [
+            {
+                "name": "Korean Film",
+                "id": 45494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0151401",
+        "original_language": "ko",
+        "popularity": 0.023,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 813255,
+        "title": "In front of the letter",
+        "release_date": "1959-03-03",
+        "overview": "Based on the story of Li Zhong about the struggle of Chinese volunteers on the Korean front on the side of the North Korean defenders of the homeland. In the center of the film is the family of the deceased volunteer Yong Qing.",
+        "poster_path": "/iMVdLrC51YSITIVDMa19uQJRGkm.jpg",
+        "backdrop_path": "/7z4P53zUXYTWCjsFaLgvoh6hmhW.jpg",
+        "production_companies": [
+            {
+                "name": "Tianma Film Studio",
+                "id": 73468
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13879494",
+        "original_language": "zh",
+        "popularity": 0.022,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 757562,
+        "title": "How can we live apart?",
+        "release_date": "1957-12-29",
+        "overview": "Yong Nam was separated from his mother by the war on the Korean Peninsula (1950-1953): the boy remained in South Korea, while his mother left for the North. But how can they live apart?",
+        "poster_path": "/iy9hKue8mexIQCBsxyZdgkDJpAJ.jpg",
+        "backdrop_path": "/oLsqPcIDkcjwqOBjkoL1HmiKCDh.jpg",
+        "production_companies": [
+            {
+                "name": "Chosun Art Film Studio",
+                "id": 136914
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13351790",
+        "original_language": "ko",
+        "popularity": 0.014,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 963384,
+        "title": "Liang shi",
+        "release_date": "1959-01-02",
+        "overview": "",
+        "poster_path": "/3gDfd1GH4KKvt3KyuTJVknzW0xm.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Beijing Film Studio",
+                "id": 708
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.008,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1236463,
+        "title": "Who's Responsible?",
+        "release_date": "1957-09-01",
+        "overview": "The first Iraqi film influenced by the Italian neorealism film movement, characterized by stories set amongst the poor and the working class. The plot revolves around a devoted husband deeply in love with his ailing wife, rushing her to the hospital in the late hours of the night. Seeking urgent medical attention, he pleads with the on-call doctor to treat her. However, faced with a negative response from the doctor, the husband, overcome with anger and desperation, unleashes a furious attack, tragically leading to the doctor's demise.",
+        "poster_path": "/hES9PbGaOiGpS7w05LGPXf28m3s.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "ar",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1042374,
+        "title": "애국자",
+        "release_date": "1959-01-01",
+        "overview": "",
+        "poster_path": "/8L1kENHLDivgCcWu8KfB0mk1GkA.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "National Film Studio of North Korea",
+                "id": 62249
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10054282",
+        "original_language": "ko",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 985039,
+        "title": "激战前夜",
+        "release_date": "1957-05-01",
+        "overview": "",
+        "poster_path": "/j9GevOCaNGWqHtPfEix8ZzQH8Is.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "八一电影制片厂",
+                "id": 115960
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 100,
+        "revenue": 100,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0351135",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 903586,
+        "title": "Jeon-u",
+        "release_date": "1958-01-01",
+        "overview": "During the Korean War, Chinese volunteers and the Korean People's Army supported each other and fought together. They shed blood in the name of friendship between the two peoples and praised the nobility, the spirit of internationalism.",
+        "poster_path": "/hdGXcEzwltwAnIPAk0Q2FPsMdfx.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Korean Film",
+                "id": 45494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt16247392",
+        "original_language": "ko",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 856353,
+        "title": "Battle on the Lake",
+        "release_date": "1955-01-01",
+        "overview": "",
+        "poster_path": "/arxl6VbDbpcLhBj9oac7UJK7iJQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studio",
+                "id": 1078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0333607",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 855692,
+        "title": "Friendship",
+        "release_date": "1959-01-01",
+        "overview": "",
+        "poster_path": "/udFoLxEyU2oZxuFVgTR1aqOYNUq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0357332",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 809296,
+        "title": "Her Life Path",
+        "release_date": "1958-09-01",
+        "overview": "Using the fate of an ordinary woman as an example, the film shows how life has changed in liberated Korea.",
+        "poster_path": "/xPyCktTucUNZoqPQINzSflthr04.jpg",
+        "backdrop_path": "/xtlSLRDgx05hgEYJacWHHx2ICy6.jpg",
+        "production_companies": [
+            {
+                "name": "Korean Film",
+                "id": 45494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13865298",
+        "original_language": "ko",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 809023,
+        "title": "红霞",
+        "release_date": "1958-07-29",
+        "overview": "",
+        "poster_path": "/7BXbfSDCsjpB1ZzSPd5lqH3i1gb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13849464",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 756862,
+        "title": "Water",
+        "release_date": "1957-12-31",
+        "overview": "",
+        "poster_path": "/emU56M6TNwgn97H0eFUoYBwNmkp.jpg",
+        "backdrop_path": "/6VIiIUbkXot0TAR19ePghbdIykt.jpg",
+        "production_companies": [
+            {
+                "name": "August 1st Film Studio",
+                "id": 39074
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7717878",
+        "original_language": "zh",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 535118,
+        "title": "The Battle of Wangapore",
+        "release_date": "1956-01-01",
+        "overview": "A parody of a well-known text by Rudyard Kipling.",
+        "poster_path": "/xYC9ZKPMtMmlZCaeQvc3XnNh51i.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Grasshopper Group",
+                "id": 106518
+            },
+            {
+                "name": "Adventure Film Productions",
+                "id": 77084
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "id_tmdb": 936417,
+        "title": "War",
+        "release_date": "1911-12-08",
+        "overview": "In the gray dawn of an October day, as the inhabitants of a village street in Tripoli are engaged in the enjoyment of their several pursuits of life, an Arab rushes upon the peaceful scene, announcing that Italy has declared war against Turkey and that the Italian warships are now in the harbor, shelling the city.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Vitagraph Company of America",
+                "id": 15634
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.476,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0343165",
+        "original_language": "en",
+        "popularity": 3.083,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 188395,
+        "title": "His Trust Fulfilled",
+        "release_date": "1911-01-18",
+        "overview": "Continuing where His Trust (1911) leaves off, George takes care of his deceased master's daughter after her mother's death. He sacrifices his own meager savings to give the girl a good life, until the money runs out and he tries to steal money from the girl's rich cousin.",
+        "poster_path": "/4QEjicCJdpIhCG8nj1k93JD3byu.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "American Mutoscope & Biograph",
+                "id": 13131
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 794492,
+            "name": "His Trust Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0001681",
+        "original_language": "en",
+        "popularity": 2.473,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 193009,
+        "title": "The Fall of Troy",
+        "release_date": "1911-03-16",
+        "overview": "Menelaus is the king of Sparta and temporarily departs from his residence, leaving Helen, the queen of Sparta, without him. When Paris of Troy, ambassador and son of the king, arrives in Sparta, he kidnaps Helen and brings her to Troy where the two fall in love. The Greeks attempt to siege the city walls of Troy, but fail. The Greeks then place a huge wooden Trojan horse with Greek warriors hidden inside under the walls of Troy, pretending to be dedicated to the gods and ending the war. Falling for the trap, the Trojans break down the city walls to bring the wooden horse inside.",
+        "poster_path": "/dEuvTxFG8P2eMNj9cXfyb5v4BCs.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Itala Film",
+                "id": 1227
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.868,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0002083",
+        "original_language": "it",
+        "popularity": 2.062,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 148666,
+        "title": "His Trust",
+        "release_date": "1911-01-16",
+        "overview": "A Confederate officer is called off to war. He leaves his wife and daughter in the care of George, his faithful Negro servant. After the officer is killed in battle, George continues in his caring duties, faithful to his trust.",
+        "poster_path": "/dHhJDhhz5Mj5x2GIIaQFlwa2CwQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "American Mutoscope & Biograph",
+                "id": 13131
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 794492,
+            "name": "His Trust Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0001680",
+        "original_language": "en",
+        "popularity": 2.042,
+        "status": "Released",
+        "tagline": "The Faithful Devotion and Self-Sacrifice of an Old Negro Servant",
+        "video": false
+    },
+    {
+        "id_tmdb": 191091,
+        "title": "The Battle",
+        "release_date": "1911-11-06",
+        "overview": "Union soldiers march off to battle amid cheering crowds. After the battle turns against the Union Army, one soldier runs away, hiding in his girlfriend's house. Ashamed of his cowardice, he finds his courage and crosses enemy lines to bring help to his trapped comrades.",
+        "poster_path": "/kFMnqIUIqoWN4NXqpEQZBfZR4Nj.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "American Mutoscope & Biograph",
+                "id": 13131
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0001499",
+        "original_language": "en",
+        "popularity": 1.878,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 193907,
+        "title": "Defence of Sevastopol",
+        "release_date": "1911-12-22",
+        "overview": "First film ever that was shot by two cameras. Set in 1854-1855, in Sevastopol and Yalta during the Crimean War. Admirals Kornilov (Mozzhukhin) and Nakhimov (Gromov) organize the defense during the siege of Sevastopol. Both admirals are killed during the battle, and the city of Sevastopol is taken by the alliance of British, French, Sardinian, and Turkish troops. The legendary feat of Sailor Koshka (Semenov) was staged at original location. The 100 minute-long film was premiered in 1911 at the Livadia, Yalta, palace for the Tsar Nicholas II.",
+        "poster_path": "/plhXnJ53USMwo3NHYwPHhsVA66m.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "A. Khanzhonkov and Co.",
+                "id": 24060
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0191323",
+        "original_language": "ru",
+        "popularity": 1.428,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 120287,
+        "title": "The Traitress",
+        "release_date": "1911-12-09",
+        "overview": "A woman betrays the regiment location in which the officer she is interested in is assigned because he despises her, only to regret it when he is caught and try to free him.",
+        "poster_path": "/zNUoIs100tHZ7BkgKhHaNqDSg8w.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Deutsche Bioscop GmbH",
+                "id": 159256
+            },
+            {
+                "name": "Projektions-AG Union",
+                "id": 12950
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0001964",
+        "original_language": "de",
+        "popularity": 1.29,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 474482,
+        "title": "The Golden Wedding",
+        "release_date": "1911-10-27",
+        "overview": "A grandfather recalls how he and his wife met and fell in love during the Second Italian War of Independence.",
+        "poster_path": "/xuyDI6DLU5mUw9fByHjAEuRxGKC.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Società Anonima Ambrosio",
+                "id": 15029
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0189820",
+        "original_language": "it",
+        "popularity": 1.19,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1070347,
+        "title": "The Immortal Alamo",
+        "release_date": "1911-05-25",
+        "overview": "A lost silent film depicting the battle of the Alamo. Filmed in San Antonio.",
+        "poster_path": "/6nnKsbYCeJKeBv50KiDyRaMPWf4.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "G. Méliès",
+                "id": 168423
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0001693",
+        "original_language": "en",
+        "popularity": 1.135,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 193928,
+        "title": "Swords and Hearts",
+        "release_date": "1911-08-27",
+        "overview": "A poor girl is secretly in love with a wealthy young planter.",
+        "poster_path": "/bttsM8xwJ46QvlGZnUWntShnmds.jpg",
+        "backdrop_path": "/cXYQRof9SrBpjHw44s3kpkcCwFO.jpg",
+        "production_companies": [
+            {
+                "name": "American Mutoscope & Biograph",
+                "id": 13131
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0001913",
+        "original_language": "en",
+        "popularity": 1.091,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 46751,
+        "title": "The Life and Deeds of the Immortal Vožd Karađorđe",
+        "release_date": "1911-10-23",
+        "overview": "A biography of Karađorđe, the famed leader of the rebellion against the Ottoman Empire in 1804, tracing his whole life from childhood until his death in 1817.",
+        "poster_path": "/sDtEKcXRCneMZJfgVjYTjhZlE7X.jpg",
+        "backdrop_path": "/8TnNO0vIOLLbhsVQM2AoEUG9Ukq.jpg",
+        "production_companies": [
+            {
+                "name": "Miloš Cvetić",
+                "id": 83031
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RS",
+                "name": "Serbia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0266688",
+        "original_language": "sr",
+        "popularity": 0.745,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 233082,
+        "title": "Mexican Filibusters",
+        "release_date": "1911-03-03",
+        "overview": "The setting is the Mexican Revolution and friends Pedro and Alvarez get a message to transport some weapons across the border.",
+        "poster_path": "/nKFWgoN2B6vUQFsrx5OQHHx2Bx.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0234238",
+        "original_language": "en",
+        "popularity": 0.663,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 696808,
+        "title": "Grenadier Roland",
+        "release_date": "1911-05-03",
+        "overview": "This film shows the realistic battle scenes of the Siege of Moscow, with the sensational defeat of Napoleon, with the belching cannon, the battling soldiers, scenes of heroism and daring reproduced in the most exquisite photography.",
+        "poster_path": "/vgw0QfE6irMaqhBtupObeC3VJCN.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Società Anonima Ambrosio",
+                "id": 15029
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0178524",
+        "original_language": "it",
+        "popularity": 0.092,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

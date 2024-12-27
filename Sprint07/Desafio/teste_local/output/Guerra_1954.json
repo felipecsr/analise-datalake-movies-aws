@@ -1,0 +1,2308 @@
+[
+    {
+        "id_tmdb": 10178,
+        "title": "The Caine Mutiny",
+        "release_date": "1954-06-24",
+        "overview": "When a US Naval captain shows signs of mental instability that jeopardize his ship, the first officer relieves him of command and faces court martial for mutiny.",
+        "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+        "backdrop_path": "/bZZF2EeljlEPHCagm4nSTlOub4A.jpg",
+        "production_companies": [
+            {
+                "name": "Stanley Kramer Productions",
+                "id": 893
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2000000,
+        "revenue": 21750000,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046816",
+        "original_language": "en",
+        "popularity": 15.256,
+        "status": "Released",
+        "tagline": "As big as the ocean!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43195,
+        "title": "Senso",
+        "release_date": "1954-12-30",
+        "overview": "A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.",
+        "poster_path": "/nbmTE8479Y4Z8eZrgEwOoBOpeFJ.jpg",
+        "backdrop_path": "/omPBXvgBm9jNLtBAKalzDaNbnaL.jpg",
+        "production_companies": [
+            {
+                "name": "Lux Film",
+                "id": 1679
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.223,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047469",
+        "original_language": "it",
+        "popularity": 7.286,
+        "status": "Released",
+        "tagline": "A passionate doomed love affair among the corrupt aristocracy",
+        "video": false
+    },
+    {
+        "id_tmdb": 35580,
+        "title": "The Bridges at Toko-Ri",
+        "release_date": "1954-12-01",
+        "overview": "A naval aviator is assigned to bomb a group of heavily defended bridges during the Korean War.",
+        "poster_path": "/xAXMYP4SNKoV698ccC77vtJ9kLz.jpg",
+        "backdrop_path": "/ro4tbCyKJtfyWtz3ocPzbNmJCQU.jpg",
+        "production_companies": [
+            {
+                "name": "Perlberg-Seaton Productions",
+                "id": 60981
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046806",
+        "original_language": "en",
+        "popularity": 4.783,
+        "status": "Released",
+        "tagline": "Jets Dare Danger Over Korea!",
+        "video": false
+    },
+    {
+        "id_tmdb": 73907,
+        "title": "The Purple Plain",
+        "release_date": "1954-09-14",
+        "overview": "A RAF airfield in Burma in 1945, during World War II. Canadian bomber pilot Bill Forrester is a bitter man who lives haunted by a tragic past. He has became a reckless warrior, and is feared by his comrades, who consider him a madman. Dr. Harris, the squadron physician, is determined to help him heal his tormented soul.",
+        "poster_path": "/n9ewv2km0KQfAWPWO3UnJoC2J4B.jpg",
+        "backdrop_path": "/ykygyFCz1tpb5XY7cQbRUR32BJE.jpg",
+        "production_companies": [
+            {
+                "name": "Two Cities Films",
+                "id": 4006
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "my",
+                "name": ""
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2000000,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047376",
+        "original_language": "en",
+        "popularity": 4.604,
+        "status": "Released",
+        "tagline": "His peak of adventure!",
+        "video": false
+    },
+    {
+        "id_tmdb": 114746,
+        "title": "They Who Dare",
+        "release_date": "1954-02-02",
+        "overview": "In Greece during the war a small group of British commandoes and patriots land on an island with orders to attack two airfields from which the Luftwaffe is threatening allied forces in Egypt. The island is crawling with troops, and even moving by night the men soon run into trouble.",
+        "poster_path": "/fCEPdHG7DCBDVWfswHThQl11PPn.jpg",
+        "backdrop_path": "/uZY10mWzCEtT7B2n4PX5dphPQn0.jpg",
+        "production_companies": [
+            {
+                "name": "Mayflower Productions",
+                "id": 49698
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046421",
+        "original_language": "en",
+        "popularity": 3.898,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 454700,
+        "title": "The End of a Day",
+        "release_date": "1954-02-03",
+        "overview": "Military doctor Leutenant Hanada deserts during the war in the Philippines with a local girl. The officer in command orders Lieutenant Uji to shoot Hanada. Uji takes a sharpshooter called Takagi and tracks him. At first Uji cannot forgive Hanada but as Uji is isolated from the main force he too starts to think of desertion.",
+        "poster_path": "/y8ZrriHbPEkdznSGWTzVjgmacWR.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Yagi Production",
+                "id": 77575
+            },
+            {
+                "name": "Shinsei Eigasha",
+                "id": 91217
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047083",
+        "original_language": "ja",
+        "popularity": 3.783,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 474451,
+        "title": "Farewell Rabaul",
+        "release_date": "1954-02-10",
+        "overview": "A squadron of Japanese fighter pilots realise that they are never going to win the war when they understand that Japanese military tactics have little regard for life. Seeking the companionship of any woman who will have them, they spend their days indulging in every fantasy in order to escape the overwhelming fear of death looming just over the horizon.",
+        "poster_path": "/80jwlB8V85GXddtBIBTP1TrCdoW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047447",
+        "original_language": "ja",
+        "popularity": 3.597,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 83665,
+        "title": "Betrayed",
+        "release_date": "1954-09-07",
+        "overview": "Screen superstars Clark Gable (\"Gone With The Wind,\" \"It Happened One Night\") and sultry bombshell Lana Turner (\"Peyton Place,\" \"The Postman Always Rings Twice\") team-up in this intriguing WWII drama. Suspected of being a Nazi spy, Dutch-resistance member Turner is given a last chance mission to redeem herself. Gable is an intelligence agent of the exiled Dutch government,  who falls in love with her. Co-starring Victor Mature (\"My Darling Clementine\") and Oscar-nominee Louis Calhern (\"The Asphalt Jungle\").",
+        "poster_path": "/aAvp9JLbCR9Ob9HM4i0YZgv65Qw.jpg",
+        "backdrop_path": "/2xOIzSf69RLGgCx0vWvLWKEO6eX.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046770",
+        "original_language": "en",
+        "popularity": 3.513,
+        "status": "Released",
+        "tagline": "M-G-M filmed the mystery of the year in Holland!",
+        "video": false
+    },
+    {
+        "id_tmdb": 830454,
+        "title": "The Glorious Days",
+        "release_date": "1954-04-14",
+        "overview": "The Glorious Days",
+        "poster_path": "/sH393TBs9auhrC8m96QVIvCQVes.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0781598",
+        "original_language": "ja",
+        "popularity": 3.441,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 74074,
+        "title": "The Raid",
+        "release_date": "1954-08-04",
+        "overview": "A group of confederate prisoners escape to Canada and plan to rob the banks and set fire to the small town of Saint Albans in Vermont. To get the lie of the land, their leader spends a few days in the town and finds he is getting drawn into its life and especially into that of an attractive widow and her son.",
+        "poster_path": "/dsAt76xPg0aUgvBdhUSd5lJMUVD.jpg",
+        "backdrop_path": "/okg0xo40RrYmzG9I8O3bdIJ6yxJ.jpg",
+        "production_companies": [
+            {
+                "name": "Panoramic Productions",
+                "id": 13499
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047388",
+        "original_language": "en",
+        "popularity": 3.261,
+        "status": "Released",
+        "tagline": "The suspense thriller of the year !",
+        "video": false
+    },
+    {
+        "id_tmdb": 94176,
+        "title": "Destry",
+        "release_date": "1954-12-01",
+        "overview": "Western remake of \"Destry Rides Again\", starring Audie Murphy, Mari Blanchard, Thomas Mitchell, Lori Nelson and Lyle Bettger.",
+        "poster_path": "/3g7ogx6Uj5gsvhYyFKPXxRSV0Jt.jpg",
+        "backdrop_path": "/1CZ45ULErNaN0JPwdl3xOXCMv0F.jpg",
+        "production_companies": [
+            {
+                "name": "Universal International Pictures",
+                "id": 10330
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046906",
+        "original_language": "en",
+        "popularity": 3.153,
+        "status": "Released",
+        "tagline": "From the roaring , raucous, rowdy pages of the best-loved legend of the West!",
+        "video": false
+    },
+    {
+        "id_tmdb": 62753,
+        "title": "Beachhead",
+        "release_date": "1954-02-05",
+        "overview": "On a Japanese-occupied island during World War II, only two soldiers remain alive after a mission attempt goes horribly wrong. Trapped on the island, they must escort a scientist and his daughter to the other side of the island where their ship awaits. They must battle nature, hard terrain, and advancing Japanese troops.",
+        "poster_path": "/rG2E8gcWzHCBLNvxdwZXfgLLPT2.jpg",
+        "backdrop_path": "/hyNOrKiTaRfhLcw6zT0IZhaL7Hf.jpg",
+        "production_companies": [
+            {
+                "name": "Aubrey Schenck Productions",
+                "id": 1347
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 450000,
+        "revenue": 1400000,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046757",
+        "original_language": "en",
+        "popularity": 3.073,
+        "status": "Released",
+        "tagline": "Is not just a war move.",
+        "video": false
+    },
+    {
+        "id_tmdb": 56290,
+        "title": "Attila",
+        "release_date": "1954-12-27",
+        "overview": "Attila, the leader of the barbarian Huns and called by the Romans \"The Scourge of God\", sweeps onto the Italian peninsula, defeating all of the armies of Rome, until he and his men reach the gates of the city itself.",
+        "poster_path": "/A9ZMolDi5nGUQshmjQNEEmFnU13.jpg",
+        "backdrop_path": "/zE3o8LFHt6yYOOq1AieN0sSfNGu.jpg",
+        "production_companies": [
+            {
+                "name": "Lux Film",
+                "id": 1679
+            },
+            {
+                "name": "Ponti-De Laurentiis Cinematografica",
+                "id": 217
+            },
+            {
+                "name": "Lux Compagnie Cinématographique de France",
+                "id": 12243
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046731",
+        "original_language": "it",
+        "popularity": 3.071,
+        "status": "Released",
+        "tagline": "See the Hun Hordes Storm Out of Asia to Crash Head-On Into the Vaunted Roman Legions!",
+        "video": false
+    },
+    {
+        "id_tmdb": 240050,
+        "title": "The Siege at Red River",
+        "release_date": "1954-05-01",
+        "overview": "Cavalry Captain Farraday attempts to prevent the delivery of Gatling Guns into the hands of hostile Indians.",
+        "poster_path": "/6465tI1xKyljj9t5adIiSTdGITP.jpg",
+        "backdrop_path": "/lo0yTXhbkNIsbzSg5KHCLGJ3uCZ.jpg",
+        "production_companies": [
+            {
+                "name": "Panoramic Productions",
+                "id": 13499
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047488",
+        "original_language": "en",
+        "popularity": 3.056,
+        "status": "Released",
+        "tagline": "...And the two best soldiers in the line that day were the Captain from Georgia and the Yankee Spitfire!",
+        "video": false
+    },
+    {
+        "id_tmdb": 65799,
+        "title": "The Sea Shall Not Have Them",
+        "release_date": "1954-06-01",
+        "overview": "During autumn of 1944, an RAF Hudson carrying a VIP passenger in possession of highly secret information is shot down and ditches in the North Sea. Fighting the elements and trying to keep up morale, the occupants of the aircraft's dinghy talk about their lives awaiting the rescue they hope will come. The film's title reflects the motto of the RAF's Air Sea Rescue Service, one of whose high speed launches battles against its own mechanical problems, enemy action, time and the weather to locate and rescue the downed crew and the vital secret papers they carry.",
+        "poster_path": "/bn2OmRN99wGsJ4TijcdNKHN1UgY.jpg",
+        "backdrop_path": "/c795JFPfyJCbExfDquJLvIQoRZ5.jpg",
+        "production_companies": [
+            {
+                "name": "Angel Productions",
+                "id": 4079
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047463",
+        "original_language": "en",
+        "popularity": 2.726,
+        "status": "Released",
+        "tagline": "SURGING DRAMA! Excitement that leaps from the screen!",
+        "video": false
+    },
+    {
+        "id_tmdb": 91477,
+        "title": "Men of the Fighting Lady",
+        "release_date": "1954-05-07",
+        "overview": "A writer visits an aircraft carrier during the Korean war to learn more about it and the way it's run. He also gets to find out more about the Navy and Marine aviators themselves, their internal and external conflicts and dangers of their job.",
+        "poster_path": "/pOQVewGk9eCZ0ipr2x2985B75Jy.jpg",
+        "backdrop_path": "/f0RIIaqex7X98EArSxPAXkp9Zqe.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047230",
+        "original_language": "en",
+        "popularity": 2.643,
+        "status": "Released",
+        "tagline": "TORN OUT OF A TORTURED SKY!",
+        "video": false
+    },
+    {
+        "id_tmdb": 19430,
+        "title": "08/15",
+        "release_date": "1954-09-30",
+        "overview": "Life in the barracks, drill, harassment, and private Asch′s pranks are the ingredients of Hans Hellmut Kirst′s successful novel \"08/15\" (the number of an Army regulation). Shortly before the outbreak of World War II: Private Asch and gunner Vierbein belong to the same unit but could not be more contrary. The instructors use every opportunity to bully the clumsy Vierbein with erratic corporal Platzek leading the way. The harassment starts with minor extra duties but soon the methods become more and more brutal. Finally, Asch comes to Vierbein′s help and takes on his superiors. Joachim Fuchsberger stars in his first major role.",
+        "poster_path": "/QR5EYTK4knmylhpceMyiz7hJIl.jpg",
+        "backdrop_path": "/iy8q940Ze9wFvpvvdLc9w4Vc132.jpg",
+        "production_companies": [
+            {
+                "name": "Divina-Film",
+                "id": 2013
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 59009,
+            "name": "08/15 Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0046671",
+        "original_language": "de",
+        "popularity": 2.611,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 399377,
+        "title": "Divisione Folgore",
+        "release_date": "1954-12-30",
+        "overview": "In the summer of 1942, during the Second World War, a group of young paratroopers from the Folgore Division, after having been subjected to a long and tiring training in Italy, was transported by air to the Libyan desert to cover the Italian-German front.",
+        "poster_path": "/uslYVOrvNhhgcnvHqUZZmr1UjxO.jpg",
+        "backdrop_path": "/30PabgYYQkTkY8kzPe9OeWozeLj.jpg",
+        "production_companies": [
+            {
+                "name": "Esedra Compagnia Cinematografica Italiana",
+                "id": 191076
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046916",
+        "original_language": "it",
+        "popularity": 2.548,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 240612,
+        "title": "I cinque dell'Adamello",
+        "release_date": "1954-11-30",
+        "overview": "The odyssey of 5 Alpine soldiers who died during the First World War because of an avalanche. Their bodies were found several years later.",
+        "poster_path": "/xhwJXs91sM6xkGvA6kEBPhutPEh.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Cinemontaggio Produzione",
+                "id": 20787
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046856",
+        "original_language": "it",
+        "popularity": 2.481,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 163370,
+        "title": "A Time Out of War",
+        "release_date": "1954-09-26",
+        "overview": "Black and White UCLA Student Film, Preserved by the Academy Film Archive. During the American Civil War, two Union soldiers and a Confederate solider fire at each other from across a brook. The two sides negotiate a one-hour truce, from which they develop a bond. Based on the short story \"Pickets\" (1897) by Robert W. Chambers, it was the winner of an Academy Award for Best Short Subject (Two Reel) film in 1955. The film is on the National Film Registry for its cultural significance in 2007.",
+        "poster_path": "/jgEWmmciOmNTgyXCky4NlorTtv5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Carnival Productions",
+                "id": 206214
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.385,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047587",
+        "original_language": "en",
+        "popularity": 2.48,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 726341,
+        "title": "The Last Women",
+        "release_date": "1954-11-22",
+        "overview": "The events of the film are based on the real facts of the Pacific War, when in June 1944 the American troops began landing on the Saipan island. On July 7, an order comes that everyone must die in order not to be captured by the enemy.",
+        "poster_path": "/hdBIeSTi8giXOkhry2equazgusJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sō Ei puro",
+                "id": 137498
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13351116",
+        "original_language": "ja",
+        "popularity": 2.265,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 210674,
+        "title": "Bengal Brigade",
+        "release_date": "1954-11-06",
+        "overview": "Year 1856, British India. Capt. Jeffrey Claybourne is severely punished after disobeying an order. Feeling unworthy of his fiancée Vivian Morrow, the daughter of his superior officer, Claybourne leaves the army until he could regain his reputation. When the Rajah Karam launches an attack on the British forces in India, Claybourne finds a chance at redemption.",
+        "poster_path": "/wF64to0cB3A7eGrI50BlJmNYt2e.jpg",
+        "backdrop_path": "/ySbycbCltfsyXAzChDY4pBDbdXW.jpg",
+        "production_companies": [
+            {
+                "name": "Universal International Pictures",
+                "id": 10330
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046767",
+        "original_language": "en",
+        "popularity": 2.146,
+        "status": "Released",
+        "tagline": "From marble palace to teeming jungle all India rocked with the violence of the great rebellion !",
+        "video": false
+    },
+    {
+        "id_tmdb": 326737,
+        "title": "The Secret of Helene Marimon",
+        "release_date": "1954-05-13",
+        "overview": "At the end of the Great War, the wounded Jacques Taillandier is cared for by the beautiful Hélène Marimon and becomes her lover. He hides from her the fact that her husband is a comrade from the trenches, and only reveals the truth when he learns of Marimon's death. Outraged, Hélène drives him away. After many years, Jacques reappears to learn that Hélène had once given him a daughter. Hélène, unwilling to reveal anything to young Dominique, forces the man she loves to leave her country. Dominique not only gets her mother to talk, but also reunites those separated by fate.",
+        "poster_path": "/wygobyHbV7CoLAfA7xxlUwv06mX.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046289",
+        "original_language": "fr",
+        "popularity": 2.08,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 322804,
+        "title": "Marine Hunter",
+        "release_date": "1954-12-01",
+        "overview": "The action takes place during the Second World War in the battle zone over the Black Sea coast. Soviet sailors track down an enemy submarine. Meanwhile, the commander of the Sea Hunter, along with one of the sailors, is not returning from intelligence. Young patriots Katya and Lida report to the boat about the signal of unknown friends who noticed a submarine. Thanks to this, Soviet sailors drown an enemy boat, and the brave reconnaissance Katya, who knows the mountain paths of the coast well, discovers a Sea Hunter commander and a seriously wounded sailor in one of the caves ..",
+        "poster_path": "/aZK8kfjO9NTIsNGLsZjUUjHu6Td.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "Odessa Film Studio",
+                "id": 3161
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5111678",
+        "original_language": "uk",
+        "popularity": 2.071,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 672032,
+        "title": "Trader Tom of the China Seas",
+        "release_date": "1954-01-06",
+        "overview": "In this 12 Chapter serial the UN enlists trader Tom Rogers and Vivian Wells, to lead the effort to prevent the natives from starting a revolution in Burmatra and its neighbors.",
+        "poster_path": "/Av1sGOTSwOxhYfubBNzs22nXfiH.jpg",
+        "backdrop_path": "/giev1ElIkuQ6CjTi82HA2gzE9Ma.jpg",
+        "production_companies": [
+            {
+                "name": "Republic Pictures",
+                "id": 1432
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047605",
+        "original_language": "en",
+        "popularity": 2.044,
+        "status": "Released",
+        "tagline": "SABOTAGE on the HIGH SEAS! Great Serial Action and Suspense as The United Nations Strikes Out At An Unseen Enemy!",
+        "video": false
+    },
+    {
+        "id_tmdb": 269318,
+        "title": "Submarine Attack",
+        "release_date": "1954-08-16",
+        "overview": "During WWII, handsome young Italian sub commander and his crew torpedo Allied freighters and transport ships for the Axis then rescue the occasional survivor and treat them humanely while seeking a safe place to put them ashore.",
+        "poster_path": "/sqF4DVHfQVbgoXn1upnH4YaI22F.jpg",
+        "backdrop_path": "/c5Qacf6N7fb2QH1weM73ttaj5s6.jpg",
+        "production_companies": [
+            {
+                "name": "Excelsa Film",
+                "id": 193
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047048",
+        "original_language": "it",
+        "popularity": 2.003,
+        "status": "Released",
+        "tagline": "There's DRAMA - There's DANGER - There's DEATH",
+        "video": false
+    },
+    {
+        "id_tmdb": 199253,
+        "title": "Heroes of Shipka",
+        "release_date": "1954-11-09",
+        "overview": "Heroes of Shipka was the first solo effort for Soviet director Sergei Vasilyev, who had previously collaborated with his late brother Georgi. As head of the Leningrad Film Studios, Vasilyev was obliged to traffic in propaganda, but he never forgot how to make his material entertaining. The film is set in 1887 during the pivotal battle between the Russians and the Turks at the Shipka Pass. Stressing the solidarity of the Soviet states, tribute is paid to the courageous Bulgarian volunteers who helped the Russians fend off their mutual enemy. American critics were impressed by Heroes of Shipka, but felt that the film would have been twice as effective had it been lensed in Cinemascope rather than \"standard aspect.\"",
+        "poster_path": "/aPMtOvGo83YyvsI4Cx7SaEHv7vw.jpg",
+        "backdrop_path": "/onp6wmqQJnBI7dBUUHf026d5etu.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            },
+            {
+                "name": "Boyana Film",
+                "id": 15567
+            },
+            {
+                "name": "Bulgaria Film",
+                "id": 22082
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047021",
+        "original_language": "ru",
+        "popularity": 1.809,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198585,
+        "title": "The Bamboo Prison",
+        "release_date": "1954-06-15",
+        "overview": "A communist POW sides with his North Korean guards against his fellow prisoners.",
+        "poster_path": "/sYkSm8fzVeuyg0xWkKrav7O53k6.jpg",
+        "backdrop_path": "/hrPm95TZLSNNjpjzNBOO9FRCDHy.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046746",
+        "original_language": "en",
+        "popularity": 1.75,
+        "status": "Released",
+        "tagline": "Did Sergeant Fall for Commie Cutie...Or Was He Pushed?",
+        "video": false
+    },
+    {
+        "id_tmdb": 1196003,
+        "title": "Şimal Yıldızı",
+        "release_date": "1954-11-24",
+        "overview": "",
+        "poster_path": "/9l77UHeyp7aJXnDOEjJ0W2p88DG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Güven Film",
+                "id": 98695
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0327151",
+        "original_language": "tr",
+        "popularity": 1.749,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 239690,
+        "title": "Prisoner of War",
+        "release_date": "1954-05-04",
+        "overview": "American soldiers, captured by North Korean's, are periodically brainwashed into giving up their capitalist ways to join the communist movement.",
+        "poster_path": "/vGz3PI0qFGDlAfHJWYB3QzOwxQ7.jpg",
+        "backdrop_path": "/xVUXts0rn3JQ9rzS4MTCGl1gRph.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047369",
+        "original_language": "en",
+        "popularity": 1.526,
+        "status": "Released",
+        "tagline": "THE NAKED TRUTH ABOUT LIFE IN THE P.O.W. CAMPS! (original print ad - all caps)",
+        "video": false
+    },
+    {
+        "id_tmdb": 397064,
+        "title": "Submarine Ro Hasn't Surfaced",
+        "release_date": "1954-07-13",
+        "overview": "Japanese war film.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shintoho Company",
+                "id": 3094
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ja",
+        "popularity": 1.401,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 212952,
+        "title": "Dragonfly Squadron",
+        "release_date": "1954-03-21",
+        "overview": "A Korean War film with a secondary plot of the training of South Korean pilots, to fly fighters in air defense, by American Air Force instructors,led by Major Brady, a famed and skilled-but-grounded pilot, assigned to the Kongku base.",
+        "poster_path": "/fJJFRura5rfKKovHJ4M2pnaTFwg.jpg",
+        "backdrop_path": "/s9gUtS1gjlOpOfddepL69zpCzCp.jpg",
+        "production_companies": [
+            {
+                "name": "Allied Artists Pictures",
+                "id": 4928
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0045704",
+        "original_language": "en",
+        "popularity": 1.331,
+        "status": "Released",
+        "tagline": "The BOMB-BLASTING STORY of an Air Force Wing That EXPLODES with the Intensity of an H-BOMB!",
+        "video": false
+    },
+    {
+        "id_tmdb": 200244,
+        "title": "Seagulls Over Sorrento",
+        "release_date": "1954-07-13",
+        "overview": "A Navy lieutenant is borrowed by the British to supervise torpedo experiments after one of their scientists is killed.",
+        "poster_path": "/wKL3ToBd6rLcgYBfcmSu7EFpeDj.jpg",
+        "backdrop_path": "/z3qSfJqTCTUfhmmKa53V8Pd2rEN.jpg",
+        "production_companies": [
+            {
+                "name": "Boulting Brothers",
+                "id": 14884
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer British Studios",
+                "id": 5579
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046877",
+        "original_language": "en",
+        "popularity": 1.312,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 225217,
+        "title": "Human Torpedoes",
+        "release_date": "1954-05-07",
+        "overview": "A team of highly trained Italian seamen are taken to the island of Stampalia where there are to take their torpedo-laden attack craft on a daring attack on the port of Suda.",
+        "poster_path": "/sXVJYstEQjR4kAeunKYbmMRxt5y.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ponti-De Laurentiis Cinematografica",
+                "id": 217
+            },
+            {
+                "name": "Valentia Film",
+                "id": 78263
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0038089",
+        "original_language": "it",
+        "popularity": 1.267,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 167393,
+        "title": "Canaris",
+        "release_date": "1954-12-29",
+        "overview": "Admiral Canaris is chief of the intelligence service of Nazi Germany. His department is quite successful and Hitler grants him all the money he wants for new developments. Still he's a thorn in the side of the Nazi chiefs, since he's not as unscrupulous as they want him and is known to criticize their ideology.",
+        "poster_path": "/ixftNACDeJQynSstTS1pncTDHY0.jpg",
+        "backdrop_path": "/6GjGWl9C002nNViZNBdYPHSl2Yz.jpg",
+        "production_companies": [
+            {
+                "name": "Fama Film",
+                "id": 8176
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.444,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046819",
+        "original_language": "de",
+        "popularity": 1.177,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 283866,
+        "title": "The Concert",
+        "release_date": "1954-05-04",
+        "overview": "Celebrating the end of World War II and liberation of their city, a group of students is set on holding a cultural evening. They invite Ema, a reclusive piano teacher from the same building, to play for them. Ema declines, but starts reminscing back on her own life and the historical events that have seemingly overshadowed it.",
+        "poster_path": "/3XzmbdspxqmRi0mtCZQ3HRUg6RA.jpg",
+        "backdrop_path": "/huQUWuweOv3f8p8IQJGD61KzTwH.jpg",
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047155",
+        "original_language": "sh",
+        "popularity": 1.088,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 190814,
+        "title": "Reconnaissance Across The Yangtze",
+        "release_date": "1954-01-30",
+        "overview": "In the spring of 1949, a war is about to happen between the Liberation Army and Kuomintang Army on the Yangtze River. The Liberation Army dispatches a reconnaissance to scout the southern parts of the River, whose work is actually full of hardships and dangers. However, with the help of the local crowd and the guerrillas, finally, the members of the reconnaissance succeed in the commission and offer valuable information to the Liberation Army, making great contributions in the war.",
+        "poster_path": "/rNabFZCCaeHXuFKlR3e5Jqhl3kU.jpg",
+        "backdrop_path": "/fkgJ7XExk9xnzRFuZEfb9Lt4vld.jpg",
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studio",
+                "id": 1078
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6478958",
+        "original_language": "zh",
+        "popularity": 1.046,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 76448,
+        "title": "Suicide Mission",
+        "release_date": "1954-10-11",
+        "overview": "A group of Norwegians cross the North Sea in winter to deliver Allied soldiers and ammunition to their Nazi-occupied country.",
+        "poster_path": "/4kdx5fS3ZgIGXuNtdhYj8dLU5Ul.jpg",
+        "backdrop_path": "/uMzjD67Vops0vj9maLGQ5kFDAvo.jpg",
+        "production_companies": [
+            {
+                "name": "Nordsjøfilm",
+                "id": 54088
+            },
+            {
+                "name": "North Sea Productions",
+                "id": 89672
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "no",
+                "name": "Norsk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049808",
+        "original_language": "no",
+        "popularity": 1.037,
+        "status": "Released",
+        "tagline": "The FIRST Motion Picture Adventure Ever Re-enacted By The Heroes Who Actually Lived It!",
+        "video": false
+    },
+    {
+        "id_tmdb": 73052,
+        "title": "The Last Bridge",
+        "release_date": "1954-02-11",
+        "overview": "A German nurse gets sent to the front because she gives medical aid to a wounded Yugoslav partisan during World War II.",
+        "poster_path": "/euG8g6N9vOiYDjpCghLAhzEnNAg.jpg",
+        "backdrop_path": "/k72HhQMbZZN83huhYuufS5jcHBS.jpg",
+        "production_companies": [
+            {
+                "name": "Cosmopol-Film GmbH",
+                "id": 1674
+            },
+            {
+                "name": "UFUS",
+                "id": 8024
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047172",
+        "original_language": "de",
+        "popularity": 0.884,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 260836,
+        "title": "La patrulla",
+        "release_date": "1954-09-05",
+        "overview": "Madrid, 1939, at the end of the Spanish Civil War. Five infantry soldiers of the victorious side take a photograph of themselves somewhere in the defeated city, promising to meet again ten years later at the same place.",
+        "poster_path": "/tgGtMkdkF4RH9Av1LDtq0DcrdME.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ansara Films",
+                "id": 87386
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047335",
+        "original_language": "es",
+        "popularity": 0.74,
+        "status": "Released",
+        "tagline": "The film about the times we live in",
+        "video": false
+    },
+    {
+        "id_tmdb": 724899,
+        "title": "La pattuglia sperduta",
+        "release_date": "1954-06-09",
+        "overview": "The adventures of Lieutenant Airoldi of Piedmont who is trying to gather intelligence for the Republic about the advancing Austrian armies near the river Ticino ahead of the battle of Novara.",
+        "poster_path": null,
+        "backdrop_path": "/24r3LG4Uf7s2vLDia4XzbAaPy2n.jpg",
+        "production_companies": [
+            {
+                "name": "Vides Cinematografica",
+                "id": 12111
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0045286",
+        "original_language": "it",
+        "popularity": 0.714,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 255181,
+        "title": "Silent Raiders",
+        "release_date": "1954-09-17",
+        "overview": "Allied commandos try to knock out Nazi communications on the French coast.",
+        "poster_path": "/yaimEBxayjyDN7F8EsEVLM2RCnj.jpg",
+        "backdrop_path": "/sDfTb9muE3V53g6LziFxyjBLo9H.jpg",
+        "production_companies": [
+            {
+                "name": "L&B Productions",
+                "id": 19971
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047492",
+        "original_language": "en",
+        "popularity": 0.7,
+        "status": "Released",
+        "tagline": "No one could silence their courage and gallantry!",
+        "video": false
+    },
+    {
+        "id_tmdb": 565858,
+        "title": "The 72 Martyrs of Canton",
+        "release_date": "1954-07-15",
+        "overview": "The film was filmed for Chiang Kai-shek's re-election of the president.  The history teacher introduced the origin of the Youth Festival to the students: Fujian Lin Juemin left his wife and went to Spike to engage in revolutionary work; Guangxi Wei Yiting took the uprising with the master Li Deshan, Sichuan Yu Peirun and Pei’s brothers fought in the righteousness, and a total of 72 martyrs uprising under the leadership of Huang Keqiang , determined to overthrow the full Qing",
+        "poster_path": "/uiHxPIwXq61UolemXOSJMqIJJap.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0191825",
+        "original_language": "zh",
+        "popularity": 0.692,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 642588,
+        "title": "Courage School",
+        "release_date": "1954-01-01",
+        "overview": "The film centers on the fate of a provincial guy who became a participant in revolutionary events and the civil war.",
+        "poster_path": "/zIHSE9UQwwNhkq3UQll4TO0hRCl.jpg",
+        "backdrop_path": "/yWCzaeIEzM6Xh3yAIcs3bTR7ePY.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047481",
+        "original_language": "ru",
+        "popularity": 0.68,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 557874,
+        "title": "The Strike",
+        "release_date": "1954-06-07",
+        "overview": "Major Gaylord grapples with a vexing command in the Korean War. Aired by Studio One in Hollywood, sponsored by Westinghouse.",
+        "poster_path": "/xAu7nbO6mU0UEsbNeWyMebVF582.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "CBS",
+                "id": 4898
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0712574",
+        "original_language": "en",
+        "popularity": 0.665,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1000836,
+        "title": "沙家店粮站",
+        "release_date": "1954-12-01",
+        "overview": "",
+        "poster_path": "/8BBGRSDjpCjlw2NjvHZ93DEl96v.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Changchun Film Studio",
+                "id": 48805
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "zh",
+        "popularity": 0.612,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 765256,
+        "title": "El mensaje",
+        "release_date": "1954-05-03",
+        "overview": "",
+        "poster_path": "/1B8R5arRnBfuMnZcsxasla6EV27.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Helenia Films",
+                "id": 143887
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0044897",
+        "original_language": "es",
+        "popularity": 0.596,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 962130,
+        "title": "La campana di San Giusto",
+        "release_date": "1954-04-01",
+        "overview": "The adventures of Roberto, an heroic Italian soldier from Trieste during World War One.",
+        "poster_path": "/yUyFKhBQ470U1d0h5xW1TOx8RY1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Glomer Film",
+                "id": 8939
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "it",
+        "popularity": 0.526,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 561452,
+        "title": "Tabor",
+        "release_date": "1954-02-22",
+        "overview": "An evocation of the wartime exploits of the Moroccan \"Tabors\" in Tunisia, Italy, the French campaign and Germany. During the landings in Corsica, a light-hearted love affair develops between Adjutant Lenoir and a nurse. Fights, escapes and heroic actions lead to victory.",
+        "poster_path": "/zCrQ16Gvq4hqNNwaBcHaXCJjsqz.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "SFP",
+                "id": 6849
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0142890",
+        "original_language": "fr",
+        "popularity": 0.412,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1161010,
+        "title": "Bulgar Sadık",
+        "release_date": "1954-10-20",
+        "overview": "",
+        "poster_path": "/43ajN0WrH7mZToRH5gT2mxRlYXD.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Kemal Film",
+                "id": 21249
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0261590",
+        "original_language": "tr",
+        "popularity": 0.396,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 568636,
+        "title": "The Woman Who Came from the Sea",
+        "release_date": "1954-01-22",
+        "overview": "",
+        "poster_path": "/melVfE3KXrJLe71RhpYcx6IWTv4.jpg",
+        "backdrop_path": "/6I5UF1qjKUUYdoSq4aE61Gp9ih1.jpg",
+        "production_companies": [
+            {
+                "name": "Film Costellazione",
+                "id": 8893
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046084",
+        "original_language": "it",
+        "popularity": 0.319,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 836093,
+        "title": "Osudy dobrého vojáka Švejka – Z Hatvanu na hranice Haliče",
+        "release_date": "1954-07-11",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Loutkový film Praha",
+                "id": 97261
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "cs",
+        "popularity": 0.286,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531731,
+        "title": "The Letter with Feathers",
+        "release_date": "1954-06-01",
+        "overview": "Twelve-year-old Hai Wa sends a secret letter containing Japanese military information to the Eight Route Army during the anti-Japanese war.",
+        "poster_path": "/dXq0jG94TEjckUuxsid4hHE7uiX.jpg",
+        "backdrop_path": "/lUbrXRC9L33jKxkoO7KWwZK687u.jpg",
+        "production_companies": [
+            {
+                "name": "Shanghai Film Studios",
+                "id": 111276
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0470128",
+        "original_language": "zh",
+        "popularity": 0.19,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 605634,
+        "title": "Dos caminos",
+        "release_date": "1954-02-01",
+        "overview": "",
+        "poster_path": "/becSYiaar0LJ0V2z4k1CDZpF8ky.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Eos Films",
+                "id": 94260
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0045701",
+        "original_language": "es",
+        "popularity": 0.177,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 903582,
+        "title": "The Miss of Guerrillas",
+        "release_date": "1954-01-01",
+        "overview": "Against the backdrop of the time when North Korea was fighting the war for the liberation of the Korean peninsula (1950-1953), the main character, Ok-khi Cho, participates in a guerrilla war in a village occupied by the American military.",
+        "poster_path": "/ncw7lU27lweCan24CS26dvsgviG.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "National Film Studio of North Korea",
+                "id": 62249
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KP",
+                "name": "North Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt13906860",
+        "original_language": "ko",
+        "popularity": 0.006,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1364553,
+        "title": "Festín para la muerte",
+        "release_date": "1954-07-11",
+        "overview": "A war film set during World War II, which delves into the psychology of the inhabitants of a city waiting to be bombed. Described by critics as an \"artistic essay\" and a \"experimental film\".",
+        "poster_path": "/7cI2PYzqnedhDhaCcv8jNHXvQxf.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Maracaibo Films C.A.",
+                "id": 240537
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "VE",
+                "name": "Venezuela"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0470123",
+        "original_language": "es",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1255114,
+        "title": "Granitza",
+        "release_date": "1954-06-01",
+        "overview": "The boy Stefan brings the supper to his father in village council office. From the frontier post comes the news that bandits have crossed the border. The boy goes back home. He and his sister prepare to go to bed. A blizzard is raging outside. A wounded stranger comes to the house in search of shelter. The mother dresses his wounds and gives him food. It becomes clear that he is not the lieutenant from the frontier post that he claims to be. Stefan jumps from the window and dashes to the frontier post. The mother tries to keep the saboteur as long as possible. The two quarrels. He hits her with the submachine gun. He attempts to escape, but the border guards have already surrounded the house.",
+        "poster_path": "/4ssHFnUZBygmAdrJwXCVmzsw6bY.jpg",
+        "backdrop_path": "/m1OWtdWLxKgq2DeI5QZdPxiE1wJ.jpg",
+        "production_companies": [
+            {
+                "name": "Boyana Film",
+                "id": 15567
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0331507",
+        "original_language": "bg",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 328666,
+        "title": "The 2nd Infantry Division In Korea",
+        "release_date": "1954-01-01",
+        "overview": "The \"Indianhead Division's\" vital role, rare footage of soldiers and battle scenes.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 328664,
+        "title": "The 24th Infantry Division In Korea",
+        "release_date": "1954-01-01",
+        "overview": "A rare film on the history of the 24th Division, including intense battle footage.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

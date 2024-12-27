@@ -1,0 +1,4683 @@
+[
+    {
+        "id_tmdb": 28,
+        "title": "Apocalypse Now",
+        "release_date": "1979-05-19",
+        "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+        "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "American Zoetrope",
+                "id": 70
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "km",
+                "name": ""
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 31500000,
+        "revenue": 150000000,
+        "vote_average": 8.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.apocalypsenow.com",
+        "imdb_id": "tt0078788",
+        "original_language": "en",
+        "popularity": 50.625,
+        "status": "Released",
+        "tagline": "This is the end...",
+        "video": false
+    },
+    {
+        "id_tmdb": 11778,
+        "title": "The Deer Hunter",
+        "release_date": "1978-12-08",
+        "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+        "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+        "backdrop_path": "/ojG57hVx69vhk5DDGPIcfyRR55I.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "EMI Films",
+                "id": 538
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 49000000,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077416",
+        "original_language": "en",
+        "popularity": 32.011,
+        "status": "Released",
+        "tagline": "God bless America.",
+        "video": false
+    },
+    {
+        "id_tmdb": 5336,
+        "title": "Salò, or the 120 Days of Sodom",
+        "release_date": "1976-01-10",
+        "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
+        "poster_path": "/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+        "backdrop_path": "/m7e1YTVbPbQcszFaQfKsX0CTfwu.jpg",
+        "production_companies": [
+            {
+                "name": "Les Productions Artistes Associés",
+                "id": 64
+            },
+            {
+                "name": "PEA",
+                "id": 7508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 800000,
+        "revenue": 1800000,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073650",
+        "original_language": "it",
+        "popularity": 29.858,
+        "status": "Released",
+        "tagline": "The final vision of a controversial filmmaker.",
+        "video": false
+    },
+    {
+        "id_tmdb": 5902,
+        "title": "A Bridge Too Far",
+        "release_date": "1977-06-15",
+        "overview": "The story of Operation Market Garden—a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+        "poster_path": "/twPQYBNDTAmOa9x8fNdKYMFSxQD.jpg",
+        "backdrop_path": "/26feWH2NF8XqxuMzfkJTp9T5dfQ.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Joseph E. Levine Productions",
+                "id": 11503
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 22000000,
+        "revenue": 50750000,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075784",
+        "original_language": "en",
+        "popularity": 28.851,
+        "status": "Released",
+        "tagline": "Out of the sky comes the screen's most incredible spectacle of men and war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11422,
+        "title": "Midway",
+        "release_date": "1976-06-18",
+        "overview": "This war drama depicts the U.S. and Japanese forces in the naval Battle of Midway, which became a turning point for Americans during World War II.",
+        "poster_path": "/vCzGV28YFmWubUn1jh8ytagYocR.jpg",
+        "backdrop_path": "/2QCwYIcWkRcGMNSqHFrbdppZgX6.jpg",
+        "production_companies": [
+            {
+                "name": "The Mirisch Company",
+                "id": 219
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4000000,
+        "revenue": 100000000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074899",
+        "original_language": "en",
+        "popularity": 25.946,
+        "status": "Released",
+        "tagline": "The glory, the suspense, the spectacular drama of the men who won the most decisive naval battle in our history!",
+        "video": false
+    },
+    {
+        "id_tmdb": 3175,
+        "title": "Barry Lyndon",
+        "release_date": "1975-12-18",
+        "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+        "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+        "backdrop_path": "/a3MmLFhOLSgODby8JQyPtca4o1q.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Hawk Films",
+                "id": 88
+            },
+            {
+                "name": "Peregrine",
+                "id": 11272
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 11000000,
+        "revenue": 260131,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072684",
+        "original_language": "en",
+        "popularity": 25.899,
+        "status": "Released",
+        "tagline": "At long last Redmond Barry became a gentleman—and that was his tragedy.",
+        "video": false
+    },
+    {
+        "id_tmdb": 40394,
+        "title": "Salon Kitty",
+        "release_date": "1976-03-02",
+        "overview": "Kitty runs a brothel in Nazi Germany where the soldiers come to \"relax\". Recording devices have been installed in each room by a power hungry army official who plans to use the information to blackmail Hitler and gain power himself. A girl named Margherita discovers the little ploy and with Kitty's help plans to take on the dangerous task of exposing the conspiracy.",
+        "poster_path": "/pAcHGO840kU3TtYWjv3pvFl3Vm1.jpg",
+        "backdrop_path": "/bsFIpAzgUCezrr7yrrWvVqQnEwG.jpg",
+        "production_companies": [
+            {
+                "name": "Les Productions Fox Europa",
+                "id": 1602
+            },
+            {
+                "name": "Coralta Cinematografica",
+                "id": 1796
+            },
+            {
+                "name": "Cinema Seven Film",
+                "id": 33467
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075163",
+        "original_language": "it",
+        "popularity": 21.344,
+        "status": "Released",
+        "tagline": "Depraved. Decadent. Damned.",
+        "video": false
+    },
+    {
+        "id_tmdb": 659,
+        "title": "The Tin Drum",
+        "release_date": "1979-05-02",
+        "overview": "Oskar Matzerath is a very unusual boy. Refusing to leave the womb until promised a tin drum by his mother, Agnes, Oskar is reluctant to enter a world he sees as filled with hypocrisy and injustice, and vows on his third birthday to never grow up. Miraculously, he gets his wish. As the Nazis rise to power in Danzig, Oskar wills himself to remain a child, beating his tin drum incessantly and screaming in protest at the chaos surrounding him.",
+        "poster_path": "/tm408GMyQqfqFJ7MKCkwc5uQ3wi.jpg",
+        "backdrop_path": "/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg",
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "Artemis Film",
+                "id": 1521
+            },
+            {
+                "name": "Franz Seitz Filmproduktion",
+                "id": 1548
+            },
+            {
+                "name": "Argos Films",
+                "id": 6116
+            },
+            {
+                "name": "Hallelujah Films",
+                "id": 59351
+            },
+            {
+                "name": "GGB-14",
+                "id": 59352
+            },
+            {
+                "name": "Neue Bioskop Film",
+                "id": 403
+            },
+            {
+                "name": "Auditrust",
+                "id": 175422
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 17000000,
+        "vote_average": 6.943,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078875",
+        "original_language": "de",
+        "popularity": 21.284,
+        "status": "Released",
+        "tagline": "A savage, sweeping epic of society in chaos.",
+        "video": false
+    },
+    {
+        "id_tmdb": 17339,
+        "title": "Force 10 from Navarone",
+        "release_date": "1978-08-16",
+        "overview": "World War II, 1943. Mallory and Miller, the heroes who destroyed the guns of Navarone, are sent to Yugoslavia in search of a ghost from the past.",
+        "poster_path": "/3bFRwivCZuXx7fHWt4SpYaiHkNL.jpg",
+        "backdrop_path": "/eqlYZEs8RZvlBRu0jud7veEZspG.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            },
+            {
+                "name": "Navarone Productions",
+                "id": 4191
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hr",
+                "name": "Hrvatski"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 5000000,
+        "revenue": 7230000,
+        "vote_average": 6.199,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 366826,
+            "name": "Navarone Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0077572",
+        "original_language": "en",
+        "popularity": 17.44,
+        "status": "Released",
+        "tagline": "Explosive high adventure!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11519,
+        "title": "1941",
+        "release_date": "1979-12-14",
+        "overview": "In the days after the attack on Pearl Harbor, panic grips California, where a military officer leads a mob chasing a Japanese sub.",
+        "poster_path": "/52Bn5yC6IHQuVxPUza3Q6RZCZTu.jpg",
+        "backdrop_path": "/wtJIV3BI3FbCJ2wKJCb9KngdEv2.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "A-Team",
+                "id": 6128
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 94900000,
+        "vote_average": 5.796,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078723",
+        "original_language": "en",
+        "popularity": 15.329,
+        "status": "Released",
+        "tagline": "Paranoia meets pandemonium.",
+        "video": false
+    },
+    {
+        "id_tmdb": 56386,
+        "title": "SS Experiment Love Camp",
+        "release_date": "1976-11-16",
+        "overview": "Near the end of WW2, prisoners of war are used in experiments to perfect the Arian race.",
+        "poster_path": "/1s3NnoCbBbqEa50A4ch8WYLORti.jpg",
+        "backdrop_path": "/g2pRkexf4wChzX5haN96g94xTLE.jpg",
+        "production_companies": [
+            {
+                "name": "Società Europea Films Internazionali Cinematografica (SEFI)",
+                "id": 43458
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.708,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074768",
+        "original_language": "it",
+        "popularity": 15.106,
+        "status": "Released",
+        "tagline": "Sex experiments in pursuit of a better tomorrow!",
+        "video": false
+    },
+    {
+        "id_tmdb": 19067,
+        "title": "The Duellists",
+        "release_date": "1977-08-31",
+        "overview": "In 1800, as Napoleon Bonaparte rises to power in France, a rivalry erupts between Armand and Gabriel, two lieutenants in the French Army, over a perceived insult. For over a decade, they engage in a series of duels amidst larger conflicts, including the failed French invasion of Russia in 1812, and shifts in the political and social systems of Europe.",
+        "poster_path": "/s9sPhcfD4LtrIGwix11bKtl9VLR.jpg",
+        "backdrop_path": "/mciNMr74hfaaifOxaUfSoPtKS3Q.jpg",
+        "production_companies": [
+            {
+                "name": "Enigma Productions",
+                "id": 7049
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 900000,
+        "revenue": 0,
+        "vote_average": 7.269,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075968",
+        "original_language": "en",
+        "popularity": 15.081,
+        "status": "Released",
+        "tagline": "Fencing is a science. Loving is a passion. Duelling is an obsession.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10912,
+        "title": "All Quiet on the Western Front",
+        "release_date": "1979-11-14",
+        "overview": "At the start of World War I, Paul Baumer is a young German patriot, eager to fight. Indoctrinated with propaganda at school, he and his friends eagerly sign up for the army soon after graduation. But when the horrors of war soon become too much to bear, and as his friends die or become gravely wounded, Paul questions the sanity of fighting over a few hundreds yards of war-torn countryside.",
+        "poster_path": "/2HHFfieloWJcIz5PU3NKrv1i6DJ.jpg",
+        "backdrop_path": "/Awo2WTB3p5NDGniBHZ8lRuKczR0.jpg",
+        "production_companies": [
+            {
+                "name": "Norman Rosemont Productions",
+                "id": 1585
+            },
+            {
+                "name": "Marble Arch Productions",
+                "id": 18936
+            },
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078753",
+        "original_language": "en",
+        "popularity": 14.512,
+        "status": "Released",
+        "tagline": "They left for war as boys, never to return as men.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10839,
+        "title": "Cross of Iron",
+        "release_date": "1977-01-29",
+        "overview": "It is 1943, and the German army—ravaged and demoralised—is hastily retreating from the Russian front. In the midst of the madness, conflict brews between the aristocratic yet ultimately pusillanimous Captain Stransky and the courageous Corporal Steiner. Stransky is the only man who believes that the Third Reich is still vastly superior to the Russian army. However, within his pompous persona lies a quivering coward who longs for the Iron Cross so that he can return to Berlin a hero. Steiner, on the other hand is cynical, defiantly non-conformist and more concerned with the safety of his own men rather than the horde of military decorations offered to him by his superiors.",
+        "poster_path": "/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+        "backdrop_path": "/AbDjKsjpk8jHgaFTcmR1Ch0iDY7.jpg",
+        "production_companies": [
+            {
+                "name": "Rapid Film",
+                "id": 12782
+            },
+            {
+                "name": "EMI Films",
+                "id": 538
+            },
+            {
+                "name": "Terra-Filmkunst",
+                "id": 619
+            },
+            {
+                "name": "Alex Winitsky / Arlene Sellers Productions",
+                "id": 56932
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 1509000,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 93568,
+            "name": "Cross of Iron Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0074695",
+        "original_language": "en",
+        "popularity": 14.37,
+        "status": "Released",
+        "tagline": "On the Eastern front in 1943, the German soldiers no longer had any ideals. They were not fighting for the Party—but for their lives!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11372,
+        "title": "The Eagle Has Landed",
+        "release_date": "1976-12-24",
+        "overview": "When the Nazi high command learns in late 1943 that Winston Churchill will be spending time at a country estate in Norfolk, it hatches an audacious scheme to kidnap the prime minister and spirit him to Germany for enforced negotiations with Hitler.",
+        "poster_path": "/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg",
+        "backdrop_path": "/kk1EDdwnERVB89VRuqlJjPGHexu.jpg",
+        "production_companies": [
+            {
+                "name": "Associated General Films",
+                "id": 4377
+            },
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 0,
+        "vote_average": 6.603,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074452",
+        "original_language": "en",
+        "popularity": 13.846,
+        "status": "Released",
+        "tagline": "The daring World War II plot that changed the course of history.",
+        "video": false
+    },
+    {
+        "id_tmdb": 18061,
+        "title": "Zulu Dawn",
+        "release_date": "1979-05-14",
+        "overview": "In 1879, the British suffer a great loss at the Battle of Isandlwana due to incompetent leadership.",
+        "poster_path": "/2Aue63JT26izYE2PMvwJ3KHkhQ7.jpg",
+        "backdrop_path": "/jHPmZcPryuzMg63CWexgo0GelmJ.jpg",
+        "production_companies": [
+            {
+                "name": "Lamitas",
+                "id": 3441
+            },
+            {
+                "name": "Samarkand",
+                "id": 3442
+            },
+            {
+                "name": "Zulu Dawn NV",
+                "id": 3443
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "ZA",
+                "name": "South Africa"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zu",
+                "name": "isiZulu"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 11750000,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 869982,
+            "name": "Zulu Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0080180",
+        "original_language": "en",
+        "popularity": 13.001,
+        "status": "Released",
+        "tagline": "The sun dawned bloodied... two great armies met face to face... and the earth trembled to the sound of the Zulu death chant!",
+        "video": false
+    },
+    {
+        "id_tmdb": 28981,
+        "title": "Escape to Athena",
+        "release_date": "1979-05-21",
+        "overview": "During the World War II, the prisoners of a German camp in a Greek island are trying to escape. They not only want their freedom, but also seek an ineffable treasure hidden in a monastery at the summit of the island's mountain.",
+        "poster_path": "/c4SeQMQnc2eIpQgDTnLRNg0d6iR.jpg",
+        "backdrop_path": "/pkcpXZjQhT65uHKlrPHMFba7LhQ.jpg",
+        "production_companies": [
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.663,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079117",
+        "original_language": "en",
+        "popularity": 12.635,
+        "status": "Released",
+        "tagline": "The patriot, the professor, the comic and the stripper... were fighting for what they believed in... Getting rich!",
+        "video": false
+    },
+    {
+        "id_tmdb": 36879,
+        "title": "The Beast in Heat",
+        "release_date": "1977-07-19",
+        "overview": "In a remote village in occupied Europe, the SS pursue their inhuman treatment of captured partisans in efforts to force them to betray their comrades.... while Fraulein Krast, a sadistic biologist, concentrates her efforts on the womenfolk with refined tortures and humiliation, leaving them to the mercy of a sex-crazed half-man, half-beast she has created with experimental injections.... And as advancing Allied forces approach the village, Krast herself becomes a victim of her own fiendish rituals....",
+        "poster_path": "/nzcVBgdHk12IBJNa4uERIbB82lJ.jpg",
+        "backdrop_path": "/pJg0P8LggXEVCmwM9MdTuq8xmpv.jpg",
+        "production_companies": [
+            {
+                "name": "Eterna Film",
+                "id": 51920
+            },
+            {
+                "name": "Sonora Films",
+                "id": 41573
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076649",
+        "original_language": "it",
+        "popularity": 12.293,
+        "status": "Released",
+        "tagline": "Horrifying experiences in the last days of the S.S.",
+        "video": false
+    },
+    {
+        "id_tmdb": 31037,
+        "title": "MacArthur",
+        "release_date": "1977-07-15",
+        "overview": "The film portrays MacArthur's life from 1942, before the Battle of Bataan, to 1952, the time after he had been removed from his Korean War command by President Truman for insubordination, and is recounted in flashback as he visits West Point.",
+        "poster_path": "/twH5l1m2kEpapLi4MP0CPuKVthZ.jpg",
+        "backdrop_path": "/h45HRg1Hm5kdUqaXRbatlNiXgjf.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "The Zanuck/Brown Company",
+                "id": 1865
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 16300000,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076342",
+        "original_language": "en",
+        "popularity": 11.29,
+        "status": "Released",
+        "tagline": "Where the legend ends and the man begins.",
+        "video": false
+    },
+    {
+        "id_tmdb": 22311,
+        "title": "The Inglorious Bastards",
+        "release_date": "1978-02-08",
+        "overview": "Set in Europe during WWII, a group of American soldiers on their way to military prison are beset upon by a German artillery attack, escaping with Switzerland in their sights. Before making it any farther, they volunteer to steal a V2 warhead for the French Underground - taking them deep into the heart of German territory.",
+        "poster_path": "/8f7PoX7TveyKrndh3bZZcBvR55Z.jpg",
+        "backdrop_path": "/8iyQwHOfEhr2YrNwsTuhP3z0bVv.jpg",
+        "production_companies": [
+            {
+                "name": "Film Concorde",
+                "id": 24206
+            },
+            {
+                "name": "Capitol Film",
+                "id": 30060
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.218,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076584",
+        "original_language": "it",
+        "popularity": 11.054,
+        "status": "Released",
+        "tagline": "If you're a kraut, he'll take you out!",
+        "video": false
+    },
+    {
+        "id_tmdb": 20850,
+        "title": "Ilsa: She Wolf of the SS",
+        "release_date": "1975-10-01",
+        "overview": "Ilsa, a warden at a Nazi death camp that conducts experiments on prisoners, strives to prove that women can withstand more pain and suffering than men, and therefore should be allowed to fight on the frontlines.",
+        "poster_path": "/u0N1LnpRSR5sLmiLMgRv0mlTXk9.jpg",
+        "backdrop_path": "/6l3neUmnMyf2Vu8BAAEVI1dTrBd.jpg",
+        "production_companies": [
+            {
+                "name": "Aeteas Filmproduktions",
+                "id": 15314
+            },
+            {
+                "name": "Cinépix Film Properties (CFP)",
+                "id": 6270
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.05,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 123249,
+            "name": "Ilsa, She Wolf of the SS Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0071650",
+        "original_language": "en",
+        "popularity": 10.813,
+        "status": "Released",
+        "tagline": "The most dreaded Nazi of them all!",
+        "video": false
+    },
+    {
+        "id_tmdb": 50183,
+        "title": "The Ascent",
+        "release_date": "1977-04-02",
+        "overview": "Two Soviet partisans leave their starving band to get supplies from a nearby farm. The Germans have reached the farm first, so the pair must go on a journey deep into occupied territory, a voyage that will also take them deep into their souls.",
+        "poster_path": "/nbGyTnH1TREKgZXLxEJNnDVohYC.jpg",
+        "backdrop_path": "/u8jAkrMAH2EwzYS3rrhGSIaiCIE.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "Tretye Tvorcheskoe Obyedinenie",
+                "id": 81478
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075404",
+        "original_language": "ru",
+        "popularity": 10.781,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 33258,
+        "title": "More American Graffiti",
+        "release_date": "1979-08-03",
+        "overview": "College graduates deal with Vietnam and other issues of the late '60s.",
+        "poster_path": "/dnHmQgxeHqgc1A78hE3AdzhlJsW.jpg",
+        "backdrop_path": "/goSQIulkk8E4VEV6MjKHJCLSlIg.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Lucasfilm Ltd.",
+                "id": 1
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "is",
+                "name": "Íslenska"
+            }
+        ],
+        "budget": 2500000,
+        "revenue": 15000000,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 124950,
+            "name": "American Graffiti Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0079576",
+        "original_language": "en",
+        "popularity": 10.556,
+        "status": "Released",
+        "tagline": "The sights and sounds of the '60s. There were bittersweet times. There were funny times. And it was all unforgettable.",
+        "video": false
+    },
+    {
+        "id_tmdb": 86382,
+        "title": "They Fought for Their Motherland",
+        "release_date": "1975-11-05",
+        "overview": "In July 1942, in the Second World War, the rearguard of the Russian army protects the bridgehead of the Don River against the German army while the retreating Russian troops cross the bridge. While they move back to the Russian territory through the countryside, the soldiers show their companionship, sentiments, fears and heroism to defend their motherland.",
+        "poster_path": "/ya1BPU1e5xy6m7f1I0QE70vD03D.jpg",
+        "backdrop_path": "/dDoTipJBw9fRmhOWyTqqTzmixso.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073488",
+        "original_language": "ru",
+        "popularity": 10.544,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 25388,
+        "title": "March or Die",
+        "release_date": "1977-09-08",
+        "overview": "Just after World War I, Major Foster is incorporating new recruits into his French Foreign Legion platoon when he is sent to his former remote outpost located in the French Morocco to protect an archaeological excavation from El Krim, a Rifian leader who intends to unite all local tribes to fight the colonial government…",
+        "poster_path": "/jW21NrRlcrA4kucmD9hfnPbQEvL.jpg",
+        "backdrop_path": "/ubKqQUGdZogAfbU6cgECRrVFuPa.jpg",
+        "production_companies": [
+            {
+                "name": "Associated General Films",
+                "id": 4377
+            },
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 8000000,
+        "revenue": 1000000,
+        "vote_average": 5.801,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076175",
+        "original_language": "en",
+        "popularity": 10.349,
+        "status": "Released",
+        "tagline": "They obeyed but one command",
+        "video": false
+    },
+    {
+        "id_tmdb": 28746,
+        "title": "Ilsa, the Tigress of Siberia",
+        "release_date": "1977-09-29",
+        "overview": "Siberia 1953: Ilsa is now working in a Gulag prison camp. Her mission is to \"retrain the minds\" of those who don't agree with the communists.",
+        "poster_path": "/1c3qoPfDScgU3c62v9DZhzfnsfs.jpg",
+        "backdrop_path": "/47y1ZZGpQOSF9ITg7YTlTMecce3.jpg",
+        "production_companies": [
+            {
+                "name": "Mount Everest Enterprises Ltd",
+                "id": 13032
+            },
+            {
+                "name": "Cinépix Film Properties",
+                "id": 38374
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 237000,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 123249,
+            "name": "Ilsa, She Wolf of the SS Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0078398",
+        "original_language": "en",
+        "popularity": 10.065,
+        "status": "Released",
+        "tagline": "When she bares her claws ... You'll cringe with fear!",
+        "video": false
+    },
+    {
+        "id_tmdb": 7392,
+        "title": "Ilsa: Harem Keeper of the Oil Sheiks",
+        "release_date": "1976-02-29",
+        "overview": "Ilsa works for an Arab sheik who enjoys importing females to use as sex slaves.",
+        "poster_path": "/4VJCCR8pHotBu1hn62vpeSsii3S.jpg",
+        "backdrop_path": "/e6Dl1F3uPc2YoW3EZDCXKK1cAdo.jpg",
+        "production_companies": [
+            {
+                "name": "Mount Everest Enterprises Ltd",
+                "id": 13032
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 123249,
+            "name": "Ilsa, She Wolf of the SS Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0074670",
+        "original_language": "en",
+        "popularity": 9.96,
+        "status": "Released",
+        "tagline": "Ilsa's back! ...More fierce than ever! With brutal fury she enslaved an empire and shocked the world!",
+        "video": false
+    },
+    {
+        "id_tmdb": 31657,
+        "title": "Coming Home",
+        "release_date": "1978-02-15",
+        "overview": "In 1968 California, a Marine officer's wife falls in love with a former high school classmate who suffered a paralyzing combat injury in the war.",
+        "poster_path": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+        "backdrop_path": "/x7RIwen62HEUp3Sh5HYHp2gOdMX.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Jerome Hellman Productions",
+                "id": 1324
+            },
+            {
+                "name": "Jayne Productions Inc",
+                "id": 18091
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 32653905,
+        "vote_average": 7.021,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077362",
+        "original_language": "en",
+        "popularity": 9.83,
+        "status": "Released",
+        "tagline": "A man who believed in war! A man who believed in nothing! And a woman who believed in both of them!",
+        "video": false
+    },
+    {
+        "id_tmdb": 75641,
+        "title": "Voyage of the Damned",
+        "release_date": "1976-12-22",
+        "overview": "A luxury liner carries Jewish refugees from Hitler's Germany in a desperate fight for survival.",
+        "poster_path": "/zXIAI4nLLHyFzLJz3fTmtd4yErF.jpg",
+        "backdrop_path": "/BGuZ49lKLHPh7tcFXmmLzp4M7X.jpg",
+        "production_companies": [
+            {
+                "name": "Robert Fryer Production",
+                "id": 96369
+            },
+            {
+                "name": "Associated General Films",
+                "id": 4377
+            },
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 7300000,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075406",
+        "original_language": "en",
+        "popularity": 9.593,
+        "status": "Released",
+        "tagline": "It lasted 30 days... You will remember it as long as you live.",
+        "video": false
+    },
+    {
+        "id_tmdb": 46696,
+        "title": "Private Vices, Public Virtues",
+        "release_date": "1976-05-06",
+        "overview": "The setting is a Central European kingdom, near the turn of the century. Bored by his very proper wife, the youthful heir to the throne spends his time in amorous dalliances at a sprawling country estate. His wife departs at the arrival of his friends, and they organize a celebration which becomes a wild orgy and culminates in death and tragedy.",
+        "poster_path": "/oINl4VTQiNlf8ZZqaVl3BUmc1MJ.jpg",
+        "backdrop_path": "/wMmzrLzElcJKzbSyLEv0Z6Rugb3.jpg",
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "Filmes Cinematografica",
+                "id": 6397
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073869",
+        "original_language": "it",
+        "popularity": 9.585,
+        "status": "Released",
+        "tagline": "Royal passions that rocked a Crown...",
+        "video": false
+    },
+    {
+        "id_tmdb": 40339,
+        "title": "Private House of the SS",
+        "release_date": "1977-01-20",
+        "overview": "Top Nazi officials, intent on rooting out traitors and those in the military who may be plotting to overthrow Adolf Hitler, recruit and train a group of beautiful prostitutes whose mission is to use any means necessary to uncover plots against the Fuhrer.",
+        "poster_path": "/mrPhJFdf62KC8nLcS1aYR5rKgfN.jpg",
+        "backdrop_path": "/7jBnqB4KK9cZJSMPtRYRDjpACVE.jpg",
+        "production_companies": [
+            {
+                "name": "Distribuzione Associate Regionali (DAR)",
+                "id": 83060
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0083017",
+        "original_language": "it",
+        "popularity": 9.411,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 633,
+        "title": "Soldier of Orange",
+        "release_date": "1977-09-22",
+        "overview": "The lives of Erik Lanshof and five of his closest friends take different paths when the German army invades the Netherlands in 1940: fight and resistance, fear and resignation, collaboration and high treason.",
+        "poster_path": "/7w7fDtSUCUtcQ3Y9598CymUnuVx.jpg",
+        "backdrop_path": "/uNhZCcxkXmrmzPfOH0ZxegMs6SL.jpg",
+        "production_companies": [
+            {
+                "name": "Excelsior Films",
+                "id": 363
+            },
+            {
+                "name": "Rob Houwer Film Holland",
+                "id": 9331
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.084,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076734",
+        "original_language": "nl",
+        "popularity": 8.98,
+        "status": "Released",
+        "tagline": "Love first. Fight later",
+        "video": false
+    },
+    {
+        "id_tmdb": 51543,
+        "title": "The Passage",
+        "release_date": "1979-03-09",
+        "overview": "During WW 2, a Basque shepherd is approached by the underground, who wants him to lead a scientist and his family across the Pyrenees. While being pursued by a sadistic German.",
+        "poster_path": "/8kXQJWwWntjzAJv14IcYqPhgd46.jpg",
+        "backdrop_path": "/fcw0RMlhjJ3bVxlbQ9bRnh1uVOr.jpg",
+        "production_companies": [
+            {
+                "name": "Hemdale",
+                "id": 3952
+            },
+            {
+                "name": "Passage Films",
+                "id": 15697
+            },
+            {
+                "name": "Monday Films",
+                "id": 15698
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079700",
+        "original_language": "en",
+        "popularity": 8.91,
+        "status": "Released",
+        "tagline": "An ice-swept escape route in front of them. A cold-blooded killer behind them. The only way out is up.",
+        "video": false
+    },
+    {
+        "id_tmdb": 44630,
+        "title": "Aces High",
+        "release_date": "1976-05-19",
+        "overview": "The first World War is in its third year and aerial combat above the Western Front is consuming the nation's favored children at an appalling rate. By early 1917, the average life-span of a British pilot is less than a fortnight. Such losses place a fearsome strain on Gresham, commanding officer of the squadron. Aces High recreates the early days of the Royal Flying Corps with some magnificently staged aerial battles, and sensitive direction presents a moving portrayal of the futilities of war.",
+        "poster_path": "/7jTvqsZbvWyVSMVbCG9pOLK27gi.jpg",
+        "backdrop_path": "/waMtP1SoMp30pkIWtd2plZ5stPW.jpg",
+        "production_companies": [
+            {
+                "name": "Les Productions Jacques Roitfeld",
+                "id": 1527
+            },
+            {
+                "name": "S. Benjamin Fisz Productions",
+                "id": 19662
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 1250000,
+        "revenue": 0,
+        "vote_average": 5.772,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075627",
+        "original_language": "en",
+        "popularity": 8.651,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 37550,
+        "title": "Seven Beauties",
+        "release_date": "1975-12-20",
+        "overview": "Pasqualino Frafuso, known in Naples as \"Pasqualino Seven Beauties\" is a petty thief who lives off of the profits of his seven sisters while claiming to protect their honor at any cost, Pasqualino is arrested for murder and later sent to fight in the army after committing sexual assault. The Germans capture him and he gets sent to a concentration camp where he plots to make his escape by seducing a German officer.",
+        "poster_path": "/i0ZLApe4mIQWopELhEPxOQziDBh.jpg",
+        "backdrop_path": "/4ilXtC261Kzam3DxriDAlPQJH2K.jpg",
+        "production_companies": [
+            {
+                "name": "Medusa Distribuzione",
+                "id": 15868
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.489,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075040",
+        "original_language": "it",
+        "popularity": 8.485,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73990,
+        "title": "G.I. Samurai",
+        "release_date": "1979-09-17",
+        "overview": "A squadron of Japanese Self-Defense Force soldiers find themselves transported through time to their country's warring states era, when rival samurai clans were battling to become the supreme Shogun.",
+        "poster_path": "/hdrclppnNg9FGK1wGBklRXdQonY.jpg",
+        "backdrop_path": "/ain9YlGMpUSHUw7tqmeUYEGofxw.jpg",
+        "production_companies": [
+            {
+                "name": "KADOKAWA",
+                "id": 2073
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0083050",
+        "original_language": "ja",
+        "popularity": 8.025,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 21666,
+        "title": "Yanks",
+        "release_date": "1979-09-01",
+        "overview": "During WWII, the United States set up army bases in Great Britain as part of the war effort. Against their proper sensibilities, many of the Brits don't much like the brash Yanks, especially when it comes to the G.I.s making advances on the lonely British girls. One relationship that develops is between married John, an Army Captain, and the aristocratic Helen, whose naval husband is away at war. Helen loves her husband, but Helen and John are looking for some comfort during the difficult times.",
+        "poster_path": "/yJSKWncXs0aHjwKwZadYQKccrsY.jpg",
+        "backdrop_path": "/joqEPQ9O4bCxDVEse55rtmS9ENf.jpg",
+        "production_companies": [
+            {
+                "name": "CIP Filmproduktion GmbH",
+                "id": 14309
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080157",
+        "original_language": "en",
+        "popularity": 7.365,
+        "status": "Released",
+        "tagline": "In 1942 everyone loved a soldier",
+        "video": false
+    },
+    {
+        "id_tmdb": 89644,
+        "title": "Captive Women 4",
+        "release_date": "1977-09-26",
+        "overview": "To improve the morale of the German officers, a train with beautiful girls is arranged to entertain them when on leave.",
+        "poster_path": "/kxuezjXa44JnP2LSHdsGT9vAuDp.jpg",
+        "backdrop_path": "/bm6N4qcXV58AhtItbHNtfYQPRGt.jpg",
+        "production_companies": [
+            {
+                "name": "Eurociné",
+                "id": 4799
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074469",
+        "original_language": "fr",
+        "popularity": 7.108,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 26680,
+        "title": "Shock Waves",
+        "release_date": "1977-07-15",
+        "overview": "Visitors to a remote island discover that a reclusive Nazi commandant has been breeding a group of zombie soldiers.",
+        "poster_path": "/ApYarwDS09ll1I1zZV9XFUe6aGe.jpg",
+        "backdrop_path": "/dRaoGQbXnb3MGo7CxJgVHwGpZOP.jpg",
+        "production_companies": [
+            {
+                "name": "Zopix Company",
+                "id": 4559
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 200000,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076704",
+        "original_language": "en",
+        "popularity": 7.006,
+        "status": "Released",
+        "tagline": "The Deep End of Horror!",
+        "video": false
+    },
+    {
+        "id_tmdb": 10841,
+        "title": "Breakthrough",
+        "release_date": "1979-03-01",
+        "overview": "Starting in late May 1944, during the German retreat on the Eastern Front, Captain Stransky (Helmut Griem) orders Sergeant Steiner (Richard Burton) to blow up a railway tunnel to prevent Russian forces from using it. Steiner's platoon fails in its mission by coming up against a Russian tank. Steiner then takes a furlough to Paris just as the Allies launch their invasion of Normandy.",
+        "poster_path": "/n0XQXNSbDsHaJYHwuPPa8IfjmBY.jpg",
+        "backdrop_path": "/css92P5JvODJEWXp38Eo7qZdFd6.jpg",
+        "production_companies": [
+            {
+                "name": "Rapid Film",
+                "id": 12782
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 93568,
+            "name": "Cross of Iron Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0078320",
+        "original_language": "de",
+        "popularity": 6.911,
+        "status": "Released",
+        "tagline": "Burton...Mitchum...Steiger...Enemies...Yet Allies In Combat With Destiny!",
+        "video": false
+    },
+    {
+        "id_tmdb": 26659,
+        "title": "Hanover Street",
+        "release_date": "1979-05-18",
+        "overview": "Margaret is a nurse in England during WW2, and married to a secret agent. Things get complicated when she falls for David, an American pilot.",
+        "poster_path": "/5fg9SFyNrk8lkcWvON6MhDJuRzY.jpg",
+        "backdrop_path": "/t1kuC898ZbcbnXS5RILVI5Q1Egf.jpg",
+        "production_companies": [
+            {
+                "name": "Hanover Street",
+                "id": 4551
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 3000000,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079268",
+        "original_language": "en",
+        "popularity": 6.787,
+        "status": "Released",
+        "tagline": "The fateful entanglements of two men in love with the same woman.",
+        "video": false
+    },
+    {
+        "id_tmdb": 401306,
+        "title": "The Seventh Company Has Been Found",
+        "release_date": "1975-12-10",
+        "overview": "The second part of the Seventh Company adventures.",
+        "poster_path": "/oBsGkRLaeZzoJr4qnlyF6wZQst9.jpg",
+        "backdrop_path": "/wmMP0nmUtK27U7c18qdLz7zkPtM.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont Production",
+                "id": 45441
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 93287,
+            "name": "Seventh Company Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0075007",
+        "original_language": "fr",
+        "popularity": 6.69,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 68553,
+        "title": "Siberiade",
+        "release_date": "1979-11-28",
+        "overview": "The story about a very small god-forgotten village in Siberia reflects the history of Russia from the beginning of the century till the early 1980s. Three generations try to find the land of happiness and to give it to the people. One builds the road through taiga to the star over horizon, the second 'build communism' and the third searches for oil.",
+        "poster_path": "/z3WYuEQkI5hAFGmCsip1hcModo0.jpg",
+        "backdrop_path": "/h8v2UpOaLGJZD62X3lPoVnPd233.jpg",
+        "production_companies": [
+            {
+                "name": "Tretye Tvorcheskoe Obyedinenie",
+                "id": 81478
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            },
+            {
+                "name": "Studio Trite",
+                "id": 3467
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 1753,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079907",
+        "original_language": "ru",
+        "popularity": 6.483,
+        "status": "Released",
+        "tagline": "The history of Russia from the beginning of the century till early 80s.",
+        "video": false
+    },
+    {
+        "id_tmdb": 32052,
+        "title": "Go Tell the Spartans",
+        "release_date": "1978-07-12",
+        "overview": "Go Tell the Spartans is a 1978 American war film based on Daniel Ford's 1967 novel \"Incident at Muc Wa.\" It tells the story about U.S. Army military advisers during the early part of the Vietnam War. Led my Major Asa Barker, these advisers and their South Vietnamese counterparts defend the village of Muc Wa against multiple attacks by Viet-Cong guerrillas.",
+        "poster_path": "/fUmid11VCcYixxEb2Odwy5dxe3J.jpg",
+        "backdrop_path": "/e4fqLZTVQHppCH7nij46OJtcAVo.jpg",
+        "production_companies": [
+            {
+                "name": "Mar Vista Productions",
+                "id": 12859
+            },
+            {
+                "name": "Spartan Film Partners",
+                "id": 53600
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 1500000,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077617",
+        "original_language": "en",
+        "popularity": 6.236,
+        "status": "Released",
+        "tagline": "We're getting strafed, shelled, bombed, and blasted. And it isn't even our damned war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 29582,
+        "title": "The Odd Angry Shot",
+        "release_date": "1979-03-01",
+        "overview": "A group of Australian SAS regiment soldiers are deployed to Vietnam around 1967/8 and encounter the realities of war, from the numbing boredom of camp life and long range patrols, raids and ambushes where nothing happens, to the the terror of enduring mortar barrages from an unseen enemy. Men die and are crippled in combat by firefights and booby traps, soldiers kill and capture the enemy, gather intelligence and retake ground only to cede it again whilst battling against the bureaucracy and obstinacy of the conventional military hierarchy. In the end they return to civilization, forever changed by their experiences but glad to return to the life they once knew.",
+        "poster_path": "/wG68xzrvOfyX9gOy1CoYHF3ezni.jpg",
+        "backdrop_path": "/8c9Qn0BIkv4ATYjllz6s8v1otzF.jpg",
+        "production_companies": [
+            {
+                "name": "New South Wales Film Corp.",
+                "id": 14590
+            },
+            {
+                "name": "Australian Film Commission",
+                "id": 417
+            },
+            {
+                "name": "Samson Productions Pty. Ltd.",
+                "id": 186006
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 600000,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079652",
+        "original_language": "en",
+        "popularity": 6.23,
+        "status": "Released",
+        "tagline": "In Vietnam, the name of the game is survival.",
+        "video": false
+    },
+    {
+        "id_tmdb": 39987,
+        "title": "Gestapo's Last Orgy",
+        "release_date": "1977-01-21",
+        "overview": "Lise Cohen is taken to a special prisoner-of-war camp for female Jews, a camp run as a bordello to entertain the German officers and troops going in to battle. The camp is run with an iron fist by Commandant Starker and his minion Alma. Starker becomes frustrated when Lise demonstrates no fear, and devises cruel experiments to scare her, to no avail. Once she realizes her guilt is unfounded, Lise begins to play Starker's game, but even though she begins living a better life, she doesn't forget the atrocities she has seen and experienced.",
+        "poster_path": "/4yf1iStuPuIti8oGiuWAMCPinb5.jpg",
+        "backdrop_path": "/y3j8r0UtQrqOL1jFHLSoYGP25HB.jpg",
+        "production_companies": [
+            {
+                "name": "Cine Lu.Ce.",
+                "id": 42120
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074569",
+        "original_language": "it",
+        "popularity": 6.195,
+        "status": "Released",
+        "tagline": "The Sickest Entry in the Nazisploitation Genre!",
+        "video": false
+    },
+    {
+        "id_tmdb": 39994,
+        "title": "Deported Women of the SS Special Section",
+        "release_date": "1976-11-23",
+        "overview": "Young women in Nazi-occupied countries are packed onto a train and shipped off to a prison camp, where the sadistic commandant uses them as rewards for his lesbian guards and perverted and deviate troops.",
+        "poster_path": "/umCGAugyGPpGo2i1qBiDe8apZ7t.jpg",
+        "backdrop_path": "/yvFXA1uJucj2SiLCaNP3PGW0SJw.jpg",
+        "production_companies": [
+            {
+                "name": "Nucleo Internazionale",
+                "id": 13123
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074395",
+        "original_language": "it",
+        "popularity": 5.908,
+        "status": "Released",
+        "tagline": "Each Day Is A Living Hell For These Helpless Captives!",
+        "video": false
+    },
+    {
+        "id_tmdb": 72882,
+        "title": "Operation: Daybreak",
+        "release_date": "1975-11-01",
+        "overview": "Czechoslovakia, 1942. Three brave Czech patriots risk everything to rid their country of its brutal Nazi leader, SS-General Reinhard Heydrich.",
+        "poster_path": "/rqO9bdpuv35G6f3mHESPvwwB99U.jpg",
+        "backdrop_path": "/hXcqvxLo1e8CMufIntHxrAw7KQH.jpg",
+        "production_companies": [
+            {
+                "name": "Vista",
+                "id": 14686
+            },
+            {
+                "name": "Howard R. Schuster",
+                "id": 94028
+            },
+            {
+                "name": "American Allied Pictures",
+                "id": 94029
+            },
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075019",
+        "original_language": "en",
+        "popularity": 5.695,
+        "status": "Released",
+        "tagline": "It was a hit and run operation with no place to run",
+        "video": false
+    },
+    {
+        "id_tmdb": 62001,
+        "title": "Cuba",
+        "release_date": "1979-12-21",
+        "overview": "A British mercenary arrives in pre-Revolution Cuba to help train the corrupt General Batista's army against Castro's guerrillas while he also romances a former lover now married to an unscrupulous plantation owner.",
+        "poster_path": "/1mAemPkRF6IwUkEehwqTJVEPmq6.jpg",
+        "backdrop_path": "/ua6Z7Wa70lSqvyTNcHXd9suPuQO.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.49,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079013",
+        "original_language": "en",
+        "popularity": 5.587,
+        "status": "Released",
+        "tagline": "Part Heaven... Part Hell... Pure Havana.",
+        "video": false
+    },
+    {
+        "id_tmdb": 77660,
+        "title": "The Fifth Seal",
+        "release_date": "1976-10-07",
+        "overview": "In 1944 Budapest, one of a group of four friends poses a hypothetical moral question to the others, an act that will unexpectedly alter their lives forever.",
+        "poster_path": "/sXF5QK4pB1Nqklqq1zxQUaNC522.jpg",
+        "backdrop_path": "/6Y2H39ntwoOROwpmecWpkcGp8qt.jpg",
+        "production_companies": [
+            {
+                "name": "Mafilm",
+                "id": 8100
+            },
+            {
+                "name": "Budapest Filmstúdió",
+                "id": 18464
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075467",
+        "original_language": "hu",
+        "popularity": 5.499,
+        "status": "Released",
+        "tagline": "Let Both The Guilty and the Innocent Live In Fear",
+        "video": false
+    },
+    {
+        "id_tmdb": 76482,
+        "title": "Let Joy Reign Supreme",
+        "release_date": "1975-03-23",
+        "overview": "A look at 18th-century France, when the authorities depravity contributed to social oppression, and the uprisings flared up one after another.",
+        "poster_path": "/vHYPUARGQTlGxzUGxThQS23HqVS.jpg",
+        "backdrop_path": "/zWirklNGr8T8o47F0LMaYH4LDEn.jpg",
+        "production_companies": [
+            {
+                "name": "Fildebroc",
+                "id": 1405
+            },
+            {
+                "name": "Les Productions de la Guéville",
+                "id": 17873
+            },
+            {
+                "name": "Universal Pictures France",
+                "id": 1546
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "br",
+                "name": ""
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.267,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072053",
+        "original_language": "fr",
+        "popularity": 5.296,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 432881,
+        "title": "Heroes of the Underground",
+        "release_date": "1976-01-27",
+        "overview": "Besides martial arts, Bruce Lee's contribution to Chinese society was instilling a strong sense of nationalism. After his death, anti-Japanese films found new breathe especially in Taiwan. Based on a King Hu’s script, Heroes Of The Underground tapped into Lee's nationalistic fervor and the Confucian ethic of country above family and starred the popular Ching Li as a World War II, Chinese secret agent planted into the Japanese Headquarters at Changsha. Tears flow in the name of country pride.",
+        "poster_path": "/lru9J8glSKlTYkVGxctTvXQKQ1M.jpg",
+        "backdrop_path": "/16l68zjO6snyBwDFM2NCeyuJ2zG.jpg",
+        "production_companies": [
+            {
+                "name": "Shaw Brothers",
+                "id": 5798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1479215",
+        "original_language": "zh",
+        "popularity": 5.162,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 39419,
+        "title": "Shout at the Devil",
+        "release_date": "1976-04-12",
+        "overview": "During World War One an English adventurer, an American elephant poacher and the latter's attractive young daughter, set out to destroy a German battle-cruiser which is awaiting repairs in an inlet just off Zanzibar.  The story is based on a novel by Wilbur Smith, which in turn is very loosely based on events involving the light cruiser SMS Königsberg, which was sunk after taking refuge in Rufigi delta in 1915.",
+        "poster_path": "/1b3E45shfLbipuRc2lXrqSkkrn7.jpg",
+        "backdrop_path": "/4sE3w9fp6iapU9AcgDlRmWpfFtC.jpg",
+        "production_companies": [
+            {
+                "name": "Tonav Productions",
+                "id": 13915
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075214",
+        "original_language": "en",
+        "popularity": 5.093,
+        "status": "Released",
+        "tagline": "A spectacular adventure you will always remember and a beautiful love story you will never forget.",
+        "video": false
+    },
+    {
+        "id_tmdb": 55343,
+        "title": "Overlord",
+        "release_date": "1975-07-01",
+        "overview": "During World War II, a young man is called up and, with an increasing sense of foreboding, undertakes his army training ready for D-Day, June 6th, 1944.",
+        "poster_path": "/9nfmjRxeJmZjnEn62j5esLwsVK3.jpg",
+        "backdrop_path": "/8ejC2EQpMxAAOFHzrEZ4ZpoOuPx.jpg",
+        "production_companies": [
+            {
+                "name": "Joswend",
+                "id": 77733
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.788,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073502",
+        "original_language": "en",
+        "popularity": 5.066,
+        "status": "Released",
+        "tagline": "Code name, D-Day, June 6th 1944",
+        "video": false
+    },
+    {
+        "id_tmdb": 235191,
+        "title": "Eight Hundred Heroes",
+        "release_date": "1975-07-10",
+        "overview": "As battle rages in Shanghai, a single battalion of soldiers led by Xie Jinyuan is ordered to hold back the Japanese forces at the Sihang warehouse. Girl scouts risk their lives to deliver food and medicine to the defenders.",
+        "poster_path": "/wRAqeFx3stubC3s8j62NSMSaiQ3.jpg",
+        "backdrop_path": "/AnpMNBnCdRjuBxf6tKo78Sul9Nj.jpg",
+        "production_companies": [
+            {
+                "name": "Central Motion Picture Corporation",
+                "id": 25345
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075713",
+        "original_language": "zh",
+        "popularity": 4.671,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40363,
+        "title": "Women's Camp 119",
+        "release_date": "1977-03-18",
+        "overview": "A prisoner is forced to serve as a doctor's assistant, giving her a front row seat for the horrible goings-on. There's the experiment to revive Nazi soldiers who have frozen to death by having nude women rub their bodies all over the corpse (that one works), and the experiment tries to \"cure\" homosexual men by having nude women dance for them. This is only some of the horrors that are going on there.",
+        "poster_path": "/vzKt8qSmPrTUHmyvZOi7R4klu2b.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Three Stars 76",
+                "id": 83618
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074729",
+        "original_language": "it",
+        "popularity": 4.658,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 27521,
+        "title": "The Boys in Company C",
+        "release_date": "1978-02-02",
+        "overview": "Disheartened by futile combat, appalled by the corruption of their South Vietnamese ally, and constantly endangered by the incompetence of their own company commander, the young men find a possible way out of the war. They are told that if they purposely lose a soccer game against a South Vietnamese team, they can spend the rest of their tour playing exhibition games behind the lines.",
+        "poster_path": "/5lSw1t4dggmPDCNzfi8Wi5TjyR7.jpg",
+        "backdrop_path": "/sYth2pq1mpyeCMArt4xnHqapmHV.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            },
+            {
+                "name": "Good Times Films S.A.",
+                "id": 40159
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077270",
+        "original_language": "en",
+        "popularity": 4.599,
+        "status": "Released",
+        "tagline": "To keep their sanity in an insane war, they had to be crazy.",
+        "video": false
+    },
+    {
+        "id_tmdb": 689,
+        "title": "The Travelling Players",
+        "release_date": "1975-07-01",
+        "overview": "This expansive Greek drama follows a troupe of theater actors as they perform around their country during World War II. While the production that they put on is entitled \"Golfo the Shepherdess,\" the thespians end up echoing scenes from classic Greek tales in their own lives, as Elektra plots revenge on her mother for the death of her father, and seeks help from her brother, Orestes, a young anti-fascist rebel.",
+        "poster_path": "/o7e7bhYVYVJGCnxRqcvnYBeQ5dZ.jpg",
+        "backdrop_path": "/rlUNDYAjvr1zfAXesT3ScxfBXLc.jpg",
+        "production_companies": [
+            {
+                "name": "Giorgos Papalios Productions",
+                "id": 405
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.401,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073800",
+        "original_language": "el",
+        "popularity": 4.594,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 197489,
+        "title": "The Four Feathers",
+        "release_date": "1978-01-01",
+        "overview": "The fifth filming of the adventure classic about a British soldier in the 1880s who fights to regain his honor after being given four white feathers, symbols of cowardice.",
+        "poster_path": "/qd7vyd3pGQ4UXMhKEHODkM5Zq9e.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Norman Rosemont Productions",
+                "id": 1585
+            },
+            {
+                "name": "Trident Films Ltd.",
+                "id": 16385
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076047",
+        "original_language": "en",
+        "popularity": 4.564,
+        "status": "Released",
+        "tagline": "They made him a hero by branding him a coward . . . the story of a man who conquered fear.",
+        "video": false
+    },
+    {
+        "id_tmdb": 86727,
+        "title": "Drummer-Crab",
+        "release_date": "1977-11-09",
+        "overview": "\"Le Crabe Tambour\" (\"Drummer Crab\") is the nickname for the mysterious central character, Willsdorff (Jacques Perrin), an Alsatian, whose doomed, out-of-date career is recalled through the tales of three naval officers currently serving aboard a French supply ship in the North Atlantic.",
+        "poster_path": "/2ZVXzC749OScK1pBtlhW0wcIN3h.jpg",
+        "backdrop_path": "/3VzxvTZnwcNPgQBwMYjmm8ODYoD.jpg",
+        "production_companies": [
+            {
+                "name": "AMLF",
+                "id": 1869
+            },
+            {
+                "name": "Bela Productions",
+                "id": 1112
+            },
+            {
+                "name": "Lira Films",
+                "id": 10522
+            },
+            {
+                "name": "Renn Productions",
+                "id": 82
+            },
+            {
+                "name": "TF1",
+                "id": 22123
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.579,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075885",
+        "original_language": "fr",
+        "popularity": 4.56,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 65194,
+        "title": "7-Man Army",
+        "release_date": "1976-04-16",
+        "overview": "In 1933, 20,000 Japanese soldiers and 50 tanks invaded the Pa Tou Lou Tzu, a strategic key point of the Great Wall. With only seven men stationing, these heroes took on the entire army for five days before succumbing. Director Chang Cheh recreated this epic battle with his favorite cast including Ti Lung, David Chiang, Alexander Fu Sheng and Chen Kuan-tai, as a celluloid tribute to these nameless souls.",
+        "poster_path": "/14m34nSW25YuIj1vKDghBGMm3Fi.jpg",
+        "backdrop_path": "/tkQATGoC1JhFAOTUN2QpFmFOCPB.jpg",
+        "production_companies": [
+            {
+                "name": "Chang's Film Company",
+                "id": 8326
+            },
+            {
+                "name": "Shaw Brothers",
+                "id": 5798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074170",
+        "original_language": "zh",
+        "popularity": 4.557,
+        "status": "Released",
+        "tagline": "When the big seven join forces to save their place… Action explodes all over the place.",
+        "video": false
+    },
+    {
+        "id_tmdb": 141752,
+        "title": "Rogue Male",
+        "release_date": "1976-09-22",
+        "overview": "In 1939, Sir Robert Thorndyke takes aim at Adolf Hitler with a high powered rifle, but the shot misses its mark. Captured and tortured by the Gestapo and left for dead, Sir Robert makes his way back to England where he discovers the Gestapo has followed him. Knowing that his government would turn him over to German authorities, Sir Robert goes underground in his battle with his pursuers.",
+        "poster_path": "/2SizHGYx1fdiBh0D4MUBcE7JNhZ.jpg",
+        "backdrop_path": "/xZG7Di3MB8vRjP1gcWCVJ3p9O6O.jpg",
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075151",
+        "original_language": "en",
+        "popularity": 4.501,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 50849,
+        "title": "The Biggest Battle",
+        "release_date": "1978-02-07",
+        "overview": "A story of how World War II affected the lives of a German family and an American family, both of whom had sons and fathers fighting in the war.",
+        "poster_path": "/oUnZj3II0ZKidH8ihA2OZBbXEUW.jpg",
+        "backdrop_path": "/nFlNVD6tNe9lyEsKeRWc2DMA4q5.jpg",
+        "production_companies": [
+            {
+                "name": "National Cinematografica",
+                "id": 2185
+            },
+            {
+                "name": "Dania Film",
+                "id": 1701
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076102",
+        "original_language": "it",
+        "popularity": 4.351,
+        "status": "Released",
+        "tagline": "The most awesome battle ever seen!",
+        "video": false
+    },
+    {
+        "id_tmdb": 116490,
+        "title": "Lionman",
+        "release_date": "1975-01-01",
+        "overview": "When the king is murdered, his baby son and heir is hidden in the forest where he is abducted and raised by a pride of lions. As an adult he uses his beastly strength and claw-like hands to take revenge against the new king and his armies.",
+        "poster_path": "/n9wAPNT2kSNrerlCfDbmGtZN4OL.jpg",
+        "backdrop_path": "/tTvui2ciChwldorAgIEpnCIYVhL.jpg",
+        "production_companies": [
+            {
+                "name": "Uğur Film",
+                "id": 14418
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TR",
+                "name": "Turkey"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0181966",
+        "original_language": "tr",
+        "popularity": 4.314,
+        "status": "Released",
+        "tagline": "Blood and guts action - from start to finish.",
+        "video": false
+    },
+    {
+        "id_tmdb": 260558,
+        "title": "Liebes Lager",
+        "release_date": "1976-12-24",
+        "overview": "The story follows the prisoners of a concentration camp that the SS have turned into a brothel.",
+        "poster_path": "/mnfwkKMHvhEa5k07XVFxRYbOsOC.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Salaria Film",
+                "id": 12771
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0125832",
+        "original_language": "it",
+        "popularity": 4.288,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 311004,
+        "title": "The Liberation of Prague",
+        "release_date": "1977-05-06",
+        "overview": "On 20th of April 1945 the Soviet army launches its attack on Berlin. The end has come for Nazi Germany and Hitler decides to commit suicide. In Prague K.H. Frank (Nazi Secretary of State and Chief of police in the Protectorate of Bohemia a Moravia) discusses with his commanders how to transform the city into an impregnable fortress, but the Praguers do not intend to wait any longer. From the early hours of 4th of May people start assembling in the streets and tearing down German signs. On the next day, the 5th of May, the uprising begins.",
+        "poster_path": "/2HWemMZR3WXDjpVDPQ8HoTMCsWv.jpg",
+        "backdrop_path": "/bAfcVT97pcIhp03Vj4nVemtdLP6.jpg",
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "sk",
+                "name": "Slovenčina"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 311005,
+            "name": "Válečná trilogie"
+        },
+        "homepage": "",
+        "imdb_id": "tt0138683",
+        "original_language": "cs",
+        "popularity": 4.249,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 294357,
+        "title": "The Seekers",
+        "release_date": "1979-12-03",
+        "overview": "This follow-up to \"The Bastard\" and \"The Rebels\" continues the account of Philip Kent's life and career from his emigration to colonial Massachusetts through the American Revolutionary War and concludes the family saga with the story of his two sons and their children as they arrive in the unexplored Northwest Territory. (Episodes 5 and 6 of the Kent Chronicles miniseries.)",
+        "poster_path": "/gtSEOoiExrPv1yU7ibF41Wyk8c6.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Universal Television",
+                "id": 26727
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 653308,
+            "name": "The Kent Chronicles"
+        },
+        "homepage": "",
+        "imdb_id": "tt0079877",
+        "original_language": "en",
+        "popularity": 4.108,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 52546,
+        "title": "The Medic",
+        "release_date": "1979-10-26",
+        "overview": "The film is set in a modern war, probably between a European country and a country in the Far East. Behind the battle lines, in a medical unit, a surgeon falls in love with an idealistic nurse after an initially difficult meeting.",
+        "poster_path": "/ckwDXjegC3rXioF3IQuWjZT8r63.jpg",
+        "backdrop_path": "/7OFURwycNmiN8AmrHQfPuCqo9Hu.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films 21",
+                "id": 1113
+            },
+            {
+                "name": "Adel Productions",
+                "id": 1713
+            },
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.382,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080038",
+        "original_language": "fr",
+        "popularity": 4.082,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 91878,
+        "title": "SS Camp 5: Women's Hell",
+        "release_date": "1977-01-11",
+        "overview": "During the last days of WW2, several female prisoners arrive at Camp 5 to work as sex slaves for officers and guinea pigs for horrific experiments by Nazi doctors who are trying to find a cure for burns. But these women are not going to die without a fight... Can they stay alive until the closing Red army comes to their rescue?",
+        "poster_path": "/fagxBXSndb0oJ9negDdKrXTHdsV.jpg",
+        "backdrop_path": "/ocBtuIqiBqUtYdBK28maguSuiIC.jpg",
+        "production_companies": [
+            {
+                "name": "Società Europea Films Internazionali Cinematografica (SEFI)",
+                "id": 43458
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0147310",
+        "original_language": "it",
+        "popularity": 3.954,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 136224,
+        "title": "Zero Fighter",
+        "release_date": "1976-10-02",
+        "overview": "",
+        "poster_path": "/7jN5u4EclFdXNrtFyZf71ZFIFzb.jpg",
+        "backdrop_path": "/4HIfD1TtCCoJnbE2UFhlzcZk6FL.jpg",
+        "production_companies": [
+            {
+                "name": "Toho Pictures",
+                "id": 49301
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074370",
+        "original_language": "ja",
+        "popularity": 3.953,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 441203,
+        "title": "I Want to See You",
+        "release_date": "1978-05-04",
+        "overview": "Film by Veiczi.",
+        "poster_path": "/7r2a1lRqFMs8c5LhpVSehN2XnUL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sovinfilm",
+                "id": 32054
+            },
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            },
+            {
+                "name": "DEFA",
+                "id": 602
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077718",
+        "original_language": "de",
+        "popularity": 3.847,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 72614,
+        "title": "One-Two, Soldiers Were Going...",
+        "release_date": "1976-06-06",
+        "overview": "The families of 18 soldiers who heroically died in 1944 are meeting at the place of the squad last battle.",
+        "poster_path": "/6tvemOWjhLhyTBNJ36I46pvWnhq.jpg",
+        "backdrop_path": "/cTgk7W9ry1gxyghXAbDe3Ahzr7g.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074161",
+        "original_language": "ru",
+        "popularity": 3.833,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 142975,
+        "title": "The Rebels",
+        "release_date": "1979-05-14",
+        "overview": "This sequel to \"The Bastard\" continues the saga of Philip Kent, the illegitimate son of an English nobleman, who has renounced his patrician birthright to become a Colonial soldier fighting for America's independence, befriending a Southern aristocrat and his earthy buddy to help thwart a plot to assassinate George Washington. (Episodes 3 and 4 of the Kent Chronicles miniseries.)",
+        "poster_path": "/o4Id1vUEcG3lkX4NG6EYNNaMHNS.jpg",
+        "backdrop_path": "/x7cSiyRQbEhAA6THWbV6dVtuzef.jpg",
+        "production_companies": [
+            {
+                "name": "Operation Prime Time (OPT)",
+                "id": 35524
+            },
+            {
+                "name": "Universal Television",
+                "id": 26727
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 653308,
+            "name": "The Kent Chronicles"
+        },
+        "homepage": "",
+        "imdb_id": "tt0079783",
+        "original_language": "en",
+        "popularity": 3.819,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 133008,
+        "title": "Twenty Days Without War",
+        "release_date": "1976-11-08",
+        "overview": "War correspondent Lopatin takes a 20-day-leave from his hard work at the front in 1942. He travels to faraway Tashkent to meet the family of the killed soldier and visit the film set of the screen adaptation of his war-time stories. Lopatin also manages to walk the streets of Tashkent, take part in a factory workers' meeting and have a short-lived love affair. Although with no bombings and fighting, the city dwellers breathe the atmosphere of the ongoing war.",
+        "poster_path": "/fIIZcKdKkOy8htqAtVLagPORJSv.jpg",
+        "backdrop_path": "/vAZ0qlpHUotnPThBbmnjRRRxpM2.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074447",
+        "original_language": "ru",
+        "popularity": 3.634,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 290731,
+        "title": "The Bastard",
+        "release_date": "1978-05-22",
+        "overview": "Phillipe Charboneau is the illegitimate son of an English duke. When he travels from France to England to claim his inheritance, he incurs the wrath of his father's family and is forced to flee to America, where he becomes involved in the events leading to the American Revolution. (Episodes 1 and 2 of the Kent Chronicles miniseries.)",
+        "poster_path": "/aIsswCprIKl6XKLtrIZ9Cb0cMip.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Universal Television",
+                "id": 26727
+            },
+            {
+                "name": "Operation Prime Time (OPT)",
+                "id": 35524
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 653308,
+            "name": "The Kent Chronicles"
+        },
+        "homepage": "",
+        "imdb_id": "tt0077212",
+        "original_language": "en",
+        "popularity": 3.538,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 98372,
+        "title": "The Red Nights of the Gestapo",
+        "release_date": "1977-03-31",
+        "overview": "An illustrious group of German industrialists plot to overthrow Hitler by negotiating a peace treaty with England. Disgraced, but dedicated Nazi officer Colonel Werner von Uhland is assigned by his superiors to ferret out these deceitful dissidents and stop them before it's too late. von Uhland recruits a bunch of beautiful women to seduce these traitors and undermine their conspiracy",
+        "poster_path": "/gyU0l3eqztOAKvbSDfhA1O2ZSs5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Eurogroup Film Distributors of Italy",
+                "id": 83474
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076337",
+        "original_language": "it",
+        "popularity": 3.515,
+        "status": "Released",
+        "tagline": "They Created the Most Depraved Society the World Has Ever Known!",
+        "video": false
+    },
+    {
+        "id_tmdb": 42238,
+        "title": "Black and White in Color",
+        "release_date": "1976-09-22",
+        "overview": "French colonists in Africa, several months behind in the news, find themselves at war with their German neighbors. Deciding that they must do their proper duty and fight the Germans, they promptly conscript the local native population. Issuing them boots and rifles, the French attempt to make \"proper\" soldiers out of the Africans. A young, idealistic French geographer seems to be the only rational person in the town, and he takes over control of the \"war\" after several bungles on the part of the others.",
+        "poster_path": "/8G86Ow4Qcm7FEcHsJoR3pFIBCaj.jpg",
+        "backdrop_path": "/jldqANKBNQyomhcBXLLIMsNzXtt.jpg",
+        "production_companies": [
+            {
+                "name": "Reggane Films",
+                "id": 2399
+            },
+            {
+                "name": "Artco-Film",
+                "id": 10636
+            },
+            {
+                "name": "France 3 Cinéma",
+                "id": 591
+            },
+            {
+                "name": "Allied Artists",
+                "id": 517
+            },
+            {
+                "name": "Les Films S.F.P.",
+                "id": 74234
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CI",
+                "name": "Cote D'Ivoire"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074972",
+        "original_language": "fr",
+        "popularity": 3.515,
+        "status": "Released",
+        "tagline": "The picture that marches to a different drummer",
+        "video": false
+    },
+    {
+        "id_tmdb": 40939,
+        "title": "Alexandria… Why?",
+        "release_date": "1979-08-23",
+        "overview": "Amid the poverty, death, and suffering caused by World War II, 18-year-old Yehia retreats into a private world of fantasy and longing. Obsessed with Hollywood, he dreams of studying filmmaking in America but struggles to pursue his dream, given the constraints of his life in the middle class and the horrors of war.",
+        "poster_path": "/k68nAl2BJpX9405UCqs4Xhw2S7n.jpg",
+        "backdrop_path": "/2f9NZUDifPRbGO9NsOed7oQ1tPQ.jpg",
+        "production_companies": [
+            {
+                "name": "MISR International Films",
+                "id": 11574
+            },
+            {
+                "name": "Algerian Television",
+                "id": 17226
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            },
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 716025,
+            "name": "Alexandria Quad"
+        },
+        "homepage": "",
+        "imdb_id": "tt0077751",
+        "original_language": "ar",
+        "popularity": 3.441,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 86248,
+        "title": "From Hell to Victory",
+        "release_date": "1979-03-15",
+        "overview": "In 1939, at a Paris café, six friends of various nationalities vow to meet again at the same spot after the end of WW2.",
+        "poster_path": "/lpjMi7f0OEDYjuengFX58dBfTJA.jpg",
+        "backdrop_path": "/7MhjNVMGZ9c8vMOPVyL62esIOld.jpg",
+        "production_companies": [
+            {
+                "name": "José Frade",
+                "id": 5104
+            },
+            {
+                "name": "Les Films Princesse",
+                "id": 81461
+            },
+            {
+                "name": "New Film Production",
+                "id": 41789
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079019",
+        "original_language": "it",
+        "popularity": 3.363,
+        "status": "Released",
+        "tagline": "Friends, lovers and then the war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 47956,
+        "title": "The Norseman",
+        "release_date": "1978-10-05",
+        "overview": "An 11th-century Viking prince sails to America to find his father, who on a previous voyage had been captured by Indians.",
+        "poster_path": "/6HYfKo31DDMspffTbt1mPBjJFsZ.jpg",
+        "backdrop_path": "/nMpXwhWHiL92kcOL54EYNGi7MD5.jpg",
+        "production_companies": [
+            {
+                "name": "Charles B. Pierce Film Productions",
+                "id": 11468
+            },
+            {
+                "name": "Fawcett-Majors Productions",
+                "id": 21290
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078007",
+        "original_language": "en",
+        "popularity": 3.36,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 237199,
+        "title": "Our Lady of Guadalupe",
+        "release_date": "1976-10-13",
+        "overview": "",
+        "poster_path": "/kZlBLQnAacQvdqiftzdjvlItFta.jpg",
+        "backdrop_path": "/COnw1w7luQWvHQASvf4rwNkwve.jpg",
+        "production_companies": [
+            {
+                "name": "Cinematográfica Calderón S.A.",
+                "id": 11977
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0187584",
+        "original_language": "es",
+        "popularity": 3.067,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 169916,
+        "title": "Battle Cry",
+        "release_date": "1975-03-14",
+        "overview": "During the military phase of the Meiji Restoration of 1868, Sentaro joins a local militia loyal to the Tokugawa Shogunate in order to fight Imperial troops. But Sentaro's friendship with a pickpocket, who switches sides whenever it suits his needs, leads to complications that could cost Sentaro his life as they infiltrate enemy lines.",
+        "poster_path": "/2ldEC0DN3WqJJpvKkIwKwvdXWuO.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Art Theatre Guild",
+                "id": 9181
+            },
+            {
+                "name": "Kihachi Productions",
+                "id": 13248
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0164937",
+        "original_language": "ja",
+        "popularity": 3.06,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 64379,
+        "title": "The Boys",
+        "release_date": "1978-10-25",
+        "overview": "A story about the boys and their life during the WWII. Based on Lev Kassil book.",
+        "poster_path": "/8ismgAwUa4f7Wa2csYtOJsS3lI0.jpg",
+        "backdrop_path": "/eihiUKY5yq8KYHQbyuI9IDa5FIO.jpg",
+        "production_companies": [
+            {
+                "name": "Ekran",
+                "id": 6608
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1882104",
+        "original_language": "ru",
+        "popularity": 3.008,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 89665,
+        "title": "80 Hussars",
+        "release_date": "1978-09-13",
+        "overview": "The film tells the story of a regiment of Hungarian hussars stationed in Poland. The hussars, mostly ordinary men, have heard news of the uprising and wish to return to the homeland to defend the newly independent country. The Empire, on the other hand, is firmly resolved that all Hungarian troops in the imperial army should be kept as far away from the trouble spot as possible, knowing that most soldiers would be loyal to Budapest rather than Vienna.",
+        "poster_path": "/d4aBr2ygMM4JMCoV9nfh3hhbCF0.jpg",
+        "backdrop_path": "/9LUTX001RfBjfYia0MwAl6oMrsW.jpg",
+        "production_companies": [
+            {
+                "name": "Hungarofilm",
+                "id": 7014
+            },
+            {
+                "name": "Objektív Film",
+                "id": 55540
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077115",
+        "original_language": "hu",
+        "popularity": 2.993,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531455,
+        "title": "The Siege: Leningrad Metronome",
+        "release_date": "1977-12-01",
+        "overview": "A story about the tragic events in the life of besieged Leningrad from September 1941 to January 1943.",
+        "poster_path": "/saZkojRB0QuEvKnHSWCwvT9Wi91.jpg",
+        "backdrop_path": "/1aip5FmZF4DO6Q4HUKS0nfwSBvs.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 811989,
+            "name": "The Siege of Leningrad"
+        },
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "ru",
+        "popularity": 2.989,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 440420,
+        "title": "A War Diary",
+        "release_date": "1978-01-21",
+        "overview": "Admiral Lee Sun-shin designs and builds the 'Turtle Ships' in preparation of the Japanese invasion during the Injin War. He is promoted after his victories, but due to his expanding influence and increased popularity in military circles, the king comes to fear him and has him imprisoned. A year later, the Japanese navy attempts another invasion and the king is required to enter the prison and beg the admiral's assistance.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Hanjin Enterprises Company",
+                "id": 42579
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0352616",
+        "original_language": "ko",
+        "popularity": 2.961,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 531278,
+        "title": "Long Miles of War",
+        "release_date": "1976-05-04",
+        "overview": "",
+        "poster_path": "/5XkHoVMmnjX9ggomndtEXslDEz0.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0325272",
+        "original_language": "ru",
+        "popularity": 2.913,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 129716,
+        "title": "Destiny",
+        "release_date": "1977-10-27",
+        "overview": "A war comes to the life of the heroes of \"Earthy Love\" (1975).",
+        "poster_path": "/4asblVfAhLZm9t8mD7VWmzkTHDS.jpg",
+        "backdrop_path": "/tueWIk4lKuhyjkpRmpjuiu6n7ah.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 143017,
+            "name": "Любовь земная (дилогия)"
+        },
+        "homepage": "",
+        "imdb_id": "tt0076778",
+        "original_language": "ru",
+        "popularity": 2.872,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 46209,
+        "title": "Boško Buha",
+        "release_date": "1978-11-17",
+        "overview": "The movie is based on the true story about a group of children, barely teenagers, who joined Yugoslav Partizans after losing their families in WW2. At first, Partizans want to get rid of them, but later they are joining combat ranks. Among them, Bosko Buha would become a legend because of his skill in destroying enemy bunkers.",
+        "poster_path": "/lTUfu5No1uplSqamXMwFSIA4jhj.jpg",
+        "backdrop_path": "/e1XE8pdb0F2yHpTmy6lvEB2EzDi.jpg",
+        "production_companies": [
+            {
+                "name": "Centar film",
+                "id": 15165
+            },
+            {
+                "name": "Croatia Film",
+                "id": 16785
+            },
+            {
+                "name": "Kinema Sarajevo",
+                "id": 44449
+            },
+            {
+                "name": "Zeta Film",
+                "id": 11230
+            },
+            {
+                "name": "Viba film",
+                "id": 4300
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078897",
+        "original_language": "sh",
+        "popularity": 2.864,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 221711,
+        "title": "The Long Vacations of '36",
+        "release_date": "1976-10-28",
+        "overview": "Spain, 1936. The Civil War breaks out. In a village near Barcelona, several families decide to continue living in their summer houses until the violence ends.",
+        "poster_path": "/d5U2KVc7QxOFzhoy2cha2htlBnu.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "José Frade",
+                "id": 5104
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ca",
+                "name": "Català"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074774",
+        "original_language": "es",
+        "popularity": 2.833,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 388424,
+        "title": "Heavy Water",
+        "release_date": "1979-06-30",
+        "overview": "The film tells about the difficult and dangerous everyday life of submarine officers in love with their profession during the Cold War.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4971476",
+        "original_language": "ru",
+        "popularity": 2.728,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 167854,
+        "title": "Stormtroopers",
+        "release_date": "1976-12-20",
+        "overview": "A handful of recruits prepares for a war that nobody knows about the purpose or the motive. The field commander is a general who plays with a Marx puppet and lives in a luxurious palace that looks like a cabin from the outside. His orderlies are a captain who lives in Arabic dress in a curtain and a sergeant in training who does not shine for intelligence. Continuing training between various and grotesque accidents until the order arrives for the front. And then?",
+        "poster_path": "/uBfA2dSY0krpxCRiOx2QkeT4Jid.jpg",
+        "backdrop_path": "/k44HdYX6mFPIENxF7m5ZZdMhdXJ.jpg",
+        "production_companies": [
+            {
+                "name": "Irrigazione Cinematografica",
+                "id": 6387
+            },
+            {
+                "name": "Les Films Jacques Leitienne",
+                "id": 1639
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.458,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1117758,
+            "name": "Sturmtruppen - Collezione"
+        },
+        "homepage": "",
+        "imdb_id": "tt0076777",
+        "original_language": "it",
+        "popularity": 2.726,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 64267,
+        "title": "Return of the 18 Bronzemen",
+        "release_date": "1976-08-14",
+        "overview": "Despite the national resistance, the Manchurians have taken over China, but the Ching Emperor fears that the Shaolin Temple disciples would overthrow the dynasty. So he disguises himself as a disciple, in order to become a kung fu master and control the Shaolin monks. But according to custom, he must pass the test of the legendary 18 Bronzemen before he can leave the Temple.",
+        "poster_path": "/lb0SurPQqNbzW7HaCYYcCBTzzW8.jpg",
+        "backdrop_path": "/fLhCRraAfnA4lxqJNioCn8vvDsR.jpg",
+        "production_companies": [
+            {
+                "name": "Hong Hwa International Films (H.K.) Ltd.",
+                "id": 39114
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 473728,
+            "name": "Bronzemen Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0073622",
+        "original_language": "zh",
+        "popularity": 2.713,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 839038,
+        "title": "The Last Game",
+        "release_date": "1979-11-03",
+        "overview": "After the war-time government orders the disbanding of the Big-Six baseball league, the teams of Waseda and Keio universities play one final game before they are drafted into the armed forces and face the hardships of military service.",
+        "poster_path": "/4iPhZLLUpmOEeqt1984CE0FqVB0.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Tokyo Channel 12 Television",
+                "id": 73203
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0203475",
+        "original_language": "ja",
+        "popularity": 2.687,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 291341,
+        "title": "Poem of Kovpak: Carpathians, Carpathians...",
+        "release_date": "1978-02-13",
+        "overview": "A third of a series of movies about Kovpak - the partisans chief during WWII.",
+        "poster_path": "/1uGvrVF9tZbXumdHmEqbmcpb6QU.jpg",
+        "backdrop_path": "/dvWVRGEBZ62PCkU7czE8uLbggJd.jpg",
+        "production_companies": [
+            {
+                "name": "Dovzhenko Film Studios",
+                "id": 4581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 291350,
+            "name": "Poem of Kovpak Trilogy"
+        },
+        "homepage": "",
+        "imdb_id": "tt0074446",
+        "original_language": "ru",
+        "popularity": 2.677,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 52555,
+        "title": "Chronicle of the Years of Fire",
+        "release_date": "1975-11-26",
+        "overview": "A meticulous chronicle of the evolution of the Algerian national movement from 1939 until the outbreak of the revolution on November 1, 1954, the film unequivocally demonstrates that the \"Algerian War\" is not an accident of history, but a slow process of suffering and warlike revolts, uninterrupted, from the start of colonization in 1830, until this \"Red All Saints' Day\" of November 1, 1954. At its center, Ahmed gradually awakens to political awareness against colonization, under the gaze of his son, a symbol of the new Algeria, and that of Miloud, half-mad haranguer, half-prophet, incarnation of Popular memory of the revolt, the liberation of Algeria and its people.",
+        "poster_path": "/e4yibkwpcwLhNalcBcxiTsm8fpp.jpg",
+        "backdrop_path": "/dD1jsHtXb7kx8QMOFgEUEIbMR6d.jpg",
+        "production_companies": [
+            {
+                "name": "O.N.C.I.C.",
+                "id": 1640
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.festival-cannes.com/f/chronique-des-annees-de-braise/",
+        "imdb_id": "tt0072782",
+        "original_language": "ar",
+        "popularity": 2.656,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1049725,
+        "title": "Furious Tides on the Fishing Island",
+        "release_date": "1977-01-01",
+        "overview": "The People's Liberation Army and the Nationalists battle over Longwang Island in 1947.",
+        "poster_path": "/erB4Cq6hqcNMKTeBMydfT8KwnvX.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Xi'an Film Studio",
+                "id": 4582
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0355047",
+        "original_language": "zh",
+        "popularity": 2.654,
+        "status": "Released",
+        "tagline": "The People's Liberation Army and the Nationalists battle over Longwang Island in 1947.",
+        "video": false
+    },
+    {
+        "id_tmdb": 533518,
+        "title": "The Fortress",
+        "release_date": "1979-02-05",
+        "overview": "A group of Soviet paratroopers are engaged in a secret operation in Adriatic sea during the last year of WWII.",
+        "poster_path": "/8H1zlgU7mYJhRzk4iJtF3ftqrGx.jpg",
+        "backdrop_path": "/tXNCuhcvKz3LZjnzF6x9fKTZjgO.jpg",
+        "production_companies": [
+            {
+                "name": "Moldova Film",
+                "id": 13888
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0425176",
+        "original_language": "ru",
+        "popularity": 2.646,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73318,
+        "title": "The End of the Emperor of the Taiga",
+        "release_date": "1978-06-06",
+        "overview": "The film plays one of a little-known pages of the biography of Arkady Gaidar, the young man when he was appointed commander of the detachment CHON (special-purpose parts)...",
+        "poster_path": "/e6B8WJaV7Vs6bpw8SVbM6xhcaxj.jpg",
+        "backdrop_path": "/dJgAijwXWmwIj9CFg7zavHuwr4U.jpg",
+        "production_companies": [
+            {
+                "name": "Gorky Film Studios",
+                "id": 21978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0314284",
+        "original_language": "ru",
+        "popularity": 2.629,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22739,
+        "title": "Carter's Army",
+        "release_date": "1975-05-25",
+        "overview": "A racist officer is put in charge of an all-black squad of troops charged with the mission of blowing up an important hydro-dam in Nazi Germany. Their failure would delay the Allies' advance into Germany, thus prolonging the war.",
+        "poster_path": "/aJaaevGRCVXP84Pn1uR7xPffkMs.jpg",
+        "backdrop_path": "/2nwdeEttFm6wRF8xY4IJBCRcg9B.jpg",
+        "production_companies": [
+            {
+                "name": "Thomas/Spelling Productions",
+                "id": 7731
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0064135",
+        "original_language": "en",
+        "popularity": 2.617,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

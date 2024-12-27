@@ -1,0 +1,3948 @@
+[
+    {
+        "id_tmdb": 143,
+        "title": "All Quiet on the Western Front",
+        "release_date": "1930-04-29",
+        "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+        "poster_path": "/1wZUB08igw8iLUgF1r4T6aJD65b.jpg",
+        "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1448864,
+        "revenue": 3270000,
+        "vote_average": 7.76,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1070848,
+            "name": "All Quiet On The Western Front Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0020629",
+        "original_language": "en",
+        "popularity": 24.386,
+        "status": "Released",
+        "tagline": "They left for war as boys never to return as men.",
+        "video": false
+    },
+    {
+        "id_tmdb": 22649,
+        "title": "A Farewell to Arms",
+        "release_date": "1932-12-08",
+        "overview": "A tale of the World War I love affair, begun in Italy, between American ambulance driver Lt. Frederic Henry and British nurse Catherine Barkley. Eventually separated by Frederic's transfer, tremendous challenges and difficult decisions face each as the war rages on.",
+        "poster_path": "/eNmPByGZJqlp60nCZRhsAlVAb3F.jpg",
+        "backdrop_path": "/ek1883HwUWzFliDaE6FAmJ8XoXi.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.157,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022879",
+        "original_language": "en",
+        "popularity": 12.582,
+        "status": "Released",
+        "tagline": "Every woman who has loved will understand",
+        "video": false
+    },
+    {
+        "id_tmdb": 875,
+        "title": "Shanghai Express",
+        "release_date": "1932-02-12",
+        "overview": "A beautiful temptress re-kindles an old romance while trying to escape her past during a tension-packed train journey.",
+        "poster_path": "/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+        "backdrop_path": "/yGBAQcQVauUGNWGgWHxG4ihNCOp.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023458",
+        "original_language": "en",
+        "popularity": 10.767,
+        "status": "Released",
+        "tagline": "Many Men Had Loved Her -- but only one had been loved in return!",
+        "video": false
+    },
+    {
+        "id_tmdb": 56164,
+        "title": "Cavalcade",
+        "release_date": "1933-02-08",
+        "overview": "A cavalcade of English life from New Year's Eve 1899 until 1933 is seen through the eyes of well-to-do Londoners Jane and Robert Marryot. Amongst events touching their family are the Boer War, the death of Queen Victoria, the sinking of the Titanic, and the Great War.",
+        "poster_path": "/a6yld4HmB49b9CP9wmv3wcwk65K.jpg",
+        "backdrop_path": "/9LQdJ807aXpZtE4JsBF62ZXpL4F.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1180280,
+        "revenue": 7630000,
+        "vote_average": 5.491,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023876",
+        "original_language": "en",
+        "popularity": 10.676,
+        "status": "Released",
+        "tagline": "THE PICTURE OF THE GENERATION!",
+        "video": false
+    },
+    {
+        "id_tmdb": 3063,
+        "title": "Duck Soup",
+        "release_date": "1933-11-12",
+        "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+        "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+        "backdrop_path": "/dLE6mHjABhAcT6iQCM5CiJmyIts.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.309,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023969",
+        "original_language": "en",
+        "popularity": 10.559,
+        "status": "Released",
+        "tagline": "War is swell...when the Marx Brothers are in it. They'll be out of the trenches by Christmas...if the food doesn't improve!",
+        "video": false
+    },
+    {
+        "id_tmdb": 22301,
+        "title": "Hell's Angels",
+        "release_date": "1930-11-15",
+        "overview": "When the Great War breaks out, brothers Roy and Monte Rutledge, each attending Oxford University, enlist with the Royal Flying Corps.",
+        "poster_path": "/vt6zF55B9WLzYENs6cuXy8J5o1X.jpg",
+        "backdrop_path": "/wZeh4Pa9NXtvgyIngIOIS9j2C3S.jpg",
+        "production_companies": [
+            {
+                "name": "The Caddo Company",
+                "id": 13866
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 3950000,
+        "revenue": 8000000,
+        "vote_average": 6.445,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020960",
+        "original_language": "en",
+        "popularity": 7.347,
+        "status": "Released",
+        "tagline": "Howard Hughes' Thrilling Multi-Million Dollar Air Spectacle",
+        "video": false
+    },
+    {
+        "id_tmdb": 80705,
+        "title": "Westfront 1918",
+        "release_date": "1930-05-23",
+        "overview": "A group of German infantrymen of the First World War live out their lives in the trenches of France. They find brief entertainment and relief in a village behind the lines, but primarily terror fills their lives as the attacks on and from the French army ebb and flow. One of the men, Karl, goes home on leave only to discover the degradation forced on his family by wartime poverty. He returns to the lines in time to face an enormous attack by French tanks.",
+        "poster_path": "/oaMSB0DZY0GK8VdaDuHQLLdtHkg.jpg",
+        "backdrop_path": "/sNJSZxMKh2YneVI7XBeeFKbDXKN.jpg",
+        "production_companies": [
+            {
+                "name": "Nero-Film AG",
+                "id": 43854
+            },
+            {
+                "name": "Bavaria Film",
+                "id": 1704
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.734,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021542",
+        "original_language": "de",
+        "popularity": 6.726,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 95797,
+        "title": "Waterloo Bridge",
+        "release_date": "1931-09-01",
+        "overview": "In World War I London, Myra is an American out-of-work chorus girl making ends meet by picking up men on Waterloo Bridge. During a Zeppelin air raid she meets Roy, a naive young American who enlisted in the Canadian army. After they fall for each other, Roy tricks Myra into visiting his family, who live in a country estate outside London, his mother having remarried to a retired British Major. Myra is reluctant to continue the relationship with Roy, he not aware of her past.",
+        "poster_path": "/pHzA3gHKl63gkwOqghlcZQMwrhL.jpg",
+        "backdrop_path": "/9J2r4PUKKxLFFhzZCyV8I2dYL0O.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 251289,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022550",
+        "original_language": "en",
+        "popularity": 5.648,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73420,
+        "title": "Dishonored",
+        "release_date": "1931-04-04",
+        "overview": "The Austrian Secret Service sends its most seductive agent to spy on the Russians.",
+        "poster_path": "/g3Q4WgQdJgLdt4EVMqLQqKsDcFv.jpg",
+        "backdrop_path": "/pzV5QZHhAsG5ODCPmgAezkfUdas.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021800",
+        "original_language": "en",
+        "popularity": 4.571,
+        "status": "Released",
+        "tagline": "Can a Woman Kill a Man With Whom She Has Known a Night of Love?",
+        "video": false
+    },
+    {
+        "id_tmdb": 81110,
+        "title": "The Eagle and the Hawk",
+        "release_date": "1933-05-06",
+        "overview": "The pilots of a Royal Air Force squadron in World War I face not only physical but mental dangers in their struggle to survive while fighting the enemy.",
+        "poster_path": "/qkg6lo4OvOTOqCQ2dkMJKuQ93BU.jpg",
+        "backdrop_path": "/5oV4v3QFhHFFFtyG10IcGb5sAVu.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023973",
+        "original_language": "en",
+        "popularity": 4.56,
+        "status": "Released",
+        "tagline": "One a dauntless flyer, the other a relentless killer!",
+        "video": false
+    },
+    {
+        "id_tmdb": 44775,
+        "title": "Pack Up Your Troubles",
+        "release_date": "1932-09-16",
+        "overview": "The story begins in 1917 with Stan and Ollie being drafted into the U.S. Army to fight in World War I. While in the Army, the pair befriend a man named Eddie Smith, who is killed by the enemy during a battle. After the war is over, Stan and Ollie venture to New York City, where they begin a quest to reunite Eddie's little daughter with her rightful family. The task proves both monumental and problematic as the boys discover just how many people in New York have the last name Smith.",
+        "poster_path": "/1nfi4YmKSHn974CDd5VxOtPYOLU.jpg",
+        "backdrop_path": "/l1VSgIdqUOvoDZTpCoP71W98azd.jpg",
+        "production_companies": [
+            {
+                "name": "Hal Roach Studios",
+                "id": 2159
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023312",
+        "original_language": "en",
+        "popularity": 4.353,
+        "status": "Released",
+        "tagline": "From crack-pot civilians to coo-coo privates–they'll lead you a chase so crammed with hysterical laughter, you'll say it's even funnier than their first feature, \"Pardon Us.\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 32859,
+        "title": "Wooden Crosses",
+        "release_date": "1932-03-17",
+        "overview": "The young and patriotic student Demachy joins the French army in 1914 to defend his country. But he and his comrades soon experience the terrifying, endless trench war in Champagne, where more and more wooden crosses have to be erected for this cannon fodder.",
+        "poster_path": "/aViqpmjmIliqNVEnl1FCS8psbxW.jpg",
+        "backdrop_path": "/l919PDSYhjoROPvBWWQVH6MSD1X.jpg",
+        "production_companies": [
+            {
+                "name": "Pathé-Natan",
+                "id": 9000
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022787",
+        "original_language": "fr",
+        "popularity": 4.034,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 114626,
+        "title": "El compadre Mendoza",
+        "release_date": "1934-04-05",
+        "overview": "In the midst of the Mexican Revolution, the landowner Mendoza manages to get along with both the government and the revolutionary group. For the former, he is a supporter of Huerta. For the latter, he is a Zapata supporter. Depending on the political preference of whoever visits him at his hacienda, he has portraits of Huerta or Zapata put up, and organizes a party in honor of his visitors. However, time goes by and the situation becomes untenable. For whom will he take sides?",
+        "poster_path": "/b56SuoyQWualtXkHmrVN6HROZiD.jpg",
+        "backdrop_path": "/9gaXGopE4uZMq2CHyCZE2UbdK8o.jpg",
+        "production_companies": [
+            {
+                "name": "Interamericana Films",
+                "id": 11645
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023902",
+        "original_language": "es",
+        "popularity": 3.881,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 46774,
+        "title": "Chapayev",
+        "release_date": "1934-11-07",
+        "overview": "An account of the peasant turned mythical military hero Vasily Chapayev, charting his campaign in the Red Army during the Russian Civil War.",
+        "poster_path": "/iNI9wSKQd1QeXT8vnfWJi3SrtgX.jpg",
+        "backdrop_path": "/ekLQtFU4LpyHDsVkWAH6AcmqDgF.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024966",
+        "original_language": "ru",
+        "popularity": 3.844,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 46910,
+        "title": "The Lost Patrol",
+        "release_date": "1934-02-16",
+        "overview": "A World War I British Army patrol is crossing the Mesopotamian desert when their commanding officer, the only one who knows their destination, is killed by the bullet of unseen bandits. The patrol's sergeant keeps them heading north on the assumption that they will hit their brigade. They stop for the night at an oasis and awaken the next morning to find their horses stolen, their sentry dead, the oasis surrounded and survival difficult.",
+        "poster_path": "/7zwui44GZmgEq1bLZ7uBfjZ5MLX.jpg",
+        "backdrop_path": "/rt4wkaBe0YEvLMBBp7scJMtEoAP.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025423",
+        "original_language": "en",
+        "popularity": 3.649,
+        "status": "Released",
+        "tagline": "Blistering sun... blazing bullets!",
+        "video": false
+    },
+    {
+        "id_tmdb": 134618,
+        "title": "British Agent",
+        "release_date": "1934-09-15",
+        "overview": "In the days leading up to the Russian Revolution, Stephen Locke, a minor British diplomat in St Petersburg, falls in love with a Russian spy.",
+        "poster_path": "/1RpsrH4jOCOoqmOxO7yS3Id1mJT.jpg",
+        "backdrop_path": "/kWqGsq1jJm666OfvIViFesuT2c4.jpg",
+        "production_companies": [
+            {
+                "name": "First National Pictures",
+                "id": 3245
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.563,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024915",
+        "original_language": "en",
+        "popularity": 3.352,
+        "status": "Released",
+        "tagline": "HER COUNTRY DEMANDED she take a man's life while her heart demanded his lips...his love!",
+        "video": false
+    },
+    {
+        "id_tmdb": 117044,
+        "title": "The World Moves On",
+        "release_date": "1934-06-27",
+        "overview": "Two families, cotton merchants in England and America, with branches in France and Prussia swear to stand by each other in a belief that a great business firmly established in four countries will be able to withstand even such another calamity as the Napoleonic Wars from which Europe is slowly recovering. Then many years later, along comes World War One and the years that follow, to test the businesses.",
+        "poster_path": "/ox2Vj3yE2Ig4KD7nLSuZkOu5574.jpg",
+        "backdrop_path": "/gVcs843hxXBiVT8eLlIQ645MEDx.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0026008",
+        "original_language": "en",
+        "popularity": 3.259,
+        "status": "Released",
+        "tagline": "THE LOVE STORY OF A CENTURY THEIR love IS YOUR LOVE THEIR fear IS YOUR FEAR THEIR hope IS YOUR HOPE",
+        "video": false
+    },
+    {
+        "id_tmdb": 74484,
+        "title": "The Woman from Monte Carlo",
+        "release_date": "1932-01-09",
+        "overview": "On the eve of WW-I the French Navy ship Lafayette returns to its Toulon base for one night. There is no shore leave, although wives are permitted to come to a party.  The strain of command on the older captain and his new,  young wife is very great.",
+        "poster_path": "/gHL49N8sHGPvsKAho5D5vnsF1gf.jpg",
+        "backdrop_path": "/oWc5ilyhSxEAEG7xzD9cFEn8rAy.jpg",
+        "production_companies": [
+            {
+                "name": "First National Pictures",
+                "id": 3245
+            },
+            {
+                "name": "The Vitaphone Corporation",
+                "id": 9329
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023706",
+        "original_language": "en",
+        "popularity": 3.215,
+        "status": "Released",
+        "tagline": "As Intimate as a Lady's Boudoir - As exciting as a caress",
+        "video": false
+    },
+    {
+        "id_tmdb": 81847,
+        "title": "The Dawn Patrol",
+        "release_date": "1930-07-10",
+        "overview": "World War I ace Dick Courtney derides the leadership of his superior officer, but he soon is promoted to squadron commander and learns harsh lessons about sending subordinates to their deaths.",
+        "poster_path": "/iCi0rIsbn1BOgQknhAY8VTk8Ve6.jpg",
+        "backdrop_path": "/1n6OeLYXzDZ5TnuyWj9ysatBDyv.jpg",
+        "production_companies": [
+            {
+                "name": "First National Pictures",
+                "id": 3245
+            },
+            {
+                "name": "Franco London Films",
+                "id": 1477
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020815",
+        "original_language": "en",
+        "popularity": 3.125,
+        "status": "Released",
+        "tagline": "GREATEST AIR EPIC EVER!",
+        "video": false
+    },
+    {
+        "id_tmdb": 114348,
+        "title": "Pilgrimage",
+        "release_date": "1933-07-12",
+        "overview": "A mother from Arkansas is very possessive of her grown son. To prevent him from getting married she has him drafted into WW I.",
+        "poster_path": "/6l8qyIdtPdrBI3gloCoKNiiu66M.jpg",
+        "backdrop_path": "/haRHZwHsYH6uyayyLz7Xfrkomdi.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024453",
+        "original_language": "en",
+        "popularity": 3.03,
+        "status": "Released",
+        "tagline": "Everyone Who Has a Mother Must See It!",
+        "video": false
+    },
+    {
+        "id_tmdb": 111310,
+        "title": "Operator 13",
+        "release_date": "1934-06-08",
+        "overview": "American Civil War, 1862. After the disaster of the Second Battle of Bull Run, Major Allen, chief of the Secret Service of the Union, asks actress Gail Loveless to become one of his operators and infiltrate enemy territory.",
+        "poster_path": "/n53ekxC0iWdo4Q1aEUXCPlE8b8t.jpg",
+        "backdrop_path": "/qIG3nO6RQTDTlKTxDp6FuPIinbB.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025607",
+        "original_language": "en",
+        "popularity": 2.643,
+        "status": "Released",
+        "tagline": "A TRICK OF FATE MADE THEM BOTH ENEMY AND LOVER.",
+        "video": false
+    },
+    {
+        "id_tmdb": 201750,
+        "title": "Sky Devils",
+        "release_date": "1932-03-12",
+        "overview": "Wilkie and Mitchell, trying to desert their draft into the army, stow away on a ship which takes them into the war zone. While AWOL, the rivals for Mary's affections accidently destroy an ammunition dump.",
+        "poster_path": "/5pIzAUsbFX3ssydmrdkXh2VfGXz.jpg",
+        "backdrop_path": "/ghdES0Rsh2aKJzN0N7BBkkSvAiK.jpg",
+        "production_companies": [
+            {
+                "name": "The Caddo Company",
+                "id": 13866
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023485",
+        "original_language": "en",
+        "popularity": 2.617,
+        "status": "Released",
+        "tagline": "They couldn't swim, but they were lifeguards! They couldn't fly, but they became air heroes! Crashing planes, roaring laughs!",
+        "video": false
+    },
+    {
+        "id_tmdb": 99922,
+        "title": "Dirigible",
+        "release_date": "1931-02-01",
+        "overview": "Dirigible commander Jack Braden and Navy pilot 'Frisky' Pierce fight over the glory associated with a successful expedition to the South Pole and the love of beautiful Helen, Frisky's wife. After Braden's dirigible expedition fails, Frisky tries an expedition by plane. Unfortunately he crashes and strands his party at the South Pole. Braden must decide between a risky rescue attempt by dirigible and remaining safely at home with Helen.",
+        "poster_path": "/yEubIoC9fPbOyPDYl4Vphm7xWf0.jpg",
+        "backdrop_path": "/yZnRkabHOY53bOWT9xRobN7F4lB.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021799",
+        "original_language": "en",
+        "popularity": 2.488,
+        "status": "Released",
+        "tagline": "GIANT EPIC OF THE AIR!",
+        "video": false
+    },
+    {
+        "id_tmdb": 188700,
+        "title": "The Man from Yesterday",
+        "release_date": "1932-06-24",
+        "overview": "A woman whose husband never came home from World War I finds herself in love with her doctor. She travels with him to Switzerland, and as they check into the hotel there, she is astounded to see her supposedly dead husband.",
+        "poster_path": "/hpT7Vmb7infwqENwIt1UBQkyNzq.jpg",
+        "backdrop_path": "/66QmAHWQoZCKpdFeIwqbuNyvdee.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.75,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023185",
+        "original_language": "en",
+        "popularity": 2.469,
+        "status": "Released",
+        "tagline": "A WOMAN IS A FOOL WHO RUNS AWAY FROM LOVE",
+        "video": false
+    },
+    {
+        "id_tmdb": 108091,
+        "title": "Born to Love",
+        "release_date": "1931-04-17",
+        "overview": "A pregnant American nurse living in London during WWI, believing her soldier-fiance has been killed in France, marries a wealthy aristocrat so her child will have a father.",
+        "poster_path": "/pO4ceY10OCMW3aCRbSG7kdWgXsJ.jpg",
+        "backdrop_path": "/6Z5CXJydJbYx9TMhC914a7gksup.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021684",
+        "original_language": "en",
+        "popularity": 2.416,
+        "status": "Released",
+        "tagline": "THE STAR EVERYBODY ADORES...IN A STORY THAT BURNS DEEP IN THE HEART OF EVERY WOMAN.",
+        "video": false
+    },
+    {
+        "id_tmdb": 84099,
+        "title": "Here Comes the Navy",
+        "release_date": "1934-07-21",
+        "overview": "A cocky guy joins the Navy for the wrong reason but finds romance and twice is cited for heroism.",
+        "poster_path": "/m2eHdAuXq1UElpmGK3RjfXOBjUR.jpg",
+        "backdrop_path": "/6Ag72HFOs0TusUiPeohCpg4b5JH.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025238",
+        "original_language": "en",
+        "popularity": 2.399,
+        "status": "Released",
+        "tagline": "James CAGNEY - Pat O'BRIEN And The Whole U. S. FLEET!",
+        "video": false
+    },
+    {
+        "id_tmdb": 214677,
+        "title": "Suicide Fleet",
+        "release_date": "1931-11-20",
+        "overview": "Three US sailors aboard a decoy ship fight German U-boats in World War I and try to win Sally who works on the Coney Island midway.",
+        "poster_path": "/bqAd620rkbPQjLuS6bUcYG323cy.jpg",
+        "backdrop_path": "/p1ww3By1iX9LtBbHrjqhifq5NgX.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Pathé Pictures",
+                "id": 105710
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.286,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022180",
+        "original_language": "en",
+        "popularity": 2.296,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 171099,
+        "title": "Captured!",
+        "release_date": "1933-08-19",
+        "overview": "While waiting out World War I in a German POW camp, Captain Fred Allison discovers that his oldest and dearest friend Digby has also been captured and put into the same camp with him.  Fred longs for news of his wife, Monica, but Digby speaks little of her.  Digby knows a secret about Monica, a secret he must keep from his friend, and it wears at his conscience so much that he attempts a reckless escape.",
+        "poster_path": "/AoFSaYSktzDzPeJ2MC7h0MJvaKU.jpg",
+        "backdrop_path": "/yr5bHBEHSvJikz61c3fpgclQQXA.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023872",
+        "original_language": "en",
+        "popularity": 2.295,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 682040,
+        "title": "The First World War",
+        "release_date": "1934-11-08",
+        "overview": "Produced by the Fox Movietone News arm of Fox Film Corporation and based on the book by Lawrence Stallings, this expanded newsreel, using stock-and-archive footage, tells the story of World War I from inception to conclusion. Alternating with scenes of trench warfare and intimate glimpses of European royalty at home, and scenes of conflict at sea combined with sequences of films from the secret archives of many of the involved nations.",
+        "poster_path": "/qM69rAEnILHJPWviqJDy3fHU5zx.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0976117",
+        "original_language": "en",
+        "popularity": 2.274,
+        "status": "Released",
+        "tagline": "It Tells All As No Words Ever Can!",
+        "video": false
+    },
+    {
+        "id_tmdb": 181983,
+        "title": "The Marines Are Coming",
+        "release_date": "1934-11-19",
+        "overview": "Expelled from his lieutenancy in the Marine Corps, Bill Traylor reenlists as a private. His unit is sent to a Latin American country where a rebel leader called The Torch promotes insurrection. There Traylor encounters again Captain Benton, the man responsible for his disgrace and his rival for the love of a girl.",
+        "poster_path": "/354Ho5F9F8x3WQDeS2m8gAxBJxi.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Mascot Pictures",
+                "id": 4743
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0026684",
+        "original_language": "en",
+        "popularity": 2.262,
+        "status": "Released",
+        "tagline": "The Marines have landed...with a roll of drums...flags unfurled...ready to fight...ready for love!",
+        "video": false
+    },
+    {
+        "id_tmdb": 103938,
+        "title": "Today We Live",
+        "release_date": "1933-03-03",
+        "overview": "Two lovers are living together and are not married; they had made a promise as children to get married when they grew up, but they \"didn't wait.\"",
+        "poster_path": "/ecKQuSqPbPiKihaTradMU2SpTzM.jpg",
+        "backdrop_path": "/kDnIMnIDXhi1V8JoKHzxkbaR0su.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024675",
+        "original_language": "en",
+        "popularity": 2.232,
+        "status": "Released",
+        "tagline": "Without regret or remorse..with pride in the sacrifice of self..she burned up her youth..for them..living dangerously..Regardless of Tomorrow.",
+        "video": false
+    },
+    {
+        "id_tmdb": 94638,
+        "title": "Outskirts",
+        "release_date": "1933-03-25",
+        "overview": "In a remote Russian village during World War I, colourful and nuanced characters experience divided loyalties: family loyalty vs. personal desire, nationalism vs. transcendent humanism.",
+        "poster_path": "/xM237sYuNtPq3VnmBsPzlyF9yAV.jpg",
+        "backdrop_path": "/3yAckThEiCiMa1E5fVaUgRjpQeX.jpg",
+        "production_companies": [
+            {
+                "name": "Mezhrabpomfilm",
+                "id": 8970
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024402",
+        "original_language": "ru",
+        "popularity": 2.03,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 165946,
+        "title": "Only the Brave",
+        "release_date": "1930-03-07",
+        "overview": "Cooper is a Union Army officer who after being jilted by girlfriend, Virginia Bruce, volunteers on what could be a suicide mission. He volunteers to go behind enemy lines disguised in Confederate gray as a staff officer to Robert E. Lee. He's to ride to a certain plantation which is a local brigade headquarters and deliberately let himself be caught with maps showing false Union troop positions. Of course, the penalty, then as now, is execution.",
+        "poster_path": "/jjDCwcwAERh7o1yU7ed1ysTEic0.jpg",
+        "backdrop_path": "/gr7qcKTHqbU4XG2qF62ZhpVW5mG.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021219",
+        "original_language": "en",
+        "popularity": 2.008,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 38784,
+        "title": "Hell on Earth",
+        "release_date": "1931-12-10",
+        "overview": "Hell on Earth (German: Niemandsland) is a 1931 German film directed by Victor Trivas. The film is also known as No Man's Land in France.",
+        "poster_path": "/njR1wHdttsxOSjSngjeqJ3CgmWq.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Resco-Filmproduktion",
+                "id": 5722
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022204",
+        "original_language": "de",
+        "popularity": 1.959,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 176974,
+        "title": "I Was a Spy",
+        "release_date": "1933-09-04",
+        "overview": "During World War I, a young nurse in a hospital in German-occupied Belgium is secretly feeding military information to the British. Complicating matters is the guilt she feels when she has to treat the German casualties inflicted as a result of the information she's passed on, and the fact that the local German commandant is falling in love with her.",
+        "poster_path": "/v47tPvw4RCiZfWnpctgSU87xp9T.jpg",
+        "backdrop_path": "/ns8W11XCl97YXPdJfASkiPDvO0T.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont-British Picture Corporation",
+                "id": 4978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024161",
+        "original_language": "en",
+        "popularity": 1.869,
+        "status": "Released",
+        "tagline": "TO ANSWER THE LURE OF HER LIPS WAS FATAL!",
+        "video": false
+    },
+    {
+        "id_tmdb": 159424,
+        "title": "Ever in My Heart",
+        "release_date": "1933-10-28",
+        "overview": "World War I brings tribulations to an American woman married to a German.",
+        "poster_path": "/sM52XrZrCP2DoMcj3OyxY36BMaS.jpg",
+        "backdrop_path": "/4hBWM2BSauvKfPn1qdzo1AnjMf6.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023992",
+        "original_language": "en",
+        "popularity": 1.828,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 156373,
+        "title": "Women of All Nations",
+        "release_date": "1931-05-31",
+        "overview": "Marines Flagg and Quirt fought together in WWI and Panama. After some time in New York they go to Sweden and compete for the love of Else. Next they go to Nicaragua and help earthquake victims. Then to Egypt where Else is now in Prince Hassan's harem.",
+        "poster_path": "/tKOCtqxGrZPLOp7ooWETRr1Rn91.jpg",
+        "backdrop_path": "/mLgtrQjbQxUASfztiaV5x2UivF6.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 2.6,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 967483,
+            "name": "What Price Glory Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0022576",
+        "original_language": "en",
+        "popularity": 1.662,
+        "status": "Released",
+        "tagline": "FLAGG AND QUIRT SQUARING ACCOUNTS WITH EACH OTHER AROUND THE WORLD IN RAOUL WALSH'S \"WOMEN OF ALL NATIONS\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 94009,
+        "title": "Born Reckless",
+        "release_date": "1930-05-11",
+        "overview": "In order to use the publicity to get re-elected, a judge sentences a notorious gangster to fight in the war.",
+        "poster_path": "/2E0R1b3cCyq83JehkqmL7RNMep5.jpg",
+        "backdrop_path": "/9lxGiaHFqvxleDXsnZ3QlPVQB5X.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020702",
+        "original_language": "en",
+        "popularity": 1.638,
+        "status": "Released",
+        "tagline": "The master mind of gangdom gets a change of heart!",
+        "video": false
+    },
+    {
+        "id_tmdb": 432536,
+        "title": "Juarez and Maximilian",
+        "release_date": "1934-06-28",
+        "overview": "The story of Mexican President Benito Juárez and the emperor Maximilian of Habsburg and the empress Carlota.",
+        "poster_path": "/nhQ5v5fR4GeAznQht7FzqpGbd7K.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Miguel Contreras Torres",
+                "id": 83711
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0140300",
+        "original_language": "es",
+        "popularity": 1.572,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 284097,
+        "title": "The Good Soldier Schweik",
+        "release_date": "1930-06-11",
+        "overview": "Joint montage of the first three silent films about Švejk: Good Soldier Švejk (1926, director: Karel Lamač), Švejk on the Front (1926, director Karel Lamač) and Švejk in Russian Captivity (1926, director: Svatopluk Innemann, model Karel Vaněk). The lead role was played by Karel Noll, who was very popular at the time. The last silent sequel Švejk v civilu (1927) exists independently, but the copy of the film is badly damaged.",
+        "poster_path": "/mAfmWoVABl6EA5sN2Fh0C0SI6aU.jpg",
+        "backdrop_path": "/jmy7cEOjvhvxuMBMye8sx1u88kT.jpg",
+        "production_companies": [
+            {
+                "name": "Gloriafilm",
+                "id": 123340
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0166628",
+        "original_language": "cs",
+        "popularity": 1.531,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 37543,
+        "title": "Journey's End",
+        "release_date": "1930-04-09",
+        "overview": "In France, 1917, an alcoholic captain is afraid that his new replacement, his sweetheart's brother, will betray his downfall.",
+        "poster_path": "/5hhgTsADIbr56fBf0AKR1uB61fU.jpg",
+        "backdrop_path": "/z2u2K9OdknzWp0dHYixfSrsYnRi.jpg",
+        "production_companies": [
+            {
+                "name": "Tiffany Productions",
+                "id": 17986
+            },
+            {
+                "name": "Gainsborough Pictures",
+                "id": 1221
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021013",
+        "original_language": "en",
+        "popularity": 1.526,
+        "status": "Released",
+        "tagline": "THE GREATEST SCREEN DRAMA OF ALL TIME",
+        "video": false
+    },
+    {
+        "id_tmdb": 156369,
+        "title": "The Sea Ghost",
+        "release_date": "1931-11-28",
+        "overview": "A crooked lawyer trying to cheat a young girl out of her inheritance tries to convince a sea captain to help him.  Re-released in 1939 as \"Phantom Submarine U-67.\"",
+        "poster_path": "/3PoCljUtb5c82CN9759ad0l5kZO.jpg",
+        "backdrop_path": "/pfg89Jefo8nmIKDrRXYBogwhhmc.jpg",
+        "production_companies": [
+            {
+                "name": "Peerless Pictures",
+                "id": 74165
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022352",
+        "original_language": "en",
+        "popularity": 1.498,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 186162,
+        "title": "The Virtuous Sin",
+        "release_date": "1930-10-24",
+        "overview": "Marya gets friendly with General Platoff in order to save her husband Victor from being executed.",
+        "poster_path": "/m276Fg9dfYTq376SncARcNfn7gM.jpg",
+        "backdrop_path": "/wdRYuLXvwuFynYpKgPwPxBgXvtR.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021525",
+        "original_language": "en",
+        "popularity": 1.487,
+        "status": "Released",
+        "tagline": "To her love meant disaster...yet she had the courage to love!",
+        "video": false
+    },
+    {
+        "id_tmdb": 98398,
+        "title": "The Lost Squadron",
+        "release_date": "1932-03-12",
+        "overview": "When World War I comes to an end, three pilots find themselves on hard times. They wind up in Hollywood, where they work as stunt fliers for a sadistic director.",
+        "poster_path": "/gAHbsh9MJOOPCxzfQvcsTNN02Z.jpg",
+        "backdrop_path": "/nIoiub9VUyu8i4dRzgw2iLLkROp.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 621000,
+        "revenue": 732000,
+        "vote_average": 6.333,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023151",
+        "original_language": "en",
+        "popularity": 1.48,
+        "status": "Released",
+        "tagline": "-Not a War Picture- But a war picture in the making! -Planes flying, crashing, while below cameras grind, and an inhuman genius drives men to destruction for the supreme thrill!",
+        "video": false
+    },
+    {
+        "id_tmdb": 141919,
+        "title": "The Nail in the Boot",
+        "release_date": "1931-12-31",
+        "overview": "Banned in the Soviet Union for its \"negative\" content and never released, Kalatozov was forced to retreat from filmmaking for seven years because of this film. The film sets out to illustrate the old adage, \"For want of a nail, the battle was lost,\" showing how the inferior quality of something so trivial as a nail in a soldier's boot leads inexorably to the capture of an armored train. Kalatozov had intended to demonstrate the crucial and universal importance of efficiency in Soviet industry, but the government decided that his fable gave a negative impression of the Red Army's capabilities.",
+        "poster_path": "/cTzlpNtQgBwrBBnARxwIB0moDnh.jpg",
+        "backdrop_path": "/dhRcWVhziv2szbHw8XiYSE0z0Wa.jpg",
+        "production_companies": [
+            {
+                "name": "Georgia-Film",
+                "id": 186508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022970",
+        "original_language": "ka",
+        "popularity": 1.41,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 296001,
+        "title": "Evensong",
+        "release_date": "1934-09-03",
+        "overview": "Loosely based on the story of the singer Nellie Melba...",
+        "poster_path": "/79Sjg4HlM9VHLl3ziWLbejLs9hk.jpg",
+        "backdrop_path": "/ApXmBlZCwrfdmgUP4unHHfaHZh5.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont-British Picture Corporation",
+                "id": 4978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025092",
+        "original_language": "en",
+        "popularity": 1.403,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 362290,
+        "title": "Volga in Flames",
+        "release_date": "1934-02-09",
+        "overview": "Lieutenant Orloff, a recently graduated Russian officier, is making his way across the snow-covered steppes to the garrison where he is to be stationed. He comes across a man who has lost his way in the blizzard and takes him to the safety of an inn. Arriving at the garrison, Orloff meets and falls immediately in love with Macha, the daughter of his commander. The town is suddenly attacked by a hoard of bandits who claims to be the true Tsar of Russia.",
+        "poster_path": "/qnPkpFI2lt8nt5TTIP9k4MF7X2d.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Omnia Paris",
+                "id": 64653
+            },
+            {
+                "name": "A-B",
+                "id": 53989
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0142969",
+        "original_language": "fr",
+        "popularity": 1.375,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 425237,
+        "title": "26 Commissioners",
+        "release_date": "1932-12-25",
+        "overview": "Docu-drama about political and military conflict during the Russian Civil War in 1918, from an orthodox pro-Communist viewpoint.",
+        "poster_path": "/mLA1usS3KQ0sgDxeHKG3tiph0Yc.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Azerbaijanfilm",
+                "id": 29866
+            },
+            {
+                "name": "Georgia-Film",
+                "id": 186508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023971",
+        "original_language": "xx",
+        "popularity": 1.365,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 117001,
+        "title": "Seas Beneath",
+        "release_date": "1931-01-30",
+        "overview": "In the waning days of WWI, a U.S. \"Mystery Ship,\" sets sail for the coast of Spain towing a submarine. Their mission is to find and sink a U-boat that has been especially effective in attacking Allied shipping. Posing as a harmless schooner, the mystery ship is in fact fitted with a formidable gun capable of sinking a U-boat. Stopping in the Canary Islands to refuel, the crew interacts with locals involved with Germans, and with Germans themselves, including the sister of the U-Boat commander, who is lurking offshore waiting for the coming battle.",
+        "poster_path": "/eY2XUSoykLD6KmWMLXRrft7wqa9.jpg",
+        "backdrop_path": "/l6NImTP1iuuMItC11BDmnwZqBie.jpg",
+        "production_companies": [
+            {
+                "name": "Fox Film Corporation",
+                "id": 5488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022353",
+        "original_language": "en",
+        "popularity": 1.344,
+        "status": "Released",
+        "tagline": "Thrill after thrill will hold you breathless in Fox Movietone Drama",
+        "video": false
+    },
+    {
+        "id_tmdb": 373621,
+        "title": "Shock",
+        "release_date": "1934-07-19",
+        "overview": "Captain Bob Hayworth, his brother Lieutenant Gilroy Hayworth and Captain Derek Marbury are in a World-War 1 trench on the front-lines in France. Bob Hayworth resents Marbury greatly as the latter had married the girl, Lucy Neville, Marbury was courting in pre-war London. Ordered to go on a night patrol, the cowardly Gilroy committed suicide rather than face his fear. Bob and Derek arrange it to appear that Bob had been killed by a shell-burst, and Derek, with his face camouflaged, takes the patrol posing as Gilroy. While on patrol, Derek is hit by a shell-burst and found by the German Red Cross, who turn him over to a family of French peasants.",
+        "poster_path": "/e4f2nO4L4c3ODJ9AO6YshJetbVn.jpg",
+        "backdrop_path": "/23Z2ZIpvph5Hb1dReEucuDXFCDy.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025782",
+        "original_language": "en",
+        "popularity": 1.314,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 99993,
+        "title": "Ace of Aces",
+        "release_date": "1933-10-20",
+        "overview": "A sculptor who doesn't want to have any part of World War I is shamed by his girlfriend into joining the army. He becomes a fighter pilot, and undergoes a complete personality change.",
+        "poster_path": "/daVvDyyFNp86zw1LCflrElaxpBJ.jpg",
+        "backdrop_path": "/7D2P9kpQMXG3brJ5nIQIQVvxs46.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023737",
+        "original_language": "en",
+        "popularity": 1.308,
+        "status": "Released",
+        "tagline": "A Woman's Love Made Him Forget His Fears!",
+        "video": false
+    },
+    {
+        "id_tmdb": 162967,
+        "title": "War Nurse",
+        "release_date": "1930-11-22",
+        "overview": "Women from various backgrounds volunteer as nurses in France at the outbreak of World War I.",
+        "poster_path": "/yj81o9THqXiMyp3C3U2oIQWdYrU.jpg",
+        "backdrop_path": "/aZI8BE0bCTTsSzItnHKq4SRjEE3.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021531",
+        "original_language": "en",
+        "popularity": 1.302,
+        "status": "Released",
+        "tagline": "The World War as Seen Through the Eyes of our Girls Who Lived, Loved and Suffered on the Western Front!",
+        "video": false
+    },
+    {
+        "id_tmdb": 264741,
+        "title": "Storm at Daybreak",
+        "release_date": "1933-06-14",
+        "overview": "Sarajevo June 28, 1914. Dushan, the Serbian mayor of a Hungarian town, has come to see the parade of Archduke Ferdinand. While there he runs into Geza, an old friend in the Hungarian Army and invites him to come to his house and visit him and his new wife.",
+        "poster_path": "/57J06y7MDDKsvrgJCMDmCZHbQwE.jpg",
+        "backdrop_path": "/wKx4aqHGtw9otb7WqhjfJLVae6l.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024616",
+        "original_language": "en",
+        "popularity": 1.29,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 253800,
+        "title": "After Tonight",
+        "release_date": "1933-11-10",
+        "overview": "When war is declared in 1914, glamorous Russian Carla Vanirska manages to get to Vienna from Luxembourg, with the help of Captain Rudolph Ritter of the Austrian army. Meanwhile, Ritter is assigned to detect the identity of a spy.",
+        "poster_path": "/uI51gDnL3mu1N4N8XknA5Kjc7OY.jpg",
+        "backdrop_path": "/yFvrep2O7faasboxtXztwmcvrYz.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023742",
+        "original_language": "en",
+        "popularity": 1.247,
+        "status": "Released",
+        "tagline": "Two lovers you'll never forget.....SHE a spy....knowing him to be her enemy. HE knowing her only as a woman..lovely, desirable...One Night of Ecstacy!",
+        "video": false
+    },
+    {
+        "id_tmdb": 1128586,
+        "title": "The Blue Squadron",
+        "release_date": "1934-12-12",
+        "overview": "Anglo Italian aviation drama. Now lost.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024901",
+        "original_language": "en",
+        "popularity": 1.233,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 258145,
+        "title": "Dawn",
+        "release_date": "1933-02-02",
+        "overview": "Released three days after Adolf Hitler became Reichskanzler, it was the first film to have its screening in Nazi Germany. It became a symbol of the new times touted by the Nazi regime.  The title (literally \"morning-red\") is the German term for the reddish coloring of the east sky about a half hour before the sunrise.  On patrol Captain Liers and his submarine crew sink an important British ship, but while returning to harbour, they're lured into a trap by a British vessel disguised as a neutral Danish one. They sink it after it attacks them without warning, but  while they prepare to rescue survivors, a British destroyer sinks the sub.  On the sea bed 60 feet down, with all but the bridge flooded, the 10 surviving crew have only 8 rescue devices. Liers orders the crew to use them, but they disobey - either all escape or nobody does.",
+        "poster_path": "/qFS7OWzvv9Ns8RsG6RG0OffrvgE.jpg",
+        "backdrop_path": "/eQxp7zpWxRwPDJK75STYlRvc8xf.jpg",
+        "production_companies": [
+            {
+                "name": "UFA",
+                "id": 12372
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024352",
+        "original_language": "de",
+        "popularity": 1.159,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 156397,
+        "title": "Beau Ideal",
+        "release_date": "1931-01-25",
+        "overview": "An American joins the French Foreign Legion in order to rescue a boyhood friend.",
+        "poster_path": "/d3u8No7yvGTxlVyOfWvjNO71hIm.jpg",
+        "backdrop_path": "/8B9oyl0TYj65fc5jzdnnf7gh8bM.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020673",
+        "original_language": "en",
+        "popularity": 1.067,
+        "status": "Released",
+        "tagline": "LIPS PRESSED IN ONE FIERCE KISS!",
+        "video": false
+    },
+    {
+        "id_tmdb": 223816,
+        "title": "Hell Below",
+        "release_date": "1933-06-08",
+        "overview": "On leave in Italy, Lt. Tommy Knowlton falls in love with Jean Standish, who's not only married, but is the daughter of his submarine's commander. Friction between the two officers becomes intolerable once at sea and after Commander Toler is forced to abandon Tommy's best friend topside while the sub dives to escape enemy planes, Tommy is no longer able to contain his anger.",
+        "poster_path": "/e6umrteNk6RrJ4BdB5fLobdTWft.jpg",
+        "backdrop_path": "/A4zsuBziuzG3szHZMDI9pLCfmQx.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024100",
+        "original_language": "en",
+        "popularity": 1.036,
+        "status": "Released",
+        "tagline": "1933 will be famed for one picture !",
+        "video": false
+    },
+    {
+        "id_tmdb": 539563,
+        "title": "Moscow Nights",
+        "release_date": "1934-11-21",
+        "overview": "During the First World War, the Russian officer Captain Ivan Ignatoff falls in love with his nurse, Natasha Kovrin. But she is subject to an upcoming marriage of family convenience to Brioukow, a wealthy industrialist of peasant stock. Brioukow is unjustifiably jealous, since Natasha has not betrayed him. He forces Ignatoff into his debt as a means of humiliating him. When Ignatoff's new friend, Madame Sabline, offers to pay his debt, preventing his ruin, Ignatoff comes quickly to realize that Madame Sabline has an ulterior motive, one that could prove dangerous to more lives than just Ignatoff's.",
+        "poster_path": "/28CNosxi4p88LCuZYg5wGEVr3K3.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025581",
+        "original_language": "fr",
+        "popularity": 1.019,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 660213,
+        "title": "On Secret Service",
+        "release_date": "1933-12-15",
+        "overview": "Greta Nissen stars as an Italian noblewoman living a dangerous double life as a spy. A remake of the celebrated German thriller Spione am Werk. Co-starring noted German actor Karl Ludwig Diehl and American matinee idol Don Alvarado. The film takes place in Vienna, 1912. When an Austrian staff officer is implicated by association with a known Italian spy he goes on the run. Three years later - as the Great War gets into full swing - he returns and begs the Austrian Secret Service to allow him to clear his name from suspicion.",
+        "poster_path": "/fq06cC5S1V6amARNUTF0uC03tuD.jpg",
+        "backdrop_path": "/7f0QzIHF3nA30xl3fBlafzcbQVd.jpg",
+        "production_companies": [
+            {
+                "name": "British International Pictures",
+                "id": 305
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0028299",
+        "original_language": "en",
+        "popularity": 0.943,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 217301,
+        "title": "The Bearslayer",
+        "release_date": "1930-03-03",
+        "overview": "The Latvian epic \"Lāčplēsis\" resounds through time and parallels the struggles of a Latvian soldier and his love before, during and after WWI.",
+        "poster_path": "/ujlw3v2TjG2qYZ2i3P5GrqtbwGZ.jpg",
+        "backdrop_path": "/l4G2ks3JBxQ7mVsL94rXuTTbvW9.jpg",
+        "production_companies": [
+            {
+                "name": "Aizsargu organizācija",
+                "id": 112951
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "LV",
+                "name": "Latvia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "lv",
+                "name": "Latviešu"
+            }
+        ],
+        "budget": 80000,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.filmas.lv/movie/3114",
+        "imdb_id": "tt3135044",
+        "original_language": "xx",
+        "popularity": 0.941,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1223578,
+        "title": "The Rout",
+        "release_date": "1931-09-10",
+        "overview": "In 1921. With the help of Japanese interventionists, the White Guards defeat a Shaldyba partisan detachment. The remnants of the defeated detachment pour into Levinson's detachment. Partisan intelligence soon finds that the Japanese has surrounded the detachment. To save the main forces from defeat, Levinson decides to break through the chains of enemies.",
+        "poster_path": "/j9pJdTCEnJ7RZQZTQ3oGBxOrEpN.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Sovkino",
+                "id": 410
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt12464264",
+        "original_language": "ru",
+        "popularity": 0.919,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 326671,
+        "title": "Marching On",
+        "release_date": "1930-03-07",
+        "overview": "A farmer’s boy, obsessed with his balsa-and-paper flying models and with dreams of real aircraft, develops a friendship with the daughter of the local squire, who introduces the lad to her pilot brother and his flying officer friends; through hard work, and despite the handicap of a lowly class status, he eventually succeeds in qualifying as a pilot and joining the air force.",
+        "poster_path": "/GiF65tyoIgflmS5XsrZMtOCryE.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0323955",
+        "original_language": "ja",
+        "popularity": 0.9,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 305801,
+        "title": "The Mad Parade",
+        "release_date": "1931-09-18",
+        "overview": "The story of eight women and how they served their country during World War I.",
+        "poster_path": "/5RjUqMdFaVpj5YGXihTDVN4N5Ui.jpg",
+        "backdrop_path": "/Acyto1B8dhiCwZuvCgAvH2T9hQh.jpg",
+        "production_companies": [
+            {
+                "name": "Liberty Pictures",
+                "id": 20938
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0148436",
+        "original_language": "en",
+        "popularity": 0.896,
+        "status": "Released",
+        "tagline": "WAR'S terrors! Can women stand up and take them like men? Can they, like men, kill LOVE when WAR says \"love to KILL!\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 206264,
+        "title": "West of Broadway",
+        "release_date": "1931-11-28",
+        "overview": "A wealthy soldier returns home after WWI, discovers his socialite fiancee no longer wants to marry him, and weds an admitted gold-digger he's just met after a night of drinking and partying.",
+        "poster_path": "/ivaFRV2nKRAGfyqVrc9olwPLsL8.jpg",
+        "backdrop_path": "/a9ObAUu7xyT8UTnM7woNuRHBGkx.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023681",
+        "original_language": "en",
+        "popularity": 0.883,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198077,
+        "title": "Chances",
+        "release_date": "1931-07-18",
+        "overview": "Two brothers, Jack and Tom, are in love with the same woman, Molly. While the two brothers go off to war and Molly does her part in the effort, Tom believes that Rose is waiting for him, while in fact, she loves Jack and only turned to Tom on the rebound. Jack and Molly meet while he is on leave, and when he returns to battle, he doesn't know how to handle the situation with his brother.",
+        "poster_path": "/dAnP4KRAeg70Wlt3Q8Ubmdl86yN.jpg",
+        "backdrop_path": "/ns2wHi12rZMkwqo8GGcnnRhc2Zw.jpg",
+        "production_companies": [
+            {
+                "name": "First National Pictures",
+                "id": 3245
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021732",
+        "original_language": "en",
+        "popularity": 0.847,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 156391,
+        "title": "Texas Buddies",
+        "release_date": "1932-10-18",
+        "overview": "Kincade and Blake cause a mail plane carrying a payroll to make a forced landing in the desert. When they try to get the money, prospectors Ted and Si drive them away. With the pilot shot, Ted takes over as pilot figuring another attempt will be made and this time the Sheriff will be there.",
+        "poster_path": "/20RL2pEFErc3jfos2OsK12M0TCI.jpg",
+        "backdrop_path": "/upOHE3CqO3xnIqGZC5jYZjuzduT.jpg",
+        "production_companies": [
+            {
+                "name": "Trem Carr Pictures",
+                "id": 44654
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023566",
+        "original_language": "en",
+        "popularity": 0.837,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 104557,
+        "title": "Doughboys",
+        "release_date": "1930-08-30",
+        "overview": "Elmer, rich society loafer, falls for Mary, but she'll have nothing to do with him until (mistakenly thinking that he's hiring a new chauffeur) he accidentally volunteers for the army. Luckily, Mary's signed up to entertain the troops. Unluckily, Elmer's sergeant likes Mary, too. And worst of all, they're all about to ship out for France.",
+        "poster_path": "/7VFMmjs1nzzwesPlGwPN7ppIl8q.jpg",
+        "backdrop_path": "/tTG9fJJ8GhMZClb6StkDhH13oQ3.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020838",
+        "original_language": "en",
+        "popularity": 0.837,
+        "status": "Released",
+        "tagline": "The Laughing Gas of The Big Fight!",
+        "video": false
+    },
+    {
+        "id_tmdb": 262460,
+        "title": "1914",
+        "release_date": "1931-01-20",
+        "overview": "The film focuses on the leadership of the Great Powers of Europe in the days leading up to the outbreak of the First World War.",
+        "poster_path": "/9aIBV1ZjBxaHye2RKtDk7JF7q95.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "UFA",
+                "id": 12372
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020619",
+        "original_language": "de",
+        "popularity": 0.834,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 853448,
+        "title": "Rikugun Daikoshin",
+        "release_date": "1932-05-06",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3024170",
+        "original_language": "ja",
+        "popularity": 0.826,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 355147,
+        "title": "The Battle",
+        "release_date": "1934-05-11",
+        "overview": "The Battle is a 1934 Franco-British co-production English language drama film directed by Nicolas Farkas and Viktor Tourjansky, and starring Charles Boyer, Merle Oberon and John Loder. It was adapted from a novel by Claude Farrère. In 1904 during the Russo-Japanese War, a Japanese naval officer gets his wife to seduce a British atachee in order to gain secrets from him. Things begin to go wrong when she instead falls in love with him.",
+        "poster_path": "/5U3FNu8UXQMpysjc0sRzzYdW9kl.jpg",
+        "backdrop_path": "/tGuAgLSQ8gDOsPUi82Z97RV8eKh.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont-British Picture Corporation",
+                "id": 4978
+            },
+            {
+                "name": "Liano Films",
+                "id": 104724
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025892",
+        "original_language": "en",
+        "popularity": 0.788,
+        "status": "Released",
+        "tagline": "HE COMMANDED HER TO LOVE ANOTHER MAN!",
+        "video": false
+    },
+    {
+        "id_tmdb": 406417,
+        "title": "The Last Masquerade",
+        "release_date": "1934-10-25",
+        "overview": "",
+        "poster_path": "/sj5fwKaBWXODrqbxRt8XlAWQQJb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Georgia-Film",
+                "id": 186508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ka",
+                "name": "ქართული"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025672",
+        "original_language": "ka",
+        "popularity": 0.752,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 423820,
+        "title": "The Doomed Battalion",
+        "release_date": "1932-04-30",
+        "overview": "During World War 1, an Austrian Battalion holds a mountain stronghold against the attack of the Italian army.",
+        "poster_path": "/iSeYwAeGVMBcz5AB7jlR5J7FYGJ.jpg",
+        "backdrop_path": "/qe1EpcVosXNhsW9HQ1qPPUnx3Od.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022831",
+        "original_language": "en",
+        "popularity": 0.741,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 295843,
+        "title": "Captain of the Guard",
+        "release_date": "1930-03-28",
+        "overview": "In this operetta, the captain of the king's guard secretly works for the rebellion during the French Revolution and is in love with the movement's symbolic leader.",
+        "poster_path": "/zkqAEMK6wo5PJjV9ccZTHi75HUp.jpg",
+        "backdrop_path": "/5QbWRIc9LBb0KHDp2EkrNyspFN2.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0020741",
+        "original_language": "en",
+        "popularity": 0.709,
+        "status": "Released",
+        "tagline": "Mighty Drama! Martial Music! Heart-Filling Romance!",
+        "video": false
+    },
+    {
+        "id_tmdb": 376220,
+        "title": "A Man from Wyoming",
+        "release_date": "1930-07-12",
+        "overview": "A story about a man from Wyoming who enlists in the Army and is sent to the front during World War I. There he saves the life of an American society girl working in the Ambulance Corps. Afterwards at a rest camp, they meet again, fall in love, and are secretly married.",
+        "poster_path": "/lZAFUxyls6RM1Epz7Sf2qTjFnfI.jpg",
+        "backdrop_path": "/njwvezbbqE4NCcukCxpyvPOKY2h.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021112",
+        "original_language": "en",
+        "popularity": 0.707,
+        "status": "Released",
+        "tagline": "FIRST-The Virginian-THEN-The Texan-AND NOW gary COOPER in A MAN from WYOMING",
+        "video": false
+    },
+    {
+        "id_tmdb": 162573,
+        "title": "Bosko the Doughboy",
+        "release_date": "1931-10-17",
+        "overview": "Bosko is a doughboy in the Great War.",
+        "poster_path": "/3la2ZvAJKmvh4DptxKmO5iLwvl5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "The Vitaphone Corporation",
+                "id": 9329
+            },
+            {
+                "name": "Harman-Ising Productions",
+                "id": 106840
+            },
+            {
+                "name": "Leon Schlesinger Productions",
+                "id": 134798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.688,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021687",
+        "original_language": "en",
+        "popularity": 0.671,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 353112,
+        "title": "The W Plan",
+        "release_date": "1930-02-25",
+        "overview": "A tense WWI spy thriller in which Colonel Duncan Grant (British star Brian Aherne, in his first talking role), parachutes into Germany to gather intelligence on the enemy’s secret  ‘W Plan’ and to assist Allied POWs in digging escape tunnels.",
+        "poster_path": "/hCw003YlaDVnGQ0JyaEhPe306Vb.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "British International Pictures",
+                "id": 305
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022545",
+        "original_language": "en",
+        "popularity": 0.664,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 307362,
+        "title": "Tell England",
+        "release_date": "1931-03-02",
+        "overview": "In England, two young friends, confronted with the outbreak of World War I, enlist together to serve in the same company on the battle-field.",
+        "poster_path": "/qkPs6ld6xZb20j2gmyN6l3qpjSu.jpg",
+        "backdrop_path": "/nFYpGjHbgVzOKJeJDQmesA81829.jpg",
+        "production_companies": [
+            {
+                "name": "British Instructional Films Ltd.",
+                "id": 90379
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022468",
+        "original_language": "en",
+        "popularity": 0.642,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 246301,
+        "title": "Crimson Romance",
+        "release_date": "1934-10-12",
+        "overview": "After Fred von Bergen, a German immigrant in America, is forced from his job by anti-German hysteria before the first world war, he and his friend Bob Wilson leave America and join the German air force. There, both men fall in love with ambulance driver Alida Hoffman. When America enters the war, Bob is caught between loyalty to his home country and the threat of execution for desertion and treason to Germany. It remains for his friend Fred to extricate him from the dilemma - but at what cost?",
+        "poster_path": "/ls1eACiKI4fvnClEaKFAVshMdC6.jpg",
+        "backdrop_path": "/3PH9lz55pzQdYuC8Id8FAC8uElN.jpg",
+        "production_companies": [
+            {
+                "name": "Mascot Pictures",
+                "id": 4743
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025011",
+        "original_language": "en",
+        "popularity": 0.616,
+        "status": "Released",
+        "tagline": "By John Bright who wrote \"Public Enemy\", \"Union Depot\", \"The Crowd Roars\", and collaborated on \"She Done Him Wrong\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 89812,
+        "title": "Mountains on Fire",
+        "release_date": "1931-09-27",
+        "overview": "Two of Germany's best and busiest directors collaborated on Berge in Flammen (Mountain in Flames).  The storyline should be of interest to pro-ecologists, inasmuch as the directors take to task the warmongers of the world for despoiling the natural beauties of the European mountain ranges with their shell-fire.  The final outrage occurs during a battle between the Austrians and the Italians in the Dolomites, culminating with the destruction of an entire mountain (hence the film's title).  The harrowing images on screen were complemented perfectly by the musical score of Giuseppe Beece.  Also known as The Doomed Batallion, Berge in Flammen was filmed in three different languages -- German, English, French -- for a total cost of $150,000.",
+        "poster_path": "/bWz98phOygjDLXj5W7NyTRm6YFF.jpg",
+        "backdrop_path": "/lWShZOM7STAqaQlF7Ej39mqkRzN.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films Marcel Vandal et Charles Delac",
+                "id": 19072
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021653",
+        "original_language": "de",
+        "popularity": 0.61,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 466307,
+        "title": "Shadow of Pancho Villa",
+        "release_date": "1933-02-08",
+        "overview": "A 1933 film.",
+        "poster_path": "/ln6RVxENFgbbdqCV9cBgxNj2UHQ.jpg",
+        "backdrop_path": "/pPQlb1A69jHaV60pafYS9s0p1jE.jpg",
+        "production_companies": [
+            {
+                "name": "Miguel Contreras Torres",
+                "id": 83711
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0023391",
+        "original_language": "es",
+        "popularity": 0.608,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 426114,
+        "title": "The Other Side",
+        "release_date": "1931-10-29",
+        "overview": "The First World War. The young, English Lieutenant Raleigh is sent to the company of a disillusioned Captain Stanhope. Stanhope is secretly engaged to Raleigh's sister and is intent on protecting his image of an exemplary officer. An attack on the German lines, in which Raleigh also takes part, has turned into a bloody fiasco. Now Raleigh, too, knows the horrors of war, which have already taken their toll on Stanhope.",
+        "poster_path": "/AaceQNVRaKNVFY0syhHUEuGnzOA.jpg",
+        "backdrop_path": "/oKmxaJSfkqEF1Ym3KweATOuRSUV.jpg",
+        "production_companies": [
+            {
+                "name": "Cando-Film",
+                "id": 73785
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021609",
+        "original_language": "de",
+        "popularity": 0.603,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 193638,
+        "title": "A Soldier's Plaything",
+        "release_date": "1930-10-30",
+        "overview": "A pair of hapless half-wits get into continuous mischief during the occupation of Germany after WW I.",
+        "poster_path": "/rypLxxR71o2L1VLuAAymNr1p5o1.jpg",
+        "backdrop_path": "/gp0kXKZR8B7wOWvnWH0gAPV8Uxa.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022409",
+        "original_language": "en",
+        "popularity": 0.602,
+        "status": "Released",
+        "tagline": "The boys are out of the front lines and are embracing the waistlines of mademoiselle from Armentiers and Fraulien Coblenz.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1078053,
+        "title": "中国海的怒潮",
+        "release_date": "1933-01-01",
+        "overview": "",
+        "poster_path": "/qgow1PVtOuJvj4pCIY0OtCjEppo.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Yihua Film Company",
+                "id": 97478
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0194581",
+        "original_language": "zh",
+        "popularity": 0.599,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 797684,
+        "title": "Corianton: A Story of Unholy Love",
+        "release_date": "1931-10-01",
+        "overview": "Corianton is unsure of his father Alma's religious teachings until God strikes down a religious foe. Converted, he becomes a successful missionary until seduced by the harlot Isabel. Struck with guilt, he runs away until discovered by his brother Shiblon who is then killed. While mourning, Corianton has a vision of Jesus and leads his people in victorious battle.",
+        "poster_path": "/ritNGOE44ZSWbvfexlsYAXIFHD7.jpg",
+        "backdrop_path": "/4jONY3ZyL0vHlhBf8KaZxdS06u6.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3368190",
+        "original_language": "en",
+        "popularity": 0.585,
+        "status": "Released",
+        "tagline": "Civilized America Before The Indians",
+        "video": false
+    },
+    {
+        "id_tmdb": 620997,
+        "title": "The Two Worlds",
+        "release_date": "1930-09-12",
+        "overview": "",
+        "poster_path": "/2CGHOafNWkmLdWrHMmEaTrhrsu0.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Le Film d'art",
+                "id": 1573
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0193873",
+        "original_language": "fr",
+        "popularity": 0.581,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 469854,
+        "title": "Two Worlds",
+        "release_date": "1930-07-28",
+        "overview": "An old Jewish man is forced to hide the Austrian lieutenant who killed his son and loves his daughter.",
+        "poster_path": "/6O3ck6Q2xPZIGsMmlanRx0cmDFr.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Greenbaum-Film",
+                "id": 31840
+            },
+            {
+                "name": "British International Pictures",
+                "id": 305
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021497",
+        "original_language": "en",
+        "popularity": 0.58,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 489227,
+        "title": "Two Worlds",
+        "release_date": "1930-09-15",
+        "overview": "German language version of Two Worlds.",
+        "poster_path": "/bb3sZsNbk5IwukKTV5rSojUFU1L.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0835065",
+        "original_language": "de",
+        "popularity": 0.566,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 768745,
+        "title": "Colonel Svec",
+        "release_date": "1930-02-14",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ocean-Film",
+                "id": 62353
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "xx",
+                "name": "No Language"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1092280",
+        "original_language": "cs",
+        "popularity": 0.554,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 538747,
+        "title": "Private Jones",
+        "release_date": "1933-03-25",
+        "overview": "After America enters World War I, young William \"Bill\" Jones tries to avoid military service by telling the draft board that he is the sole supporter of his family and is employed by businessman Roger Winthrop, his sister Helen's boss.",
+        "poster_path": "/qN7gfCO5a9CNVUVDLjEsA1q5gB.jpg",
+        "backdrop_path": "/oOGCirbC0fXjym7xlcrU1DyBcvK.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024472",
+        "original_language": "en",
+        "popularity": 0.553,
+        "status": "Released",
+        "tagline": "He told his lieutenant where to get off!...and the cockiest kid in the army made that one big mistake!",
+        "video": false
+    },
+    {
+        "id_tmdb": 467109,
+        "title": "All Riot on the Western Front",
+        "release_date": "1930-02-01",
+        "overview": "A comedy short Directed by  Castleton Knight,",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Butcher's Film Service",
+                "id": 5998
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0290408",
+        "original_language": "en",
+        "popularity": 0.538,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 424638,
+        "title": "Baroud",
+        "release_date": "1932-09-28",
+        "overview": "English-language version of Baroud, sometimes referred to as Love in Morocco.  'A sergeant in the Foreign Legion falls in love with Zinah, the daughter of a Berber chief.' (British Film Institute)",
+        "poster_path": "/eFHQxGxFXysUyhTtNxUBBKvtM0K.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Super-Film",
+                "id": 77424
+            },
+            {
+                "name": "Gaumont-British Picture Corporation",
+                "id": 4978
+            },
+            {
+                "name": "Armor Films",
+                "id": 77422
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022655",
+        "original_language": "en",
+        "popularity": 0.538,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1258516,
+        "title": "Leier und Schwert",
+        "release_date": "1930-01-01",
+        "overview": "Atmospheric image from the Wars of Liberation. The poet Theodor Körner, who was later killed in battle, is shown reciting a poem while the soldiers listen with emotion.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Klangfilm",
+                "id": 223355
+            },
+            {
+                "name": "Tobis Tonbild Syndikat",
+                "id": 171933
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0440572",
+        "original_language": "de",
+        "popularity": 0.508,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 387283,
+        "title": "The Last Company",
+        "release_date": "1930-03-14",
+        "overview": "Following the Battle of Jena in 1806 as the French armies commanded by Napoleon overrun Prussia, a small detachment of Prussian troops take up position in a windmill and resolve fight to the last man to hold them off for as long as possible. Meanwhile, the windmill owner's daughter chooses to stay and fight alongside them.",
+        "poster_path": "/c8CU1gUnDULAupK3B86FzQ2XmJx.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "UFA",
+                "id": 12372
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0021064",
+        "original_language": "de",
+        "popularity": 0.505,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 425095,
+        "title": "The Last Parade",
+        "release_date": "1931-01-31",
+        "overview": "During the war two friends love the same nurse. After the war one becomes a detective, the other a racketeer.",
+        "poster_path": "/b1RaNASx0xon0Rk60LdI94PFJ6Z.jpg",
+        "backdrop_path": "/hdAVpoXlwLsN52yaSzxIkq7LMFB.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022055",
+        "original_language": "en",
+        "popularity": 0.493,
+        "status": "Released",
+        "tagline": "The thrilling story of a Gangster's Final Fadeout",
+        "video": false
+    },
+    {
+        "id_tmdb": 317112,
+        "title": "Keep 'Em Rolling",
+        "release_date": "1934-03-02",
+        "overview": "World War I drama about a soldier and the wild horse he befriends.",
+        "poster_path": "/B32BCWOdGVs3HHVQto8FYvt620.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0025342",
+        "original_language": "en",
+        "popularity": 0.491,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 330397,
+        "title": "Shock Troop",
+        "release_date": "1934-02-20",
+        "overview": "This powerful anti-war film statement focuses on the plight of a German unit in World War I that finds itself surrounded by British and French forces.",
+        "poster_path": "/uwIfu1hPp97jmuaayq1nK1ntJTt.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0140572",
+        "original_language": "de",
+        "popularity": 0.489,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 388457,
+        "title": "Marshal Forward",
+        "release_date": "1932-11-23",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0257904",
+        "original_language": "de",
+        "popularity": 0.477,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 199868,
+        "title": "Secret Service",
+        "release_date": "1931-11-14",
+        "overview": "In 1864 a Secret Service agent for the Union army goes undercover in Richmond and pretends to be a Confederate captain.",
+        "poster_path": "/jkGZSGeZs52wBzoWkjNh4T2wriy.jpg",
+        "backdrop_path": "/lnwnXyruyzbmaS5GlXDOZafmz2j.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0022356",
+        "original_language": "en",
+        "popularity": 0.477,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 201477,
+        "title": "Men Must Fight",
+        "release_date": "1933-02-17",
+        "overview": "Prophetic tale of a mother in 1940 trying to keep her son out of war.",
+        "poster_path": "/1uD1AkIgJtOB5lu7LW2rpJcBI0P.jpg",
+        "backdrop_path": "/h31MiBgn3aO8yGUWtaAa2E5EqJu.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0024325",
+        "original_language": "en",
+        "popularity": 0.459,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

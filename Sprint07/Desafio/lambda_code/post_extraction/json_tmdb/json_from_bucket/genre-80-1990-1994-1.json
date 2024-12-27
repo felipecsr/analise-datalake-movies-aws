@@ -1,0 +1,4668 @@
+[
+    {
+        "id_tmdb": 278,
+        "title": "The Shawshank Redemption",
+        "release_date": "1994-09-23",
+        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "production_companies": [
+            {
+                "name": "Castle Rock Entertainment",
+                "id": 97
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 28341469,
+        "vote_average": 8.708,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0111161",
+        "original_language": "en",
+        "popularity": 209.493,
+        "status": "Released",
+        "tagline": "Fear can hold you prisoner. Hope can set you free.",
+        "video": false
+    },
+    {
+        "id_tmdb": 680,
+        "title": "Pulp Fiction",
+        "release_date": "1994-09-10",
+        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "production_companies": [
+            {
+                "name": "Miramax",
+                "id": 14
+            },
+            {
+                "name": "A Band Apart",
+                "id": 59
+            },
+            {
+                "name": "Jersey Films",
+                "id": 216
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 8000000,
+        "revenue": 213928762,
+        "vote_average": 8.488,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.miramax.com/movie/pulp-fiction/",
+        "imdb_id": "tt0110912",
+        "original_language": "en",
+        "popularity": 96.414,
+        "status": "Released",
+        "tagline": "You won't know the facts until you've seen the fiction.",
+        "video": false
+    },
+    {
+        "id_tmdb": 101,
+        "title": "Léon: The Professional",
+        "release_date": "1994-09-14",
+        "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+        "poster_path": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+        "backdrop_path": "/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont",
+                "id": 9
+            },
+            {
+                "name": "Les Films du Dauphin",
+                "id": 66743
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 16000000,
+        "revenue": 45284974,
+        "vote_average": 8.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110413",
+        "original_language": "fr",
+        "popularity": 80.132,
+        "status": "Released",
+        "tagline": "If you want the job done right, hire a professional.",
+        "video": false
+    },
+    {
+        "id_tmdb": 769,
+        "title": "GoodFellas",
+        "release_date": "1990-09-12",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+        "production_companies": [
+            {
+                "name": "Winkler Films",
+                "id": 8880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 46800000,
+        "vote_average": 8.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.warnerbros.com/goodfellas",
+        "imdb_id": "tt0099685",
+        "original_language": "en",
+        "popularity": 78.61,
+        "status": "Released",
+        "tagline": "Three decades of life in the mafia.",
+        "video": false
+    },
+    {
+        "id_tmdb": 854,
+        "title": "The Mask",
+        "release_date": "1994-07-29",
+        "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+        "poster_path": "/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+        "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+        "production_companies": [
+            {
+                "name": "Dark Horse Entertainment",
+                "id": 552
+            },
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sv",
+                "name": "svenska"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 23000000,
+        "revenue": 351583407,
+        "vote_average": 6.959,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 43072,
+            "name": "The Mask Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0110475",
+        "original_language": "en",
+        "popularity": 77.727,
+        "status": "Released",
+        "tagline": "From zero to hero.",
+        "video": false
+    },
+    {
+        "id_tmdb": 242,
+        "title": "The Godfather Part III",
+        "release_date": "1990-12-25",
+        "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+        "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+        "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "American Zoetrope",
+                "id": 70
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 54000000,
+        "revenue": 136766062,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 230,
+            "name": "The Godfather Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0099674",
+        "original_language": "en",
+        "popularity": 61.886,
+        "status": "Released",
+        "tagline": "All the power on earth can't change destiny.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11212,
+        "title": "Baby's Day Out",
+        "release_date": "1994-07-01",
+        "overview": "Baby Bink couldn't ask for more: he has adoring (if somewhat sickly-sweet) parents, lives in a huge mansion, and he's just about to appear in the social pages of the paper. Unfortunately, not everyone in the world is as nice as Baby Bink's parents—especially the three enterprising kidnappers who pretend to be photographers from the newspaper. Successfully kidnapping Baby Bink, they have a harder time keeping hold of the rascal, who not only keeps one step ahead of them, but seems to be more than a little bit smarter than the three bumbling criminals.",
+        "poster_path": "/21U2jwl36hoTHsXB3fDuIQkcchu.jpg",
+        "backdrop_path": "/hq8dZfJEem1SIBCElMAuaJIfl6Q.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Hughes Entertainment",
+                "id": 477
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 16671505,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109190",
+        "original_language": "en",
+        "popularity": 49.716,
+        "status": "Released",
+        "tagline": "No bib. No crib. No problem.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2322,
+        "title": "Sneakers",
+        "release_date": "1992-09-09",
+        "overview": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
+        "poster_path": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+        "backdrop_path": "/smK3ud9IKSLVuRXdKauJ9p0DwNB.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 23000000,
+        "revenue": 105232691,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105435",
+        "original_language": "en",
+        "popularity": 48.324,
+        "status": "Released",
+        "tagline": "We could tell you what it's about. But then, of course, we'd have to kill you.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1607,
+        "title": "A Bronx Tale",
+        "release_date": "1993-10-01",
+        "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+        "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+        "backdrop_path": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+        "production_companies": [
+            {
+                "name": "Price Entertainment",
+                "id": 23808
+            },
+            {
+                "name": "Penta Entertainment",
+                "id": 73866
+            },
+            {
+                "name": "Tribeca Productions",
+                "id": 11391
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 22000000,
+        "revenue": 17287898,
+        "vote_average": 7.864,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0106489",
+        "original_language": "en",
+        "popularity": 44.697,
+        "status": "Released",
+        "tagline": "One man lives in the neighborhood, another man owns it. A devoted father battles the local crime boss for the life of his son.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9739,
+        "title": "Demolition Man",
+        "release_date": "1993-10-08",
+        "overview": "Simon Phoenix, a violent criminal cryogenically frozen in 1996, escapes during a parole hearing in 2032 in the utopia of San Angeles. Police are incapable of dealing with his violent ways and turn to his captor, who had also been cryogenically frozen after being wrongfully accused of killing 30 innocent people while apprehending Phoenix.",
+        "poster_path": "/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+        "backdrop_path": "/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
+        "production_companies": [
+            {
+                "name": "Silver Pictures",
+                "id": 1885
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 57000000,
+        "revenue": 58055768,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.warnerbros.com/movies/demolition-man",
+        "imdb_id": "tt0106697",
+        "original_language": "en",
+        "popularity": 41.98,
+        "status": "Released",
+        "tagline": "The future isn't big enough for the both of them.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9702,
+        "title": "Bound by Honor",
+        "release_date": "1993-02-05",
+        "overview": "Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on half-brothers Paco and Cruz, and their bi-racial cousin Miklo. It opens in 1972, as the three are members of an East L.A. gang known as the \"Vatos Locos\", and the story focuses on how a violent crime and the influence of narcotics alter their lives. Miklo is incarcerated and sent to San Quentin, where he makes a \"home\" for himself. Cruz becomes an exceptional artist, but a heroin addiction overcomes him with tragic results. Paco becomes a cop and an enemy to his \"carnal\", Miklo.",
+        "poster_path": "/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+        "backdrop_path": "/9xjUZjuYyehv2qnqMH0oR9nSTft.jpg",
+        "production_companies": [
+            {
+                "name": "Hollywood Pictures",
+                "id": 915
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 4500000,
+        "vote_average": 8.14,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0106469",
+        "original_language": "en",
+        "popularity": 39.375,
+        "status": "Released",
+        "tagline": "An epic story of three brothers. Bound by blood. Divided by fate. Driven by destiny.",
+        "video": false
+    },
+    {
+        "id_tmdb": 500,
+        "title": "Reservoir Dogs",
+        "release_date": "1992-09-02",
+        "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+        "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "backdrop_path": "/7JQjyIhndLuQsBgAjT6fWeVtugh.jpg",
+        "production_companies": [
+            {
+                "name": "Live Entertainment",
+                "id": 285
+            },
+            {
+                "name": "Dog Eat Dog Productions",
+                "id": 26198
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1200000,
+        "revenue": 2859750,
+        "vote_average": 8.121,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105236",
+        "original_language": "en",
+        "popularity": 39.132,
+        "status": "Released",
+        "tagline": "Every dog has his day.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2019,
+        "title": "Hard Target",
+        "release_date": "1993-04-27",
+        "overview": "When a woman's father goes missing, she enlists a local to aid in her search.  The pair soon discover that her father has died at the hands of a wealthy sportsman who hunts homeless men as a form of recreation.",
+        "poster_path": "/mXCM7pmUFUGp7QzSmare3RITe6n.jpg",
+        "backdrop_path": "/4IRHnS9Ljvb4tGI2SGaSiQikcaE.jpg",
+        "production_companies": [
+            {
+                "name": "Alphaville Films",
+                "id": 11462
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Renaissance Pictures",
+                "id": 467
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 18000000,
+        "revenue": 74189677,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 412680,
+            "name": "Hard Target Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0107076",
+        "original_language": "en",
+        "popularity": 35.238,
+        "status": "Released",
+        "tagline": "Don't hunt what you can't kill.",
+        "video": false
+    },
+    {
+        "id_tmdb": 319,
+        "title": "True Romance",
+        "release_date": "1993-09-09",
+        "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+        "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+        "backdrop_path": "/9lzBxaGXQ2Uy62caE1pzEnDko1h.jpg",
+        "production_companies": [
+            {
+                "name": "Morgan Creek Entertainment",
+                "id": 10210
+            },
+            {
+                "name": "Davis Films",
+                "id": 342
+            },
+            {
+                "name": "August Entertainment",
+                "id": 3322
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 12500000,
+        "revenue": 12600000,
+        "vote_average": 7.542,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0108399",
+        "original_language": "en",
+        "popularity": 34.721,
+        "status": "Released",
+        "tagline": "Stealing. Cheating. Killing. Who said romance was dead?",
+        "video": false
+    },
+    {
+        "id_tmdb": 1089,
+        "title": "Point Break",
+        "release_date": "1991-07-12",
+        "overview": "In Los Angeles, a gang of bank robbers who call themselves The Ex-Presidents commit their crimes while wearing masks of Reagan, Carter, Nixon and Johnson. Believing that the members of the gang could be surfers, the F.B.I. sends young agent Johnny Utah to the beach undercover to mix with the surfers and gather information.",
+        "poster_path": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+        "backdrop_path": "/3PQLohxgvjUQgF94sY5SEgVKSS6.jpg",
+        "production_companies": [
+            {
+                "name": "Largo Entertainment",
+                "id": 1644
+            },
+            {
+                "name": "JVC",
+                "id": 182
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 24000000,
+        "revenue": 83531958,
+        "vote_average": 7.167,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102685",
+        "original_language": "en",
+        "popularity": 34.181,
+        "status": "Released",
+        "tagline": "100% pure adrenaline.",
+        "video": false
+    },
+    {
+        "id_tmdb": 37137,
+        "title": "The Naked Gun 2½: The Smell of Fear",
+        "release_date": "1991-06-28",
+        "overview": "Bumbling lieutenant Frank Drebin is out to foil the big boys in the energy industry, who intend to suppress technology that will put them out of business.",
+        "poster_path": "/v9niLQWVzVPB1cP1ThNdEaLZG1Q.jpg",
+        "backdrop_path": "/kCW0C3Bv5IsasICx3StdNEejfB5.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 23000000,
+        "revenue": 192030411,
+        "vote_average": 6.789,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 37139,
+            "name": "Naked Gun Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0102510",
+        "original_language": "en",
+        "popularity": 32.708,
+        "status": "Released",
+        "tagline": "If you see only one movie this year...you ought to get out more often",
+        "video": false
+    },
+    {
+        "id_tmdb": 9594,
+        "title": "Double Impact",
+        "release_date": "1991-07-31",
+        "overview": "Jean Claude Van Damme plays a dual role as Alex and Chad, twins separated at the death of their parents. Chad is raised by a family retainer in Paris, Alex becomes a petty crook in Hong Kong. Seeing a picture of Alex, Chad rejoins him and convinces him that his rival in Hong Kong is also the man who killed their parents. Alex is suspicious of Chad, especially when it comes to his girlfriend.",
+        "poster_path": "/jEXOguTFhYV93cq65XfiazbkfYK.jpg",
+        "backdrop_path": "/iI0n28l5vn3K1GdXHVoA54kRemv.jpg",
+        "production_companies": [
+            {
+                "name": "Stone Group Pictures",
+                "id": 3470
+            },
+            {
+                "name": "Vision International",
+                "id": 3603
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 30102717,
+        "vote_average": 6.147,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101764",
+        "original_language": "en",
+        "popularity": 32.127,
+        "status": "Released",
+        "tagline": "One packs a punch. One packs a piece. Together they deliver...",
+        "video": false
+    },
+    {
+        "id_tmdb": 11782,
+        "title": "Hard Boiled",
+        "release_date": "1992-04-16",
+        "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
+        "poster_path": "/mbA77wY7fjh2TSQ3FxEuqpKOOA8.jpg",
+        "backdrop_path": "/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
+        "production_companies": [
+            {
+                "name": "Golden Princess Film Productions",
+                "id": 6213
+            },
+            {
+                "name": "Milestone Productions",
+                "id": 77
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4500000,
+        "revenue": 0,
+        "vote_average": 7.538,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104684",
+        "original_language": "cn",
+        "popularity": 30.683,
+        "status": "Released",
+        "tagline": "As a cop, he has brains, brawn, and an instinct to kill.",
+        "video": false
+    },
+    {
+        "id_tmdb": 5549,
+        "title": "RoboCop 2",
+        "release_date": "1990-06-22",
+        "overview": "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP's path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+        "poster_path": "/uL3Ab6SOcN35ZTF2XrE1NzFwXdl.jpg",
+        "backdrop_path": "/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 45681173,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 5547,
+            "name": "RoboCop Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0100502",
+        "original_language": "en",
+        "popularity": 30.296,
+        "status": "Released",
+        "tagline": "He's back to protect the innocent.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1541,
+        "title": "Thelma & Louise",
+        "release_date": "1991-05-24",
+        "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+        "poster_path": "/y66rxathLobXk7xaUgPr4etBkRN.jpg",
+        "backdrop_path": "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "Pathé Entertainment",
+                "id": 841
+            },
+            {
+                "name": "Scott Free Productions",
+                "id": 1645
+            },
+            {
+                "name": "Star Partners III Ltd.",
+                "id": 21854
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 16000000,
+        "revenue": 45361000,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0103074",
+        "original_language": "en",
+        "popularity": 30.215,
+        "status": "Released",
+        "tagline": "Somebody said get a life...so they did.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10975,
+        "title": "Operation Condor",
+        "release_date": "1991-02-07",
+        "overview": "Hired by a Spanish baron, Hong Kong treasure hunter Jackie, a.k.a. \"Asian Hawk\" and his entourage seek WWII Nazi gold buried in the Sahara Desert.",
+        "poster_path": "/vkj5JxVgY1ZYhX4pBHHgwdRNEkl.jpg",
+        "backdrop_path": "/leHpAsKAJGnNuv5EPAUZUbqrRxq.jpg",
+        "production_companies": [
+            {
+                "name": "Paragon Films Ltd.",
+                "id": 2734
+            },
+            {
+                "name": "Golden Way Films Ltd.",
+                "id": 3054
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 24100000,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 146136,
+            "name": "Armour of God Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0099558",
+        "original_language": "cn",
+        "popularity": 30.002,
+        "status": "Released",
+        "tagline": "On his most dangerous mission ever, the world's toughest secret agent isn't going in alone.",
+        "video": false
+    },
+    {
+        "id_tmdb": 650,
+        "title": "Boyz n the Hood",
+        "release_date": "1991-07-12",
+        "overview": "In the middle of the Los Angeles ghetto, drugs, robberies and shootings dominate everyday life. During these times, Furious tries to raise his son Tre to be a decent person. Tre's friends, on the other hand, have little regard for the law and drag the entire neighborhood into a street war...",
+        "poster_path": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+        "backdrop_path": "/7uOHThwVMTC1r1pOdR61kytwTWw.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6500000,
+        "revenue": 57504069,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101507",
+        "original_language": "en",
+        "popularity": 29.212,
+        "status": "Released",
+        "tagline": "Once upon a time in South Central L.A... It ain't no fairy tale.",
+        "video": false
+    },
+    {
+        "id_tmdb": 6075,
+        "title": "Carlito's Way",
+        "release_date": "1993-11-10",
+        "overview": "A Puerto-Rican ex-con, just released from prison, pledges to stay away from drugs and violence despite the pressure around him, and lead a better life outside NYC.",
+        "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+        "backdrop_path": "/38yjZWYBI0xxNqoBKiGyA4UZjk.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Epic Productions",
+                "id": 1988
+            },
+            {
+                "name": "Bregman/Baer Productions",
+                "id": 11393
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 63800000,
+        "vote_average": 7.838,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 625861,
+            "name": "Carlito's Way Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0106519",
+        "original_language": "en",
+        "popularity": 29.201,
+        "status": "Released",
+        "tagline": "He's got a good future if he can live past next week.",
+        "video": false
+    },
+    {
+        "id_tmdb": 943,
+        "title": "Lethal Weapon 3",
+        "release_date": "1992-05-15",
+        "overview": "Archetypal buddy cops Riggs and Murtaugh are back for another round of high-stakes action, this time setting their collective sights on bringing down a former Los Angeles police lieutenant turned black market weapons dealer. Lorna Cole joins as the beautiful yet hardnosed internal affairs sergeant who catches Riggs's eye.",
+        "poster_path": "/smzJxEnusgqv3bvHIWwf4cuwPcr.jpg",
+        "backdrop_path": "/kmt9XmhmX36sJduuDVFlTgEWh9U.jpg",
+        "production_companies": [
+            {
+                "name": "Silver Pictures",
+                "id": 1885
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "St. Petersburg Clearwater Film Commision",
+                "id": 68619
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 321700000,
+        "vote_average": 6.698,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 945,
+            "name": "Lethal Weapon Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0104714",
+        "original_language": "en",
+        "popularity": 28.753,
+        "status": "Released",
+        "tagline": "The magic is back again!",
+        "video": false
+    },
+    {
+        "id_tmdb": 172760,
+        "title": "China Dolls",
+        "release_date": "1992-01-01",
+        "overview": "Tong catches Chiu attempting to rape his wife May (Amy Yip). They scuffle and Tong shoots Chiu dead with Chiu's gun. They flee but Tong is killed in a shootout with police. May begs an officer to take her child, since if he is repatriated he'll have a horrible life. So, the infant son ends up in Hong Kong separated from his mother. Six years pass and May is a hotel maid then gets forced into prostitution. She longs to see her son, who is now a young boy, maybe to fully reunite with him.",
+        "poster_path": "/v76QuA33D0U11k35r2XAArBLD42.jpg",
+        "backdrop_path": "/s1oDXjkAJ0bsmwV9N7kSMfd1rmf.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105551",
+        "original_language": "cn",
+        "popularity": 28.115,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 11134,
+        "title": "Police Story 3: Super Cop",
+        "release_date": "1992-07-04",
+        "overview": "A Hong Kong detective teams up with his female Red Chinese counterpart to stop a Chinese drug czar.",
+        "poster_path": "/5bWluGiyjCfjNFGhHyMelr6EV1B.jpg",
+        "backdrop_path": "/A7VwVYbtzTcsDUE6hRpXFkOFeJE.jpg",
+        "production_companies": [
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            },
+            {
+                "name": "Golden Way Films Ltd.",
+                "id": 3054
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ms",
+                "name": "Bahasa melayu"
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 900000,
+        "revenue": 20500000,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 269098,
+            "name": "Police Story Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0104558",
+        "original_language": "cn",
+        "popularity": 28.035,
+        "status": "Released",
+        "tagline": "There's never a cop around when you need one, but when this cop's around, all you need is one.",
+        "video": false
+    },
+    {
+        "id_tmdb": 37094,
+        "title": "Falling Down",
+        "release_date": "1993-02-26",
+        "overview": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+        "poster_path": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+        "backdrop_path": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Arnold Kopelson Productions",
+                "id": 16775
+            },
+            {
+                "name": "Le Studio Canal+",
+                "id": 183
+            },
+            {
+                "name": "Regency Enterprises",
+                "id": 508
+            },
+            {
+                "name": "Alcor Films",
+                "id": 644
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 40903593,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0106856",
+        "original_language": "en",
+        "popularity": 27.934,
+        "status": "Released",
+        "tagline": "The adventures of an ordinary man at war with the everyday world.",
+        "video": false
+    },
+    {
+        "id_tmdb": 36593,
+        "title": "Naked Gun 33⅓: The Final Insult",
+        "release_date": "1994-03-18",
+        "overview": "Frank Drebin is persuaded out of retirement to go undercover in a state prison. There he has to find out what top terrorist, Rocco, has planned for when he escapes. Adding to his problems, Frank's wife, Jane, is desperate for a baby.",
+        "poster_path": "/dSZx6OlIb5WTRnGtaGhQQWK2SS.jpg",
+        "backdrop_path": "/bzPuC6iVZXHQeVsCBEjnsPELisg.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 132032598,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 37139,
+            "name": "Naked Gun Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0110622",
+        "original_language": "en",
+        "popularity": 27.569,
+        "status": "Released",
+        "tagline": "Mostly all new jokes.",
+        "video": false
+    },
+    {
+        "id_tmdb": 241,
+        "title": "Natural Born Killers",
+        "release_date": "1994-08-26",
+        "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+        "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+        "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+        "production_companies": [
+            {
+                "name": "J D Productions",
+                "id": 68551
+            },
+            {
+                "name": "Regency Enterprises",
+                "id": 508
+            },
+            {
+                "name": "Alcor Films",
+                "id": 644
+            },
+            {
+                "name": "Ixtlan",
+                "id": 4198
+            },
+            {
+                "name": "New Regency Pictures",
+                "id": 10104
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "nv",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 34000000,
+        "revenue": 50283563,
+        "vote_average": 7.065,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110632",
+        "original_language": "en",
+        "popularity": 27.243,
+        "status": "Released",
+        "tagline": "The media made them superstars.",
+        "video": false
+    },
+    {
+        "id_tmdb": 64348,
+        "title": "Robotrix",
+        "release_date": "1991-05-31",
+        "overview": "A mad scientist transfers his mind to a wicked robot, which then embarks on a program of kidnaping, rape and murder, during which a female detective is killed. To fight the robot, the police woman's corpse is then made into a robotrix.",
+        "poster_path": "/3ikwwNbk7GVorndt8lUyzaqIWpu.jpg",
+        "backdrop_path": "/77xGRxOy5AxPVjkcmM0XxwbVfS6.jpg",
+        "production_companies": [
+            {
+                "name": "Paragon Films Ltd.",
+                "id": 2734
+            },
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102562",
+        "original_language": "cn",
+        "popularity": 27.036,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 5550,
+        "title": "RoboCop 3",
+        "release_date": "1993-01-21",
+        "overview": "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+        "poster_path": "/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",
+        "backdrop_path": "/hA4JZRL35vO4ez4UGUGUg9QlMwU.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 22000000,
+        "revenue": 10696210,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 5547,
+            "name": "RoboCop Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0107978",
+        "original_language": "en",
+        "popularity": 25.779,
+        "status": "Released",
+        "tagline": "He's back. Back on line. Back on duty.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10731,
+        "title": "The Client",
+        "release_date": "1994-07-20",
+        "overview": "A street-wise kid, Mark Sway, sees the suicide of Jerome Clifford, a prominent Louisiana lawyer, whose current client is Barry 'The Blade' Muldano, a Mafia hit-man. Before Jerome shoots himself, he tells Mark where the body of a Senator is buried. Clifford shoots himself and Mark is found at the scene, and both the FBI and the Mafia quickly realize that Mark probably knows more than he says.",
+        "poster_path": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+        "backdrop_path": "/w4xGQosfHkJxftUyusX6R7GYciS.jpg",
+        "production_companies": [
+            {
+                "name": "Alcor Films",
+                "id": 644
+            },
+            {
+                "name": "Regency Enterprises",
+                "id": 508
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 45000000,
+        "revenue": 117615211,
+        "vote_average": 6.676,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109446",
+        "original_language": "en",
+        "popularity": 25.003,
+        "status": "Released",
+        "tagline": "A district attorney out for a conviction. A new lawyer out of her league. A young boy who knew too much.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11546,
+        "title": "Police Academy: Mission to Moscow",
+        "release_date": "1994-06-09",
+        "overview": "The Russians seek help in dealing with the Mafia from the veterans of the Police Academy. They head off to Moscow, in order to find evidence against Konstantin Konali, who marketed a computer game that everyone in the world is playing.",
+        "poster_path": "/3517XQ9LpoEykyYq2TuDNS45MPP.jpg",
+        "backdrop_path": "/Y8b33EkncHL9mLRVvSPSB2SQol.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Studio Trite",
+                "id": 3467
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 126247,
+        "vote_average": 4.637,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 9338,
+            "name": "Police Academy Collection"
+        },
+        "homepage": "https://www.warnerbros.com/movies/police-academy-mission-moscow/",
+        "imdb_id": "tt0110857",
+        "original_language": "en",
+        "popularity": 24.858,
+        "status": "Released",
+        "tagline": "Just when we thought the Cold War was over, leave it to these guys to heat it up again.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1598,
+        "title": "Cape Fear",
+        "release_date": "1991-11-13",
+        "overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+        "poster_path": "/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+        "backdrop_path": "/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+        "production_companies": [
+            {
+                "name": "Amblin Entertainment",
+                "id": 56
+            },
+            {
+                "name": "Cappa Productions",
+                "id": 691
+            },
+            {
+                "name": "Tribeca Productions",
+                "id": 11391
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 182300000,
+        "vote_average": 7.262,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101540",
+        "original_language": "en",
+        "popularity": 24.777,
+        "status": "Released",
+        "tagline": "Sam Bowden has always provided for his family's future. But the past is coming back to haunt them.",
+        "video": false
+    },
+    {
+        "id_tmdb": 15804,
+        "title": "A Brighter Summer Day",
+        "release_date": "1991-07-27",
+        "overview": "A boy experiences first love, friendships and injustices growing up in 1960s Taiwan.",
+        "poster_path": "/rDZ2mNQkZrnSzHPLQ7SzhzgCSoj.jpg",
+        "backdrop_path": "/djvXCedFiwbfp4HSoX3VU3WUVVm.jpg",
+        "production_companies": [
+            {
+                "name": "Yang & His Gang Filmmakers",
+                "id": 70884
+            },
+            {
+                "name": "Brighter Summer Productions",
+                "id": 238336
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0101985",
+        "original_language": "zh",
+        "popularity": 24.199,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 306,
+        "title": "Beverly Hills Cop III",
+        "release_date": "1994-05-24",
+        "overview": "When his boss is killed, Detroit cop Axel Foley finds evidence that the murderer had ties to a California amusement park called Wonder World. Returning to sunny Beverly Hills once more, Foley reunites with Detective Billy Rosewood to solve the case. Along with Billy's new partner, Detective Jon Flint, they discover that Wonder World is being used as a front for a massive counterfeiting ring.",
+        "poster_path": "/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
+        "backdrop_path": "/wnxg3DsHRlSyJNHpVwwqWdOedGN.jpg",
+        "production_companies": [
+            {
+                "name": "Eddie Murphy Productions",
+                "id": 30
+            },
+            {
+                "name": "Mace Neufeld Productions",
+                "id": 2767
+            },
+            {
+                "name": "Robert Rehme Productions",
+                "id": 211576
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 119208989,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 85861,
+            "name": "Beverly Hills Cop Collection"
+        },
+        "homepage": "https://www.paramountmovies.com/movies/beverly-hills-cop-iii",
+        "imdb_id": "tt0109254",
+        "original_language": "en",
+        "popularity": 23.913,
+        "status": "Released",
+        "tagline": "In for the ride of his life.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9516,
+        "title": "Menace II Society",
+        "release_date": "1993-05-26",
+        "overview": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
+        "poster_path": "/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+        "backdrop_path": "/s5PP0ryxAo12jzvPntSEybahpCw.jpg",
+        "production_companies": [
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3500000,
+        "revenue": 27900000,
+        "vote_average": 7.499,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107554",
+        "original_language": "en",
+        "popularity": 23.754,
+        "status": "Released",
+        "tagline": "This is the truth. This is what's real.",
+        "video": false
+    },
+    {
+        "id_tmdb": 14919,
+        "title": "Batman: Mask of the Phantasm",
+        "release_date": "1993-12-25",
+        "overview": "Andrea Beaumont leaves her father to return to Gotham, rekindling an old romance with Bruce Wayne. At the same time, a mysterious figure begins to hunt down Gotham's criminals, wrongly implicating Batman in the murders. Now on the run from the law, Batman must find and stop the culprit, while also navigating his relationship with Andrea.",
+        "poster_path": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+        "backdrop_path": "/cMUuAgVsMWOCawXonZ4D1dSMd6h.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Family Entertainment",
+                "id": 3592
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 5617391,
+        "vote_average": 7.47,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 421904,
+            "name": "Batman (DC Universe Animated) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0106364",
+        "original_language": "en",
+        "popularity": 23.562,
+        "status": "Released",
+        "tagline": "The Dark Knight fights to save Gotham city from its deadliest enemy.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9869,
+        "title": "Patriot Games",
+        "release_date": "1992-06-04",
+        "overview": "When CIA Analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets Jack and his family as revenge.",
+        "poster_path": "/iQEuOhLqTmD6WuKqrt0ub9jo6L1.jpg",
+        "backdrop_path": "/fQVD1isO3DQrC0q2GjgKzkwJXdf.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Mace Neufeld Productions",
+                "id": 2767
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 45000000,
+        "revenue": 178100000,
+        "vote_average": 6.679,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 192492,
+            "name": "The Jack Ryan Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0105112",
+        "original_language": "en",
+        "popularity": 23.482,
+        "status": "Released",
+        "tagline": "Not for honor. Not for country. For his wife and child.",
+        "video": false
+    },
+    {
+        "id_tmdb": 379,
+        "title": "Miller's Crossing",
+        "release_date": "1990-09-21",
+        "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+        "poster_path": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+        "backdrop_path": "/3EJ7lQ9VOnvFLv2KrJOtlGA3uzT.jpg",
+        "production_companies": [
+            {
+                "name": "Circle Films",
+                "id": 11273
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ga",
+                "name": "Gaeilge"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 5080409,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100150",
+        "original_language": "en",
+        "popularity": 22.885,
+        "status": "Released",
+        "tagline": "Up is down, black is white, and nothing is what it seems.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2924,
+        "title": "Backdraft",
+        "release_date": "1991-05-24",
+        "overview": "Firemen brothers Brian and Stephen McCaffrey battle each other over past slights while trying to stop an arsonist with a diabolical agenda from torching Chicago.",
+        "poster_path": "/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+        "backdrop_path": "/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg",
+        "production_companies": [
+            {
+                "name": "Trilogy Entertainment Group",
+                "id": 2231
+            },
+            {
+                "name": "Imagine Entertainment",
+                "id": 23
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 75000000,
+        "revenue": 152368585,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 597142,
+            "name": "Backdraft Collection"
+        },
+        "homepage": "https://www.uphe.com/movies/backdraft",
+        "imdb_id": "tt0101393",
+        "original_language": "en",
+        "popularity": 22.791,
+        "status": "Released",
+        "tagline": "Silently behind a door, it waits. One breath of oxygen and it explodes in a deadly rage. In that instant it can create a hero...or cover a secret.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9349,
+        "title": "Universal Soldier",
+        "release_date": "1992-07-10",
+        "overview": "An American soldier who had been killed during the Vietnam War is revived 25 years later by the military as a semi-android, UniSols, a high-tech soldier of the future. After the failure of the initiative to erase all the soldier's memories, he begins to experience flashbacks that are forcing him to recall his past.",
+        "poster_path": "/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg",
+        "backdrop_path": "/78pA17BW4BbcNlB2yBrOzQY1FrE.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            },
+            {
+                "name": "Centropolis Entertainment",
+                "id": 347
+            },
+            {
+                "name": "IndieProd Company Productions",
+                "id": 959
+            },
+            {
+                "name": "Carolco Pictures",
+                "id": 275
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 23000000,
+        "revenue": 94999898,
+        "vote_average": 6.304,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 10713,
+            "name": "Universal Soldier Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0105698",
+        "original_language": "en",
+        "popularity": 22.079,
+        "status": "Released",
+        "tagline": "Almost human. Almost perfect. Almost under control.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9559,
+        "title": "A Perfect World",
+        "release_date": "1993-11-24",
+        "overview": "A kidnapped boy strikes up a friendship with his captor: an escaped convict on the run from the law, headed by an honorable U.S. Marshal.",
+        "poster_path": "/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg",
+        "backdrop_path": "/bbHziUiIFiSFYNnPfD1pPfRvyFe.jpg",
+        "production_companies": [
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 135100000,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107808",
+        "original_language": "en",
+        "popularity": 21.942,
+        "status": "Released",
+        "tagline": "A convict. A cop. A hostage that will make one of them a hero.",
+        "video": false
+    },
+    {
+        "id_tmdb": 14864,
+        "title": "The Hot Spot",
+        "release_date": "1990-10-12",
+        "overview": "Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities — and the local women — after he robs a bank.",
+        "poster_path": "/iQCP69183K1QZo8bb23nkcLap3W.jpg",
+        "backdrop_path": "/7PXxQy5XeVYa5rJOuBlvhWS91km.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            },
+            {
+                "name": "Arnold Kopelson Productions",
+                "id": 16775
+            },
+            {
+                "name": "Kopelson Entertainment",
+                "id": 824
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 1293976,
+        "vote_average": 6.297,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099797",
+        "original_language": "en",
+        "popularity": 21.379,
+        "status": "Released",
+        "tagline": "Safe is never sex. It’s dangerous.",
+        "video": false
+    },
+    {
+        "id_tmdb": 360731,
+        "title": "Pretty Woman",
+        "release_date": "1991-12-06",
+        "overview": "While working alone late at the office one night, Veronica is raped by a returning male colleague, who accidentally kills her in the process (she falls back and hits her head on a sharp object). Later that same evening, he comes across a bar hostess who looks identical to the woman that he has just murdered. He eventually talks her into showing up for work in Veronica's place on the very next day, and handing in her resignation. Unfortunately for him, she is persuaded to stay, and decides to continue impersonating the deceased secretary.",
+        "poster_path": "/dvcarc7TMrRp1C3jXPpn7PKce99.jpg",
+        "backdrop_path": "/1U9cMRLRtpY2YW0ilXkKQZ1C10r.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105196",
+        "original_language": "cn",
+        "popularity": 20.784,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 10729,
+        "title": "Quick Change",
+        "release_date": "1990-07-13",
+        "overview": "With the aid of his girlfriend, Phyllis Potter, and best friend, Loomis, Grimm enters a Manhattan bank dressed as a clown, creates a hostage situation and executes a flawless robbery. The only thing left for the trio to do is make their getaway out of the city and to the airport. It sounds simple enough, but it seems that fate deserts them immediately after the bank heist. One mishap after another conspires to keep these robbers from reaching freedom.",
+        "poster_path": "/8q0VQYwOhhuRFMsyzdZ5JoB676g.jpg",
+        "backdrop_path": "/z4PR8Bon6aeH9piTQMfk1wt3PNi.jpg",
+        "production_companies": [
+            {
+                "name": "Devoted Productions",
+                "id": 11019
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 15260154,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.warnerbros.com/movies/quick-change/",
+        "imdb_id": "tt0100449",
+        "original_language": "en",
+        "popularity": 20.758,
+        "status": "Released",
+        "tagline": "The bank robbery was easy. But getting out of New York was a nightmare.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11092,
+        "title": "Presumed Innocent",
+        "release_date": "1990-07-27",
+        "overview": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.",
+        "poster_path": "/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+        "backdrop_path": "/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+        "production_companies": [
+            {
+                "name": "Mirage Enterprises",
+                "id": 932
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 22000000,
+        "revenue": 221303188,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100404",
+        "original_language": "en",
+        "popularity": 20.664,
+        "status": "Released",
+        "tagline": "Some people would kill for love",
+        "video": false
+    },
+    {
+        "id_tmdb": 7442,
+        "title": "Sleeping with the Enemy",
+        "release_date": "1991-01-13",
+        "overview": "A young woman fakes her own death in an attempt to escape her nightmarish marriage, but discovers it is impossible to elude her controlling husband.",
+        "poster_path": "/lhkfSDKWvu6fX9LSyVaEklaLNZP.jpg",
+        "backdrop_path": "/apUbdi4nGrD5VGIaxErtpsn7ST8.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Leonard Goldberg Productions",
+                "id": 121252
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 19000000,
+        "revenue": 175000000,
+        "vote_average": 6.488,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102945",
+        "original_language": "en",
+        "popularity": 20.464,
+        "status": "Released",
+        "tagline": "She is a stranger in a small town. She changed her name. Her looks. Her life. All to escape the most dangerous man she's ever met. Her husband.",
+        "video": false
+    },
+    {
+        "id_tmdb": 39857,
+        "title": "The Untold Story",
+        "release_date": "1993-05-13",
+        "overview": "Macau cops begin to suspect a man running a pork buns restaurant of murder, after tracing the origin of a case full of chopped up human remains that washed ashore, which leads them to him.",
+        "poster_path": "/tQ7Ymo92AOXZFrMX5TBAfAdYECt.jpg",
+        "backdrop_path": "/60mel00T22aIaV3Gy7uP3jPGbXm.jpg",
+        "production_companies": [
+            {
+                "name": "Uniden Investments",
+                "id": 44692
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 686791,
+            "name": "The Untold Story Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0103743",
+        "original_language": "cn",
+        "popularity": 20.134,
+        "status": "Released",
+        "tagline": "Based, unfortunately, on real events…",
+        "video": false
+    },
+    {
+        "id_tmdb": 9386,
+        "title": "In the Line of Fire",
+        "release_date": "1993-07-08",
+        "overview": "Veteran Secret Service agent Frank Horrigan is a man haunted by his failure to save President Kennedy while serving protection detail in Dallas. Thirty years later, a man calling himself \"Booth\" threatens the life of the current President, forcing Horrigan to come back to protection detail to confront the ghosts from his past.",
+        "poster_path": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+        "backdrop_path": "/9P5jcTFSWQMTqQq7LrwGA8zU0Sb.jpg",
+        "production_companies": [
+            {
+                "name": "Castle Rock Entertainment",
+                "id": 97
+            },
+            {
+                "name": "Apple / Rose",
+                "id": 106891
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 177000000,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107206",
+        "original_language": "en",
+        "popularity": 20.019,
+        "status": "Released",
+        "tagline": "An assassin on the loose. A president in danger. Only one man stands between them…",
+        "video": false
+    },
+    {
+        "id_tmdb": 11592,
+        "title": "Serial Mom",
+        "release_date": "1994-04-13",
+        "overview": "Beverly is the perfect happy homemaker, along with her doting husband and two children, but this nuclear family just might explode when her fascination with serial killers collides with her ever-so-proper code of ethics.",
+        "poster_path": "/y3ep6gj6waV56koX3weuUfb13kz.jpg",
+        "backdrop_path": "/6BhM1PrIBtWRRUmTNBgXKuWKTy.jpg",
+        "production_companies": [
+            {
+                "name": "Polar Entertainment",
+                "id": 17411
+            },
+            {
+                "name": "Savoy Pictures",
+                "id": 11308
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 13000000,
+        "revenue": 7820688,
+        "vote_average": 6.748,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0111127",
+        "original_language": "en",
+        "popularity": 19.893,
+        "status": "Released",
+        "tagline": "Every mom wants to be wanted, but not for murder!",
+        "video": false
+    },
+    {
+        "id_tmdb": 14362,
+        "title": "Out for Justice",
+        "release_date": "1991-04-12",
+        "overview": "Gino Felino is an NYPD detective from Brooklyn who knows everyone and everything in his neighborhood. Killing his partner was someone's big mistake... because he's now out for justice.",
+        "poster_path": "/OeyFEGE9txGcFYMeeWRXHVtKAB.jpg",
+        "backdrop_path": "/sn2Q318Nc0sFuxirFRWU7lo8q0t.jpg",
+        "production_companies": [
+            {
+                "name": "Arnold Kopelson Productions",
+                "id": 16775
+            },
+            {
+                "name": "Seagal/Nasso Productions",
+                "id": 17825
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 39673161,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102614",
+        "original_language": "en",
+        "popularity": 19.751,
+        "status": "Released",
+        "tagline": "He's a cop. It's a dirty job... but somebody's got to take out the garbage.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2087,
+        "title": "The Getaway",
+        "release_date": "1994-02-11",
+        "overview": "Doc McCoy is put in prison because his partners chickened out and flew off without him after exchanging a prisoner with a lot of money. Doc knows Jack Benyon, a rich \"business\"-man, is up to something big, so he tells his wife (Carol McCoy) to tell him that he's for sale if Benyon can get him out of prison. Benyon pulls some strings and Doc McCoy is released again. Unfortunately he has to cooperate with the same person that got him to prison.",
+        "poster_path": "/4tWvZ4BQu3ICmtUL8lXHa9OgkoF.jpg",
+        "backdrop_path": "/adOPx66Pr2PAH0dUb1xUnMyNntl.jpg",
+        "production_companies": [
+            {
+                "name": "Largo Entertainment",
+                "id": 1644
+            },
+            {
+                "name": "The Turman-Foster Company",
+                "id": 662
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "JVC",
+                "id": 182
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 30057974,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109890",
+        "original_language": "en",
+        "popularity": 19.718,
+        "status": "Released",
+        "tagline": "A dangerous deal. A double cross. And the ultimate set up is yet to come.",
+        "video": false
+    },
+    {
+        "id_tmdb": 18311,
+        "title": "Days of Being Wild",
+        "release_date": "1990-12-15",
+        "overview": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and the truth after discovering the woman who raised him isn't his mother.",
+        "poster_path": "/acfLUO8E61u0ooWS6htbzTHDBcI.jpg",
+        "backdrop_path": "/oxfN2hOLhMPCuDdG68f3wAV7uIu.jpg",
+        "production_companies": [
+            {
+                "name": "In-Gear Film Production Co. Ltd.",
+                "id": 7517
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 3255404,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.kino.com/daysofbeingwild/",
+        "imdb_id": "tt0101258",
+        "original_language": "cn",
+        "popularity": 19.671,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 10164,
+        "title": "Cadillac Man",
+        "release_date": "1990-05-18",
+        "overview": "Joe's a car salesman with a problem—he has two days to sell 12 cars or he loses his job. This would be a difficult task at the best of times but Joe has to contend with his girlfriends (he's two-timing), a missing teenage daughter and an ex-wife.",
+        "poster_path": "/vks44sEJ96oRuE2csCDwYL3s2ZK.jpg",
+        "backdrop_path": "/2vwdoHlFhxEHLptHVly1rXXUFsj.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 27575086,
+        "vote_average": 5.804,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099204",
+        "original_language": "en",
+        "popularity": 19.642,
+        "status": "Released",
+        "tagline": "If you can't trust a car salesman who can you trust?",
+        "video": false
+    },
+    {
+        "id_tmdb": 83024,
+        "title": "Prison Heat",
+        "release_date": "1993-02-23",
+        "overview": "Four American babes on vacation in the Middle East run into trouble when they are imprisoned by corrupt army officials and that's where the fun begins.",
+        "poster_path": "/gxk8EMSLZX1c1H72SyGR39VUblG.jpg",
+        "backdrop_path": "/xNSnkG32dGez48KVdHRRK0czW8Z.jpg",
+        "production_companies": [
+            {
+                "name": "Global Pictures",
+                "id": 1978
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107877",
+        "original_language": "en",
+        "popularity": 19.259,
+        "status": "Released",
+        "tagline": "no trial, no trace, no tomorrow.",
+        "video": false
+    },
+    {
+        "id_tmdb": 8831,
+        "title": "Timecop",
+        "release_date": "1994-09-15",
+        "overview": "An officer for a security agency that regulates time travel, must fend for his life against a shady politician who has a tie to his past.",
+        "poster_path": "/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+        "backdrop_path": "/iNfDwioDBzqodomLbMfV8ZXj0yL.jpg",
+        "production_companies": [
+            {
+                "name": "Renaissance Pictures",
+                "id": 467
+            },
+            {
+                "name": "Dark Horse Entertainment",
+                "id": 552
+            },
+            {
+                "name": "Largo Entertainment",
+                "id": 1644
+            },
+            {
+                "name": "Signature Pictures",
+                "id": 2982
+            },
+            {
+                "name": "JVC",
+                "id": 182
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 27000000,
+        "revenue": 101646581,
+        "vote_average": 5.999,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 170452,
+            "name": "Timecop Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0111438",
+        "original_language": "en",
+        "popularity": 19.022,
+        "status": "Released",
+        "tagline": "They killed his wife ten years ago. There's still time to save her.",
+        "video": false
+    },
+    {
+        "id_tmdb": 561458,
+        "title": "The Wicked Reporter 2: The Rebirth of Horserace Betting",
+        "release_date": "1994-11-19",
+        "overview": "The continuing adventures of Matsuzaki, a racing tipster for a sports paper. Matsuzaki befriends a mysterious old track bettor named Tokudaiji. The man turns out to be a well-connected millionaire and invites Matsuzaki to his home.",
+        "poster_path": "/kXPG0WyehE9OVdoIzPmOY5K9mWj.jpg",
+        "backdrop_path": "/mqhdTnWHonJREzAc5z2WXm01bJO.jpg",
+        "production_companies": [
+            {
+                "name": "Daiei Film",
+                "id": 880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0193975",
+        "original_language": "ja",
+        "popularity": 18.997,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 9504,
+        "title": "Glengarry Glen Ross",
+        "release_date": "1992-09-15",
+        "overview": "When an office full of Chicago real estate salesmen is given the news that all but the top two will be fired at the end of the week, the atmosphere begins to heat up. Shelley Levene, who has a sick daughter, does everything in his power to get better leads from his boss, John Williamson, but to no avail. When his coworker Dave Moss comes up with a plan to steal the leads, things get complicated for the tough-talking salesmen.",
+        "poster_path": "/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+        "backdrop_path": "/1fFseB3A35TmXVVb9mz6e6bIMZ0.jpg",
+        "production_companies": [
+            {
+                "name": "Zupnik Cinema Group II",
+                "id": 67781
+            },
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            },
+            {
+                "name": "GGR",
+                "id": 67780
+            },
+            {
+                "name": "Zupnik-Curtis Enterprises",
+                "id": 36113
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 12500000,
+        "revenue": 10725228,
+        "vote_average": 7.35,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104348",
+        "original_language": "en",
+        "popularity": 18.765,
+        "status": "Released",
+        "tagline": "A story for everyone who works for a living.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11074,
+        "title": "Striking Distance",
+        "release_date": "1993-09-17",
+        "overview": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop, and goes on the record with his allegations. Demoted to water-way duty Tom, along with new partner Jo Christman, navigate the three rivers looking for clues and discovering bodies. This time the victims are women Tom knows, he must find the killer to prove his innocence.",
+        "poster_path": "/1bLazrQWJQhO6u58vJZXJZ3ZFDh.jpg",
+        "backdrop_path": "/ru9tQzugjeOflWGf8KaSyU8vjVn.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Arnon Milchan Productions",
+                "id": 25087
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0108238",
+        "original_language": "en",
+        "popularity": 18.546,
+        "status": "Released",
+        "tagline": "They shouldn't have put him in the water, if they didn't want him to make waves.",
+        "video": false
+    },
+    {
+        "id_tmdb": 13154,
+        "title": "Showdown in Little Tokyo",
+        "release_date": "1991-08-23",
+        "overview": "An American with a Japanese upbringing, Chris Kenner is a police officer assigned to the Little Tokyo section of Los Angeles. Kenner is partnered with Johnny Murata, a Japanese-American who isn't in touch with his roots. Despite their differences, both men excel at martial arts, and utilize their formidable skills when they go up against Yoshida, a vicious yakuza drug dealer with ties to Kenner's past.",
+        "poster_path": "/phwuQrs557cJkRhoS1TVWsslnJK.jpg",
+        "backdrop_path": "/ywwRHYRgcDKnStvXQxNXKG4M0tx.jpg",
+        "production_companies": [
+            {
+                "name": "Original Pictures",
+                "id": 4234
+            },
+            {
+                "name": "Little Tokyo Productions",
+                "id": 195865
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 8000000,
+        "revenue": 2275557,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102915",
+        "original_language": "en",
+        "popularity": 18.369,
+        "status": "Released",
+        "tagline": "One's a warrior. One's a wise guy. They're two L.A. cops going after a gang of drug lords. Feet first.",
+        "video": false
+    },
+    {
+        "id_tmdb": 12143,
+        "title": "Bad Lieutenant",
+        "release_date": "1992-11-20",
+        "overview": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
+        "poster_path": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+        "backdrop_path": "/6I7aIw8zeHdUYVUct2G7Y6qCKd8.jpg",
+        "production_companies": [
+            {
+                "name": "Pressman Film",
+                "id": 6455
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 1000000,
+        "revenue": 2019469,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0103759",
+        "original_language": "en",
+        "popularity": 18.21,
+        "status": "Released",
+        "tagline": "Gambler. Thief. Junkie. Killer. Cop.",
+        "video": false
+    },
+    {
+        "id_tmdb": 146368,
+        "title": "Love to Kill",
+        "release_date": "1993-11-18",
+        "overview": "A woman looks to a cop for help against her abusive husband, who constantly rapes, beats, and belittles her and her son, but the husband catches wind of the cop's plan.",
+        "poster_path": "/f9uqMIJz4m6muckNpx36xCXqRCA.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Uniden Investments",
+                "id": 44692
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107713",
+        "original_language": "cn",
+        "popularity": 18.156,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 10173,
+        "title": "Marked for Death",
+        "release_date": "1990-10-05",
+        "overview": "Just retired from the Drug Enforcement Agency, John Hatcher returns to his hometown and quickly discovers that drugs have infiltrated his old neighborhood. Determined to drive the dealers out, Hatcher crosses paths with a ferocious Jamaican drug lord who vows that Hatcher and his family are now marked for death.",
+        "poster_path": "/kirhoMYMVEHGUeaOO9dWjUaawtd.jpg",
+        "backdrop_path": "/rCTf5W1531LiFxJzUhdAcV9EDav.jpg",
+        "production_companies": [
+            {
+                "name": "Steamroller Productions",
+                "id": 3495
+            },
+            {
+                "name": "Victor & Grais Productions",
+                "id": 23308
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 46044400,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100114",
+        "original_language": "en",
+        "popularity": 18.006,
+        "status": "Released",
+        "tagline": "He's a good cop. In a bad mood.",
+        "video": false
+    },
+    {
+        "id_tmdb": 483,
+        "title": "Wild at Heart",
+        "release_date": "1990-08-17",
+        "overview": "After serving prison time for a self-defense killing, Sailor Ripley reunites with girlfriend Lula Fortune. Lula's mother, Marietta, desperate to keep them apart, hires a hitman to kill Sailor. But he finds a whole new set of troubles when he and Bobby Peru, an old buddy who's also out to get Sailor, try to rob a store. When Sailor lands in jail yet again, the young lovers appear further than ever from the shared life they covet.",
+        "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+        "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+        "production_companies": [
+            {
+                "name": "PolyGram Filmed Entertainment",
+                "id": 1382
+            },
+            {
+                "name": "Propaganda Films",
+                "id": 278
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9500000,
+        "revenue": 14569027,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100935",
+        "original_language": "en",
+        "popularity": 17.988,
+        "status": "Released",
+        "tagline": "A wild and crazy love story.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9558,
+        "title": "King of New York",
+        "release_date": "1990-07-18",
+        "overview": "A former drug lord returns from prison determined to wipe out all his competition and distribute the profits of his operations to New York's poor and lower classes in this stylish and ultra violent modern twist on Robin Hood.",
+        "poster_path": "/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg",
+        "backdrop_path": "/gIpMTiTPsuqWnJUU9Ft9U9KIijp.jpg",
+        "production_companies": [
+            {
+                "name": "Reteitalia",
+                "id": 1242
+            },
+            {
+                "name": "Scena International",
+                "id": 14974
+            },
+            {
+                "name": "Seven Arts Pictures",
+                "id": 14159
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 2554712,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099939",
+        "original_language": "en",
+        "popularity": 17.968,
+        "status": "Released",
+        "tagline": "Not everyone who runs a city is elected.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9644,
+        "title": "National Lampoon's Loaded Weapon 1",
+        "release_date": "1993-02-04",
+        "overview": "An LA detective is murdered because she has microfilm with the recipe to make cocaine cookies. Two cops partner to find and stop the fiends before they can dope the nation by distributing their wares via the 'Wilderness Girls' cookie drive.",
+        "poster_path": "/moP0nyVWVisqSeH6nMewWyIPV6z.jpg",
+        "backdrop_path": "/vYq0sXktMc9zwSiAsRCYwRlayk3.jpg",
+        "production_companies": [
+            {
+                "name": "3 Arts Entertainment",
+                "id": 787
+            },
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 27979966,
+        "vote_average": 6.026,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107659",
+        "original_language": "en",
+        "popularity": 17.954,
+        "status": "Released",
+        "tagline": "Oh my God. They have guns!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11060,
+        "title": "Internal Affairs",
+        "release_date": "1990-01-12",
+        "overview": "Keen young Raymold Avila joins the Internal Affairs Department of the Los Angeles police. He and partner Amy Wallace are soon looking closely at the activities of cop Dennis Peck whose financial holdings start to suggest something shady. Indeed Peck is involved in any number of dubious or downright criminal activities. He is also devious, a womaniser, and a clever manipulator, and he starts to turn his attention on Avila.",
+        "poster_path": "/A4pH8DiNFEf2AgXkM4zk3ZpblV.jpg",
+        "backdrop_path": "/a7RMVypNmxvEG0SzG9kXBJivfxX.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Image Organization",
+                "id": 21084
+            },
+            {
+                "name": "Malofilm",
+                "id": 3498
+            },
+            {
+                "name": "Out of the Town Films",
+                "id": 146798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 27734391,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099850",
+        "original_language": "en",
+        "popularity": 17.797,
+        "status": "Released",
+        "tagline": "Trust him... he's a cop.",
+        "video": false
+    },
+    {
+        "id_tmdb": 8984,
+        "title": "Disclosure",
+        "release_date": "1994-12-09",
+        "overview": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+        "poster_path": "/dnA4QkIZZCF9wRtF8HHxWwUXVMf.jpg",
+        "backdrop_path": "/4A0f1oqkJLohy8LXjmJpops7CMB.jpg",
+        "production_companies": [
+            {
+                "name": "Baltimore Pictures",
+                "id": 11407
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Constant c Productions",
+                "id": 23370
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 55000000,
+        "revenue": 214015089,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109635",
+        "original_language": "en",
+        "popularity": 17.594,
+        "status": "Released",
+        "tagline": "Sex Is Power.",
+        "video": false
+    },
+    {
+        "id_tmdb": 451767,
+        "title": "OL renzoku rape: Kyonyû musaboru",
+        "release_date": "1990-08-31",
+        "overview": "Following cosmetic surgery to enhance her breasts, an office worker is raped. The rapist's son, after setting his distinctly Oedipal gaze on his father's busty victim, locates her and they begin an ill-fated sadomasochistic affair that leads to a bloody killing spree.",
+        "poster_path": "/6YBko8Ty3THFoJZI1Y7At8QSDgJ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shin Nihon Eizo CO., LTD.",
+                "id": 127883
+            },
+            {
+                "name": "Xces Film",
+                "id": 213979
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0291397",
+        "original_language": "ja",
+        "popularity": 17.49,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40105,
+        "title": "Dr. Lamb",
+        "release_date": "1992-10-22",
+        "overview": "An abnormal taxi driver lusts for blood every rainy night, and several young women are killed as a result. The muderer, Laiu, likes to take photos of the victims dismembered bodies as momentos. Inspector Lee is called onto the case in this bizarre thriller.",
+        "poster_path": "/qs9pkz5dz7SRXKTBPPTI7DwAYnf.jpg",
+        "backdrop_path": "/3owOslN01iGd58q5xaWNfvQSrpd.jpg",
+        "production_companies": [
+            {
+                "name": "Grand River Film Ltd.",
+                "id": 78350
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104319",
+        "original_language": "cn",
+        "popularity": 16.954,
+        "status": "Released",
+        "tagline": "Taxi driver by day, killer by night",
+        "video": false
+    },
+    {
+        "id_tmdb": 2742,
+        "title": "Naked Lunch",
+        "release_date": "1991-12-27",
+        "overview": "Blank-faced bug killer Bill Lee and his dead-eyed wife, Joan, like to get high on Bill's pest poisons while lounging with Beat poet pals. After meeting the devilish Dr. Benway, Bill gets a drug made from a centipede. Upon indulging, he accidentally kills Joan, takes orders from his typewriter-turned-cockroach, ends up in a constantly mutating Mediterranean city and learns that his hip friends have published his work -- which he doesn't remember writing.",
+        "poster_path": "/nSelH9n4ME7tklL9LqETN2u3vxs.jpg",
+        "backdrop_path": "/itdLdLHgvkKiFRAd4u2MTC2c3xJ.jpg",
+        "production_companies": [
+            {
+                "name": "Recorded Picture Company",
+                "id": 11561
+            },
+            {
+                "name": "Naked Lunch Productions",
+                "id": 1201
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 16000000,
+        "revenue": 2641357,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102511",
+        "original_language": "en",
+        "popularity": 16.897,
+        "status": "Released",
+        "tagline": "EXterMINate ALL RatIONAL ThoughT.",
+        "video": false
+    },
+    {
+        "id_tmdb": 19384,
+        "title": "Dark Angel",
+        "release_date": "1990-01-26",
+        "overview": "Jack Caine is a Houston vice cop who's forgotten the rule book. His self-appointed mission is to stop the drugs trade and the number one supplier Victor Manning. Whilst involved in an undercover operation to entrap Victor Manning, his partner gets killed, and a sinister newcomer enters the scene...",
+        "poster_path": "/y2e8CdXyvAasL98mpiuTDisa3Ya.jpg",
+        "backdrop_path": "/3a3Ch56Y7n8ouiAXPdFDmVLnvWz.jpg",
+        "production_companies": [
+            {
+                "name": "Vision International",
+                "id": 3603
+            },
+            {
+                "name": "Vision PDG",
+                "id": 4109
+            },
+            {
+                "name": "Epic Productions",
+                "id": 1988
+            },
+            {
+                "name": "Trans World Entertainment",
+                "id": 1969
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 7000000,
+        "revenue": 9200000,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099817",
+        "original_language": "en",
+        "popularity": 16.695,
+        "status": "Released",
+        "tagline": "Jack Caine. Houston cop. Human. What he's up against, isn't.",
+        "video": false
+    },
+    {
+        "id_tmdb": 274,
+        "title": "The Silence of the Lambs",
+        "release_date": "1991-02-14",
+        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+        "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            },
+            {
+                "name": "Strong Heart",
+                "id": 55072
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 19000000,
+        "revenue": 272742922,
+        "vote_average": 8.347,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 9743,
+            "name": "The Hannibal Lecter Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0102926",
+        "original_language": "en",
+        "popularity": 16.491,
+        "status": "Released",
+        "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+        "video": false
+    },
+    {
+        "id_tmdb": 36884,
+        "title": "No Retreat, No Surrender 3: Blood Brothers",
+        "release_date": "1990-01-25",
+        "overview": "Two feuding brothers (one a policeman, the other a martial arts expert) of different political views, join forces to avenge the death of their father, a retired agent, killed by the mafia.",
+        "poster_path": "/fmcZjOi3U1m5JePLJuJJHsR9pKJ.jpg",
+        "backdrop_path": "/6jOouoRad9npUjPKqjIA8faJrgv.jpg",
+        "production_companies": [
+            {
+                "name": "Seasonal Film Corporation",
+                "id": 13433
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.367,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 384920,
+            "name": "No Retreat, No Surrender Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0100266",
+        "original_language": "en",
+        "popularity": 16.406,
+        "status": "Released",
+        "tagline": "The first was for honour, The second for his country, This time it's family.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10872,
+        "title": "The Ref",
+        "release_date": "1994-03-09",
+        "overview": "A cat burglar is forced to take a bickering, dysfunctional family hostage on Christmas Eve.",
+        "poster_path": "/ym7Kx3iDmalK8kXKvVQwnFYABEV.jpg",
+        "backdrop_path": "/zdP1Wk3SQCAE0PdtzTAMJ0vuoeA.jpg",
+        "production_companies": [
+            {
+                "name": "Don Simpson/Jerry Bruckheimer Films",
+                "id": 10288
+            },
+            {
+                "name": "Touchstone Pictures",
+                "id": 9195
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 11000000,
+        "revenue": 11400000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0110955",
+        "original_language": "en",
+        "popularity": 16.396,
+        "status": "Released",
+        "tagline": "They might be his hostages but what they're doing to this guy is criminal.",
+        "video": false
+    },
+    {
+        "id_tmdb": 26877,
+        "title": "Naked Killer",
+        "release_date": "1992-12-03",
+        "overview": "A young woman is trained by a martial arts specialist to become a professional assassin.",
+        "poster_path": "/d9V3lIqF0fyQfMe4CUl86N0nQfJ.jpg",
+        "backdrop_path": "/44nIaOvDWJ04EGFEMGrU1gO3im7.jpg",
+        "production_companies": [
+            {
+                "name": "Wong Jing's Workshop",
+                "id": 23480
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.954,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 309259,
+            "name": "Naked Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0109412",
+        "original_language": "cn",
+        "popularity": 16.26,
+        "status": "Released",
+        "tagline": "They're beautiful. They're perfect. They're to DIE for!",
+        "video": false
+    },
+    {
+        "id_tmdb": 23719,
+        "title": "Trapped in Paradise",
+        "release_date": "1994-12-02",
+        "overview": "Residents of a friendly Pennsylvania town foil three brothers' plan to rob a bank on Christmas Eve.",
+        "poster_path": "/A8SyaIUq9d83ZNAwsvVo6TrOA2U.jpg",
+        "backdrop_path": "/jNIqlHr5cYvYbtf5k5PlbsCG0mo.jpg",
+        "production_companies": [
+            {
+                "name": "Permut Presentations",
+                "id": 455
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 5777916,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0111477",
+        "original_language": "en",
+        "popularity": 16.257,
+        "status": "Released",
+        "tagline": "The Firpo Brothers can get away with anything. They just can't get away!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11386,
+        "title": "The Crying Game",
+        "release_date": "1992-09-02",
+        "overview": "Irish Republican Army member Fergus forms an unexpected bond with Jody, a kidnapped British soldier in his custody, despite the warnings of fellow IRA members Jude and Maguire. Jody makes Fergus promise he'll visit his girlfriend, Dil, in London, and when Fergus flees to the city, he seeks her out. Hounded by his former IRA colleagues, he finds himself increasingly drawn to the enigmatic, and surprising, Dil.",
+        "poster_path": "/kdaROz8u9vEBuebDN2NNgcx99Kb.jpg",
+        "backdrop_path": "/k4ZrvqTWADP1nzgXNSKDNk4xOEB.jpg",
+        "production_companies": [
+            {
+                "name": "Palace Pictures",
+                "id": 927
+            },
+            {
+                "name": "Nippon Film Development and Finance Inc.",
+                "id": 1202
+            },
+            {
+                "name": "Eurotrustees",
+                "id": 8876
+            },
+            {
+                "name": "British Screen Productions",
+                "id": 12745
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3705538,
+        "revenue": 62548947,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.miramax.com/movie/the-crying-game/",
+        "imdb_id": "tt0104036",
+        "original_language": "en",
+        "popularity": 15.987,
+        "status": "Released",
+        "tagline": "Play At Your Own Risk.",
+        "video": false
+    },
+    {
+        "id_tmdb": 17467,
+        "title": "Riki-Oh: The Story of Ricky",
+        "release_date": "1991-10-05",
+        "overview": "In 2001, where all correctional facilities have been privatized, martial artist Ricky finds himself victim to the corrupt system, found \"guilty\" of the manslaughter of an infamous crime boss.",
+        "poster_path": "/uPkIU5EptkWth21qAlthpiyVsoY.jpg",
+        "backdrop_path": "/lBmfYtJherlJgoBAVskC7eRgnht.jpg",
+        "production_companies": [
+            {
+                "name": "Diagonal Pictures",
+                "id": 3326
+            },
+            {
+                "name": "Paragon Films Ltd.",
+                "id": 2734
+            },
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.805,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102293",
+        "original_language": "cn",
+        "popularity": 15.953,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17494,
+        "title": "Unlawful Entry",
+        "release_date": "1992-06-26",
+        "overview": "After a break-in at their house, a couple gets help from one of the cops who answered their call. He helps them install a security system, begins dropping by on short notice and unofficial patrol angling to pry into the couple's problems with the wife. The husband begins wondering if they're getting too much help.",
+        "poster_path": "/sKUk1ca6gHaIopi8VqE8GoxJq6J.jpg",
+        "backdrop_path": "/5SlUi93AaUBO94ERI1Q12NZjepO.jpg",
+        "production_companies": [
+            {
+                "name": "Largo Entertainment",
+                "id": 1644
+            },
+            {
+                "name": "JVC",
+                "id": 182
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Gordon Company",
+                "id": 1073
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 23000000,
+        "revenue": 57138719,
+        "vote_average": 6.195,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105699",
+        "original_language": "en",
+        "popularity": 15.943,
+        "status": "Released",
+        "tagline": "A man obsessed will do anything for love... A cop obsessed can get away with it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11382,
+        "title": "Bullets Over Broadway",
+        "release_date": "1994-10-14",
+        "overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist—but not only is she a bimbo who could never pass for a psychiatrist—she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard—but, eventually he must decide whether art or life is more important.",
+        "poster_path": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+        "backdrop_path": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+        "production_companies": [
+            {
+                "name": "Miramax",
+                "id": 14
+            },
+            {
+                "name": "Jean Doumanian Productions",
+                "id": 16280
+            },
+            {
+                "name": "Sweetland Films",
+                "id": 21716
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 0,
+        "vote_average": 7.095,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109348",
+        "original_language": "en",
+        "popularity": 15.884,
+        "status": "Released",
+        "tagline": "A killer comedy!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11384,
+        "title": "The Hard Way",
+        "release_date": "1991-03-08",
+        "overview": "Seeking to raise his credibility as an actor and to land a role as a tough cop on a new show, Hollywood action star Nick Lang works a deal with New York City Police Capt. Brix, who by chance is one of his fans. Nick will be paired with detective Lt. John Moss and learn how to act like a real cop. But when Nick drives John crazy with questions and imitating him, he gets in the way of John's pursuit of a serial killer.",
+        "poster_path": "/575f7BIovMdjk0hXh4WggZW1k8o.jpg",
+        "backdrop_path": "/fvpDegC0EGBZCZPDHDineAL4P8F.jpg",
+        "production_companies": [
+            {
+                "name": "The Badham-Cohen Group",
+                "id": 12646
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 24000000,
+        "revenue": 65595485,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102004",
+        "original_language": "en",
+        "popularity": 15.866,
+        "status": "Released",
+        "tagline": "There's only one way these two are going to get along...",
+        "video": false
+    },
+    {
+        "id_tmdb": 9367,
+        "title": "El Mariachi",
+        "release_date": "1993-02-22",
+        "overview": "El Mariachi just wants to play his guitar and carry on the family tradition. Unfortunately, the town he tries to find work in has another visitor, a killer who carries his guns in a guitar case. The drug lord and his henchmen mistake el Mariachi for the killer, Azul, and chase him around town trying to kill him and get his guitar case.",
+        "poster_path": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+        "backdrop_path": "/zERY2aaCrLExpR6NQ1ceIs0WG8S.jpg",
+        "production_companies": [
+            {
+                "name": "Los Hooligans Productions",
+                "id": 11705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 7225,
+        "revenue": 2000000,
+        "vote_average": 6.723,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 9649,
+            "name": "Mexico Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0104815",
+        "original_language": "es",
+        "popularity": 15.766,
+        "status": "Released",
+        "tagline": "With a guitar in his hand and a price on his head, he wasn't looking for trouble. But trouble came looking for him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11909,
+        "title": "Bullet in the Head",
+        "release_date": "1990-08-17",
+        "overview": "Three childhood friends from the slums of Hong Kong flee to war-time Saigon after accidentally murdering a gang leader, but their troubles only escalate.",
+        "poster_path": "/zavndxcuSfd7OmeqxloMkrl28Oa.jpg",
+        "backdrop_path": "/zzXvwTGhkdDOBLMhhfIBGaYaODh.jpg",
+        "production_companies": [
+            {
+                "name": "Golden Princess Film Productions",
+                "id": 6213
+            },
+            {
+                "name": "John Woo Film Production",
+                "id": 6214
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 3500000,
+        "revenue": 0,
+        "vote_average": 7.561,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099426",
+        "original_language": "cn",
+        "popularity": 15.758,
+        "status": "Released",
+        "tagline": "Once The Best of Friends, Now The Worst of... Enemies!",
+        "video": false
+    },
+    {
+        "id_tmdb": 10498,
+        "title": "Point of No Return",
+        "release_date": "1993-03-19",
+        "overview": "Hardened criminal Maggie Hayward's consistent violence, even in police custody, ends in the execution chamber. However, top-secret US government agent 'Bob' arranges a staged death, so Maggie can be elaborately trained as a phantom killer and subdued into obedience.",
+        "poster_path": "/m8hefEVK6WHiCbMUBeHU0yZbQLB.jpg",
+        "backdrop_path": "/1F8sr6mtjssskEwhaFZrZiMv2qb.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "The Linson Company",
+                "id": 4700
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 30038362,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0107843",
+        "original_language": "en",
+        "popularity": 15.691,
+        "status": "Released",
+        "tagline": "The government gave her a choice. Death. Or life as an assassin. Now, there's no turning back.",
+        "video": false
+    },
+    {
+        "id_tmdb": 13815,
+        "title": "Fresh",
+        "release_date": "1994-06-15",
+        "overview": "Death and violence anger twelve year old drug courier Fresh, who sets his rival employers against each other.",
+        "poster_path": "/uXRIIUzjDZZdWR2cUzPJ9eAqaHv.jpg",
+        "backdrop_path": "/rg0E4KETgFagjmoaucTnYDeWNVk.jpg",
+        "production_companies": [
+            {
+                "name": "Miramax",
+                "id": 14
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3500000,
+        "revenue": 8094616,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0109842",
+        "original_language": "en",
+        "popularity": 15.454,
+        "status": "Released",
+        "tagline": "In a world where criminals make the rules, an innocent boy is out to beat them at their own game.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10909,
+        "title": "Kalifornia",
+        "release_date": "1993-06-24",
+        "overview": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+        "poster_path": "/484ULYA80XecqqgFTzC9R4jmctS.jpg",
+        "backdrop_path": "/4VomzeZSAlRXYbEPLHgU4ZxsO10.jpg",
+        "production_companies": [
+            {
+                "name": "Propaganda Films",
+                "id": 278
+            },
+            {
+                "name": "Kouf/Bigelow Productions",
+                "id": 3589
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 2395231,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.mgm.com/#/our-titles/1024/Kalifornia",
+        "imdb_id": "tt0107302",
+        "original_language": "en",
+        "popularity": 15.452,
+        "status": "Released",
+        "tagline": "Fear never travels alone.",
+        "video": false
+    },
+    {
+        "id_tmdb": 6723,
+        "title": "The Rookie",
+        "release_date": "1990-12-07",
+        "overview": "Veteran cop Nick Pulovski is used to playing musical partners; many of the partners he's had in the past have died on the job, and often as a result of Nick's risky tactics. But the rookie who's been assigned to help Nick bust a carjacking ring is almost as hotheaded as he is … and when Nick gets kidnapped, his newbie partner is his only hope.",
+        "poster_path": "/pr37i12Qe1gGxMBf6GTIDZvfFIT.jpg",
+        "backdrop_path": "/9Njx2J5p4f4OaH6vZZHUCxw73uK.jpg",
+        "production_companies": [
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 21600000,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0100514",
+        "original_language": "en",
+        "popularity": 15.414,
+        "status": "Released",
+        "tagline": "Packing years of experience and a .45 automatic, L.A. detective Nick Pulovski figures he's got all the help he needs. He's also got all the help he doesn't need. His new partner is The Rookie.",
+        "video": false
+    },
+    {
+        "id_tmdb": 8592,
+        "title": "Dick Tracy",
+        "release_date": "1990-04-05",
+        "overview": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+        "poster_path": "/AonBXZe8GwnW8f1TWI2KcewOsfS.jpg",
+        "backdrop_path": "/zkIMr5t0B95nZPhY4AvI4v3qYH.jpg",
+        "production_companies": [
+            {
+                "name": "Touchstone Pictures",
+                "id": 9195
+            },
+            {
+                "name": "Mulholland Productions",
+                "id": 210080
+            },
+            {
+                "name": "Silver Screen Partners IV",
+                "id": 10282
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 47000000,
+        "revenue": 103738726,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099422",
+        "original_language": "en",
+        "popularity": 15.298,
+        "status": "Released",
+        "tagline": "Their turf. Their game. Their rules. They didn't count on HIS law...",
+        "video": false
+    },
+    {
+        "id_tmdb": 22004,
+        "title": "Trespass",
+        "release_date": "1992-12-25",
+        "overview": "Two Arkansas firemen, Vince and Don, get hold of a map that leads to a cache of stolen gold in an abandoned factory in East St. Louis. What they don't know is that the factory is on the turf of a local gang, who come by to execute one of their enemies. Vince sees the shooting, the gang spots Vince, and extended mayhem ensues. As Vince and Don try to escape, gang leader King James argues with his subordinate Savon about how to get rid of the trespassers.",
+        "poster_path": "/GSeicpK571uoM2ZCRb1YyW2YMG.jpg",
+        "backdrop_path": "/9eYY8elmuv69MOVTeZFPibeJELO.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 13249535,
+        "vote_average": 6.289,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105636",
+        "original_language": "en",
+        "popularity": 15.198,
+        "status": "Released",
+        "tagline": "They all came to the wrong place at the wrong time.",
+        "video": false
+    },
+    {
+        "id_tmdb": 18767,
+        "title": "Island of Fire",
+        "release_date": "1990-03-28",
+        "overview": "Someone in a prison run by a corrupt warden fakes the deaths of convicts to later use them as expendable assassins. A police officer is sent into the prison to gather evidence of the corruption.",
+        "poster_path": "/1sGDNO8HlpcVmXpBxOAKEV270cI.jpg",
+        "backdrop_path": "/me2toZ48ZHnKlwWVYFU03irpTrs.jpg",
+        "production_companies": [
+            {
+                "name": "Biaine and Blake Ltd.",
+                "id": 247974
+            },
+            {
+                "name": "Da Shyue Film Co., Ltd.",
+                "id": 247975
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099812",
+        "original_language": "cn",
+        "popularity": 14.981,
+        "status": "Released",
+        "tagline": "When you're looking for the living dead you start your search in hell!",
+        "video": false
+    },
+    {
+        "id_tmdb": 12395,
+        "title": "Thunderheart",
+        "release_date": "1992-04-03",
+        "overview": "An FBI man with Sioux background is sent to a reservation to help with a murder investigation, where he has to come to terms with his heritage.",
+        "poster_path": "/uGbVd9gzRHk70E8WQPZcjiv6ZLk.jpg",
+        "backdrop_path": "/ezqMGAZNg1y2b3TPU9jWKUL8rKM.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.265,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0105585",
+        "original_language": "en",
+        "popularity": 14.936,
+        "status": "Released",
+        "tagline": "Two men from different worlds. Two cops after the same killer. Together they must uncover the secrets. Together they must discover the truth.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11595,
+        "title": "Another 48 Hrs.",
+        "release_date": "1990-06-08",
+        "overview": "For the past four years, San Francisco cop Jack Cates has been after an unidentified drug kingpin who calls himself the Ice Man. Jack finds a picture that proves that the Ice Man has put a price on the head of Reggie Hammond, who is scheduled to be released from prison on the next day.",
+        "poster_path": "/3oSAuZP0346zcIo6awKzHyGUS44.jpg",
+        "backdrop_path": "/6x7yvYQjVvqGHf9fkLUUlHAFo9R.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Eddie Murphy Productions",
+                "id": 30
+            },
+            {
+                "name": "Lawrence Gordon Productions",
+                "id": 840
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 38000000,
+        "revenue": 153518974,
+        "vote_average": 5.984,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 93295,
+            "name": "48 Hrs. Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0099044",
+        "original_language": "en",
+        "popularity": 14.84,
+        "status": "Released",
+        "tagline": "The boys are back in town.",
+        "video": false
+    },
+    {
+        "id_tmdb": 17466,
+        "title": "Death Warrant",
+        "release_date": "1990-09-14",
+        "overview": "The Canadian policeman Louis Burke is assigned in a jail to investigate the murders of prisoners and jailors. When in jail, Louis, using his outstandings martial arts skills, is able to save his life and make himself respected in that violent world. At least, helped by two another prisoners, he succeded in finding the truth about the dreadful crimes.  In a violent and corrupt prison, decorated cop Louis Burke must infiltrate the jail to find answers to a number of inside murders. What he finds is a struggle of life and death tied in to his own past.",
+        "poster_path": "/3YZfSTt5AclmTTJAcU1Wg1Mtj2X.jpg",
+        "backdrop_path": "/mYiTorq97lCQHUDTbk7M4jiT5B0.jpg",
+        "production_companies": [
+            {
+                "name": "Pathé Pictures International",
+                "id": 1178
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4000000,
+        "revenue": 16853487,
+        "vote_average": 6.232,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099385",
+        "original_language": "en",
+        "popularity": 14.798,
+        "status": "Released",
+        "tagline": "He loves a good fight.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9278,
+        "title": "Freejack",
+        "release_date": "1992-01-17",
+        "overview": "Time-traveling bounty hunters find a doomed race-car driver in the past and bring him to 2009 New York, where his mind will be replaced with that of a terminally ill billionaire.",
+        "poster_path": "/lSN8lIX90Az0t1qvIXC4MlCvd9a.jpg",
+        "backdrop_path": "/8FlHUvNOSANeo8Y8adBNJanEib.jpg",
+        "production_companies": [
+            {
+                "name": "Morgan Creek Entertainment",
+                "id": 10210
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 17129026,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104299",
+        "original_language": "en",
+        "popularity": 14.692,
+        "status": "Released",
+        "tagline": "Don't let the future pass you by.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9905,
+        "title": "Shallow Grave",
+        "release_date": "1994-12-22",
+        "overview": "When David, Juliet, and Alex find their new roommate dead with a large sum of money, they agree to hide the body and keep the cash. However, this newfound fortune gradually corrodes their friendship.",
+        "poster_path": "/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg",
+        "backdrop_path": "/qPm2JWGq3LnoTmfbi8flzJRImbc.jpg",
+        "production_companies": [
+            {
+                "name": "The Glasgow Film Fund",
+                "id": 980
+            },
+            {
+                "name": "Figment Films",
+                "id": 359
+            },
+            {
+                "name": "PolyGram Filmed Entertainment",
+                "id": 1382
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2500000,
+        "revenue": 19800000,
+        "vote_average": 7.002,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0111149",
+        "original_language": "en",
+        "popularity": 14.65,
+        "status": "Released",
+        "tagline": "What's a little murder among friends?",
+        "video": false
+    },
+    {
+        "id_tmdb": 26141,
+        "title": "Fatal Instinct",
+        "release_date": "1993-10-29",
+        "overview": "Ned Ravine is a police officer and lawyer who occasionally defends the delinquents he arrests. He crosses paths with seductive Lola Cain during an assignment and promptly begins an affair with her. Meanwhile, Ned's wife, Lana, is deep in an affair of her own. Lana and her lover are planning to murder Ned in an elaborate fashion so they can collect on his triple indemnity life insurance policy.",
+        "poster_path": "/syewFnehGbbya5BdxoHLzrcm5Ne.jpg",
+        "backdrop_path": "/mTJHunR5Fr62OsPcTrPrw3YWTAS.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "yi",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0106873",
+        "original_language": "en",
+        "popularity": 14.634,
+        "status": "Released",
+        "tagline": "Sex, murder and revenge were never this funny.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10952,
+        "title": "New Jack City",
+        "release_date": "1991-03-08",
+        "overview": "A gangster, Nino, is in the Cash Money Brothers, making a million dollars every week selling crack. A cop, Scotty, discovers that the only way to infiltrate the gang is to become a dealer himself.",
+        "poster_path": "/k9VjzXyGElRAxXyXgPvtRRSznyL.jpg",
+        "backdrop_path": "/u3fFEz0NdoyXL3UUxTPNqeM2vrc.jpg",
+        "production_companies": [
+            {
+                "name": "Jacmac Films",
+                "id": 73997
+            },
+            {
+                "name": "Jackson-McHenry Entertainment",
+                "id": 37350
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 8500000,
+        "revenue": 47624253,
+        "vote_average": 6.606,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0102526",
+        "original_language": "en",
+        "popularity": 14.56,
+        "status": "Released",
+        "tagline": "They're a new breed of gangster. The new public enemy. The new family of crime.",
+        "video": false
+    },
+    {
+        "id_tmdb": 27381,
+        "title": "Innocent Blood",
+        "release_date": "1992-09-25",
+        "overview": "Marie is a vampire with a thirst for bad guys. When she fails to properly dispose of one of her victims, a violent mob boss, she bites off more than she can chew and faces a new, immortal danger.",
+        "poster_path": "/c7RcoSiKAm4K0MNbtgqeQZjp0Pe.jpg",
+        "backdrop_path": "/8MAiMQLDfyd6YktQFk1B1bhzzz3.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0104511",
+        "original_language": "en",
+        "popularity": 14.242,
+        "status": "Released",
+        "tagline": "The movie that goes straight for the jugular.",
+        "video": false
+    }
+]

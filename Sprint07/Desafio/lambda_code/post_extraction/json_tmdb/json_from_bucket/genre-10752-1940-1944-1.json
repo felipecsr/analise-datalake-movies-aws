@@ -1,0 +1,4203 @@
+[
+    {
+        "id_tmdb": 914,
+        "title": "The Great Dictator",
+        "release_date": "1940-10-15",
+        "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "poster_path": "/bTW7RvjX3OkNMr3YcXVwW7aCBiF.jpg",
+        "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+        "production_companies": [
+            {
+                "name": "Charles Chaplin Productions",
+                "id": 1315
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "eo",
+                "name": "Esperanto"
+            }
+        ],
+        "budget": 2000000,
+        "revenue": 11000000,
+        "vote_average": 8.305,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0032553",
+        "original_language": "en",
+        "popularity": 25.361,
+        "status": "Released",
+        "tagline": "Once again - the whole world laughs!",
+        "video": false
+    },
+    {
+        "id_tmdb": 18783,
+        "title": "Sahara",
+        "release_date": "1943-09-22",
+        "overview": "In Libya, an American tank commander, along with a handful of Allied soldiers, tries to defend an isolated well with a limited supply of water from a German Afrika Korps battalion during the Western Desert Campaign of World War II.",
+        "poster_path": "/roVIPqVLMdvs7uOcqDuwO891t8s.jpg",
+        "backdrop_path": "/e3U2mnT9JPyruXEKi78TWmRN0I2.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 2300000,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036323",
+        "original_language": "en",
+        "popularity": 13.837,
+        "status": "Released",
+        "tagline": "Their dramatic story can now be told!",
+        "video": false
+    },
+    {
+        "id_tmdb": 27367,
+        "title": "Mrs. Miniver",
+        "release_date": "1942-07-03",
+        "overview": "Middle-class housewife Kay Miniver deals with petty problems. She and her husband Clem watch her Oxford-educated son Vin court Carol Beldon, the charming granddaughter of the local nobility as represented by Lady Beldon. Then the war comes and Vin joins the RAF.",
+        "poster_path": "/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg",
+        "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1344000,
+        "revenue": 13500000,
+        "vote_average": 7.012,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 918082,
+            "name": "Mrs. Miniver Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0035093",
+        "original_language": "en",
+        "popularity": 13.245,
+        "status": "Released",
+        "tagline": "\"Mrs. Miniver\" is more than a picture... It's dramatic. It's tender. It's human. It's real.",
+        "video": false
+    },
+    {
+        "id_tmdb": 27854,
+        "title": "For Whom the Bell Tolls",
+        "release_date": "1943-07-12",
+        "overview": "Spain in the 1930s is the place to be for a man of action like Robert Jordan. There is a civil war going on and Jordan—who has joined up on the side that appeals most to idealists of that era—has been given a high-risk assignment up in the mountains. He awaits the right time to blow up a crucial bridge in order to halt the enemy's progress.",
+        "poster_path": "/4GuMovYLNkugU945CNsfwzmYfts.jpg",
+        "backdrop_path": "/pvn9N2S4b4AomcstFJxKHWZ6nWS.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 17800000,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035896",
+        "original_language": "en",
+        "popularity": 12.337,
+        "status": "Released",
+        "tagline": "Thunderous! Tender! Touching!",
+        "video": false
+    },
+    {
+        "id_tmdb": 198,
+        "title": "To Be or Not to Be",
+        "release_date": "1942-03-06",
+        "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+        "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+        "production_companies": [
+            {
+                "name": "Romaine Film Corporation",
+                "id": 226986
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 1200000,
+        "revenue": 1500000,
+        "vote_average": 7.823,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035446",
+        "original_language": "en",
+        "popularity": 12.285,
+        "status": "Released",
+        "tagline": "Hollywood's Happiest Star in the Picture You Must Not Miss!",
+        "video": false
+    },
+    {
+        "id_tmdb": 16442,
+        "title": "Sergeant York",
+        "release_date": "1941-09-27",
+        "overview": "Alvin York a hillbilly sharpshooter transforms himself from ruffian to religious pacifist. He is then called to serve his country and despite deep religious and moral objections to fighting becomes one of the most celebrated American heroes of WWI.",
+        "poster_path": "/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+        "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 1400000,
+        "revenue": 16361885,
+        "vote_average": 7.222,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034167",
+        "original_language": "en",
+        "popularity": 11.554,
+        "status": "Released",
+        "tagline": "Missiles! Jets! Tanks! ... It's still the guy with guts and a gun who wins the war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 13321,
+        "title": "Lifeboat",
+        "release_date": "1944-01-28",
+        "overview": "During World War II, a small group of survivors is stranded in a lifeboat together after the ship they were traveling on is destroyed by a German U-boat.",
+        "poster_path": "/2QXpzBMJJtmH7JvVf0ZzENvgc1o.jpg",
+        "backdrop_path": "/X5kdpMCowusOsub7jSHSnALysp.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 1590000,
+        "revenue": 1000000,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037017",
+        "original_language": "en",
+        "popularity": 10.888,
+        "status": "Released",
+        "tagline": "Six men and three women - against the sea, and each other!",
+        "video": false
+    },
+    {
+        "id_tmdb": 125249,
+        "title": "Batman",
+        "release_date": "1943-07-16",
+        "overview": "Japanese master spy Daka operates a covert espionage-sabotage organization located in Gotham City's now-deserted Little Tokyo, which turns American scientists into pliable zombies. The great crime-fighters Batman and Robin, with the help of their allies, are in pursuit.",
+        "poster_path": "/AvzD3mrtokIzZOiV6zAG7geIo6F.jpg",
+        "backdrop_path": "/bHxJA9rllKF2jhb11ARAwZJYSp6.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035665",
+        "original_language": "en",
+        "popularity": 10.342,
+        "status": "Released",
+        "tagline": "A HUNDRED TIMES MORE THRILLING ON THE SCREEN!",
+        "video": false
+    },
+    {
+        "id_tmdb": 21735,
+        "title": "49th Parallel",
+        "release_date": "1941-11-24",
+        "overview": "In the early days of World War II, a German U-boat is sunk in Canada's Hudson Bay. Hoping to evade capture, a small band of German soldiers led by commanding officer Lieutenant Hirth attempts to cross the border into the United States, which has not yet entered the war and is officially neutral. Along the way, the German soldiers encounter brave men such as a French-Canadian fur trapper, Johnnie, a leader of a Hutterite farming community, Peter, an author, Philip and a soldier, Andy Brock.",
+        "poster_path": "/m4YTQv9fHYB2nZ7M2Al6wzOmrYe.jpg",
+        "backdrop_path": "/nvuaUT8kDUyjsRUcNemwuJjTVWD.jpg",
+        "production_companies": [
+            {
+                "name": "Ortus Films",
+                "id": 13877
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0033627",
+        "original_language": "en",
+        "popularity": 10.258,
+        "status": "Released",
+        "tagline": "THE MIGHTEST MANHUNT THAT EVER SWEPT THE SCREEN!",
+        "video": false
+    },
+    {
+        "id_tmdb": 17382,
+        "title": "They Died with Their Boots On",
+        "release_date": "1941-11-20",
+        "overview": "The story follows General George Armstrong Custer's adventures from his West Point days to his death. He defies orders during the Civil War, trains the 7th Cavalry, appeases Chief Crazy Horse and later engages in bloody battle with the Sioux nation.",
+        "poster_path": "/gx8jknFwZRuQwTPooe14Dsx5uTO.jpg",
+        "backdrop_path": "/9DwCKxC7u2xsr59tsWmJyDzXTP1.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034277",
+        "original_language": "en",
+        "popularity": 9.939,
+        "status": "Released",
+        "tagline": "A STORY OF UNDYING FAITH!",
+        "video": false
+    },
+    {
+        "id_tmdb": 18770,
+        "title": "Thirty Seconds Over Tokyo",
+        "release_date": "1944-11-15",
+        "overview": "In the wake of Pearl Harbor, a young lieutenant leaves his expectant wife to volunteer for a secret bombing mission which will take the war to the Japanese homeland.",
+        "poster_path": "/dvvgU0TwstTtZofAzBA5syt5on7.jpg",
+        "backdrop_path": "/xnf9zh6Ptxc7SU5Lt08LIPc68u8.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2900000,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037366",
+        "original_language": "en",
+        "popularity": 9.936,
+        "status": "Released",
+        "tagline": "Heart-Warming Romance . . . Ripped from the Heart!",
+        "video": false
+    },
+    {
+        "id_tmdb": 60216,
+        "title": "Five Graves to Cairo",
+        "release_date": "1943-05-26",
+        "overview": "The British Army, retreating ahead of victorious Rommel, leaves a lone survivor on the Egyptian border who finds refuge at a remote desert hotel. He assumes the identity of a recently deceased waiter and is helped by the hotel's owner, despite protest from the French chambermaid, who fears the imminent arrival of Rommel and the Germans.",
+        "poster_path": "/sZuSO4VcIzsGWuoQoM6oEyfp1HV.jpg",
+        "backdrop_path": "/Y1GoXaPO098QNz25Zv9W7Uvi91.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 855000,
+        "revenue": 1200000,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035884",
+        "original_language": "en",
+        "popularity": 8.863,
+        "status": "Released",
+        "tagline": "Did a Woman Start the Rout of Rommel?",
+        "video": false
+    },
+    {
+        "id_tmdb": 22178,
+        "title": "Hangmen Also Die!",
+        "release_date": "1943-04-15",
+        "overview": "During the Nazi occupation of Czechoslovakia, surgeon Dr. Franticek Svoboda, a Czech patriot, assassinates the brutal \"Hangman of Europe\", Reichsprotektor Reinhard Heydrich, and is wounded in the process. In his attempt to escape, he is helped by history professor Stephen Novotny and his daughter Mascha.",
+        "poster_path": "/d9J86BpP7NLreJJ9VCbr1SDMRii.jpg",
+        "backdrop_path": "/7rL5tbuSmtpKeLAKcBTqQwmXAGj.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Arnold Pressburger Films",
+                "id": 1486
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.934,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035966",
+        "original_language": "en",
+        "popularity": 8.806,
+        "status": "Released",
+        "tagline": "The shot heard 'round the world!",
+        "video": false
+    },
+    {
+        "id_tmdb": 18562,
+        "title": "Gung Ho!",
+        "release_date": "1943-12-20",
+        "overview": "A true-life epic that revolves around an exclusive bataillon of the U.S. Marine Corps during World War II, \"Carlson's Raiders,\" whose assignment is to take control of a South Pacific island once possessed by the United States but now under Japanese command.",
+        "poster_path": "/juyMhRpiAsYDfOqeFWjA4qd4Ui5.jpg",
+        "backdrop_path": "/kQMnOcQbVTB4OZa9CHmkmkXIEJ5.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Walter Wanger Productions",
+                "id": 10096
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035958",
+        "original_language": "en",
+        "popularity": 8.688,
+        "status": "Released",
+        "tagline": "U.S. Marine Raiders in Action...Blasting Their Way To Tokyo!",
+        "video": false
+    },
+    {
+        "id_tmdb": 52859,
+        "title": "The Long Voyage Home",
+        "release_date": "1940-11-16",
+        "overview": "The crew of the merchant ship Glencairn hope to survive a transatlantic crossing during World War II. Adapted from four Eugene O'Neill one-act plays.",
+        "poster_path": "/vZifqG5wSSAoCGl7r3ESFW46Opl.jpg",
+        "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Walter Wanger Productions",
+                "id": 10096
+            },
+            {
+                "name": "Argosy Productions Corporation",
+                "id": 78381
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0032728",
+        "original_language": "en",
+        "popularity": 8.553,
+        "status": "Released",
+        "tagline": "The Love of Women in Their Eyes... The Salt of the Sea in Their Blood!",
+        "video": false
+    },
+    {
+        "id_tmdb": 17988,
+        "title": "The Most Beautiful",
+        "release_date": "1944-04-13",
+        "overview": "The stories of several young women who work in a 'precision optical instruments' factory during the second World War. Despite illness, injury, and tremendous personal hardship, the women persevere in their tasks, devoted to their work and their country's cause.",
+        "poster_path": "/37EKyIKpmGLEX5Js0cQq9J8DFW3.jpg",
+        "backdrop_path": "/pvFmXlMDsYoDnFu21hY3tlyW1xv.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036947",
+        "original_language": "ja",
+        "popularity": 8.255,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22638,
+        "title": "Henry V",
+        "release_date": "1944-11-24",
+        "overview": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
+        "poster_path": "/mtuyOdtZN506HFsUSqdLdwPKdhX.jpg",
+        "backdrop_path": "/zNca9BKPRMC1WtQYVJ619bqdaOZ.jpg",
+        "production_companies": [
+            {
+                "name": "Two Cities Films",
+                "id": 4006
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036910",
+        "original_language": "en",
+        "popularity": 7.927,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22404,
+        "title": "Man Hunt",
+        "release_date": "1941-06-13",
+        "overview": "Shortly before the start of WW2, renown British big-game hunter Thorndike vacationing in Bavaria has Hitler in his gun sight. He is captured, beaten, left for dead, and escapes back to London where he is hounded by Nazi agents and aided by a young woman.  Preserved by the Academy Film Archive in partnership with Twentieth Century Fox Film Corporation in 2000.",
+        "poster_path": "/5cQ3rmbzMcVeExlAyhgcJXlGgSO.jpg",
+        "backdrop_path": "/oPhyvR1UJ7qfOp1697HKz9xmtJP.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0033873",
+        "original_language": "en",
+        "popularity": 7.787,
+        "status": "Released",
+        "tagline": "One of the Most Gripping Scenes Ever Filmed...as two world-famous hunters stalk each Other!",
+        "video": false
+    },
+    {
+        "id_tmdb": 21366,
+        "title": "Journey into Fear",
+        "release_date": "1943-01-07",
+        "overview": "An American ballistics expert in Turkey finds himself targeted by Nazi agents. Safe passage home by ship is arranged for him, but he soon discovers that his pursuers are also on board.",
+        "poster_path": "/pYd8FC8VIgQcmzZ6JI4YCVhq9wl.jpg",
+        "backdrop_path": "/ewnZC0LxNGSqQMXwXvmSCnw1UlX.jpg",
+        "production_companies": [
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            },
+            {
+                "name": "Mercury Productions",
+                "id": 11447
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.963,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034922",
+        "original_language": "en",
+        "popularity": 7.669,
+        "status": "Released",
+        "tagline": "Welles and Del Rio together! as Terror Man vs. Leopard Woman--for possession of a mysterious stranger in the powder-keg Middle East",
+        "video": false
+    },
+    {
+        "id_tmdb": 23924,
+        "title": "Went the Day Well?",
+        "release_date": "1942-12-07",
+        "overview": "The quiet village of Bramley End is taken over by German troops posing as Royal Engineers. Their task is to disrupt England's radar network in preparation for a full scale German invasion. Once the villagers discover the true identity of the troops, they do whatever they can to thwart the Nazis plans.",
+        "poster_path": "/6P9SOdqj4fQf3aYatq95f2g3ME6.jpg",
+        "backdrop_path": "/HvIzYYidy1aeI1YhwmaFcS8Z2j.jpg",
+        "production_companies": [
+            {
+                "name": "Ealing Studios",
+                "id": 2650
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.189,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035429",
+        "original_language": "en",
+        "popularity": 7.198,
+        "status": "Released",
+        "tagline": "Went the day well? We died and never knew. But, well or ill, freedom we died for you.",
+        "video": false
+    },
+    {
+        "id_tmdb": 28093,
+        "title": "In Which We Serve",
+        "release_date": "1942-09-17",
+        "overview": "The story of the HMS Torrin, from its construction to its sinking in the Mediterranean during action in World War II. The ship's first and only commanding officer is Captain E.V. Kinross, who trains his men not only to be loyal to him and the country, but—most importantly—to themselves.",
+        "poster_path": "/i4SkM1rzBROLt9d33u0KGr2SVVm.jpg",
+        "backdrop_path": "/8kJfcHdKQYtyCHNoyN8k2eZZph0.jpg",
+        "production_companies": [
+            {
+                "name": "Two Cities Films",
+                "id": 4006
+            },
+            {
+                "name": "British Lion Film Corporation",
+                "id": 104314
+            },
+            {
+                "name": "J. Arthur Rank Organisation",
+                "id": 14377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.807,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034891",
+        "original_language": "en",
+        "popularity": 7.041,
+        "status": "Released",
+        "tagline": "You'll Never Forget... In Which We Serve",
+        "video": false
+    },
+    {
+        "id_tmdb": 41597,
+        "title": "Night Train to Munich",
+        "release_date": "1940-08-31",
+        "overview": "Czechoslovakia, March 1939, on the eve of World War II. As the German invaders occupy Prague, inventor Axel Bomasch manages to flee and reach England; but those who need to put his knowledge at the service of the Nazi war machine, in order to carry out their evil plans of destruction, will stop at nothing to capture him.",
+        "poster_path": "/fi6Vh72FSrps1eqKG0zj5DIv190.jpg",
+        "backdrop_path": "/nQXlAXXwZVhD4o3FQ94XyOwqX8w.jpg",
+        "production_companies": [
+            {
+                "name": "Gainsborough Pictures",
+                "id": 1221
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0032842",
+        "original_language": "en",
+        "popularity": 6.93,
+        "status": "Released",
+        "tagline": "Laughs! Thrills! Excitement!",
+        "video": false
+    },
+    {
+        "id_tmdb": 25037,
+        "title": "The Life and Death of Colonel Blimp",
+        "release_date": "1943-07-26",
+        "overview": "General Candy, who's overseeing an English squad in 1943, is a veteran leader who doesn't have the respect of the men he's training and is considered out-of-touch with what's needed to win the war. But it wasn't always this way. Flashing back to his early career in the Boer War and World War I, we see a dashing young officer whose life has been shaped by three different women, and by a lasting friendship with a German soldier.",
+        "poster_path": "/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg",
+        "backdrop_path": "/ojYxYkbO939H9OSayf5IKvbFA6i.jpg",
+        "production_companies": [
+            {
+                "name": "The Archers",
+                "id": 4397
+            },
+            {
+                "name": "J. Arthur Rank Organisation",
+                "id": 14377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036112",
+        "original_language": "en",
+        "popularity": 6.915,
+        "status": "Released",
+        "tagline": "An unforgettable story of forty gallant years.",
+        "video": false
+    },
+    {
+        "id_tmdb": 23336,
+        "title": "Why We Fight: Prelude to War",
+        "release_date": "1942-05-27",
+        "overview": "Prelude to War was the first film of Frank Capra's Why We Fight propaganda film series, commissioned by the Pentagon and George C. Marshall. It was made to convince American troops of the necessity of combating the Axis Powers during World War II. This film examines the differences between democratic and fascist states.",
+        "poster_path": "/3LuTqfAl8gfsoa27Mf0xoZfwKQA.jpg",
+        "backdrop_path": "/bipcEMQU2P79CdHr1ZStfWDK8Pt.jpg",
+        "production_companies": [
+            {
+                "name": "War Activities Committee of the Motion Pictures Industry",
+                "id": 4217
+            },
+            {
+                "name": "U.S. War Department",
+                "id": 101116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 158365,
+            "name": "Why We Fight"
+        },
+        "homepage": "http://www.archive.org/details/PreludeToWar",
+        "imdb_id": "tt0035209",
+        "original_language": "en",
+        "popularity": 6.777,
+        "status": "Released",
+        "tagline": "The US government puts the finger on the United Nations' enemies",
+        "video": false
+    },
+    {
+        "id_tmdb": 22994,
+        "title": "The Fighting Seabees",
+        "release_date": "1944-01-27",
+        "overview": "Construction workers in World War II in the Pacific are needed to build military sites, but the work is dangerous and they doubt the ability of the Navy to protect them. After a series of attacks by the Japanese, something new is tried, Construction Battalions (CBs=Seabees). The new CBs have to both build and be ready to fight.",
+        "poster_path": "/pfqahIjSJ8XkU1Pta2z9M9PuIJY.jpg",
+        "backdrop_path": "/yxi4mD31dEx7JgVxUbZhjm7tgG3.jpg",
+        "production_companies": [
+            {
+                "name": "Republic Pictures",
+                "id": 1432
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1500000,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036824",
+        "original_language": "en",
+        "popularity": 6.478,
+        "status": "Released",
+        "tagline": "The thrilling story of America's supermen!",
+        "video": false
+    },
+    {
+        "id_tmdb": 168994,
+        "title": "Army",
+        "release_date": "1944-12-07",
+        "overview": "Though plagued by ill health all his life, a young Japanese man is obligated to fulfill his family's longstanding military tradition.",
+        "poster_path": "/bjwi1pQXVvqx2fwsd0QGve3Z2K3.jpg",
+        "backdrop_path": "/q6CYZfXkLCqB1hJszY2gcr2W8gQ.jpg",
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037227",
+        "original_language": "ja",
+        "popularity": 6.283,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22871,
+        "title": "Destination Tokyo",
+        "release_date": "1943-12-31",
+        "overview": "During World War II, Captain Cassidy and his crew of submariners are ordered into Tokyo Bay on a secret mission. They are to gather information in advance of the planned bombing of Tokyo. Along the way, the crew learn about each other as they face the enemy and some of them lose their lives.",
+        "poster_path": "/cgCFxKpHY3QtsvKZtDwbTmPRjpi.jpg",
+        "backdrop_path": "/sYFUT5kIPM9IcLEo5QrgM5HW3iz.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1516000,
+        "revenue": 4544000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035799",
+        "original_language": "en",
+        "popularity": 6.273,
+        "status": "Released",
+        "tagline": "Explosive ! . . . And As Big As The Broad Pacific !",
+        "video": false
+    },
+    {
+        "id_tmdb": 42879,
+        "title": "The Miracle of Morgan’s Creek",
+        "release_date": "1943-12-12",
+        "overview": "A small-town girl with a soft spot for American soldiers wakes up the morning after a wild farewell party for the troops to find that she married someone she can't remember.",
+        "poster_path": "/rf2OgScEs3zsJL0Gp4ZMsR2ScdN.jpg",
+        "backdrop_path": "/fGaAtzve0Ds5WvGRtg39PS9N47v.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.862,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037077",
+        "original_language": "en",
+        "popularity": 6.209,
+        "status": "Released",
+        "tagline": "The True Story of TRUDY KOCKENLOCKER, who kissed the Boys Goodbye... REGIMENT BY REGIMENT!",
+        "video": false
+    },
+    {
+        "id_tmdb": 42401,
+        "title": "Since You Went Away",
+        "release_date": "1944-06-30",
+        "overview": "In 1943, several people enter, re-enter, and exit the difficult life of a Midwestern family whose patriarch has been called up to war, leaving behind his wife and two teen daughters.",
+        "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+        "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+        "production_companies": [
+            {
+                "name": "Selznick International Pictures",
+                "id": 1553
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037280",
+        "original_language": "en",
+        "popularity": 6.184,
+        "status": "Released",
+        "tagline": "A love story of today's love and laughter",
+        "video": false
+    },
+    {
+        "id_tmdb": 56143,
+        "title": "The Battle of Midway",
+        "release_date": "1942-09-14",
+        "overview": "The Japanese attack on Midway in June 1942, filmed as it happened.  Preserved by the Academy Film Archive, in partnership with Twentieth Century Fox Film Corporation, in 2006.",
+        "poster_path": "/5Hisq6sR3sOveUPeBqidzF7JsQ6.jpg",
+        "backdrop_path": "/k2dlZPa0YbAWUdpAkphVV73iAOL.jpg",
+        "production_companies": [
+            {
+                "name": "United States Navy",
+                "id": 9381
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.824,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.archive.org/details/BattleOfMidway",
+        "imdb_id": "tt0034498",
+        "original_language": "en",
+        "popularity": 6.139,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 15807,
+        "title": "Air Force",
+        "release_date": "1943-03-20",
+        "overview": "The crew of an Air Force bomber arrives in Pearl Harbor in the aftermath of the Japanese attack and is sent on to Manila to help with the defense of the Philippines.",
+        "poster_path": "/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg",
+        "backdrop_path": "/7L6SrvZgbTdNdj0lUA9L6C1mjuY.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035616",
+        "original_language": "en",
+        "popularity": 6.071,
+        "status": "Released",
+        "tagline": "GIANTS OF THE SKY...blazing a trail to victory!",
+        "video": false
+    },
+    {
+        "id_tmdb": 18229,
+        "title": "Passage to Marseille",
+        "release_date": "1944-03-11",
+        "overview": "A freedom-loving French journalist sacrifices his happiness and security to battle Nazi tyranny.",
+        "poster_path": "/14s5iMOLt8EboZmnltXjB7g2sap.jpg",
+        "backdrop_path": "/s9Pm8j8Ynbgq17cAKuTviCMU0xg.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037166",
+        "original_language": "en",
+        "popularity": 6.054,
+        "status": "Released",
+        "tagline": "Warner Bros. Triumph",
+        "video": false
+    },
+    {
+        "id_tmdb": 23051,
+        "title": "Action in the North Atlantic",
+        "release_date": "1943-06-12",
+        "overview": "Merchant Marine sailors Joe Rossi (Humphrey Bogart) and Steve Jarvis (Raymond Massey) are charged with getting a supply vessel to Russian allies as part of a sea convoy. When the group of ships comes under attack from a German U-boat, Rossi and Jarvis navigate through dangerous waters to evade Nazi naval forces. Though their mission across the Atlantic is extremely treacherous, they are motivated by the opportunity to strike back at the Germans, who sank one of their earlier ships.",
+        "poster_path": "/zoqQJgop9ymdMxAwkcPU31QHOeK.jpg",
+        "backdrop_path": "/4DvQVazlPdXnonF33fHUBXMikMK.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 2231000,
+        "revenue": 3460000,
+        "vote_average": 7.058,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035608",
+        "original_language": "en",
+        "popularity": 5.944,
+        "status": "Released",
+        "tagline": "Warner Bros. thunderous story of the men of the merchant marine!",
+        "video": false
+    },
+    {
+        "id_tmdb": 29372,
+        "title": "Flying Tigers",
+        "release_date": "1942-10-08",
+        "overview": "Jim Gordon commands a unit of the famed Flying Tigers, the American Volunteer Group which fought the Japanese in China before America's entry into World War II. Gordon must send his outnumbered band of fighter pilots out against overwhelming odds while juggling the disparate personalities and problems of his fellow flyers.",
+        "poster_path": "/1Aee8HBwkq1yjKYMnL9YMPhXJZ.jpg",
+        "backdrop_path": "/vKtDoxuJ5A63GOW2QlgT17CdHwG.jpg",
+        "production_companies": [
+            {
+                "name": "Republic Pictures",
+                "id": 1432
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034742",
+        "original_language": "en",
+        "popularity": 5.939,
+        "status": "Released",
+        "tagline": "Strong BRAVE MEN FLYING IN THE FACE OF DEATH THAT WE MAY Live",
+        "video": false
+    },
+    {
+        "id_tmdb": 48140,
+        "title": "Bon Voyage",
+        "release_date": "1944-01-01",
+        "overview": "A young, Scottish RAF gunner is debriefed by French officials about his escape from Nazi-occupied territory. They are particularly interested in one person who may or may not have been a German agent.",
+        "poster_path": "/1ALV6fI35RUC9JQ2vpZ520xPRf5.jpg",
+        "backdrop_path": "/ljX7cBGXzX8UF9GC0skDDZChn5L.jpg",
+        "production_companies": [
+            {
+                "name": "Phoenix",
+                "id": 76410
+            },
+            {
+                "name": "Ministry of Information",
+                "id": 6309
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036659",
+        "original_language": "en",
+        "popularity": 5.885,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 15696,
+        "title": "A Canterbury Tale",
+        "release_date": "1944-08-21",
+        "overview": "Three modern day pilgrims investigate a bizarre crime in a small town on the way to Canterbury.",
+        "poster_path": "/mhqTQo0NN7Zm6cIzTapZ568WMpN.jpg",
+        "backdrop_path": "/liHbkasVk59zxQUrjuwzVSIxxMK.jpg",
+        "production_companies": [
+            {
+                "name": "The Archers",
+                "id": 4397
+            },
+            {
+                "name": "J. Arthur Rank Organisation",
+                "id": 14377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.884,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036695",
+        "original_language": "en",
+        "popularity": 5.857,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 27017,
+        "title": "For Me and My Gal",
+        "release_date": "1942-10-21",
+        "overview": "Two vaudeville performers fall in love, but find their relationship tested by the arrival of WWI.",
+        "poster_path": "/gJrm2rg2sCnO9oKxdcBVH9a6wkj.jpg",
+        "backdrop_path": "/qA7WdA6FWOVeS6xSZEcXwsNNyje.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 802000,
+        "revenue": 4371000,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034746",
+        "original_language": "en",
+        "popularity": 5.593,
+        "status": "Released",
+        "tagline": "She's a Yankee Doodle Girlie!",
+        "video": false
+    },
+    {
+        "id_tmdb": 45220,
+        "title": "This Land Is Mine",
+        "release_date": "1943-05-07",
+        "overview": "Somewhere in Europe, in a city occupied by the Nazis, a gentle school teacher finds himself torn between collaboration and resistance, cowardice and courage.",
+        "poster_path": "/lrzTlL50vFQhq9cvsuZvCYLPOcq.jpg",
+        "backdrop_path": "/sWZfaaUoZ8MvC9egX2uqP9trlwq.jpg",
+        "production_companies": [
+            {
+                "name": "Jean-Renoir- Dudly Nichols Productions",
+                "id": 18214
+            },
+            {
+                "name": "RKO Radio Pictures",
+                "id": 6
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036431",
+        "original_language": "en",
+        "popularity": 5.511,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43510,
+        "title": "Guadalcanal Diary",
+        "release_date": "1943-10-27",
+        "overview": "Concentrating on the personal lives of those involved, a war correspondent takes us through the preparations, landing and initial campaign on Guadalcanal during WWII.",
+        "poster_path": "/cS4EBa0bUQpIHKISLp1mPNPZtbN.jpg",
+        "backdrop_path": "/tNR7QDdMoiS9CMGITknnuWvb5Q8.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035957",
+        "original_language": "en",
+        "popularity": 5.424,
+        "status": "Released",
+        "tagline": "The Victory picture of the year !",
+        "video": false
+    },
+    {
+        "id_tmdb": 100900,
+        "title": "Salute to the Marines",
+        "release_date": "1943-09-02",
+        "overview": "It is a comic book propaganda film which has Beery as a retired USMC NCO who, when the Japanese invade the Philippines, leads a heroic defense, first by strangling a Nazi agent, and then dying in his dress blues uniform while blowing up a bridge.",
+        "poster_path": "/cIUFEI6jpk1hC0kz7gBbMTyPyqp.jpg",
+        "backdrop_path": "/3Hg8QIu3zxWuprFRo2LEdFgbPJT.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036328",
+        "original_language": "en",
+        "popularity": 5.405,
+        "status": "Released",
+        "tagline": "Rough! Romantic! Rarin' to go!",
+        "video": false
+    },
+    {
+        "id_tmdb": 52440,
+        "title": "The White Cliffs of Dover",
+        "release_date": "1944-05-11",
+        "overview": "American Susan travels with her father to England for a vacation. Invited to a society ball, Susan meets Sir John Ashwood and marries him after a whirlwind romance. However, she never quite adjusts to life as a new member of the British gentry. At the outbreak of World War I, John is sent to the trenches and never returns. When her son goes off to fight in World War II, Susan fears the same tragic fate may befall him too.",
+        "poster_path": "/l6g71AmExvAIKOZB3vdEBR5WArm.jpg",
+        "backdrop_path": "/cpC76nY1HDJLz6m60uUY8FFQJFT.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037462",
+        "original_language": "en",
+        "popularity": 5.204,
+        "status": "Released",
+        "tagline": "The greatest love story of our time!",
+        "video": false
+    },
+    {
+        "id_tmdb": 54391,
+        "title": "Millions Like Us",
+        "release_date": "1943-06-01",
+        "overview": "When Celia Crowson is called up for war service, she hopes for a glamorous job in one of the services, but as a single girl, she is directed into a factory making aircraft parts. Here she meets other girls from all different walks of life and begins a relationship with a young airman.",
+        "poster_path": "/Z3W36l7JOGa9TGeDuU6Qr6WdLj.jpg",
+        "backdrop_path": "/sfFGalNqZmPDJ2mci9LqDaAxoe.jpg",
+        "production_companies": [
+            {
+                "name": "Gainsborough Pictures",
+                "id": 1221
+            },
+            {
+                "name": "J. Arthur Rank Organisation",
+                "id": 14377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036160",
+        "original_language": "en",
+        "popularity": 5.169,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 28286,
+        "title": "Reunion in France",
+        "release_date": "1942-12-25",
+        "overview": "Frenchwoman Michele de la Becque, an opponent of the Nazis in German-occupied Paris, hides a downed American flyer, Pat Talbot, and attempts to get him safely out of the country.",
+        "poster_path": "/25ARg4KpTxk0mTQSAx0WWgmEOqS.jpg",
+        "backdrop_path": "/4sej1lDqfhaotP85czyn3cL88eQ.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035250",
+        "original_language": "en",
+        "popularity": 5.07,
+        "status": "Released",
+        "tagline": "The Picture Of The Hour! France In Open Revolt! Leaping From The Headlines! The Underground Of Paris!",
+        "video": false
+    },
+    {
+        "id_tmdb": 28426,
+        "title": "Invisible Agent",
+        "release_date": "1942-08-07",
+        "overview": "The Invisible Man's grandson uses his secret formula to spy on Nazi Germany in this comedy-thriller.",
+        "poster_path": "/2yybvJ8qeTv3efX8LP0q1KGleDJ.jpg",
+        "backdrop_path": "/bQcWWA0kFDjcei4ECXEUwIjNjQK.jpg",
+        "production_companies": [
+            {
+                "name": "Frank Lloyd Productions",
+                "id": 10718
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 322000,
+        "revenue": 1040000,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 259401,
+            "name": "The Invisible Man Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0034902",
+        "original_language": "en",
+        "popularity": 4.932,
+        "status": "Released",
+        "tagline": "Today's most amazing sensation!",
+        "video": false
+    },
+    {
+        "id_tmdb": 28916,
+        "title": "The Way Ahead",
+        "release_date": "1944-06-09",
+        "overview": "A mismatched collection of conscripted civilians find training tough under Lieutenant Jim Perry  and Sergeant Ned Fletcher when they are called up to replace an infantry battalion that had suffered casualties at Dunkirk.",
+        "poster_path": "/rJP2JsLnlyv4pkT7crrJYz0V4pE.jpg",
+        "backdrop_path": "/n6Rrv6codL89wBFw2PxDePv2Wfr.jpg",
+        "production_companies": [
+            {
+                "name": "Two Cities Films",
+                "id": 4006
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037449",
+        "original_language": "en",
+        "popularity": 4.929,
+        "status": "Released",
+        "tagline": "From Workers — To Warriors",
+        "video": false
+    },
+    {
+        "id_tmdb": 1211124,
+        "title": "Navy",
+        "release_date": "1943-12-08",
+        "overview": "Japanese war film.",
+        "poster_path": "/ik6RpyqNnjgR2cXk99pwJPdas6d.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0436466",
+        "original_language": "ja",
+        "popularity": 4.891,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43306,
+        "title": "A Guy Named Joe",
+        "release_date": "1943-12-24",
+        "overview": "A cocky Air Force pilot stationed in England during World War II falls for a daring female flier.  After he's killed on a mission, he is sent back to Earth by heavenly General with a new assignment.",
+        "poster_path": "/rrdaUol9hZEde4HloyVuG860OH7.jpg",
+        "backdrop_path": "/cez9he2zb0Jv2AdLhdxcpVph5FS.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2627000,
+        "revenue": 5363000,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035959",
+        "original_language": "en",
+        "popularity": 4.864,
+        "status": "Released",
+        "tagline": "A guy—a gal—a pal—it’s swell!",
+        "video": false
+    },
+    {
+        "id_tmdb": 36498,
+        "title": "Hail the Conquering Hero",
+        "release_date": "1944-08-09",
+        "overview": "Having been discharged from the Marines for a hayfever condition before ever seeing action, Woodrow Lafayette Pershing Truesmith delays the return to his hometown, feeling that he is a failure. While in a moment of melancholy, he meets up with a group of Marines who befriend him and encourage him to return home to his mother by fabricating a story that he was wounded in battle with honorable discharge.",
+        "poster_path": "/AfuK8Ui0o4Z9ATlUT7nOvYI4P0d.jpg",
+        "backdrop_path": "/vfyvDJmvRGMkePPDEg4C0QyymoQ.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.008,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036891",
+        "original_language": "en",
+        "popularity": 4.815,
+        "status": "Released",
+        "tagline": "MIRACLES DO HAPPEN!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43805,
+        "title": "Northwest Passage",
+        "release_date": "1940-02-23",
+        "overview": "Based on the Kenneth Roberts novel of the same name, this film tells the story of two friends who join Rogers' Rangers, as the legendary elite force engages the enemy during the French and Indian War. The film focuses on their famous raid at Fort St. Francis and their marches before and after the battle.",
+        "poster_path": "/d1J3K23jhEEt2uezEvYY0YtatWi.jpg",
+        "backdrop_path": "/3X7dEi4izSFpktnjO9GkrUcEVVd.jpg",
+        "production_companies": [
+            {
+                "name": "Loew's Incorporated",
+                "id": 1460
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0032851",
+        "original_language": "en",
+        "popularity": 4.698,
+        "status": "Released",
+        "tagline": "Half Men—Half Demons … Warriors Such As The World Has Never Known … They Lived With Death and Danger For The Women Who Hungered For Their Love!",
+        "video": false
+    },
+    {
+        "id_tmdb": 38726,
+        "title": "Stage Door Canteen",
+        "release_date": "1943-06-24",
+        "overview": "A young soldier on a pass in New York City visits the famed Stage Door Canteen, where famous stars of the theater and films appear and host a recreational center for servicemen during the war. The soldier meets a pretty young hostess and they enjoy the many entertainers and a growing romance",
+        "poster_path": "/1pUUs6kVSXz1x06coXhX2qZYjWA.jpg",
+        "backdrop_path": "/utUHP8oG2HfdKaJpFdFiqsPD2RX.jpg",
+        "production_companies": [
+            {
+                "name": "Sol Lesser Productions",
+                "id": 4213
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036384",
+        "original_language": "en",
+        "popularity": 4.672,
+        "status": "Released",
+        "tagline": "YOU'VE HEARD ABOUT IT! READ ABOUT IT! NOW *SEE* THE WORLD'S GREATEST ENTERTAINMENT HIT!",
+        "video": false
+    },
+    {
+        "id_tmdb": 98399,
+        "title": "Stand by for Action",
+        "release_date": "1942-12-31",
+        "overview": "U. S. Navy Lieutenant Gregg Masterman, of The Harvard and Boston Back Bay Mastermans, learned about the sea while winning silver cups sailing his yacht. He climbs swiftly in rank, and is now Junior Aide to Rear Admiral Stephen Thomas.",
+        "poster_path": "/qx89ELAxdMHhRPBr8PIv3O6W2PH.jpg",
+        "backdrop_path": "/ivsJdOruuFkr0SRGiMsJrEDO6gF.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036386",
+        "original_language": "en",
+        "popularity": 4.623,
+        "status": "Released",
+        "tagline": "The mightiest naval drama of all time!",
+        "video": false
+    },
+    {
+        "id_tmdb": 88803,
+        "title": "The Silver Fleet",
+        "release_date": "1943-03-15",
+        "overview": "Jaap van Leyden is in charge of a shipyard in newly occupied Holland. At first he collaborates with the Germans because it is the easiest course to follow. Later a child's rhyme reminds him of his patriotic duty, but how best to resist the Nazis without endangering his wife and fellow workers?",
+        "poster_path": "/iVAVri40QONKkJnFbb3mUS6dThf.jpg",
+        "backdrop_path": "/h86P9FJ6fibGjpRI2HCOIT4ODwt.jpg",
+        "production_companies": [
+            {
+                "name": "The Archers",
+                "id": 4397
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036356",
+        "original_language": "en",
+        "popularity": 4.453,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 150778,
+        "title": "So Proudly We Hail",
+        "release_date": "1943-09-09",
+        "overview": "During the start of the Pacific campaign in World War II, Lieutenant Janet Davidson is the head of a group of U.S. military nurses who are trapped behind enemy lines in the Philippines. Davidson tries to keep up the spirits of her staff, which includes Lieutenants Joan O'Doul and Olivia D'Arcy. They all seek to maintain a sense of normal life, including dating, while under constant danger as they tend to wounded soldiers.",
+        "poster_path": "/1HELEee7lRd1ul37F4tQCRbGOiX.jpg",
+        "backdrop_path": "/lrMaqHSDAoKh1tAgNTw8sIccxLa.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036367",
+        "original_language": "en",
+        "popularity": 4.444,
+        "status": "Released",
+        "tagline": "The First Great Love Story of Our Women at the Fighting Front!",
+        "video": false
+    },
+    {
+        "id_tmdb": 401014,
+        "title": "Sinking the Unsinkable",
+        "release_date": "1944-03-23",
+        "overview": "Japanese Warmovie",
+        "poster_path": "/jCmZDHuJoR8kp4wKZ9n1eEXxhxm.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1178188",
+        "original_language": "ja",
+        "popularity": 4.417,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 161512,
+        "title": "Mission to Moscow",
+        "release_date": "1943-04-29",
+        "overview": "Ambassador Joseph Davies is sent by FDR to Russia to learn about the Soviet system and returns to the US as an advocate of socialism.",
+        "poster_path": "/pQ2hj7sfTwUGtz7mulxAc28hKYQ.jpg",
+        "backdrop_path": "/bRU32apzAB9pCFx49cYstPPIBtl.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036166",
+        "original_language": "en",
+        "popularity": 4.397,
+        "status": "Released",
+        "tagline": "One American's Journey into the Truth",
+        "video": false
+    },
+    {
+        "id_tmdb": 92399,
+        "title": "The Story of Dr. Wassell",
+        "release_date": "1944-07-04",
+        "overview": "As the Japanese sweep through the East Indies during World War II, Dr. Wassell is determined to escape from Java with some crewmen of the cruiser Marblehead. Based on a true story of how Dr. Wassell saved a dozen or so wounded sailors who were left behind when able bodied men were evacuated to Australia.",
+        "poster_path": "/yjrMxwMxhsahGbCHLFpDUW5fR1t.jpg",
+        "backdrop_path": "/vU7Jdx2v6li9hEwGRUILe4iK2aL.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037316",
+        "original_language": "en",
+        "popularity": 4.365,
+        "status": "Released",
+        "tagline": "Flaming Action from the Jungles of Java to China and the Seven Seas!",
+        "video": false
+    },
+    {
+        "id_tmdb": 22779,
+        "title": "Victory Through Air Power",
+        "release_date": "1943-07-17",
+        "overview": "This is a unique film in Disney Production's history. This film is essentially a propaganda film selling Major Alexander de Seversky's theories about the practical uses of long range strategic bombing. Using a combination of animation humorously telling about the development of air warfare, the film switches to the Major illustrating his ideas could win the war for the allies.",
+        "poster_path": "/7uHtN8sAlVsSbTZOvhGV8iTEfGk.jpg",
+        "backdrop_path": "/e8xNmmkolNOc8FBKWha19Q6eL4u.jpg",
+        "production_companies": [
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 799000,
+        "revenue": 788000,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036497",
+        "original_language": "en",
+        "popularity": 4.364,
+        "status": "Released",
+        "tagline": "There's a Thrill in the Air!",
+        "video": false
+    },
+    {
+        "id_tmdb": 48133,
+        "title": "Madagascar Landing",
+        "release_date": "1944-01-01",
+        "overview": "A former leader of the French Resistance finds that one of his fellow actors looks like a detestable official he knew in Madagascar during the war. He tells about his time, operating an illegal radio station while evading the Nazis.",
+        "poster_path": "/taPsP0LhQ78KdcHWwdduWtO34Yl.jpg",
+        "backdrop_path": "/tzbZyn15GSCgermzm4Wehpbexhj.jpg",
+        "production_companies": [
+            {
+                "name": "Phoenix",
+                "id": 76410
+            },
+            {
+                "name": "Ministry of Information",
+                "id": 6309
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036621",
+        "original_language": "en",
+        "popularity": 4.357,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 84669,
+        "title": "Blitz Wolf",
+        "release_date": "1942-08-22",
+        "overview": "Yet another variation on the Three Little Pigs theme, this time told as WW2 anti-German propaganda (the US had just entered the war), with the wolf as a thinly-disguised Hitler.",
+        "poster_path": "/2sJE7Ew0ACcJn6AFApdqJXb5WVO.jpg",
+        "backdrop_path": "/zpX00EjKsqepr8i9eXtZRdH2rWc.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "MGM Cartoon Studio",
+                "id": 89238
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034524",
+        "original_language": "en",
+        "popularity": 4.288,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 48127,
+        "title": "The North Star",
+        "release_date": "1943-11-04",
+        "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+        "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+        "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+        "production_companies": [
+            {
+                "name": "Samuel Goldwyn Productions",
+                "id": 28205
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036217",
+        "original_language": "en",
+        "popularity": 4.254,
+        "status": "Released",
+        "tagline": "A rolling wall of hell that couldn't be stopped... A handful of men who had to stop it!",
+        "video": false
+    },
+    {
+        "id_tmdb": 32921,
+        "title": "Captains of the Clouds",
+        "release_date": "1942-02-12",
+        "overview": "Inspired by Churchill's Dunkirk speech, brash, undisciplined Canadian bush pilot Brian MacLean and three friends enlist in the RCAF.",
+        "poster_path": "/cCFsU3PbbQU530aB6SCzi0PDRna.jpg",
+        "backdrop_path": "/x7fyJc3SdN2lCl7jgKnh6Ym9ZLj.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034578",
+        "original_language": "en",
+        "popularity": 4.222,
+        "status": "Released",
+        "tagline": "So full of spectacle and glory it had to be made in Technicolor!",
+        "video": false
+    },
+    {
+        "id_tmdb": 55238,
+        "title": "Edge of Darkness",
+        "release_date": "1943-04-09",
+        "overview": "The film pivots around the local Norwegian doctor and his family. The doctor's wife (Ruth Gordon) wants to hold on to the pretence of gracious living and ignore their German occupiers. The doctor, Martin Stensgard (Walter Huston), would also prefer to stay neutral, but is torn. His brother-in-law, the wealthy owner of the local fish cannery, collaborates with the Nazis. The doctor's daughter, Karen (Ann Sheridan), is involved with the resistance and with its leader Gunnar Brogge (Errol Flynn). The doctor's son has just returned to town, having been sent down from the university, and is soon influenced by his Nazi-sympathizer uncle. Captain Koenig (Helmut Dantine), the young German commandant of the occupying garrison, whose fanatic determination to do everything by the book and spoutings about the invincibility of the Reich hides a growing fear of a local uprising.",
+        "poster_path": "/vlZDRNrKljJmmTveUToMrI2zAi6.jpg",
+        "backdrop_path": "/1EsRUY5lcFtqp7iZzFXMtCuGhr8.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1653000,
+        "revenue": 3669000,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034694",
+        "original_language": "en",
+        "popularity": 4.22,
+        "status": "Released",
+        "tagline": "Resistance fighters battle the Nazis in occupied Norway",
+        "video": false
+    },
+    {
+        "id_tmdb": 85574,
+        "title": "The Seventh Cross",
+        "release_date": "1944-07-24",
+        "overview": "In Nazi Germany in 1936 seven men escape from a concentration camp. The camp commander puts up seven crosses and, as the Gestapo returns each escapee he is put to death on a cross. The seventh cross is still empty as George Heisler seeks freedom in Holland.",
+        "poster_path": "/ber0Xaw7njgWxVOuBRAFQITDiuP.jpg",
+        "backdrop_path": "/g6iZoAvfvdcr52GGhBOpt4xpM2z.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 1300000,
+        "revenue": 3600000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037263",
+        "original_language": "en",
+        "popularity": 4.199,
+        "status": "Released",
+        "tagline": "His greatest role!",
+        "video": false
+    },
+    {
+        "id_tmdb": 100605,
+        "title": "December 7th",
+        "release_date": "1943-03-01",
+        "overview": "\"Docudrama\" about the bombing of Pearl Harbor on December 7th, 1941 and its results, the recovering of the ships, the improving of defense in Hawaii and the US efforts to beat back the Japanese reinforcements.",
+        "poster_path": "/vrfkeXuHyogHMTUIZ4srU3680is.jpg",
+        "backdrop_path": "/t1Zep7jOsDQKUV0i2JJqmNg7p8a.jpg",
+        "production_companies": [
+            {
+                "name": "Navy Department",
+                "id": 115452
+            },
+            {
+                "name": "U.S. War Department",
+                "id": 101116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035790",
+        "original_language": "en",
+        "popularity": 4.144,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 332478,
+        "title": "Toward the Decisive Battle in the Sky",
+        "release_date": "1943-05-01",
+        "overview": "Young men endure challenging flight training  in the Yokaren, a program feeding new pilots into the Army and Navy. By the time of the filming, the pressure of the war had led the government to shorten the training and expand the age range of the recruits. Yokaren was highly selective, and thus an object of great fascination and desire for boys and young men. In this Navy–sponsored film, Setsuko Hara plays the daughter of a family that often entertains recruits on their days off—a surrogate sister to many trainees. Her fragile younger brother aspires to join the program, but is rejected. With perseverance and much support from Hara and their mother, he surmounts his weaknesses and becomes a flier.",
+        "poster_path": "/48QnHkn33COovugFeDn4TvKJisT.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Toho Eiga Co., Ltd.",
+                "id": 622
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6343052",
+        "original_language": "ja",
+        "popularity": 4.14,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 41355,
+        "title": "The Memphis Belle",
+        "release_date": "1944-04-13",
+        "overview": "This WW2 documentary centers on the crew of the American B-17 Flying Fortress Memphis Belle as it prepares to execute a strategic bombing raid on Nazi submarine pens in Wilhelmshaven, Germany.",
+        "poster_path": "/nB3fVpM6JumgiyeuL59Ht1FfzI5.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "First Motion Pictures Unit US Army Air Forces",
+                "id": 9386
+            },
+            {
+                "name": "U.S. Office of War Information",
+                "id": 6308
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036152",
+        "original_language": "en",
+        "popularity": 3.955,
+        "status": "Released",
+        "tagline": "Fly and Fight with the Crew on an Actual Bombing Mission Over Germany!",
+        "video": false
+    },
+    {
+        "id_tmdb": 267588,
+        "title": "The Hitler Gang",
+        "release_date": "1944-04-26",
+        "overview": "The Hitler Gang adopts the style of a gangster film as it charts Adolf Hitler’s rise from small-time politico to dictator of Germany.",
+        "poster_path": "/AhNHLqrz33VVl0cCOWiR38FV78y.jpg",
+        "backdrop_path": "/EQx2K6Rzi05sPYmi1AummAF9G6.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036921",
+        "original_language": "en",
+        "popularity": 3.951,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 204711,
+        "title": "Candlelight in Algeria",
+        "release_date": "1944-03-19",
+        "overview": "Candlelight in Algeria is a 1944 British war film directed by George King and starring James Mason, Carla Lehmann and Raymond Lovell. This drama follows the exploits of Eisenhower's top aide, Mark Clark, and other important Allies as they journey to an important meeting held on Algeria's coast. The precise location of this vital secret gathering is upon a piece of film which must not fall into enemy hands",
+        "poster_path": "/xquwW2DTM6XSOAeu2Bd4NL61fYX.jpg",
+        "backdrop_path": "/7ddfA5RnqtYuxGjvL2LeOAgQheU.jpg",
+        "production_companies": [
+            {
+                "name": "British Aviation Pictures",
+                "id": 3192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036693",
+        "original_language": "en",
+        "popularity": 3.94,
+        "status": "Released",
+        "tagline": "Come With Us To The Mysterious Casbah, But Don't Expect To Come out Alive",
+        "video": false
+    },
+    {
+        "id_tmdb": 146058,
+        "title": "Eleventh Hour",
+        "release_date": "1942-11-20",
+        "overview": "Using Clark Kent as a cover, Superman travels to Japan as a saboteur during the war.",
+        "poster_path": "/28mBxxb6hMarEHkoJc5AhohQ4JD.jpg",
+        "backdrop_path": "/uynocYnuaEtSvEDzju7YVyBAAGm.jpg",
+        "production_companies": [
+            {
+                "name": "Famous Studios",
+                "id": 4178
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1400846,
+            "name": "Fleischer Superman Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0034700",
+        "original_language": "en",
+        "popularity": 3.923,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 48989,
+        "title": "None Shall Escape",
+        "release_date": "1944-02-03",
+        "overview": "Through flashbacks, the story of a Nazi war criminal is exposed.",
+        "poster_path": "/vtJdshqBOnasjyBsTDktiI80LWv.jpg",
+        "backdrop_path": "/ziQpPpvcYEAFsGuRJvXIY2A2Rme.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037136",
+        "original_language": "en",
+        "popularity": 3.923,
+        "status": "Released",
+        "tagline": "NAZIS! QUISLINGS! WOMEN KILLERS! FIRST COMPLETE STORY OF THE TRIAL OF THE NAZI WAR CRIMINALS!",
+        "video": false
+    },
+    {
+        "id_tmdb": 55860,
+        "title": "Tarzan Triumphs",
+        "release_date": "1943-01-20",
+        "overview": "Zandra, white princess of a lost civilization, comes to Tarzan for help when Nazis invade the jungle with plans to conquer her people and take their wealth. Tarzan, the isolationist, becomes involved after the Nazis shoot at him and capture Boy: \"Now Tarzan make war!\"",
+        "poster_path": "/kW131tphE6YLG1uAN3bNm50ka6o.jpg",
+        "backdrop_path": "/wPi9jNFEKFL23h8sevFnsZlTajJ.jpg",
+        "production_companies": [
+            {
+                "name": "Sol Lesser Productions",
+                "id": 4213
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 65249,
+            "name": "Tarzan (Johnny Weissmuller) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0036414",
+        "original_language": "en",
+        "popularity": 3.896,
+        "status": "Released",
+        "tagline": "A new beautiful beauty arouses Tarzan's fighting heart!",
+        "video": false
+    },
+    {
+        "id_tmdb": 358920,
+        "title": "Colonel Kato's Falcon Squadron",
+        "release_date": "1944-03-09",
+        "overview": "A 1944 propaganda film that depicts the fictionalised career of IJAAF pilot Tateo Kato, who led the 64th Sentai during the early months of the Pacific War. The film has scenes featuring Ki-43 fighters escorting Ki-21 bombers to attack Rangoon, where they are attacked by P-40 Warhawk and Brewster Buffalo fighters.",
+        "poster_path": "/yC5MqTfRjy3XFk9zMRWFsB9qPOg.jpg",
+        "backdrop_path": "/vHbWJ4CchtCs8K5Zi3SEPzFy5y9.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036980",
+        "original_language": "ja",
+        "popularity": 3.872,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 98482,
+        "title": "Commandos Strike at Dawn",
+        "release_date": "1942-12-30",
+        "overview": "A gentle widower, enraged at Nazi atrocities against his peaceful Norwegian fishing village, escapes to Britain and returns leading a commando force against the oppressors.",
+        "poster_path": "/kMvsvDDYYaUPN5XdPnCqaEvTvgD.jpg",
+        "backdrop_path": "/2mzYk9Z8E7mrD4XWQcQdO1XUyK6.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035746",
+        "original_language": "en",
+        "popularity": 3.821,
+        "status": "Released",
+        "tagline": "At Last On The Screen! The Mighty Story Of The World-Famous COMMANDOS!",
+        "video": false
+    },
+    {
+        "id_tmdb": 16444,
+        "title": "The First of the Few",
+        "release_date": "1942-09-14",
+        "overview": "This 1942 fictionalized biopic chronicles the true story of how two of the most remarkable men in aviation history - visionary Spitfire designer R.J. Mitchell and his test pilot Geoffrey Crisp - designed a streamlined monoplane that led to the development of the Spitfire.",
+        "poster_path": "/rp7tjjcANAcUknUDYw1DGu4YyD8.jpg",
+        "backdrop_path": "/7wM9k8dwWnHQOjknf0e6nx46Kep.jpg",
+        "production_companies": [
+            {
+                "name": "British Aviation Pictures",
+                "id": 3192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034734",
+        "original_language": "en",
+        "popularity": 3.795,
+        "status": "Released",
+        "tagline": "The thrilling human story behind the plane that licked the Luftwaffe!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43506,
+        "title": "Bataan",
+        "release_date": "1943-06-03",
+        "overview": "During Japan's invasion of the Philippines in 1942, Capt. Henry Lassiter, Sgt. Bill Dane and a diverse group of American soldiers are ordered to destroy and hold a strategic bridge in order to delay the Japanese forces and allow Gen. MacArthur time to secure Bataan. When the Japanese soldiers begin to rebuild the bridge and advance, the group struggles with not only hunger, sickness and gunfire, but also the knowledge that there is likely no relief on the way.",
+        "poster_path": "/gDJ6uGQqDkg45QeyGmHRpkZ8HVS.jpg",
+        "backdrop_path": "/i4Uhyno5HzkIfoHTN3sMdU6BtNn.jpg",
+        "production_companies": [
+            {
+                "name": "Loew's Incorporated",
+                "id": 1460
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035664",
+        "original_language": "en",
+        "popularity": 3.769,
+        "status": "Released",
+        "tagline": "THE STORY OF A PATROL OF 13 HEROES",
+        "video": false
+    },
+    {
+        "id_tmdb": 299104,
+        "title": "Port of Flowers",
+        "release_date": "1943-07-29",
+        "overview": "The sweet but naive denizens of a charming port town are hoodwinked by a couple of con men at the outset of World War II. But the hustlers’ plan backfires when they come down with severe cases of conscience. Keisuke Kinoshita’s directorial debut is a breezy, warmhearted, and often very funny crowd-pleaser that’s a testament to the filmmaker’s faith in people.",
+        "poster_path": "/7uNWMZBhSV6iW0naG22LU7gFz4S.jpg",
+        "backdrop_path": "/lm9AjOloY8ts3oCB4I6fd7AH7XJ.jpg",
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035964",
+        "original_language": "ja",
+        "popularity": 3.692,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 70426,
+        "title": "San Demetrio London",
+        "release_date": "1943-12-07",
+        "overview": "British drama documentary from 1943, based on the true story of the 1940 rescue of the tanker MV San Demetrio by parts of her own crew after she had been set afire  in the middle of the Atlantic by the German heavy cruiser Admiral Scheer and then had been abandoned. When one of the lifeboats drifted back to the burning tanker the day after, and found that she still hadn't exploded, they decided to board her and put out the fires. Eventually, they managed to start the engine again and decided to try to reach Britain against all odds.",
+        "poster_path": "/3BqVueX0Bt7uiZ466W0JATY3HDv.jpg",
+        "backdrop_path": "/es0gRims0L4lGrR8yOpYNSgSKhQ.jpg",
+        "production_companies": [
+            {
+                "name": "Ealing Studios",
+                "id": 2650
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0039797",
+        "original_language": "en",
+        "popularity": 3.689,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43786,
+        "title": "Wake Island",
+        "release_date": "1942-08-11",
+        "overview": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+        "poster_path": "/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
+        "backdrop_path": "/g9kAFh9Xp05fQsbv12MbeQGBpxS.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035530",
+        "original_language": "en",
+        "popularity": 3.689,
+        "status": "Released",
+        "tagline": "Leathernecks... writing another glorious chapter of purposeful courage in America's history!",
+        "video": false
+    },
+    {
+        "id_tmdb": 51791,
+        "title": "The Adventures of Tartu",
+        "release_date": "1943-10-01",
+        "overview": "British Captain Terence Stevenson (Robert Donat) accepts an assignment even more dangerous than his everyday job of defusing unexploded bombs. Fluent in Romanian and German and having studied chemical engineering, he is parachuted into Romania to assume the identity of Captain Jan Tartu, a member of the fascist Iron Guard. He makes his way to Czechoslovakia to steal the formula of a new Nazi poison gas and sabotage the factory where it is being manufactured.",
+        "poster_path": "/6PcwkwhGRs1MDN8nuOdQdAX2KsK.jpg",
+        "backdrop_path": "/uMJ1LspVhsCIjhN1aidTa56m1gT.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035612",
+        "original_language": "en",
+        "popularity": 3.652,
+        "status": "Released",
+        "tagline": "Stevenson, a British soldier fluent in Rumanian and German, goes undercover to sabotage a German poison-gas factory...",
+        "video": false
+    },
+    {
+        "id_tmdb": 112912,
+        "title": "Why We Fight: The Battle of Russia",
+        "release_date": "1943-11-13",
+        "overview": "The fifth film of Frank Capra's Why We Fight propaganda film series, revealing the nature and process of the fight between the Soviet Union and Germany in the Second World War.",
+        "poster_path": "/xgcuUIKFkiVwtUzZy7iE7oeD8ro.jpg",
+        "backdrop_path": "/texw0dgm5uwDwh2O35rGNZas8y5.jpg",
+        "production_companies": [
+            {
+                "name": "War Activities Committee of the Motion Pictures Industry",
+                "id": 4217
+            },
+            {
+                "name": "U.S. War Department",
+                "id": 101116
+            },
+            {
+                "name": "U.S. Army Special Service Division",
+                "id": 134883
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 158365,
+            "name": "Why We Fight"
+        },
+        "homepage": "",
+        "imdb_id": "tt0036629",
+        "original_language": "en",
+        "popularity": 3.616,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 97225,
+        "title": "A Yank on the Burma Road",
+        "release_date": "1942-01-29",
+        "overview": "A celebrated New York cabbie is pressed into service for a perilous journey through World War II China.",
+        "poster_path": "/cvq6DLcXJeGofkCcYkn2eNjlz1P.jpg",
+        "backdrop_path": "/fJYuyRkS3bUJNZnQ3EPLPtOdAOs.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035574",
+        "original_language": "en",
+        "popularity": 3.605,
+        "status": "Released",
+        "tagline": "A Dangerous Girl! A Dangerous Guy! Hold Tight - It's Terrific!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43780,
+        "title": "One of Our Aircraft Is Missing",
+        "release_date": "1942-04-24",
+        "overview": "On its way back from a raid on the city of Stuttgart, Germany, a British bomber is shot down over Nazi-held Holland. Parachuting into Dutch farmlands under cover of darkness, the six-member crew connects with members of the local resistance, who shelter the Brits from their Nazi inquisitors as they make their way towards freedom.",
+        "poster_path": "/fDL8iat0Yhii2dKRc4nQEEWVhvQ.jpg",
+        "backdrop_path": "/sDwCcdC38mhzl9ryfpvkhroMWjR.jpg",
+        "production_companies": [
+            {
+                "name": "British National Films",
+                "id": 14197
+            },
+            {
+                "name": "The Archers",
+                "id": 4397
+            },
+            {
+                "name": "J. Arthur Rank Organisation",
+                "id": 14377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035153",
+        "original_language": "en",
+        "popularity": 3.534,
+        "status": "Released",
+        "tagline": "1942's first blast of screen dynamite",
+        "video": false
+    },
+    {
+        "id_tmdb": 55239,
+        "title": "Northern Pursuit",
+        "release_date": "1943-11-07",
+        "overview": "Canadian Mountie Steve Wagner captures a German Luftwaffe officer on a spy mission, who later escapes from the prison camp. To catch the spy ring, the Mounties employ a ruse so that the spies, believing Steve to be sympathetic, enlist him in their plans.",
+        "poster_path": "/2tLScsS98Q9rohkX13guzsnTjIB.jpg",
+        "backdrop_path": "/wNd9bieBmmdMzCOPnHSjG8LUA23.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036218",
+        "original_language": "en",
+        "popularity": 3.529,
+        "status": "Released",
+        "tagline": "A woman's lips set the frozen north aflame.",
+        "video": false
+    },
+    {
+        "id_tmdb": 69847,
+        "title": "Wing and a Prayer",
+        "release_date": "1944-01-01",
+        "overview": "An aircraft carrier is sent on a decoy mission around the Pacific, with orders to avoid combat, thus lulling Japanese alertness before the battle of Midway.",
+        "poster_path": "/cHx4awWZOTyGLD2eWBkDj7yy6Z1.jpg",
+        "backdrop_path": "/27vPuwocCu8uu8Fnvw7fz4lQtMK.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037466",
+        "original_language": "en",
+        "popularity": 3.509,
+        "status": "Released",
+        "tagline": "THE MOST DANGEROUS MISSION IN THE WAR!",
+        "video": false
+    },
+    {
+        "id_tmdb": 282953,
+        "title": "A Yank in Libya",
+        "release_date": "1942-07-24",
+        "overview": "American correspondent Mike Malone uncovers a Nazi plot for an uprising of the Arab tribes in Lybia. Pursued by Sheik David and his men, Mike takes refuge in the suite of Nancy Brooks, who is in the British Intelligence. He asks her to hide a gun and escapes through a window. Reporting the affair to British Consul Herbert Forbes, the latter tries to discourage him from further investigation, as the British are aware of the plot and are planning on staging a coup. He goes with Mike to Nancy's apartment, and she denies having ever seen him before. Sheik Ibrahim, next in command of the Arab tribe to Sheik David, is plotting with Nazi agent Yussof Streyer to kill David who is friendly with the British. Mike and Nancy have gone to David's camp, escape from Ibrahim's henchmen, and get back to El Moktar before the Arabs attack the garrison.",
+        "poster_path": "/aUoamE7VHbIw04ErGqDtOY6wM8Q.jpg",
+        "backdrop_path": "/nZw35NCyp0WGKRcCKyudJGUt4Rh.jpg",
+        "production_companies": [
+            {
+                "name": "PRC",
+                "id": 16466
+            },
+            {
+                "name": "M & H Productions",
+                "id": 74814
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035573",
+        "original_language": "en",
+        "popularity": 3.47,
+        "status": "Released",
+        "tagline": "A ONE-MAN BLITZ!",
+        "video": false
+    },
+    {
+        "id_tmdb": 459445,
+        "title": "The Spy Has Not Died Yet",
+        "release_date": "1942-04-23",
+        "overview": "",
+        "poster_path": "/3Zx8LBwdmtjo8scFxjoUzu0fD5d.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0950619",
+        "original_language": "ja",
+        "popularity": 3.373,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 74012,
+        "title": "Crash Dive",
+        "release_date": "1943-04-22",
+        "overview": "A US Navy submarine, the USS Corsair, is operating in the North Atlantic, hunting German merchant raiders that are preying on Allied shipping. Its new executive officer, Lt. Ward Stewart, has been transferred back into submarines after commanding his own PT boat. At the submarine base in New London, Connecticut, he asks his new captain, Lt. Cmdr. Dewey Connors, for a weekend leave to settle his affairs before taking up his new assignment. On a train bound for Washington D.C., Stewart accidentally encounters New London school teacher Jean Hewlett and her students. Despite her initial resistance to his efforts, he charms her and they fall in love.",
+        "poster_path": "/iiHO2RKRQXLT2FJeHwBOGrgoStX.jpg",
+        "backdrop_path": "/fn32967cJ0hF8SozyBr9uCbGEzo.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035763",
+        "original_language": "en",
+        "popularity": 3.368,
+        "status": "Released",
+        "tagline": "Tyrone Power -- Leading a reckless crew on the war's most daring mission!",
+        "video": false
+    },
+    {
+        "id_tmdb": 847049,
+        "title": "Sky of Hope",
+        "release_date": "1942-01-14",
+        "overview": "What is marriage? Young couple in match-making wanted to know before they decide.  They visited married couples of sisters and brothers.  Love comedy in 1942.",
+        "poster_path": "/w7x6NITOujoN4I3Apzw4mPEJppQ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Toho Eiga Co., Ltd.",
+                "id": 622
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0259382",
+        "original_language": "ja",
+        "popularity": 3.359,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 64703,
+        "title": "The Spirit of '43",
+        "release_date": "1943-01-07",
+        "overview": "Donald Duck deals with income taxes and their benefit to the American war effort in this inspirational documentary short animated film.",
+        "poster_path": "/ffHFNQtVlkDKAZpF5arFkyKtNci.jpg",
+        "backdrop_path": "/gZvDYb0HQHCHxufC2czLF7iHnX0.jpg",
+        "production_companies": [
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.862,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0168184",
+        "original_language": "en",
+        "popularity": 3.312,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 146062,
+        "title": "Jungle Drums",
+        "release_date": "1943-03-26",
+        "overview": "Superman discovers a secret Nazi base in the jungle.",
+        "poster_path": "/iPYxBvWGNdcw1r3l6PQfcXl0jy0.jpg",
+        "backdrop_path": "/hsOmBF2yuA3FHaXG6crw31Kbcrd.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Famous Studios",
+                "id": 4178
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1400846,
+            "name": "Fleischer Superman Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0036060",
+        "original_language": "en",
+        "popularity": 3.226,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 113534,
+        "title": "The Moon Is Down",
+        "release_date": "1943-03-14",
+        "overview": "The story of a small town in Norway that resists German occupation during World War II. Based on a John Steinbeck novel.",
+        "poster_path": "/kzM7GDhaO04Ltw2KI2DmE4tvLM0.jpg",
+        "backdrop_path": "/nOxAbKNba9SkcjWibJtXUgb6nwq.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036170",
+        "original_language": "en",
+        "popularity": 3.189,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 238831,
+        "title": "The Strange Death of Adolf Hitler",
+        "release_date": "1943-09-10",
+        "overview": "Austrian actor Franz Huber, known for his impressions, is captured by the Gestapo and forced into plastic surgery to become Hitler's body double. Their plan is to poison Hitler and use Huber to take control of the Reich. Meanwhile, Huber's wife Anna sees her life coming undone as her husband has disappeared and her two sons are indoctrinated into the Hitler Youth.",
+        "poster_path": "/fI5UcRRIKVXmgxB5UOTBuCv8E4f.jpg",
+        "backdrop_path": "/2IJjLsrMETugBOPA0i6pgAkZtYT.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036393",
+        "original_language": "en",
+        "popularity": 3.188,
+        "status": "Released",
+        "tagline": "Is he dead?",
+        "video": false
+    },
+    {
+        "id_tmdb": 55236,
+        "title": "Desperate Journey",
+        "release_date": "1942-09-26",
+        "overview": "During WWII, when an allied bomber is shot down over Germany, the five surviving crew are captured but cleverly escape detention after learning German secret information and knocking out a Nazi major.  With the angry major in hot pursuit, aided by military personnel, Gestapo agents and Hitler-loyal citizens, the five wend their way across perilous Germany, intent on reaching the UK with the secrets they have learned.",
+        "poster_path": "/oanNUFLVasmh3MOIoe7Rq1THnOj.jpg",
+        "backdrop_path": "/2lRKisbklh2gkNvqItzM2AA7qEt.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034646",
+        "original_language": "en",
+        "popularity": 3.17,
+        "status": "Released",
+        "tagline": "Man alive, Just picture this excitement!",
+        "video": false
+    },
+    {
+        "id_tmdb": 22741,
+        "title": "Black Dragons",
+        "release_date": "1942-03-06",
+        "overview": "It is prior to the commencement of World War II, and Japan's fiendish Black Dragon Society is hatching an evil plot with the Nazis. They instruct a brilliant scientist, Dr. Melcher, to travel to Japan on a secret mission. There he operates on six Japanese conspirators, transforming them to resemble six American leaders. The actual leaders are murdered and replaced with their likeness.",
+        "poster_path": "/wyUGxTPkzYmcKJjKPM5aDIKLmC0.jpg",
+        "backdrop_path": "/htz973vvBEafhlMzrAbY0f7927p.jpg",
+        "production_companies": [
+            {
+                "name": "Banner Productions",
+                "id": 14040
+            },
+            {
+                "name": "Monogram Pictures",
+                "id": 4395
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0034521",
+        "original_language": "en",
+        "popularity": 3.168,
+        "status": "Released",
+        "tagline": "It's the picture that has the whole town shivering!",
+        "video": false
+    },
+    {
+        "id_tmdb": 75155,
+        "title": "The Gentle Sex",
+        "release_date": "1943-05-23",
+        "overview": "During the War seven women from very different backgrounds find themselves together in the Auxiliary Territorial Services. They are soon drilling, driving lorries, and manning ack-ack batteries.",
+        "poster_path": "/niDVpPft8galRSaPLNrrTirwVop.jpg",
+        "backdrop_path": "/4luLtgCCpaFAgjpyjBKTHXR6Va1.jpg",
+        "production_companies": [
+            {
+                "name": "Derrick De Marney Productions",
+                "id": 78979
+            },
+            {
+                "name": "Two Cities Films",
+                "id": 4006
+            },
+            {
+                "name": "Concanen Productions",
+                "id": 78978
+            },
+            {
+                "name": "J. Arthur Rank Organisation",
+                "id": 14377
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.955,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035931",
+        "original_language": "en",
+        "popularity": 3.144,
+        "status": "Released",
+        "tagline": "Seven 'gentle' British girls who decide to \"do their bit\" and help out during World War II.",
+        "video": false
+    },
+    {
+        "id_tmdb": 27628,
+        "title": "Follow the Boys",
+        "release_date": "1944-05-05",
+        "overview": "During World War II, all the studios put out \"all-star\" vehicles which featured virtually every star on the lot--often playing themselves--in musical numbers and comedy skits, and were meant as morale-boosters to both the troops overseas and the civilians at home. This was Universal Pictures' effort. It features everyone from Donald O'Connor to the Andrews Sisters to Orson Welles to W.C. Fields to George Raft to Marlene Dietrich, and dozens of other Universal players.",
+        "poster_path": "/jFrQrxdDOYIVH8OQ6h5TgFg9JEN.jpg",
+        "backdrop_path": "/2gPXgkQjChy7EY1ZcdcQLKGLjTe.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 2000000,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036832",
+        "original_language": "en",
+        "popularity": 3.122,
+        "status": "Released",
+        "tagline": "The SONG-STUDDED STAR-STUNNING SAGA of America's show-world at war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 459441,
+        "title": "Wings of Victory",
+        "release_date": "1942-10-15",
+        "overview": "",
+        "poster_path": "/lZCF9jHmEzESq1Gu00WpICfLFRA.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Toho Eiga Co., Ltd.",
+                "id": 622
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0274997",
+        "original_language": "ja",
+        "popularity": 3.089,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 65553,
+        "title": "Somewhere I'll Find You",
+        "release_date": "1942-08-27",
+        "overview": "Journalist brothers feud over a woman they both fall for while covering World War II in the far east.",
+        "poster_path": "/zr8SvKcsTGDTbNmRUtEmb2mLqBk.jpg",
+        "backdrop_path": "/jqoM8WlI5inX2XKtX8yHcPOj4J8.jpg",
+        "production_companies": [
+            {
+                "name": "Loew's Incorporated",
+                "id": 1460
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0035356",
+        "original_language": "en",
+        "popularity": 3.085,
+        "status": "Released",
+        "tagline": "Together again -- They're dynamite!",
+        "video": false
+    },
+    {
+        "id_tmdb": 257084,
+        "title": "Tunisian Victory",
+        "release_date": "1944-03-23",
+        "overview": "Documentary made by the U.S. Army Signal Corps after the North African campaign.",
+        "poster_path": "/wBZH6GSRaDGOxaQpUvp8ZQ2JvEV.jpg",
+        "backdrop_path": "/6oNedloeUrSu1tdLqB6uZhL5fem.jpg",
+        "production_companies": [
+            {
+                "name": "U.S. Army Signal Corps",
+                "id": 4223
+            },
+            {
+                "name": "British Service Units",
+                "id": 81696
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0037404",
+        "original_language": "en",
+        "popularity": 3.083,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 89239,
+        "title": "For Those in Peril",
+        "release_date": "1944-06-01",
+        "overview": "A WWII flyer fails to join the RAF so he joins the Air - Sea Rescue instead. His boat is out in all conditions picking up downed pilots and taking them to safety.",
+        "poster_path": "/xLOg4OQwaPuKWafOuE01o6I0yAe.jpg",
+        "backdrop_path": "/goLlz4zdIjbTopfbBMiQA4T3xnK.jpg",
+        "production_companies": [
+            {
+                "name": "Ealing Studios",
+                "id": 2650
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0036834",
+        "original_language": "en",
+        "popularity": 3.031,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

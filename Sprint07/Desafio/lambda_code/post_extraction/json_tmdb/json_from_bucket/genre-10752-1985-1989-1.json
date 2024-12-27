@@ -1,0 +1,4796 @@
+[
+    {
+        "id_tmdb": 1369,
+        "title": "Rambo: First Blood Part II",
+        "release_date": "1985-05-21",
+        "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+        "poster_path": "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg",
+        "backdrop_path": "/gRWOLFbgkmujsPUNgQshkSkCTdf.jpg",
+        "production_companies": [
+            {
+                "name": "Carolco Pictures",
+                "id": 275
+            },
+            {
+                "name": "Estudios Churubusco Azteca",
+                "id": 5153
+            },
+            {
+                "name": "Anabasis N.V.",
+                "id": 52941
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 44000000,
+        "revenue": 300400432,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 5039,
+            "name": "Rambo Collection"
+        },
+        "homepage": "https://www.lionsgate.com/movies/rambo-first-blood-part-ii",
+        "imdb_id": "tt0089880",
+        "original_language": "en",
+        "popularity": 60.652,
+        "status": "Released",
+        "tagline": "No man, no law, no war can stop him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 600,
+        "title": "Full Metal Jacket",
+        "release_date": "1987-06-26",
+        "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+        "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+        "production_companies": [
+            {
+                "name": "Natant",
+                "id": 50819
+            },
+            {
+                "name": "Stanley Kubrick Productions",
+                "id": 385
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 46357676,
+        "vote_average": 8.128,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.warnerbros.com/movies/full-metal-jacket",
+        "imdb_id": "tt0093058",
+        "original_language": "en",
+        "popularity": 49.908,
+        "status": "Released",
+        "tagline": "Vietnam can kill me, but it can’t make me care.",
+        "video": false
+    },
+    {
+        "id_tmdb": 792,
+        "title": "Platoon",
+        "release_date": "1986-12-19",
+        "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+        "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+        "backdrop_path": "/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+        "production_companies": [
+            {
+                "name": "Hemdale Film Corporation",
+                "id": 469
+            },
+            {
+                "name": "Cinema 86",
+                "id": 104411
+            },
+            {
+                "name": "Cinema 84",
+                "id": 4764
+            },
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            },
+            {
+                "name": "Orion",
+                "id": 13963
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 138530565,
+        "vote_average": 7.743,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091763",
+        "original_language": "en",
+        "popularity": 42.431,
+        "status": "Released",
+        "tagline": "The first casualty of war is innocence.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1370,
+        "title": "Rambo III",
+        "release_date": "1988-05-24",
+        "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
+        "poster_path": "/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+        "backdrop_path": "/f1PRhFPSPKqa6OKIpnNOmP0StKH.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            },
+            {
+                "name": "Carolco Pictures",
+                "id": 275
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 63000000,
+        "revenue": 189015611,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 5039,
+            "name": "Rambo Collection"
+        },
+        "homepage": "https://www.lionsgate.com/movies/rambo-iii",
+        "imdb_id": "tt0095956",
+        "original_language": "en",
+        "popularity": 38.495,
+        "status": "Released",
+        "tagline": "The first was for himself. The second was for his country. This time is for his friend.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9665,
+        "title": "Glory",
+        "release_date": "1989-12-15",
+        "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+        "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+        "backdrop_path": "/eW8c4u3WhOVkPMnfe294lXggO3i.jpg",
+        "production_companies": [
+            {
+                "name": "Freddie Fields Productions",
+                "id": 27349
+            },
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 18000000,
+        "revenue": 26800000,
+        "vote_average": 7.466,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.sonypictures.com/movies/glory",
+        "imdb_id": "tt0097441",
+        "original_language": "en",
+        "popularity": 28.05,
+        "status": "Released",
+        "tagline": "Their innocence. Their heritage. Their lives.",
+        "video": false
+    },
+    {
+        "id_tmdb": 25237,
+        "title": "Come and See",
+        "release_date": "1985-10-17",
+        "overview": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+        "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+        "backdrop_path": "/5yEbLzaXe24cpFjfom7ntBY3rfB.jpg",
+        "production_companies": [
+            {
+                "name": "Belarusfilm",
+                "id": 12617
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "be",
+                "name": "беларуская мова"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 20929648,
+        "vote_average": 8.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091251",
+        "original_language": "ru",
+        "popularity": 26.898,
+        "status": "Released",
+        "tagline": "To love… to have children.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10142,
+        "title": "Casualties of War",
+        "release_date": "1989-08-18",
+        "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+        "poster_path": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+        "backdrop_path": "/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 22500000,
+        "revenue": 18671317,
+        "vote_average": 7.15,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097027",
+        "original_language": "en",
+        "popularity": 26.694,
+        "status": "Released",
+        "tagline": "Even in war… murder is murder.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10110,
+        "title": "Empire of the Sun",
+        "release_date": "1987-12-09",
+        "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+        "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+        "backdrop_path": "/k0eTDxMkVgUmzkM4DNuVCyugoYl.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Amblin Entertainment",
+                "id": 56
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 66700000,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092965",
+        "original_language": "en",
+        "popularity": 25.525,
+        "status": "Released",
+        "tagline": "To survive in a world at war, he must find a strength greater than all the events that surround him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10015,
+        "title": "Heartbreak Ridge",
+        "release_date": "1986-12-05",
+        "overview": "A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude.",
+        "poster_path": "/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg",
+        "backdrop_path": "/ydF3hT1fjrM71AbNAYBZKnq6rtL.jpg",
+        "production_companies": [
+            {
+                "name": "Jay Weston Productions",
+                "id": 11742
+            },
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 42700000,
+        "vote_average": 6.868,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091187",
+        "original_language": "en",
+        "popularity": 23.916,
+        "status": "Released",
+        "tagline": "...the scars run deep.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2604,
+        "title": "Born on the Fourth of July",
+        "release_date": "1989-12-20",
+        "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+        "poster_path": "/k5HfnMgaREHDNA7CugiETCb9ItM.jpg",
+        "backdrop_path": "/gjZFMKtoJdpEDt3T0dnoiMfXYof.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Ixtlan",
+                "id": 4198
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 161001698,
+        "vote_average": 7.011,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0096969",
+        "original_language": "en",
+        "popularity": 21.815,
+        "status": "Released",
+        "tagline": "A story of innocence lost and courage found.",
+        "video": false
+    },
+    {
+        "id_tmdb": 801,
+        "title": "Good Morning, Vietnam",
+        "release_date": "1987-12-23",
+        "overview": "A disk jockey goes to Vietnam to work for the Armed Forces Radio Service. While he becomes popular among the troops, his superiors disapprove of his humor.",
+        "poster_path": "/rcod81d34X1avhRIKBOQ4BsHtYZ.jpg",
+        "backdrop_path": "/l04cyHUP6PCAozc2GMEHPguu7AN.jpg",
+        "production_companies": [
+            {
+                "name": "Touchstone Pictures",
+                "id": 9195
+            },
+            {
+                "name": "Silver Screen Partners III",
+                "id": 554
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 13000000,
+        "revenue": 123922370,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093105",
+        "original_language": "en",
+        "popularity": 20.049,
+        "status": "Released",
+        "tagline": "The wrong man. In the wrong place. At the right time.",
+        "video": false
+    },
+    {
+        "id_tmdb": 16113,
+        "title": "The Delta Force",
+        "release_date": "1986-02-14",
+        "overview": "A 707 aircraft jetliner, en route from Athens to Rome and then to New York City, is hijacked by Lebanese terrorists, who demand that the pilot take them to Beirut. What the terrorists don't realize is that an elite team of commandos have been called in to eliminate all terrorists on the jetliner.",
+        "poster_path": "/lW94s7xxkdOzYcueaqGJwcVVvjt.jpg",
+        "backdrop_path": "/vo7lHgGCMm8mvZfjXZfDlPvYxY2.jpg",
+        "production_companies": [
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            },
+            {
+                "name": "Golan-Globus Productions",
+                "id": 13549
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 17768900,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 126166,
+            "name": "The Delta Force Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0090927",
+        "original_language": "en",
+        "popularity": 19.622,
+        "status": "Released",
+        "tagline": "They don't negotiate with terrorists... they blow them away!",
+        "video": false
+    },
+    {
+        "id_tmdb": 10652,
+        "title": "Hamburger Hill",
+        "release_date": "1987-08-07",
+        "overview": "The men of Bravo Company are facing a battle that's all uphill… up Hamburger Hill. Fourteen war-weary soldiers are battling for a mud-covered mound of earth so named because it chews up soldiers like chopped meat. They are fighting for their country, their fellow soldiers and their lives. War is hell, but this is worse. Hamburger Hill tells it the way it was, the way it really was. It's a raw, gritty and totally unrelenting dramatic depiction of one of the fiercest battles of America's bloodiest war. This happened. Hamburger Hill - war at its worst, men at their best.",
+        "poster_path": "/iJ74x7QXlpCOfLWAmKWclz1sLHM.jpg",
+        "backdrop_path": "/qkwlPlub5kx7NNz1rX8S3TKZUWe.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "RKO Pictures LLC",
+                "id": 46976
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 13839404,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093137",
+        "original_language": "en",
+        "popularity": 16.202,
+        "status": "Released",
+        "tagline": "War at its worst. Men at their best.",
+        "video": false
+    },
+    {
+        "id_tmdb": 25318,
+        "title": "Escape from Sobibor",
+        "release_date": "1987-04-12",
+        "overview": "The true story of WWII's notorious Sobibor Nazi death camp, where a courageous inmate orchestrates and leads the escape of over 300 prisoners.",
+        "poster_path": "/zxXeuxLgNdOWiT3zd8DrK98E6oj.jpg",
+        "backdrop_path": "/y4Hy9pS0RnB57ApRmbU1sNcJY0F.jpg",
+        "production_companies": [
+            {
+                "name": "Zenith Entertainment",
+                "id": 721
+            },
+            {
+                "name": "Rule/starger",
+                "id": 94026
+            },
+            {
+                "name": "Avala Film",
+                "id": 5940
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092978",
+        "original_language": "en",
+        "popularity": 16.166,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 12764,
+        "title": "Missing in Action 2: The Beginning",
+        "release_date": "1985-03-01",
+        "overview": "Prequel to the first Missing In Action, set in the early 1980s it shows the capture of Colonel Braddock during the Vietnam war in the 1970s, and his captivity with other American POWs in a brutal prison camp, and his plans to escape.",
+        "poster_path": "/1Cfao3ZS1o4mhKVWyaSwsVdsbCF.jpg",
+        "backdrop_path": "/7xADC2HSQw9fAQuPMPsZS2XVPV7.jpg",
+        "production_companies": [
+            {
+                "name": "Golan-Globus Productions",
+                "id": 13549
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 2410000,
+        "revenue": 10755447,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 46512,
+            "name": "Missing in Action Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0089604",
+        "original_language": "en",
+        "popularity": 15.344,
+        "status": "Released",
+        "tagline": "Chuck Norris is back! A one-man time bomb set to explode!",
+        "video": false
+    },
+    {
+        "id_tmdb": 10705,
+        "title": "Henry V",
+        "release_date": "1989-10-05",
+        "overview": "Gritty adaption of William Shakespeare's play about the English King's bloody conquest of France.",
+        "poster_path": "/ikB1oZb2EijrIEzHB3gH5P38ZWX.jpg",
+        "backdrop_path": "/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+        "production_companies": [
+            {
+                "name": "BBC Film",
+                "id": 288
+            },
+            {
+                "name": "Renaissance Films",
+                "id": 3102
+            },
+            {
+                "name": "Curzon Film Distributors",
+                "id": 11494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 10200000,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097499",
+        "original_language": "en",
+        "popularity": 14.617,
+        "status": "Released",
+        "tagline": "The great adventure of a king who defied the odds to prove himself a man.",
+        "video": false
+    },
+    {
+        "id_tmdb": 68942,
+        "title": "Eastern Condors",
+        "release_date": "1987-07-09",
+        "overview": "A motley group of Chinese prisoners held in the US is sent on a covert mission with the promise of a pardon: to go deep into Vietnam and destroy a secret depot of missiles that the US left behind during the pull-out.",
+        "poster_path": "/vp1qOZJThAGHfrB4uOlmg0JsPvO.jpg",
+        "backdrop_path": "/qwYf2MbQN2F13BxYNAPjYoUw1qV.jpg",
+        "production_companies": [
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            },
+            {
+                "name": "Paragon Films Ltd.",
+                "id": 2734
+            },
+            {
+                "name": "Bo Ho Films",
+                "id": 3106
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090956",
+        "original_language": "cn",
+        "popularity": 14.567,
+        "status": "Released",
+        "tagline": "A lethal secret arsenal was left behind in the jungle of Vietnam. Their job: find it and destroy it!",
+        "video": false
+    },
+    {
+        "id_tmdb": 25998,
+        "title": "Men Behind the Sun",
+        "release_date": "1988-12-01",
+        "overview": "The film is a graphic depiction of the war atrocities committed by the Japanese at Unit 731, the secret biological weapons experimentation unit of the Imperial Japanese Army during World War II. The film details the various cruel medical experiments Unit 731 inflicted upon the Chinese and Soviet prisoners at the tail-end of the war.",
+        "poster_path": "/7GXtPuJ5wcrJNqPwwmvZIForY0C.jpg",
+        "backdrop_path": "/8yscpKDJQnMz2O98bZKiHyknn64.jpg",
+        "production_companies": [
+            {
+                "name": "Sil-Metropole Organisation",
+                "id": 5686
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 633245,
+            "name": "Unit 731"
+        },
+        "homepage": "",
+        "imdb_id": "tt0093170",
+        "original_language": "cn",
+        "popularity": 13.541,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1786,
+        "title": "Au Revoir les Enfants",
+        "release_date": "1987-10-07",
+        "overview": "Au revoir les enfants tells a heartbreaking story of friendship and devastating loss concerning two boys living in Nazi-occupied France. At a provincial Catholic boarding school, the precocious youths enjoy true camaraderie—until a secret is revealed. Based on events from writer-director Malle’s own childhood, the film is a subtle, precisely observed tale of courage, cowardice, and tragic awakening.",
+        "poster_path": "/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+        "backdrop_path": "/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+        "production_companies": [
+            {
+                "name": "CNC",
+                "id": 310
+            },
+            {
+                "name": "Nouvelles Éditions de Films (NEF)",
+                "id": 753
+            },
+            {
+                "name": "Stella Films",
+                "id": 754
+            },
+            {
+                "name": "N.E.F. Filmproduktion und Vertriebs (I)",
+                "id": 11253
+            },
+            {
+                "name": "Soficas Investimages",
+                "id": 11254
+            },
+            {
+                "name": "Images Investissements",
+                "id": 11255
+            },
+            {
+                "name": "Sofica Créations",
+                "id": 11256
+            },
+            {
+                "name": "MK2 Films",
+                "id": 6274
+            },
+            {
+                "name": "RAI",
+                "id": 1583
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.512,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092593",
+        "original_language": "fr",
+        "popularity": 13.51,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 6106,
+        "title": "Salvador",
+        "release_date": "1986-04-23",
+        "overview": "In 1980, an American journalist covering the Salvadoran Civil War becomes entangled with both the leftist guerrilla groups and the right-wing military dictatorship while trying to rescue his girlfriend and her children.",
+        "poster_path": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+        "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+        "production_companies": [
+            {
+                "name": "Hemdale",
+                "id": 3952
+            },
+            {
+                "name": "Cinema '85",
+                "id": 218473
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4500000,
+        "revenue": 1500000,
+        "vote_average": 7.041,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091886",
+        "original_language": "en",
+        "popularity": 12.369,
+        "status": "Released",
+        "tagline": "Dateline: 1980, El Salvador. Correspondent: Richard Boyle, Photojournalist - Guatemala, Iran, Vietnam, Chile, Belfast, Lebanon, Cambodia...",
+        "video": false
+    },
+    {
+        "id_tmdb": 27461,
+        "title": "Fat Man and Little Boy",
+        "release_date": "1989-10-20",
+        "overview": "Assigned to oversee the development of the atomic bomb, Gen. Leslie Groves is a stern military man determined to have the project go according to plan. He selects J. Robert Oppenheimer as the key scientist on the top-secret operation, but the two men clash fiercely on a number of issues. Despite their frequent conflicts, Groves and Oppenheimer ultimately push ahead with two bomb designs — the bigger \"Fat Man\" and the more streamlined \"Little Boy.\"",
+        "poster_path": "/4CLeeHTMUesP8MCFt5phmdPSS5k.jpg",
+        "backdrop_path": "/5yW6uJ3o4oKyXcuBv5wFcy0IQvc.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Lightmotive",
+                "id": 16978
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097336",
+        "original_language": "en",
+        "popularity": 12.195,
+        "status": "Released",
+        "tagline": "The story of the extraordinary people who changed our world.",
+        "video": false
+    },
+    {
+        "id_tmdb": 12663,
+        "title": "Red Scorpion",
+        "release_date": "1988-12-24",
+        "overview": "A Russian KGB agent is sent to Africa to kill an anti-Communist black revolutionary. However, he has a change of heart when he sees how the Russians and their Cuban allies are killing and repressing the locals, so he switches sides and helps the rebels.",
+        "poster_path": "/vzLQeJWGIKBQldk3HsAea5OFucI.jpg",
+        "backdrop_path": "/gOvT2J5upwmFqiYYZ5z7u6QZokr.jpg",
+        "production_companies": [
+            {
+                "name": "Scorpion Film Production",
+                "id": 7532
+            },
+            {
+                "name": "Abramoff Production",
+                "id": 7533
+            },
+            {
+                "name": "Shapiro-Glickenhaus Entertainment",
+                "id": 16636
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NA",
+                "name": "Namibia"
+            },
+            {
+                "iso_3166_1": "ZA",
+                "name": "South Africa"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 16000000,
+        "revenue": 4192440,
+        "vote_average": 5.923,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 514978,
+            "name": "Red Scorpion Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0098180",
+        "original_language": "en",
+        "popularity": 12.134,
+        "status": "Released",
+        "tagline": "They think they control him. Think again.",
+        "video": false
+    },
+    {
+        "id_tmdb": 15267,
+        "title": "The Beast of War",
+        "release_date": "1988-09-14",
+        "overview": "During the war in Afghanistan a Soviet tank crew commanded by a tyrannical officer find themselves lost and in a struggle against a band of Mujahadeen guerrillas in the mountains.",
+        "poster_path": "/ag0oez7oBuk8xCQ5pvb4pSj544Z.jpg",
+        "backdrop_path": "/plUiEahWnvj9a8NbxE356ui5R5W.jpg",
+        "production_companies": [
+            {
+                "name": "Brightstar Films",
+                "id": 4923
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ps",
+                "name": "پښتو"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094716",
+        "original_language": "en",
+        "popularity": 11.376,
+        "status": "Released",
+        "tagline": "War brings out the beast in every man.",
+        "video": false
+    },
+    {
+        "id_tmdb": 27352,
+        "title": "Braddock: Missing in Action III",
+        "release_date": "1988-01-22",
+        "overview": "When Colonel James Braddock is told that his Asian wife and 12-year-old son are still alive in Communist Vietnam, he mounts a one-man assault to free them. Armed with the latest high-tech firepower, Braddock fights his way into the heart of the country and ends up battling his way out with several dozen abused Amerasian children in tow! Struggling to keep them alive while outmaneuvering a sadistic Vietnamese officer, Braddock ignites the jungle in a blazing cross-country race for freedom.",
+        "poster_path": "/y8Gp0TAQr8Z2Cy4ROSYzvOiMEMf.jpg",
+        "backdrop_path": "/deWrpB0Wv3oz6Wa7KsbqyC50BmM.jpg",
+        "production_companies": [
+            {
+                "name": "Golan-Globus Productions",
+                "id": 13549
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 6193901,
+        "vote_average": 5.67,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 46512,
+            "name": "Missing in Action Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0094792",
+        "original_language": "en",
+        "popularity": 11.089,
+        "status": "Released",
+        "tagline": "He's fighting for everyone who can't fight back.",
+        "video": false
+    },
+    {
+        "id_tmdb": 28368,
+        "title": "Gardens of Stone",
+        "release_date": "1987-05-05",
+        "overview": "A sergeant; stationed in Arlington, Virginia in the late 1960s; must deal with his desires to save the lives of young soldiers being sent to Vietnam. Continuously denied the chance to teach the soldiers about his experiences, he settles for trying to help the son of an old army buddy.",
+        "poster_path": "/bptiOG8kCoq1WUpWEwMyAIaMED4.jpg",
+        "backdrop_path": "/iOhj9IPNRppo5oiJbYSniYtAffZ.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            },
+            {
+                "name": "Michael I. Levy Productions",
+                "id": 240227
+            },
+            {
+                "name": "American Zoetrope",
+                "id": 70
+            },
+            {
+                "name": "ML Delphi Premier Productions",
+                "id": 44425
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 5262047,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093073",
+        "original_language": "en",
+        "popularity": 10.942,
+        "status": "Released",
+        "tagline": "The story of the war at home, and the people who lived through it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 69161,
+        "title": "Heroes Shed No Tears",
+        "release_date": "1986-09-05",
+        "overview": "The Thai government hires a group of Chinese mercenaries to capture a powerful drug lord from the Golden Triangle. The mercenaries manage to capture the drug lord, but soon find themselves pursued by his forces, and the forces of a bitter Thai officer. The Chinese mercenaries are vastly outnumbered, and as their numbers begin to dwindle, their desperation pulls them into a corner as their enemies close in on them.",
+        "poster_path": "/4pHMcQeumCxVur57XN79BelfQfo.jpg",
+        "backdrop_path": "/nTr9MqR2mMoFlKAhMEOsxDaNXzn.jpg",
+        "production_companies": [
+            {
+                "name": "Paragon Films Ltd.",
+                "id": 2734
+            },
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.306,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092264",
+        "original_language": "cn",
+        "popularity": 10.823,
+        "status": "Released",
+        "tagline": "They didn't know the road to freedom goes through hell.",
+        "video": false
+    },
+    {
+        "id_tmdb": 14911,
+        "title": "Bat★21",
+        "release_date": "1988-07-21",
+        "overview": "Lt. Col. Iceal \"Ham\" Hambleton is a weapons countermeasures expert and when his aircraft is shot over enemy territory the Air Force very much wants to get him back. Hambleton knows the area he's in is going to be carpet-bombed but a temporary shortage of helicopters causes a delay. Working with an Air Force reconnaissance pilot, Capt. Bartholomew Clark, he maps out an escape route.",
+        "poster_path": "/yIeFT2RqJdXMRIhGLs05xtzBkt9.jpg",
+        "backdrop_path": "/gKpOQOazSJHBZUQh1BkNNaocq8S.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            },
+            {
+                "name": "Vision PDG",
+                "id": 4109
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 3966256,
+        "vote_average": 6.29,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094712",
+        "original_language": "en",
+        "popularity": 9.856,
+        "status": "Released",
+        "tagline": "Trapped behind enemy lines. A whole army after him... And only one man can save him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 32054,
+        "title": "Hope and Glory",
+        "release_date": "1987-09-03",
+        "overview": "A middle-aged man recalls his childhood growing up in and around London during World War II.",
+        "poster_path": "/4xE9oW222uiaJwMWqAdGQw4puOX.jpg",
+        "backdrop_path": "/7PktT8qvNEvGi7iTa5FEjG5DzJA.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1273634,
+            "name": "Billy Rohan Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0093209",
+        "original_language": "en",
+        "popularity": 9.288,
+        "status": "Released",
+        "tagline": "The epic story of a world at war. And a boy at play.",
+        "video": false
+    },
+    {
+        "id_tmdb": 12701,
+        "title": "Revolution",
+        "release_date": "1985-12-25",
+        "overview": "New York trapper Tom Dobb becomes an unwilling participant in the American Revolution after his son Ned is drafted into the Army by the villainous Sergeant Major Peasy. Tom attempts to find his son, and eventually becomes convinced that he must take a stand and fight for the freedom of the Colonies, alongside the aristocratic rebel Daisy McConnahay. As Tom undergoes his change of heart, the events of the war unfold in large-scale grandeur.",
+        "poster_path": "/qAjlr0FJDXqdxhQjbkKNcH7RTaX.jpg",
+        "backdrop_path": "/qkA2NPLmKLieMIggjC3LtRgEE6S.jpg",
+        "production_companies": [
+            {
+                "name": "Goldcrest",
+                "id": 500
+            },
+            {
+                "name": "Viking Film",
+                "id": 25967
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 28000000,
+        "revenue": 358574,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089913",
+        "original_language": "en",
+        "popularity": 9.25,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 56179,
+        "title": "Triumph of the Spirit",
+        "release_date": "1989-12-08",
+        "overview": "During World War II, Salamo Arouch, a passionate boxer, is arrested and sent to a concentration camp. Soon, he is forced to box against his fellow prisoners for the sake of entertainment.",
+        "poster_path": "/dxaSARmpCiFOCaxwGvjYAXMYPE4.jpg",
+        "backdrop_path": "/uAr0WNk16NMBT5ezoaIFVqFVCgQ.jpg",
+        "production_companies": [
+            {
+                "name": "Nova International Films",
+                "id": 2098
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098513",
+        "original_language": "en",
+        "popularity": 9.188,
+        "status": "Released",
+        "tagline": "Win and he lives to fight again. Lose and his family dies with him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10857,
+        "title": "When the Wind Blows",
+        "release_date": "1986-10-24",
+        "overview": "With the help of government-issued pamphlets, an elderly British couple build a shelter and prepare for an impending nuclear attack, unaware that times and the nature of war have changed from their romantic memories of World War II.",
+        "poster_path": "/sQ7CgHdDcKnnzhCXA7wC2JVL7qq.jpg",
+        "backdrop_path": "/lnOGnHqDlZMRGQTEukwWBu5s7fd.jpg",
+        "production_companies": [
+            {
+                "name": "Penguin Books",
+                "id": 19261
+            },
+            {
+                "name": "British Screen Productions",
+                "id": 12745
+            },
+            {
+                "name": "TVC London",
+                "id": 15255
+            },
+            {
+                "name": "Meltdown Productions",
+                "id": 120197
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 5274,
+        "vote_average": 7.402,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090315",
+        "original_language": "en",
+        "popularity": 8.921,
+        "status": "Released",
+        "tagline": "A horrifying vision of tomorrow.",
+        "video": false
+    },
+    {
+        "id_tmdb": 36573,
+        "title": "The Dirty Dozen: The Fatal Mission",
+        "release_date": "1988-11-10",
+        "overview": "A renegade team of World War II soldiers. This time, one of the 12 is a woman and, with a Nazi spy within their midst, they're up against German wartime geniuses out to establish a Fourth Reich.",
+        "poster_path": "/hpt8qLDeqg0KWWDcZlJgIKvcKXX.jpg",
+        "backdrop_path": "/8kxc1rCp4TwCAcoq9qAOAAml1iX.jpg",
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "MGM/UA Television",
+                "id": 10278
+            },
+            {
+                "name": "RAI",
+                "id": 1583
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 124492,
+            "name": "The Dirty Dozen Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0095022",
+        "original_language": "en",
+        "popularity": 8.911,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 4228,
+        "title": "The french revolution: Years of rage",
+        "release_date": "1989-05-10",
+        "overview": "Second part of the revolutionary historical drama, which takes up the events that occurred from August 10, 1792 until the end of the reign of terror with the execution of Robespierre.",
+        "poster_path": "/iOYp3Hubo9t13WfKP5uVZFQzo2z.jpg",
+        "backdrop_path": "/3NpGjRbZS2VAYeEZh0ligquwzb.jpg",
+        "production_companies": [
+            {
+                "name": "Films A2",
+                "id": 875
+            },
+            {
+                "name": "Laura Films",
+                "id": 1593
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 4800000,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098238",
+        "original_language": "fr",
+        "popularity": 8.885,
+        "status": "Released",
+        "tagline": "Second era",
+        "video": false
+    },
+    {
+        "id_tmdb": 19382,
+        "title": "Biloxi Blues",
+        "release_date": "1988-03-25",
+        "overview": "Eugene, an aspiring writer from Brooklyn, is drafted into the US Army during the final months of World War II. For his basic training, the Army sends him to Camp Shelby in Mississippi, where toil, bad food, and antisemitic jibes await. Eugene takes refuge in his sense of humor and in his diary, but they won't protect him in a battle of wills with an unstable drill sergeant.",
+        "poster_path": "/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg",
+        "backdrop_path": "/x351MSYFH0sT2aSHeTP5qv8WJOm.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Rastar Productions",
+                "id": 1177
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 51684798,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 979674,
+            "name": "Eugene Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0094746",
+        "original_language": "en",
+        "popularity": 8.778,
+        "status": "Released",
+        "tagline": "The Army made Eugene a man. But Daisy gave him basic training!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11955,
+        "title": "Iron Eagle II",
+        "release_date": "1988-11-11",
+        "overview": "Chappy Sinclair is called to gather together a mixed Soviet/U.S. strike force that will perform a surgical strike on a massively defended nuclear missile site in the Middle East. Chappy finds that getting the Soviet and U.S. Pilots to cooperate is only the most minor of his problems as he discovers someone in the Pentagon is actively sabotaging his mission.",
+        "poster_path": "/yQNq0zbInR0Vx6nWJCEBN4d0pPI.jpg",
+        "backdrop_path": "/gze2wczkPPP29j4XDWt8trSdDqS.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            },
+            {
+                "name": "Carolco Pictures",
+                "id": 275
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 123251,
+            "name": "Iron Eagle Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0095382",
+        "original_language": "en",
+        "popularity": 8.672,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36571,
+        "title": "The Dirty Dozen: Next Mission",
+        "release_date": "1985-02-04",
+        "overview": "Major Reisman is \"volunteered\" to lead another mission using convicted army soldiers, sentenced to either death or long prison terms. This time their mission is to kill a Nazi general who plans to assassinate Hitler.",
+        "poster_path": "/IziImBRpTvMXptgaIRUoYtXhvh.jpg",
+        "backdrop_path": "/wqZ8srpGacl6BVdvERdlD47Jw8J.jpg",
+        "production_companies": [
+            {
+                "name": "MGM/UA Television",
+                "id": 10278
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 124492,
+            "name": "The Dirty Dozen Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0089026",
+        "original_language": "en",
+        "popularity": 8.281,
+        "status": "Released",
+        "tagline": "They're back... and deadlier than ever!",
+        "video": false
+    },
+    {
+        "id_tmdb": 48457,
+        "title": "Platoon Leader",
+        "release_date": "1988-10-01",
+        "overview": "West Point graduate lieutenant Jeff Knight meets cynicism when taking command of sergeant Michael McNamara's tour veterans platoon in a Vietnamese trench camp. Unlike his predecessor, who hid till the end of his tour, Jeff takes charge, experiences the manual doesn't allow coping with all realities and gets wounded. He returns, now fully respect by men and superiors. Besides the Vietcong, the platoon wrestles with the inscrutable villagers, which the G.I.'s officially protect, but also fear as some collaborate with them, other covertly with the Cong, either way subject to bloody reprisals.",
+        "poster_path": "/y7b14dEHSAfyna1DmigZAehz1oZ.jpg",
+        "backdrop_path": "/wDgvbSRKlu8gSwnlOWN22bk8zXR.jpg",
+        "production_companies": [
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            },
+            {
+                "name": "Breton Film Productions",
+                "id": 1799
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.324,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095877",
+        "original_language": "en",
+        "popularity": 7.979,
+        "status": "Released",
+        "tagline": "War is hell. This was worse...",
+        "video": false
+    },
+    {
+        "id_tmdb": 385221,
+        "title": "The Burmese Harp",
+        "release_date": "1985-07-20",
+        "overview": "In the War's closing days, when a conscience-driven Japanese soldier fails to get his countrymen to surrender to overwhelming force, he adopts the lifestyle of a Buddhist monk.",
+        "poster_path": "/AieLW7akHLRrsbO3QVJyNRz3Za.jpg",
+        "backdrop_path": "/qy8yyc6N40Ijpc5OJfNdq3L4rKU.jpg",
+        "production_companies": [
+            {
+                "name": "Fuji Television Network",
+                "id": 3341
+            },
+            {
+                "name": "Kinema Tokyo",
+                "id": 75360
+            },
+            {
+                "name": "Hakuhodo",
+                "id": 13411
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0088810",
+        "original_language": "ja",
+        "popularity": 7.869,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 50796,
+        "title": "Chouans!",
+        "release_date": "1988-03-23",
+        "overview": "Directed by Philippe de Broca, the film recounts a bloody episode of the French Revolution.  1793, the Terror .  In Vendée and in Bretagne, the chouans are revolting against the young Republic and fight for the monarchy restauration. The civil war divides also the family of the Count Savinien de Kerfadec, a liberal and generous noble and a flying machines inventor.",
+        "poster_path": "/g6ZoimTtWDo3W0URSCgbU29kNDZ.jpg",
+        "backdrop_path": "/lhDstUD7H5UAfrjOXxWOHK6Ybxg.jpg",
+        "production_companies": [
+            {
+                "name": "France 2",
+                "id": 11359
+            },
+            {
+                "name": "Partner's Productions",
+                "id": 1061
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.909,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094872",
+        "original_language": "fr",
+        "popularity": 7.315,
+        "status": "Released",
+        "tagline": "Royalists against republicans...",
+        "video": false
+    },
+    {
+        "id_tmdb": 22976,
+        "title": "Biggles",
+        "release_date": "1986-05-30",
+        "overview": "Unassuming catering salesmen Jim Ferguson falls through a time hole to 1917 where he saves the life of dashing Royal Flying Corps pilot James \"Biggles\" Bigglesworth after his photo recon mission is shot down. Before he can work out what has happened, Jim is zapped back to the 1980s......",
+        "poster_path": "/9dsO33VTBp265IQDcLG2HNFtUdO.jpg",
+        "backdrop_path": "/n4dwnGHe6aOr9HKMVjInbyoCfIQ.jpg",
+        "production_companies": [
+            {
+                "name": "Compact Yellowbill",
+                "id": 4162
+            },
+            {
+                "name": "Tambarle",
+                "id": 4163
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 112132,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090729",
+        "original_language": "en",
+        "popularity": 7.075,
+        "status": "Released",
+        "tagline": "Fast food executive Jim Ferguson stepped out of his 47th floor office to go to the bathroom... and ended up in the middle of World War I. History will be grateful forever.",
+        "video": false
+    },
+    {
+        "id_tmdb": 154738,
+        "title": "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars",
+        "release_date": "1988-02-06",
+        "overview": "For the past 150 years, humanity’s two greatest nations have been deadlocked in a meaningless war. In what is hoped to be a miraculous victory, the Alliance embarks on a battle to break through the Empire’s frontline. Like many other “decisive” battles, this can only end in disaster; a sentiment shared by Imperial nobleman Reinhard von Lohengramm and Alliance Commodore Yang Wen Li, both of whom realize how to turn the fight in their favor. And while the tides of war may never change, these two men must rise to the occasion, solidifying their place in history as heroes.",
+        "poster_path": "/7sy4uOMuDOZ2we7JOzN7OmygWvm.jpg",
+        "backdrop_path": "/7ro9Y7Wyti93UFQ4FsmLc8yfWlP.jpg",
+        "production_companies": [
+            {
+                "name": "Kitty Films",
+                "id": 4766
+            },
+            {
+                "name": "Madhouse",
+                "id": 3464
+            },
+            {
+                "name": "Tokuma Shoten",
+                "id": 1779
+            },
+            {
+                "name": "Artland",
+                "id": 58268
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 154752,
+            "name": "Legend of the Galactic Heroes Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0095512",
+        "original_language": "ja",
+        "popularity": 7.023,
+        "status": "Released",
+        "tagline": "Perhaps man is a creature that must fight until the last one is dead.",
+        "video": false
+    },
+    {
+        "id_tmdb": 265710,
+        "title": "Seven Warriors",
+        "release_date": "1989-06-24",
+        "overview": "In the early 1920's of China, seven former soldiers band together to defend a helpless village against a group of vicious bandits in this Hong Kong remake of Seven Samurai.",
+        "poster_path": "/mVKBBH2Lch49lJQ0Fr59005JX71.jpg",
+        "backdrop_path": "/9DlRs3bqJ38u4LXAlpDwyvwFpla.jpg",
+        "production_companies": [
+            {
+                "name": "Maverick Films",
+                "id": 89426
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098710",
+        "original_language": "cn",
+        "popularity": 7.007,
+        "status": "Released",
+        "tagline": "In the chaotic era, They stand and fight.",
+        "video": false
+    },
+    {
+        "id_tmdb": 53207,
+        "title": "Nagabonar",
+        "release_date": "1986-12-31",
+        "overview": "All sorts of unlikely figures come to prominence in wartime, no matter what the country. Indonesia is no exception. In this comedy, Naga Bonar, a pickpocket who has seized the opportunity of the moment to declare himself a general in the Freedom Forces during the chaos of the Japanese occupying forces’ withdrawal in 1945, as the Dutch attempted to reassert their control over the area. However, soon a mask becomes his true self, and he becomes a true soldier and patriot.",
+        "poster_path": "/mWWEzS1ZmellxJmhApmMXvd98JA.jpg",
+        "backdrop_path": "/deh2DBJnUkpMPD2brGH45RbRngn.jpg",
+        "production_companies": [
+            {
+                "name": "PT Prasidi Teta Film",
+                "id": 130263
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 969662,
+            "name": "Nagabonar Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0288127",
+        "original_language": "id",
+        "popularity": 6.749,
+        "status": "Released",
+        "tagline": "APA KATA DUNIA?",
+        "video": false
+    },
+    {
+        "id_tmdb": 202826,
+        "title": "Four Days of Snow and Blood",
+        "release_date": "1989-06-17",
+        "overview": "Based on the \"2.26 Incident\", an attempted coup d'état in Japan 1936, launched by radical ultra-nationalist parts of the military. Several leading politicians were killed and the center of Tokyo was briefly held by the insurgents before the coup was suppressed.",
+        "poster_path": "/u7eLbacRIFw1nbnCVTYbBKyWnpK.jpg",
+        "backdrop_path": "/9QklJrambyFNgbu7PZ0sJqJXHJG.jpg",
+        "production_companies": [
+            {
+                "name": "Shochiku-Fuji Company",
+                "id": 6919
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0203022",
+        "original_language": "ja",
+        "popularity": 6.473,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 35866,
+        "title": "Every Time We Say Goodbye",
+        "release_date": "1986-11-14",
+        "overview": "A Protestant World War II pilot and a Jewish girl fall in love in Jerusalem, even though their diverse backgrounds threaten to pull them apart.",
+        "poster_path": "/fMiWlS4jNZysUquP6CZfKswukMo.jpg",
+        "backdrop_path": "/cb1ltycrzQZyqDBYVXcAIRvvGkx.jpg",
+        "production_companies": [
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 278,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091019",
+        "original_language": "en",
+        "popularity": 6.411,
+        "status": "Released",
+        "tagline": "In a time and a world of impossible love, he would accept nothing less than everything.",
+        "video": false
+    },
+    {
+        "id_tmdb": 47817,
+        "title": "1969",
+        "release_date": "1988-08-18",
+        "overview": "Two rebellious youths, Ralph and Scott, find themselves struggling with adulthood as the Vietnam War rages. Feeling trapped in their small town, Scott battles with his conservative veteran father, Cliff, and Ralph deals with his desperately sexual mother, Ev. When tragic news arrives from overseas, the entire town, inspired by Ralph and Scott's antiwar efforts, reevaluates its attitude toward the war.",
+        "poster_path": "/lM8B5gsF28UNKMJY3ZVSkpy5Ie.jpg",
+        "backdrop_path": "/ozTbT37AI4uGzSGx71RMZkTrCq3.jpg",
+        "production_companies": [
+            {
+                "name": "Atlantic Productions",
+                "id": 8172
+            },
+            {
+                "name": "Atlantic Entertainment Group",
+                "id": 3267
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 5979011,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094594",
+        "original_language": "en",
+        "popularity": 6.209,
+        "status": "Released",
+        "tagline": "The year the country split apart and a generation came together.",
+        "video": false
+    },
+    {
+        "id_tmdb": 33545,
+        "title": "The Siege of Firebase Gloria",
+        "release_date": "1989-01-27",
+        "overview": "A Marine patrol stops at Firebase Gloria at the start of the Tet Offensive during the Vietnam war. With the firebase attacked, the patrol remains to help defend it.",
+        "poster_path": "/cAN1OLcfRt6ONQOLGGGEcAtC6tn.jpg",
+        "backdrop_path": "/n2K8BsXiafvIBaEUsG7UQfDyffT.jpg",
+        "production_companies": [
+            {
+                "name": "International Film Management",
+                "id": 6206
+            },
+            {
+                "name": "Fries Entertainment",
+                "id": 21756
+            },
+            {
+                "name": "Eastern Film Management Corporation",
+                "id": 49266
+            },
+            {
+                "name": "Bancannia Holdings Pty. Ltd.",
+                "id": 91800
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.529,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098328",
+        "original_language": "en",
+        "popularity": 6.198,
+        "status": "Released",
+        "tagline": "Against all odds they went to hell and back.",
+        "video": false
+    },
+    {
+        "id_tmdb": 41936,
+        "title": "Life and Nothing But",
+        "release_date": "1989-09-06",
+        "overview": "January, 1920. 350,000 French soldiers remain missing in action. Major Dellaplane tirelessly matches the dead and the wounded with families' descriptions. Honor and ethics drive him; he hates the idea of \"the unknown soldier.\" Into his sector, looking for her husband, comes a haughty, politically connected Parisian, Madame Irène de Courtil. Brusquely, Dellaplane offers her 1/350,000th of his time, but as their paths cross and she sees his courage and resolve, feelings change. After he finds a surprising connection between her missing husband and a local teacher, Irène makes Dellaplane an offer. This man of action hesitates: has he missed his only chance?",
+        "poster_path": "/qxyXttnO7UkKovpFo0QmxxgZNAP.jpg",
+        "backdrop_path": "/xjC3S6d65X4twHwzmYQeCGKUXjJ.jpg",
+        "production_companies": [
+            {
+                "name": "Hachette Première",
+                "id": 582
+            },
+            {
+                "name": "AB Films",
+                "id": 29654
+            },
+            {
+                "name": "Little Bear",
+                "id": 16772
+            },
+            {
+                "name": "Films A2",
+                "id": 875
+            },
+            {
+                "name": "Sofinergie 1",
+                "id": 25513
+            },
+            {
+                "name": "Investimage",
+                "id": 29655
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098596",
+        "original_language": "fr",
+        "popularity": 6.167,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 29383,
+        "title": "The Winter War",
+        "release_date": "1989-11-30",
+        "overview": "Russia attacked Finland in late November 1939. This film tells the story of a Finnish platoon of reservists from the municipality of Kauhava in the province of Pohjanmaa/Ostrobothnia who leave their homes and go to war. The film focuses on the farmer brothers Martti and Paavo Hakala.",
+        "poster_path": "/hoXzrghg8RMtw9ErlWZ6lfixOR9.jpg",
+        "backdrop_path": "/2yzsv6n5uM15gpYmYukiUMNuyha.jpg",
+        "production_companies": [
+            {
+                "name": "National-Filmi",
+                "id": 7510
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 4414000,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0098437",
+        "original_language": "fi",
+        "popularity": 6.061,
+        "status": "Released",
+        "tagline": "They held back the Russian Juggernaut in a frozen Hell!",
+        "video": false
+    },
+    {
+        "id_tmdb": 87083,
+        "title": "P.O.W. The Escape",
+        "release_date": "1986-04-01",
+        "overview": "Col. Cooper leads a group of American P.O.W.s, battling their way to freedom as Saigon falls to the Viet Cong.",
+        "poster_path": "/kS03cVTS9bQBd7YVTihDRXba7kl.jpg",
+        "backdrop_path": "/zpKKUbmJcbnde9VqdAANvLP4xjU.jpg",
+        "production_companies": [
+            {
+                "name": "Golan-Globus Productions",
+                "id": 13549
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 2497233,
+        "vote_average": 4.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091713",
+        "original_language": "en",
+        "popularity": 6.048,
+        "status": "Released",
+        "tagline": "The most daring escape!",
+        "video": false
+    },
+    {
+        "id_tmdb": 219646,
+        "title": "The Great Escape II: The Untold Story",
+        "release_date": "1988-11-05",
+        "overview": "Allied prisoners tunnel out of a stalag, then return to avenge fellow escapees executed by the Nazis.",
+        "poster_path": "/gz2Utoai6tXqP1B2RriiBqHf3gZ.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Spectacor Films",
+                "id": 28277
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 990446,
+            "name": "The Great Escape Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0095252",
+        "original_language": "en",
+        "popularity": 6.02,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 20713,
+        "title": "Farewell to the King",
+        "release_date": "1989-03-03",
+        "overview": "An American soldier who escapes the execution of his comrades by Japanese soldiers in Borneo during WWII becomes the leader of a personal empire among the headhunters in this war story told in the style of Joseph Conrad and Rudyard Kipling. The American is reluctant to rejoin the fight against the Japanese on the urging of a British commando team but conducts a war of vengeance when the Japanese attack his adopted people.",
+        "poster_path": "/TflAOAoV7C0XPqNyIhjhOelr8F.jpg",
+        "backdrop_path": "/hUBcrgBoFEAuSWuvfUuqWMs9q0e.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            },
+            {
+                "name": "Cine Location Services",
+                "id": 6133
+            },
+            {
+                "name": "David Hannay Productions",
+                "id": 6135
+            },
+            {
+                "name": "Film Plan Financing Number 1",
+                "id": 6136
+            },
+            {
+                "name": "Ruddy Morgan Productions",
+                "id": 6137
+            },
+            {
+                "name": "Southeast Asia Film Location Services Sdn. Bhd.",
+                "id": 6138
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 16000000,
+        "revenue": 2420917,
+        "vote_average": 5.955,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097334",
+        "original_language": "en",
+        "popularity": 5.712,
+        "status": "Released",
+        "tagline": "In the midst of war, one man vanished into the jungle, and emerged as king.",
+        "video": false
+    },
+    {
+        "id_tmdb": 14088,
+        "title": "Barefoot Gen 2",
+        "release_date": "1986-06-14",
+        "overview": "Three years after the Hiroshima bombing, a teenager helps a group of orphans to survive and find their new life.",
+        "poster_path": "/pMHR5NfNFe8HGvlU7YTZHsEjWcy.jpg",
+        "backdrop_path": "/sbsJjObPuZt4y5pHUN3zM1BIIiT.jpg",
+        "production_companies": [
+            {
+                "name": "Madhouse",
+                "id": 3464
+            },
+            {
+                "name": "Tokyo Laboratory",
+                "id": 104646
+            },
+            {
+                "name": "Gen Productions",
+                "id": 2863
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 14095,
+            "name": "Barefoot Gen (Animated) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0171357",
+        "original_language": "ja",
+        "popularity": 5.694,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 103393,
+        "title": "The Sea and Poison",
+        "release_date": "1986-10-17",
+        "overview": "Two interns and a nurse are interrogated by American MPs for their involvement in an atrocity during the war: the vivisections of a downed American air crew.",
+        "poster_path": "/i0JojoX6mUM8E2dSGhlwCGGawKJ.jpg",
+        "backdrop_path": "/cb6eKdl2nEeqF3INyhSpbZgsXbK.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.917,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092128",
+        "original_language": "ja",
+        "popularity": 5.544,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 198471,
+        "title": "Adieu Bonaparte",
+        "release_date": "1985-05-17",
+        "overview": "This big-budget historical epic from acclaimed Egyptian director Youssef Chahine features a crazed turn by Patrice Chereau as Napoleon Bonaparte. The film, an Egyptian-French co-production, deals with Napoleon's occupation of Alexandria and its effect on a typical Egyptian family. Michel Piccoli leads the cast as a general in Napoleon's army who tentatively befriends a local poet.",
+        "poster_path": "/19oKckOyuAicQCZX4ph4CyJeu0I.jpg",
+        "backdrop_path": "/m2qf3YZQBFQKloCaG7VR2sHJTsq.jpg",
+        "production_companies": [
+            {
+                "name": "Lyric International",
+                "id": 54613
+            },
+            {
+                "name": "MISR International Films",
+                "id": 11574
+            },
+            {
+                "name": "Renn Productions",
+                "id": 82
+            },
+            {
+                "name": "TF1 Films Production",
+                "id": 356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "EG",
+                "name": "Egypt"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0088383",
+        "original_language": "ar",
+        "popularity": 5.239,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 26558,
+        "title": "Combat Shock",
+        "release_date": "1986-05-01",
+        "overview": "A dangerously disturbed Vietnam veteran struggles with life 15 years after his return home, and slowly falls into insanity from his gritty urban lifestyle.",
+        "poster_path": "/oCGUSrJVVjFPwkxcdVnOa7880S.jpg",
+        "backdrop_path": "/fdpC19z0yrBK4zwTxzZrmCjlvhb.jpg",
+        "production_companies": [
+            {
+                "name": "Troma Entertainment",
+                "id": 3052
+            },
+            {
+                "name": "2000 A.D. Productions",
+                "id": 127129
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000,
+        "revenue": 0,
+        "vote_average": 6.355,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090866",
+        "original_language": "en",
+        "popularity": 5.184,
+        "status": "Released",
+        "tagline": "Fighting, killing, maiming. Agent Orange and the torture cages were the easy part!",
+        "video": false
+    },
+    {
+        "id_tmdb": 17790,
+        "title": "Zone Troopers",
+        "release_date": "1985-10-01",
+        "overview": "American soldiers, led by The Sarge, are stuck behind Nazi enemy lines. As they make their way across the Italian countryside, they come across an alien spaceship that has crash-landed in the woods. The alien pilot is dead, but one of the ship's passengers is on the loose. As the GIs hunt down the alien by splitting into smaller groups, they're not only tracked by the Nazis, but also a whole host of other aliens come to save their stranded party.",
+        "poster_path": "/twYO8C6mIHyPGsE7nTIGreijdkb.jpg",
+        "backdrop_path": "/ttlpY8T0XkCqHv89FeQ2vz1Pg1g.jpg",
+        "production_companies": [
+            {
+                "name": "Charles Band Productions",
+                "id": 1295
+            },
+            {
+                "name": "Empire Pictures",
+                "id": 1212
+            },
+            {
+                "name": "Altar Productions",
+                "id": 13085
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092298",
+        "original_language": "en",
+        "popularity": 5.172,
+        "status": "Released",
+        "tagline": "They Take War To A New Dimension.",
+        "video": false
+    },
+    {
+        "id_tmdb": 164378,
+        "title": "Bound for the Fields, the Mountains, and the Seacoast",
+        "release_date": "1986-10-04",
+        "overview": "During the fervently nationalist months leading up to World War II, a rebellious teenager is transferred to a new primary school in a small Inland Sea town. He vies with the school’s reigning bully, who takes a romantic interest in his older stepsister. When they learn she’s going to be sold to a brothel to pay off her father’s debts, they form an uneasy alliance to free her.",
+        "poster_path": "/pvxyegW6dZ9hSp26Xt2uQ58H7rS.jpg",
+        "backdrop_path": "/gx3Y0RN36L1nKzZfEm1UYOqY7kT.jpg",
+        "production_companies": [
+            {
+                "name": "Nippon Television Network Corporation",
+                "id": 6755
+            },
+            {
+                "name": "VAP",
+                "id": 11725
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0125440",
+        "original_language": "ja",
+        "popularity": 5.147,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 21840,
+        "title": "The Misfit Brigade",
+        "release_date": "1987-07-02",
+        "overview": "War story of the 27th Panzers, Hitler's heavy-duty combat regiment composed of prisoners.",
+        "poster_path": "/4gzKUnPsnPUz17566fCejSW1bMI.jpg",
+        "backdrop_path": "/lw8ea4yDdEYF3kA3qKcqE2Dp9K.jpg",
+        "production_companies": [
+            {
+                "name": "Panorama-Film",
+                "id": 20722
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093546",
+        "original_language": "en",
+        "popularity": 5.087,
+        "status": "Released",
+        "tagline": "The German Dirty Dozen",
+        "video": false
+    },
+    {
+        "id_tmdb": 92469,
+        "title": "Treasure of the Amazon",
+        "release_date": "1985-05-30",
+        "overview": "An adventurer and his buddies race a former Nazi and others to diamonds in the South American jungle.",
+        "poster_path": "/7XVY1Ke4hRTBw9nc48MSUIKFKfu.jpg",
+        "backdrop_path": "/7ZViDRy1Zk3cMHHr3NdHzvrLKDr.jpg",
+        "production_companies": [
+            {
+                "name": "Real Internacional",
+                "id": 74622
+            },
+            {
+                "name": "Star World Productions",
+                "id": 74623
+            },
+            {
+                "name": "Videocine",
+                "id": 7570
+            },
+            {
+                "name": "Televicine International",
+                "id": 38494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090200",
+        "original_language": "en",
+        "popularity": 4.945,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 139262,
+        "title": "The Last Days of Patton",
+        "release_date": "1986-12-15",
+        "overview": "Gen. George S. Patton now works a desk job for the U.S. military after World War II. In the midst of dealing with the difficulty of adapting to his dramatic change of lifestyle, Patton is involved in an auto wreck that leaves him in critical condition. While his body fails him, Patton introspectively reminisces about his relationship with his spouse, Beatrice; his childhood; and his days on the WWI battlefields.",
+        "poster_path": "/jEEAtPoyx77vTuv8warWRJGUqcw.jpg",
+        "backdrop_path": "/9uJCXVmvV4k8vmz6s7VCJ69vkhq.jpg",
+        "production_companies": [
+            {
+                "name": "CBS Studios",
+                "id": 1081
+            },
+            {
+                "name": "Entertainment Partners Ltd.",
+                "id": 4015
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 609766,
+            "name": "Patton Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0091383",
+        "original_language": "en",
+        "popularity": 4.704,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 104089,
+        "title": "Year of Enlightment",
+        "release_date": "1986-12-05",
+        "overview": "April, 1940. Manolo, 16 years old, and Jesus, who is just 8, are taken by their older brother Pepe, a lieutenant in the Army, to a sanatorium for children suffering from tuberculosis, situated on the border with Portugal. Once in the sanatorium, Manolo, surrounded by boys all much younger than he is, feels a bit like the cock of the walk since the only other man around is the handyman Emilio who looks after the gardens and does whatever needs to be done about the place. His wife, Rafaela, is the cook. Manolo meets Irene, a falangist who runs the sanatorium, and the school teacher, Miss Transito, a crabby spinster. He has his first sexual experience, albeit as a voyeur, with his nurse Vicenta. When she has to leave, her place is taken by a girl from the village, Maria Jesus, with whom Manolo falls hopelessly in love. A relationship grows up between them which will mark them both for ever.",
+        "poster_path": "/yAqkstX4WzgkJTJ3UlrwIXUKRNo.jpg",
+        "backdrop_path": "/ourxKWTPlD6sieau6Pe7FCFULSy.jpg",
+        "production_companies": [
+            {
+                "name": "Iberoamericana Films Producción",
+                "id": 81312
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090679",
+        "original_language": "es",
+        "popularity": 4.484,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 105927,
+        "title": "Robowar",
+        "release_date": "1988-01-01",
+        "overview": "A group of commandos heads into the jungles of Venezuela on a highly classified mission and encounters a robotic killing machine.",
+        "poster_path": "/ps4uhlLu9arQeImGZoncftRVh1.jpg",
+        "backdrop_path": "/fbSNXQZj1U1XYiPmMFyKTQWdBQY.jpg",
+        "production_companies": [
+            {
+                "name": "Flora Film",
+                "id": 1501
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.488,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0096000",
+        "original_language": "it",
+        "popularity": 4.431,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 18389,
+        "title": "The Lighthorsemen",
+        "release_date": "1987-09-10",
+        "overview": "In 1917 when the British forces are bogged down in front of the Turkish and German lines in Palestine they rely on the Australian light horse regiment to break the deadlock.",
+        "poster_path": "/h0U0l94ILsSb2Wbq8hLvLR92mQA.jpg",
+        "backdrop_path": "/2mTe0BhrqA79IkaMO0YPJbYH0XV.jpg",
+        "production_companies": [
+            {
+                "name": "FGH",
+                "id": 6205
+            },
+            {
+                "name": "Film Victoria",
+                "id": 11840
+            },
+            {
+                "name": "International Film Management",
+                "id": 6206
+            },
+            {
+                "name": "Picture Show",
+                "id": 6207
+            },
+            {
+                "name": "RKO Pictures LLC",
+                "id": 46976
+            },
+            {
+                "name": "The Australian Film Commission",
+                "id": 126586
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093416",
+        "original_language": "en",
+        "popularity": 4.35,
+        "status": "Released",
+        "tagline": "They did what they were told... They didn't know it was impossible!",
+        "video": false
+    },
+    {
+        "id_tmdb": 389556,
+        "title": "Gunpowder",
+        "release_date": "1985-03-25",
+        "overview": "At the end of September 1941, Soviet artillery troops in besieged Leningrad realize that pretty soon they will fire their last shot, and after that the defense of the city will be doomed. The film is based on a true event: a small group of fearless soldiers transported a large supply of gunpowder through enemy lines to Leningrad.",
+        "poster_path": "/5KtOwT8ovaiJYksiDM14AlW0cul.jpg",
+        "backdrop_path": "/vgdvWkesmeaqaE7Cvnr8Az2lvLo.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089828",
+        "original_language": "ru",
+        "popularity": 4.25,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36572,
+        "title": "The Dirty Dozen: The Deadly Mission",
+        "release_date": "1987-03-01",
+        "overview": "Learning of a Nazi plot to attack Washington, D.C. with a deadly nerve gas, Major Wright leads twelve convicts on a suicide mission deep into occupied France to destroy the secret factory where the poison is made.",
+        "poster_path": "/kq4hYyXQypTfSFDC0QnWnTJ8sgU.jpg",
+        "backdrop_path": "/uo0AAzb6f9It6INtN61yhta1Uxp.jpg",
+        "production_companies": [
+            {
+                "name": "Jadran Film",
+                "id": 168
+            },
+            {
+                "name": "MGM/UA Television",
+                "id": 10278
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 124492,
+            "name": "The Dirty Dozen Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0092891",
+        "original_language": "en",
+        "popularity": 4.229,
+        "status": "Released",
+        "tagline": "When it's impossible... send in the Dozen.",
+        "video": false
+    },
+    {
+        "id_tmdb": 59487,
+        "title": "Return from the River Kwai",
+        "release_date": "1989-04-07",
+        "overview": "A group of war prisoners has spilt blood, sweat and tears to construct a bridge over the river Kwai in Thailand. Just when the bridge is ready, an American bomber arrives and destroys it. Camp commander Tanaka wants to set an example and orders that some of the prisoners must be executed. Just in time major Harada arrives with orders that the healthiest prisoners must be transported to Japan by train and boat. A treacherous journey since the allied forces keep a close eye on railroads and practically own the seas.",
+        "poster_path": "/xUj8c4yEQrWkj17bwoZARqgc9KM.jpg",
+        "backdrop_path": "/eYtPA6SRIIqn3aoIaXQItF2aLhC.jpg",
+        "production_companies": [
+            {
+                "name": "Roadshow Productions",
+                "id": 7020
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095985",
+        "original_language": "en",
+        "popularity": 4.228,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 292374,
+        "title": "Vietnam",
+        "release_date": "1987-02-23",
+        "overview": "The trials and tribulations of the Goddard family after the entry of Australia into the Vietnam War.",
+        "poster_path": "/dJl5BmnGQa0fC8uXYVgK9hUdiqw.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Kennedy Miller Productions",
+                "id": 2537
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 7000000,
+        "revenue": 0,
+        "vote_average": 8.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0140770",
+        "original_language": "en",
+        "popularity": 4.084,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 41205,
+        "title": "The Unknown Soldier",
+        "release_date": "1985-12-06",
+        "overview": "Second silver screen adaption of the Finnish war book by Väinö Linna. The story is based on Linna's experiences as an infantry man in the Finnish army during the so called \"Continuation War\" (1941-1944).",
+        "poster_path": "/7GFnQOBBKOafcoozoL7aqSZk4DL.jpg",
+        "backdrop_path": "/dFNR8y8inY9fz8mgJtnEFjS0AF6.jpg",
+        "production_companies": [
+            {
+                "name": "Arctic-Filmi",
+                "id": 47776
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090215",
+        "original_language": "fi",
+        "popularity": 4.051,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 71762,
+        "title": "Trial on the Road",
+        "release_date": "1986-04-01",
+        "overview": "This distinctly Russian war story takes place in 1942 behind enemy lines. A regiment of partisans captures former Red Army lieutenant Lazarev who is dressed in a German uniform. He’s a Nazi defector and collaborator but now desires to switch back and fight with Russian partisans.",
+        "poster_path": "/6JPcG2FKsmjkHVj9Ee93yXu0yAZ.jpg",
+        "backdrop_path": "/ampzwp9ucNws0SWHZttm1PAkgE9.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0067625",
+        "original_language": "ru",
+        "popularity": 4.023,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 71799,
+        "title": "The Heifer",
+        "release_date": "1985-03-06",
+        "overview": "During the Spanish Civil War a platoon of mismatched Republican soldiers cross the front-line to steal the bull that the enemy is going to fight on the local holiday of the nearby village. In addition to ruining the Nationalist faction's celebration they want the animal in order to butcher it and feed their famished troops. They get caught in the process and have to go through a series of funny and pathetic incidents before they can get back to their side.",
+        "poster_path": "/rUJW2FYGgn98DNCbODKUCf5EiBo.jpg",
+        "backdrop_path": "/pm3l0g98hEyEJEEPJyNre905EPm.jpg",
+        "production_companies": [
+            {
+                "name": "Jet Films",
+                "id": 52105
+            },
+            {
+                "name": "Incine",
+                "id": 4808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090250",
+        "original_language": "es",
+        "popularity": 3.968,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 55149,
+        "title": "84C MoPic",
+        "release_date": "1989-03-22",
+        "overview": "An Army cameraman is embedded with a reconnaissance patrol and charts their mission across territory controlled by the North Vietnamese.",
+        "poster_path": "/vu5zyYcQlUJmGJzzUnrrXKsxnKd.jpg",
+        "backdrop_path": "/lv8vz7uSzEMDiwgpCUB3O4d8eqH.jpg",
+        "production_companies": [
+            {
+                "name": "The Charlie Mopic Company",
+                "id": 916
+            },
+            {
+                "name": "Charlie Mopic",
+                "id": 78918
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 500000,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0096744",
+        "original_language": "en",
+        "popularity": 3.924,
+        "status": "Released",
+        "tagline": "You'll be more than a witness...",
+        "video": false
+    },
+    {
+        "id_tmdb": 122473,
+        "title": "Strike Commando 2",
+        "release_date": "1988-08-17",
+        "overview": "A commando rescues his squad leader from heroin smugglers in Burma.",
+        "poster_path": "/bcAgOR2uyxIb8fBxet3hq8EMgyn.jpg",
+        "backdrop_path": "/v5kgZJ1CZfJjTgzxpzWWFA7Xd98.jpg",
+        "production_companies": [
+            {
+                "name": "Flora Film",
+                "id": 1501
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 537303,
+            "name": "Strike Commando Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0098398",
+        "original_language": "it",
+        "popularity": 3.914,
+        "status": "Released",
+        "tagline": "Nobody could stop him!",
+        "video": false
+    },
+    {
+        "id_tmdb": 276957,
+        "title": "Mobile Suit Gundam 0080: War in the Pocket",
+        "release_date": "1989-03-25",
+        "overview": "In the final days of the One Year War, a Zeon special forces group infiltrates a colony to gather information on a new Gundam unit. Alfred Izuruha, a 10-year-old student, befriends Zeon rookie pilot Bernie Wiseman during a brief mobile suit combat. Meanwhile, Al meets up with Christina MacKenzie, his former neighbor and babysitter. Little does he know that not only is Christina a member of the Earth Federation, she's the test pilot of the new Gundam NT-4 prototype.",
+        "poster_path": "/14HWsqNfZQOy1i8fx1YYcDHF6C6.jpg",
+        "backdrop_path": "/cEvZncswAFru6Y8CfJ9H9LGoEi1.jpg",
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            },
+            {
+                "name": "Bandai Visual",
+                "id": 528
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0097661",
+        "original_language": "ja",
+        "popularity": 3.855,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73091,
+        "title": "The Hanoi Hilton",
+        "release_date": "1987-03-27",
+        "overview": "Lionel Chetwynd's film documents the horrific struggles that faced American POWs held in the North Vietnamese prison Hoa Lo -- more infamously known as the Hanoi Hilton -- between 1964 and 1975. Williamson (Michael Moriarty) leads a group of American servicemen who are prisoners at the detention camp. He assumes command after Cathcart (Lawrence Pressman) is dragged off to be tortured.",
+        "poster_path": "/48Jl0Do3c4VBvg24S7uJ7jvJAlo.jpg",
+        "backdrop_path": "/6mIwrIINTuae7GwgnNrl0UhuX9b.jpg",
+        "production_companies": [
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            },
+            {
+                "name": "Golan-Globus Productions",
+                "id": 13549
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 760000,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093143",
+        "original_language": "en",
+        "popularity": 3.817,
+        "status": "Released",
+        "tagline": "For Americans captured in Vietnam, one war ended. Another was about to begin.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2753,
+        "title": "The Assault",
+        "release_date": "1986-02-06",
+        "overview": "At the end of WWII the Dutch resistance kills a German officer in front of the house of a Dutch family. Years after the war the young boy who witnessed the killing runs into the members of the resistance who committed the killing.",
+        "poster_path": "/wvklfVmpr4i5BexkvytKtpfu7DM.jpg",
+        "backdrop_path": "/n5DLPRibl9ysKoHqc7DvMvs4T89.jpg",
+        "production_companies": [
+            {
+                "name": "Fons Rademakers Produktie",
+                "id": 1567
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 512400,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0090576",
+        "original_language": "nl",
+        "popularity": 3.696,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 79420,
+        "title": "Going and Coming Back",
+        "release_date": "1985-03-27",
+        "overview": "Salomé Lerner just finished writing an autobiography. She goes to a TV show called \"Apostrophes\", hosted by French TV showman Bernard Pivot. Pivot then imagines a film that could be created from her gripping story. A film entirely made of music because after seeing the young pianist Erik Berchot, Salomé believes seeing her long lost brother, who was a musician as well. A brother she had lost along with her parents in 1943. However, the Lerners did in fact escape the gestapo and might have based themselves in Paris...",
+        "poster_path": "/yddCTXSUQA3DoV9i1oZENMjdiKh.jpg",
+        "backdrop_path": "/68OU4ejcn2ceNnOwYjiWHiBPZ8I.jpg",
+        "production_companies": [
+            {
+                "name": "UGC",
+                "id": 581
+            },
+            {
+                "name": "Les Films 13",
+                "id": 1742
+            },
+            {
+                "name": "FR3",
+                "id": 1579
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.237,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0087888",
+        "original_language": "fr",
+        "popularity": 3.674,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 416401,
+        "title": "Penguin's Memory: A Tale of Happiness",
+        "release_date": "1985-06-22",
+        "overview": "Mike is a penguin soldier who returns home after being injured during combat. Estranged from his family and friends, he leaves his hometown and starts to roam adrift through the country.",
+        "poster_path": "/oHaYdrZ1dvdT6AQVAxJzrrnzZ3z.jpg",
+        "backdrop_path": "/ms8wLvrps3SswaXVkpQVtbLRzTw.jpg",
+        "production_companies": [
+            {
+                "name": "Animation Staff Room",
+                "id": 138677
+            },
+            {
+                "name": "CM Land",
+                "id": 138678
+            },
+            {
+                "name": "Hakuhodo",
+                "id": 13411
+            },
+            {
+                "name": "Suntory Co., Ltd.",
+                "id": 74010
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1407273",
+        "original_language": "ja",
+        "popularity": 3.635,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 305961,
+        "title": "Virgin Forest",
+        "release_date": "1985-01-22",
+        "overview": "A story set in the Philippine Republic in the 1900s where a lass, a Spanish mestizo, and a fisherman are caught up by Macabebe soldiers who are trying to capture Emilio Aguinaldo.",
+        "poster_path": "/ddRIUCAcpmh2YZWGbGZL3s466cy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "ECP",
+                "id": 64965
+            },
+            {
+                "name": "Regal Entertainment",
+                "id": 8238
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0375190",
+        "original_language": "tl",
+        "popularity": 3.604,
+        "status": "Released",
+        "tagline": "The day they raped the virgin...",
+        "video": false
+    },
+    {
+        "id_tmdb": 97061,
+        "title": "Hitler's SS: Portrait in Evil",
+        "release_date": "1985-02-17",
+        "overview": "The two-part TV movie Hitler's SS: Portrait in Evil crystallizes that evil by concentrating on two Berlin brothers. In 1931, Helmut Hoffman a brilliant student and self-styled opportunist, joins Hitler's SS. At the same time, his younger brother Karl, a top athlete and idealist, becomes a chauffeur for the \"S.A.\".",
+        "poster_path": "/fJAc3KKB5DCc1oqXCDq8iiboXnX.jpg",
+        "backdrop_path": "/k95Pk8yaPBXWueJ43m2kA9hkOu5.jpg",
+        "production_companies": [
+            {
+                "name": "Edgar J. Scherick Associates",
+                "id": 4240
+            },
+            {
+                "name": "Metromedia Producers Corporation",
+                "id": 5740
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089279",
+        "original_language": "en",
+        "popularity": 3.483,
+        "status": "Released",
+        "tagline": "Brother is pitted against brother under the shadow of the Third Reich.",
+        "video": false
+    },
+    {
+        "id_tmdb": 176664,
+        "title": "Strawman",
+        "release_date": "1987-01-02",
+        "overview": "In 1940s Taiwan, during the last days of Japanese rule, an impoverished farming village is less concerned with colonial politics than with feeding their families. One day, an American bomb falls onto a field, where it lies unexploded.",
+        "poster_path": "/6oiWmkd7u3bnzwthTgPSj2Tc1D3.jpg",
+        "backdrop_path": "/da5avePSBaIfT0V5wXHZDb5E3S9.jpg",
+        "production_companies": [
+            {
+                "name": "Central Motion Picture Corporation",
+                "id": 25345
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092829",
+        "original_language": "zh",
+        "popularity": 3.455,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 341961,
+        "title": "The French as Seen by…",
+        "release_date": "1988-10-26",
+        "overview": "In 1988, Figaro magazine asked a few famous directors to direct a series of short movies to celebrate the 10 years of the revue. The movies have been released for the French revolution bicentenary. Includes: Werner Herzog's Les Gaulois, David Lynch's The Cowboy and the Frenchman, Andrzej Wajda's Proust contre la déchéance, Luigi Comencini's Pèlerinage à Agen, Jean-Luc Godard's Le dernier mot.",
+        "poster_path": "/n9XvRGI9OH5FDFWmCOFjxxnGTlL.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Propaganda Films",
+                "id": 278
+            },
+            {
+                "name": "Erato Films",
+                "id": 2239
+            },
+            {
+                "name": "JLG Films",
+                "id": 22811
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            },
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094999",
+        "original_language": "fr",
+        "popularity": 3.395,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 61777,
+        "title": "Dear America: Letters Home from Vietnam",
+        "release_date": "1987-10-01",
+        "overview": "Real-life letters written by American soldiers, sailors, airmen, and Marines during the Vietnam War to their families and friends back home. Archive footage of the war and news coverage thereof augment the first-person \"narrative\" by men and women who were in the war, some of whom did not survive it.",
+        "poster_path": "/mxtyyPSPcuCn1aNCzpkGfV4eLi.jpg",
+        "backdrop_path": "/rKGGlT76Aywnaee7Kq9xNItIwAq.jpg",
+        "production_companies": [
+            {
+                "name": "Dear America",
+                "id": 7031
+            },
+            {
+                "name": "GBA",
+                "id": 7032
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092851",
+        "original_language": "en",
+        "popularity": 3.378,
+        "status": "Released",
+        "tagline": "Addressed to the heart of America.",
+        "video": false
+    },
+    {
+        "id_tmdb": 222320,
+        "title": "Saigon Commandos",
+        "release_date": "1988-01-01",
+        "overview": "A series of drug-related murders haunt Saigon. Ex-Green Beret Mark Stryker and his MP's must find the culprits. With the help of Jean Lassiter, a nosey reporter covering the crime beat, Stryker uncovers the involvement of corrupt politicians in the heroin trade and in the killings. But before he can pin them down, Stryker is framed for the murder of his commanding officer and now he must clear his name, free Lassiter from her captors, and stop his men from carrying out their own kind of vengeance before it is too late.",
+        "poster_path": "/qEmDgsRIuPZ25gtOUHbfhx9ryKt.jpg",
+        "backdrop_path": "/15fQdXHP8DLl1MMTiGje5umOFk9.jpg",
+        "production_companies": [
+            {
+                "name": "Concorde Pictures",
+                "id": 4527
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0093906",
+        "original_language": "en",
+        "popularity": 3.332,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 86251,
+        "title": "Strike Commando",
+        "release_date": "1987-08-26",
+        "overview": "The sole survivor of a Vietnam mission is ordered by his commanding officer to photograph Soviets.",
+        "poster_path": "/bwjLhZ781E6tOHPT3TEaAjcUU7e.jpg",
+        "backdrop_path": "/terZf8tsBWWn5n8JrvZS4KTmaha.jpg",
+        "production_companies": [
+            {
+                "name": "Flora Film",
+                "id": 1501
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 537303,
+            "name": "Strike Commando Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0094059",
+        "original_language": "it",
+        "popularity": 3.317,
+        "status": "Released",
+        "tagline": "A One-Man War Machine!",
+        "video": false
+    },
+    {
+        "id_tmdb": 111524,
+        "title": "Last Stand at Lang Mei",
+        "release_date": "1989-12-01",
+        "overview": "Vietnam, 1968. Army Headquarters has written off Captain Fahey's men as Missing In Action after they were fighting deep over enemy lines. Cut off from their platoon, they must fight their way back, or die! A true story of bravery and courage set amidst the chaos of war, and witness the gripping conclusion to the bloodiest day in American war history",
+        "poster_path": "/pG2UTHc0KhYZN0OZy1hzZDzcrq4.jpg",
+        "backdrop_path": "/dt2FoYMXglPGSVk5aid2Gsrg8my.jpg",
+        "production_companies": [
+            {
+                "name": "New Horizons Picture",
+                "id": 20235
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 10.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0099988",
+        "original_language": "en",
+        "popularity": 3.298,
+        "status": "Released",
+        "tagline": "A true story of bravery and courage set amidst the chaos of war.",
+        "video": false
+    },
+    {
+        "id_tmdb": 761632,
+        "title": "Isang Araw Walang Diyos",
+        "release_date": "1989-08-31",
+        "overview": "A cult called Wakwak headed by Papa Mundo is ready to kill and be killed to fight for their beliefs. It is a religious battle for their leader, clad in priest's robes, who they believe has supernatural powers to extinguish life out of anyone. Outnumbered, Lt. Cary Altamonte's group fights for the safety of the civilians. The situation unfolds in a battle of faith.",
+        "poster_path": "/mbjPcAIRLzFlA8GfMYuc3O7kcRY.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Regal Entertainment",
+                "id": 8238
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0360677",
+        "original_language": "tl",
+        "popularity": 3.247,
+        "status": "Released",
+        "tagline": "Love is Still the Greatest Adventure of All Time!",
+        "video": false
+    },
+    {
+        "id_tmdb": 542863,
+        "title": "The Kinmen Bombs",
+        "release_date": "1986-10-09",
+        "overview": "After a devastating artillery attack on the island of Kinmen, commander Chi Liang-chen and his battery prepare a counter-attack.",
+        "poster_path": "/JDLYWRYTMwt0eWNj2S0ziFHnlg.jpg",
+        "backdrop_path": "/le4shlxBvbxglRNuut4vrARTmsP.jpg",
+        "production_companies": [
+            {
+                "name": "Central Motion Picture Corporation",
+                "id": 25345
+            },
+            {
+                "name": "Silver Bird Films Ltd.",
+                "id": 110815
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1468824",
+        "original_language": "zh",
+        "popularity": 3.216,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 154397,
+        "title": "The Commander",
+        "release_date": "1988-04-28",
+        "overview": "Lewis Collins is back to leading mercenaries on the move in Southeast Asia. This time the cast is unusually good including Lee Van Cleef, Brett Halsey (Cop Game), Romano Puppo (Robowar), Mike Monty (Raiders of Atlantis), Bobby Rhodes (The Great Alligator), etc. Anyway, Van Cleef has Collins go on some random mission to locate a disc with all sorts of valuable crazy intelligence data on it. It just happens that Donald Pleasence, a random government official, hires another mercenary-for-hire Manfred Lehman to tag along and make sure the data ends up in the right hands. Van Cleef isn't taking any chances, and since he is crooked and murders Collins's other bosses quickly, he places Romano Puppo in the group as well to make sure the operation runs smoothly. Collins may not be too expressive but at least he seems to figure out quickly who's out to get him, so the mission continues with lots of double-crosses, twists and turns, and of course lots of explosions!",
+        "poster_path": "/yJVvqNe46gmsoRMCCFkGWXB1GLx.jpg",
+        "backdrop_path": "/kxxfpZEaTe7klC9Ejobyh9XwV7u.jpg",
+        "production_companies": [
+            {
+                "name": "Ascot Film",
+                "id": 6317
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0094899",
+        "original_language": "de",
+        "popularity": 3.2,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 399108,
+        "title": "Victory",
+        "release_date": "1985-04-01",
+        "overview": "30 years after the end of World War II, a Soviet and an American journalist meet again for realizing post war paths of their countries.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "DEFA",
+                "id": 602
+            },
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XG",
+                "name": "East Germany"
+            },
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0173000",
+        "original_language": "ru",
+        "popularity": 3.199,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 897161,
+        "title": "Forever - 19",
+        "release_date": "1989-01-01",
+        "overview": "",
+        "poster_path": "/lx1tooZQNX2eCqEmcQzfPMAhath.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Odessa Film Studio",
+                "id": 3161
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5745732",
+        "original_language": "ru",
+        "popularity": 3.193,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 103203,
+        "title": "Camp de Thiaroye",
+        "release_date": "1988-09-06",
+        "overview": "A Senegalese platoon of soldiers from the French Free Army are returned from combat in France and held for a temporary time in a military encampment with barbed wire fences and guard towers in the desert. Among their numbers are Sergeant Diatta, the charismatic leader of the troop who was educated in Paris and has a French wife and child, and Pays, a Senegalese soldier left in a state of shock from the war and concentration camps and who can only speak in guttural screams and grunts.",
+        "poster_path": "/oKfFcrlQCTKaB6KU5VuJVt0yBc5.jpg",
+        "backdrop_path": "/tFxCMJM4Uw4yxyvulEaUkFEJCtL.jpg",
+        "production_companies": [
+            {
+                "name": "Films Kajoor",
+                "id": 75557
+            },
+            {
+                "name": "ENAPROC - Entreprise Nationale de Production Cinématographique",
+                "id": 75555
+            },
+            {
+                "name": "Films Domireew",
+                "id": 75556
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DZ",
+                "name": "Algeria"
+            },
+            {
+                "iso_3166_1": "SN",
+                "name": "Senegal"
+            },
+            {
+                "iso_3166_1": "TN",
+                "name": "Tunisia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "wo",
+                "name": "Wolof"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0092716",
+        "original_language": "fr",
+        "popularity": 3.179,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 230698,
+        "title": "Houston: The Legend of Texas",
+        "release_date": "1986-11-22",
+        "overview": "Sam Elliot stars as Sam Houston, the visionary who nearly single-handedly forged the state of Texas into a powerful entity in its own right. Refusing to forget the Alamo (as if anyone could), Houston led the military in Texas' rebellion against Mexico. G.D. Spradlin co-stars as President Andrew Jackson, with Michael Beck appearing as Jim Bowie, James Stephens as Stephen Austin, and Richard Yniguez as Mexican General Santa Anna. Lensed on location in the Lone Star state, this sweeping made-for-TV film originally occupied three hours' screen time on November 22, 1986. Its title at that time was Houston: The Legend of Texas. ~ Hal Erickson, Rovi",
+        "poster_path": "/sqOnNiYrnMP6i2nFE7lzjm7zBEJ.jpg",
+        "backdrop_path": "/rDNS622V4gZBktsXWiEqVd4SQB1.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0091224",
+        "original_language": "en",
+        "popularity": 3.17,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 125771,
+        "title": "Mussolini and I",
+        "release_date": "1985-04-14",
+        "overview": "A compelling drama/documentary chronicling the life and death of Il Duce himself, from his days as a terrorist to his alliance with Hitler to the betrayal of his son-in-law and untimely demise.",
+        "poster_path": "/uhHshE88NnetPPu3IxqEQy5vR0n.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Beta Film",
+                "id": 1080
+            },
+            {
+                "name": "HBO",
+                "id": 3268
+            },
+            {
+                "name": "France 2",
+                "id": 11359
+            },
+            {
+                "name": "Alan David Management",
+                "id": 56417
+            },
+            {
+                "name": "Filmalpha",
+                "id": 75289
+            },
+            {
+                "name": "TVE Productions",
+                "id": 96679
+            },
+            {
+                "name": "RAI",
+                "id": 1583
+            },
+            {
+                "name": "RSI",
+                "id": 20960
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089645",
+        "original_language": "en",
+        "popularity": 3.15,
+        "status": "Released",
+        "tagline": "Detested by his people. Defied by his family. Destined to failure.",
+        "video": false
+    },
+    {
+        "id_tmdb": 310979,
+        "title": "Piloti",
+        "release_date": "1988-01-01",
+        "overview": "",
+        "poster_path": "/nzeaL2WHmXcNnUiJkv7LbE9Vn2c.jpg",
+        "backdrop_path": "/xkz2muLZZEeaEAaPgkUH4xueo1g.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186446",
+        "original_language": "cs",
+        "popularity": 3.112,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 456927,
+        "title": "Snipers",
+        "release_date": "1986-02-14",
+        "overview": "After studying Central female school where learner was trained as a spinier, in 1943 Aliya joined the Soviet armed force with her girlfriends .She shot an German sniper who killed many Soviet soldiers in an fighting action.",
+        "poster_path": "/dkxo8Q19fdYaPUWjV2l6hIISrby.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Kazakhfilm",
+                "id": 232195
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0175183",
+        "original_language": "ru",
+        "popularity": 3.109,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 41954,
+        "title": "Hôtel Terminus: The Life and Times of Klaus Barbie",
+        "release_date": "1988-11-01",
+        "overview": "Marcel Ophuls' riveting film details the heinous legacy of the Gestapo head dubbed \"The Butcher of Lyon.\" Responsible for over 4,000 deaths in occupied France during World War II, Barbie would escape—with U.S. help—to South America in 1951, where he lived until a global manhunt led to his 1983 arrest and subsequent trial.",
+        "poster_path": "/gyU6I5h7K4M59QxFLCPJTMSzkDC.jpg",
+        "backdrop_path": "/suxg30jaOoTLHQlvaz5ulUcxJQd.jpg",
+        "production_companies": [
+            {
+                "name": "Memory Pictures",
+                "id": 127593
+            },
+            {
+                "name": "The Samuel Goldwyn Company",
+                "id": 798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 341000,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095341",
+        "original_language": "en",
+        "popularity": 3.103,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 156527,
+        "title": "The Key to Rebecca",
+        "release_date": "1985-04-29",
+        "overview": "From master storyteller and best-selling author, Ken Follett, comes the exotic spy-thriller based on true events.  North Africa, Summer of 1942 — master spy, Alex Wolff is on a mission to send General Erwin Rommel's advancing army the secrets that would unlock the doors to Cairo... and the ultimate Nazi triumph in the war. Wolff's pursuer, Major Vandarn, engages the seductive charm of Elene Fontana to lure him into range for what is to be a startling and explosive confrontation.",
+        "poster_path": "/cgRbKWvBis4Xhs3G9qFL1cxj3GF.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Taft Entertainment Television",
+                "id": 41055
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0089412",
+        "original_language": "en",
+        "popularity": 3.095,
+        "status": "Released",
+        "tagline": "A ruthless Nazi spy. A fearless army major. One had a cause. The other, a conscience. Both had a secret worth dying for.",
+        "video": false
+    },
+    {
+        "id_tmdb": 499540,
+        "title": "Area 88 Act I: The Blue Skies of Betrayal",
+        "release_date": "1985-02-05",
+        "overview": "Shin Kazama, tricked and forced into flying for the remote country of Aslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. Through the course of the series, Shin must deal with the consequences of killing and friends dying around him as tries to keep his mind on freeing himself from this nightmare.",
+        "poster_path": "/132k4QajLcKylu0fnd5qgSMHNVP.jpg",
+        "backdrop_path": "/b2mbpwxTvCj3qW6YwEFR19jJKAi.jpg",
+        "production_companies": [
+            {
+                "name": "Project 88",
+                "id": 99828
+            },
+            {
+                "name": "Pierrot",
+                "id": 3234
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 694676,
+            "name": "Area 88 Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0088736",
+        "original_language": "ja",
+        "popularity": 3.072,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 41956,
+        "title": "Hanna's War",
+        "release_date": "1988-04-14",
+        "overview": "Hanna's War is the true story of Hanna Senesh, a Hungarian-Jewish WW2 resistance fighter, who would become Israel's \"Joan of Arc\". As a young person, she fled Nazi-occupied Hungary for Palestine, where she was recruited and trained by the British to serve as a commando. After completing her training in Britain, she parachutes into Yugoslavia with a commando team to establish escape routes across the Hungarian-Yugoslavian border for downed British pilots. Her attempts to save Hungarian Jews in Nazi-occupied Hungary, however, leads to her capture, torture and demise at the hands of the Gestapo and the Nazi-controlled Hungarian police.",
+        "poster_path": "/tXwJr0Y6SMWnckCMnm83dJ3MnVS.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Golan-Globus Productions",
+                "id": 13549
+            },
+            {
+                "name": "The Cannon Group",
+                "id": 1444
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0095275",
+        "original_language": "en",
+        "popularity": 3.041,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

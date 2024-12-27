@@ -1,0 +1,5879 @@
+[
+    {
+        "id_tmdb": 581528,
+        "title": "The Gangster, the Cop, the Devil",
+        "release_date": "2019-05-15",
+        "overview": "After barely surviving a violent attack by an elusive serial killer, crime boss Jang Dong-su finds himself forming an unlikely partnership with local detective Jung Tae-seok to catch the sadistic killer simply known as K.",
+        "poster_path": "/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg",
+        "backdrop_path": "/tEBmjclGd6oVxin8axu4ELf10bl.jpg",
+        "production_companies": [
+            {
+                "name": "Acemaker Movieworks",
+                "id": 113584
+            },
+            {
+                "name": "BA Entertainment",
+                "id": 84678
+            },
+            {
+                "name": "Kiwi Media Group",
+                "id": 114520
+            },
+            {
+                "name": "B&C CONTENT",
+                "id": 162133
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 6500000,
+        "revenue": 25775371,
+        "vote_average": 7.801,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10208198",
+        "original_language": "ko",
+        "popularity": 122.915,
+        "status": "Released",
+        "tagline": "Don't let the devil win.",
+        "video": false
+    },
+    {
+        "id_tmdb": 339403,
+        "title": "Baby Driver",
+        "release_date": "2017-06-28",
+        "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+        "poster_path": "/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg",
+        "backdrop_path": "/oVD3ClJBoomSQHtnJPAlMfes8YD.jpg",
+        "production_companies": [
+            {
+                "name": "Big Talk Studios",
+                "id": 443
+            },
+            {
+                "name": "Working Title Films",
+                "id": 10163
+            },
+            {
+                "name": "Working Title Films",
+                "id": 221513
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 34000000,
+        "revenue": 226945087,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 726865,
+            "name": "Baby Driver Collection"
+        },
+        "homepage": "http://www.babydriver-movie.com",
+        "imdb_id": "tt3890160",
+        "original_language": "en",
+        "popularity": 102.173,
+        "status": "Released",
+        "tagline": "All you need is one killer track.",
+        "video": false
+    },
+    {
+        "id_tmdb": 617986,
+        "title": "Three Days and a Life",
+        "release_date": "2019-09-18",
+        "overview": "Christmas 1999, in a peaceful little village in the Ardennes. The life of a young boy named Antoine will soon be devastated by three tragic events : the death of a dog, the vanishing of a child, and a big ravaging storm.",
+        "poster_path": "/pdBLfn0oTOa56828eTMaXnhOZSx.jpg",
+        "backdrop_path": "/ddzRcwIdxC5ujgL8nwSkoiGp5tF.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont",
+                "id": 9
+            },
+            {
+                "name": "Mahi Films",
+                "id": 168148
+            },
+            {
+                "name": "France 3 Cinéma",
+                "id": 591
+            },
+            {
+                "name": "La Company",
+                "id": 175164
+            },
+            {
+                "name": "uMedia",
+                "id": 19037
+            },
+            {
+                "name": "Nexus Factory",
+                "id": 7561
+            },
+            {
+                "name": "RTBF",
+                "id": 792
+            },
+            {
+                "name": "Proximus",
+                "id": 92187
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.405,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt10204366",
+        "original_language": "fr",
+        "popularity": 100.993,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 475557,
+        "title": "Joker",
+        "release_date": "2019-10-01",
+        "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "backdrop_path": "/gZWl93sf8AxavYpVT1Un6EF3oCj.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Joint Effort",
+                "id": 83036
+            },
+            {
+                "name": "Village Roadshow Pictures",
+                "id": 79
+            },
+            {
+                "name": "Bron Studios",
+                "id": 13240
+            },
+            {
+                "name": "DC Films",
+                "id": 128064
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 55000000,
+        "revenue": 1078958629,
+        "vote_average": 8.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 987044,
+            "name": "Joker Collection"
+        },
+        "homepage": "http://www.jokermovie.net/",
+        "imdb_id": "tt7286456",
+        "original_language": "en",
+        "popularity": 100.411,
+        "status": "Released",
+        "tagline": "Put on a happy face.",
+        "video": false
+    },
+    {
+        "id_tmdb": 324552,
+        "title": "John Wick: Chapter 2",
+        "release_date": "2017-02-08",
+        "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+        "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+        "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+        "production_companies": [
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "87Eleven",
+                "id": 23008
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 171539887,
+        "vote_average": 7.334,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 404609,
+            "name": "John Wick Collection"
+        },
+        "homepage": "https://johnwick.movie/film/john-wick/john-wick-chapter-2",
+        "imdb_id": "tt4425200",
+        "original_language": "en",
+        "popularity": 99.212,
+        "status": "Released",
+        "tagline": "Never stab the devil in the back!",
+        "video": false
+    },
+    {
+        "id_tmdb": 168259,
+        "title": "Furious 7",
+        "release_date": "2015-04-01",
+        "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+        "poster_path": "/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
+        "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+        "production_companies": [
+            {
+                "name": "Original Film",
+                "id": 333
+            },
+            {
+                "name": "One Race",
+                "id": 1225
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 190000000,
+        "revenue": 1515400000,
+        "vote_average": 7.233,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 9485,
+            "name": "The Fast and the Furious Collection"
+        },
+        "homepage": "https://www.uphe.com/movies/furious-7",
+        "imdb_id": "tt2820852",
+        "original_language": "en",
+        "popularity": 93.653,
+        "status": "Released",
+        "tagline": "Vengeance hits home.",
+        "video": false
+    },
+    {
+        "id_tmdb": 207703,
+        "title": "Kingsman: The Secret Service",
+        "release_date": "2015-01-24",
+        "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+        "poster_path": "/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+        "backdrop_path": "/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Marv",
+                "id": 5374
+            },
+            {
+                "name": "Cloudy Productions",
+                "id": 78995
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 81000000,
+        "revenue": 414351546,
+        "vote_average": 7.631,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 391860,
+            "name": "Kingsman Collection"
+        },
+        "homepage": "http://www.kingsmanmovie.com/",
+        "imdb_id": "tt2802144",
+        "original_language": "en",
+        "popularity": 81.59,
+        "status": "Released",
+        "tagline": "Manners maketh man.",
+        "video": false
+    },
+    {
+        "id_tmdb": 345887,
+        "title": "The Equalizer 2",
+        "release_date": "2018-07-19",
+        "overview": "Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.",
+        "poster_path": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+        "backdrop_path": "/z7noaCJ4KtmhwHw7QcNtnMMo4Qy.jpg",
+        "production_companies": [
+            {
+                "name": "Lonetree Entertainment",
+                "id": 41096
+            },
+            {
+                "name": "Fuqua Films",
+                "id": 8151
+            },
+            {
+                "name": "Escape Artists",
+                "id": 1423
+            },
+            {
+                "name": "Sony Pictures",
+                "id": 34
+            },
+            {
+                "name": "ZHIV Productions",
+                "id": 44967
+            },
+            {
+                "name": "Mace Neufeld Productions",
+                "id": 2767
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 62000000,
+        "revenue": 190400157,
+        "vote_average": 6.764,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 523855,
+            "name": "The Equalizer Collection"
+        },
+        "homepage": "https://www.sonypictures.com/movies/theequalizer2",
+        "imdb_id": "tt3766354",
+        "original_language": "en",
+        "popularity": 80.596,
+        "status": "Released",
+        "tagline": "There is no equal.",
+        "video": false
+    },
+    {
+        "id_tmdb": 458156,
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "release_date": "2019-05-15",
+        "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+        "poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+        "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+        "production_companies": [
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "87Eleven",
+                "id": 23008
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 55000000,
+        "revenue": 326709727,
+        "vote_average": 7.446,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 404609,
+            "name": "John Wick Collection"
+        },
+        "homepage": "https://johnwick.movie/film/john-wick/john-wick-chapter-3-parabellum",
+        "imdb_id": "tt6146586",
+        "original_language": "en",
+        "popularity": 75.931,
+        "status": "Released",
+        "tagline": "If you want peace, prepare for war.",
+        "video": false
+    },
+    {
+        "id_tmdb": 337339,
+        "title": "The Fate of the Furious",
+        "release_date": "2017-04-12",
+        "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+        "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+        "backdrop_path": "/awuUwOAGCPqC4mIDQmeKdPiiLR5.jpg",
+        "production_companies": [
+            {
+                "name": "Original Film",
+                "id": 333
+            },
+            {
+                "name": "One Race",
+                "id": 1225
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 250000000,
+        "revenue": 1236000000,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 9485,
+            "name": "The Fast and the Furious Collection"
+        },
+        "homepage": "https://www.uphe.com/movies/the-fate-of-the-furious",
+        "imdb_id": "tt4630562",
+        "original_language": "en",
+        "popularity": 75.857,
+        "status": "Released",
+        "tagline": "Never give up on family.",
+        "video": false
+    },
+    {
+        "id_tmdb": 47971,
+        "title": "xXx: Return of Xander Cage",
+        "release_date": "2017-01-13",
+        "overview": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+        "poster_path": "/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+        "backdrop_path": "/4QLdZ2A8mkDWp2rpfgDrwmeCtUW.jpg",
+        "production_companies": [
+            {
+                "name": "Rox Productions",
+                "id": 88943
+            },
+            {
+                "name": "Revolution Studios",
+                "id": 497
+            },
+            {
+                "name": "Maple Cage Productions",
+                "id": 88944
+            },
+            {
+                "name": "Huahua Media",
+                "id": 83645
+            },
+            {
+                "name": "Roth-Kirschenbaum Films",
+                "id": 105052
+            },
+            {
+                "name": "Shanghai Film Group",
+                "id": 3407
+            },
+            {
+                "name": "One Race",
+                "id": 1225
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 85000000,
+        "revenue": 346118277,
+        "vote_average": 6.132,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 52785,
+            "name": "xXx Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt1293847",
+        "original_language": "en",
+        "popularity": 74.167,
+        "status": "Released",
+        "tagline": "There are no more patriots, just rebels and tyrants.",
+        "video": false
+    },
+    {
+        "id_tmdb": 400535,
+        "title": "Sicario: Day of the Soldado",
+        "release_date": "2018-06-27",
+        "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+        "poster_path": "/msqWSQkU403cQKjQHnWLnugv7EY.jpg",
+        "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+        "production_companies": [
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "Black Label Media",
+                "id": 33681
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "Redrum",
+                "id": 41921
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 75836683,
+        "vote_average": 6.93,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 496796,
+            "name": "Sicario Collection"
+        },
+        "homepage": "https://www.soldado.movie/",
+        "imdb_id": "tt5052474",
+        "original_language": "en",
+        "popularity": 68.381,
+        "status": "Released",
+        "tagline": "Some missions need a hitman...others need a soldier.",
+        "video": false
+    },
+    {
+        "id_tmdb": 449443,
+        "title": "Den of Thieves",
+        "release_date": "2018-01-18",
+        "overview": "A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+        "poster_path": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+        "backdrop_path": "/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg",
+        "production_companies": [
+            {
+                "name": "Atmosphere Entertainment MM",
+                "id": 2995
+            },
+            {
+                "name": "Diamond Film Productions",
+                "id": 103330
+            },
+            {
+                "name": "G-BASE",
+                "id": 103331
+            },
+            {
+                "name": "Tucker Tooley Entertainment",
+                "id": 100033
+            },
+            {
+                "name": "STXfilms",
+                "id": 47729
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 80509622,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 933989,
+            "name": "Den of Thieves Collection"
+        },
+        "homepage": "http://stxfilms.com/denofthieves/",
+        "imdb_id": "tt1259528",
+        "original_language": "en",
+        "popularity": 65.277,
+        "status": "Released",
+        "tagline": "You're not the bad guys. We are.",
+        "video": false
+    },
+    {
+        "id_tmdb": 273481,
+        "title": "Sicario",
+        "release_date": "2015-09-17",
+        "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+        "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+        "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+        "production_companies": [
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "Black Label Media",
+                "id": 33681
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "Redrum",
+                "id": 41921
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 84997446,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 496796,
+            "name": "Sicario Collection"
+        },
+        "homepage": "https://www.lionsgate.com/movies/sicario",
+        "imdb_id": "tt3397884",
+        "original_language": "en",
+        "popularity": 64.279,
+        "status": "Released",
+        "tagline": "The border is just another line to cross.",
+        "video": false
+    },
+    {
+        "id_tmdb": 546554,
+        "title": "Knives Out",
+        "release_date": "2019-11-27",
+        "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+        "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+        "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+        "production_companies": [
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "MRC",
+                "id": 2531
+            },
+            {
+                "name": "T-Street",
+                "id": 37871
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 312897920,
+        "vote_average": 7.846,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 722971,
+            "name": "Knives Out Collection"
+        },
+        "homepage": "https://www.lionsgate.com/movies/knives-out",
+        "imdb_id": "tt8946378",
+        "original_language": "en",
+        "popularity": 63.729,
+        "status": "Released",
+        "tagline": "Hell, any of them could have done it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 339846,
+        "title": "Baywatch",
+        "release_date": "2017-05-25",
+        "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+        "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+        "backdrop_path": "/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+        "production_companies": [
+            {
+                "name": "Uncharted",
+                "id": 90835
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Flynn Picture Company",
+                "id": 34081
+            },
+            {
+                "name": "Fremantle Productions",
+                "id": 62029
+            },
+            {
+                "name": "Seven Bucks Productions",
+                "id": 73669
+            },
+            {
+                "name": "Skydance Media",
+                "id": 82819
+            },
+            {
+                "name": "The Montecito Picture Company",
+                "id": 2364
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 69000000,
+        "revenue": 177900000,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1469304",
+        "original_language": "en",
+        "popularity": 61.51,
+        "status": "Released",
+        "tagline": "Don't worry, summer is coming",
+        "video": false
+    },
+    {
+        "id_tmdb": 198184,
+        "title": "Chappie",
+        "release_date": "2015-03-04",
+        "overview": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+        "poster_path": "/6zmKkfSvo4tBtvGSjn5PofWIvP9.jpg",
+        "backdrop_path": "/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "MRC",
+                "id": 2531
+            },
+            {
+                "name": "LStar Capital",
+                "id": 34034
+            },
+            {
+                "name": "Genre Films",
+                "id": 28788
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 49000000,
+        "revenue": 104399548,
+        "vote_average": 6.789,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.chappie-movie.com",
+        "imdb_id": "tt1823672",
+        "original_language": "en",
+        "popularity": 61.505,
+        "status": "Released",
+        "tagline": "I am consciousness. I am alive. I am Chappie.",
+        "video": false
+    },
+    {
+        "id_tmdb": 265208,
+        "title": "Wild Card",
+        "release_date": "2015-01-14",
+        "overview": "When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it's all or nothing.",
+        "poster_path": "/zN80Tlly8oMpKbVJv2TfRIj8dHG.jpg",
+        "backdrop_path": "/9Xna1fmRkTyAfMSonokrwblYXUS.jpg",
+        "production_companies": [
+            {
+                "name": "SJ Pictures",
+                "id": 59490
+            },
+            {
+                "name": "SJ Heat Productions",
+                "id": 45980
+            },
+            {
+                "name": "Current Entertainment",
+                "id": 972
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "Sierra/Affinity",
+                "id": 24049
+            },
+            {
+                "name": "Silver State Production Services",
+                "id": 49969
+            },
+            {
+                "name": "Cinema Seven Productions",
+                "id": 59488
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 6738764,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2231253",
+        "original_language": "en",
+        "popularity": 56.901,
+        "status": "Released",
+        "tagline": "Never bet against a man with a killer hand.",
+        "video": false
+    },
+    {
+        "id_tmdb": 276907,
+        "title": "Legend",
+        "release_date": "2015-09-09",
+        "overview": "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard \"Nipper\" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.",
+        "poster_path": "/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg",
+        "backdrop_path": "/v8zOcynvSd6IW3FzZrvst2HJ53s.jpg",
+        "production_companies": [
+            {
+                "name": "Working Title Films",
+                "id": 10163
+            },
+            {
+                "name": "Anton Capital Entertainment",
+                "id": 20664
+            },
+            {
+                "name": "StudioCanal",
+                "id": 694
+            },
+            {
+                "name": "Cross Creek Pictures",
+                "id": 10246
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 42972994,
+        "vote_average": 7.06,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.uphe.com/movies/legend-2015",
+        "imdb_id": "tt3569230",
+        "original_language": "en",
+        "popularity": 54.083,
+        "status": "Released",
+        "tagline": "Love, fight, live, rule like a legend.",
+        "video": false
+    },
+    {
+        "id_tmdb": 302946,
+        "title": "The Accountant",
+        "release_date": "2016-10-13",
+        "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+        "poster_path": "/oHMRhVytkVApLyCNML659LQZiQ1.jpg",
+        "backdrop_path": "/n2pSbjJHR0g1MPJ1wq3n3OA7MPl.jpg",
+        "production_companies": [
+            {
+                "name": "Zero Gravity Management",
+                "id": 5357
+            },
+            {
+                "name": "Electric City Entertainment",
+                "id": 8600
+            },
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 44000000,
+        "revenue": 155160045,
+        "vote_average": 7.086,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 870339,
+            "name": "The Accountant Collection"
+        },
+        "homepage": "https://www.warnerbros.com/movies/accountant",
+        "imdb_id": "tt2140479",
+        "original_language": "en",
+        "popularity": 53.983,
+        "status": "Released",
+        "tagline": "Calculate your choices.",
+        "video": false
+    },
+    {
+        "id_tmdb": 402900,
+        "title": "Ocean's Eight",
+        "release_date": "2018-06-07",
+        "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+        "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+        "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+        "production_companies": [
+            {
+                "name": "Village Roadshow Pictures",
+                "id": 79
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Larger Than Life Productions",
+                "id": 1163
+            },
+            {
+                "name": "Rahway Road Productions",
+                "id": 104907
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 70000000,
+        "revenue": 297718711,
+        "vote_average": 6.981,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.warnerbros.com/movies/oceans-8",
+        "imdb_id": "tt5164214",
+        "original_language": "en",
+        "popularity": 51.991,
+        "status": "Released",
+        "tagline": "Every con has its pros",
+        "video": false
+    },
+    {
+        "id_tmdb": 559969,
+        "title": "El Camino: A Breaking Bad Movie",
+        "release_date": "2019-10-11",
+        "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+        "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+        "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+        "production_companies": [
+            {
+                "name": "Sony Pictures Television",
+                "id": 11073
+            },
+            {
+                "name": "Gran Via Productions",
+                "id": 2605
+            },
+            {
+                "name": "High Bridge Productions",
+                "id": 33742
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.965,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/81078819",
+        "imdb_id": "tt9243946",
+        "original_language": "en",
+        "popularity": 50.32,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 249070,
+        "title": "Hitman: Agent 47",
+        "release_date": "2015-08-20",
+        "overview": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+        "poster_path": "/cx9AOBOv9Qf5ufZYQMbfTV7w7VY.jpg",
+        "backdrop_path": "/yRtZmZa2bmDYaOKygG7IaroSXwg.jpg",
+        "production_companies": [
+            {
+                "name": "Daybreak Productions",
+                "id": 11746
+            },
+            {
+                "name": "Prime Universe Productions",
+                "id": 11747
+            },
+            {
+                "name": "Giant Pictures",
+                "id": 34396
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            },
+            {
+                "name": "Dayday Films",
+                "id": 8569
+            },
+            {
+                "name": "Ingenious Media",
+                "id": 290
+            },
+            {
+                "name": "Fox International Productions",
+                "id": 7485
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 81967450,
+        "vote_average": 5.866,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 737031,
+            "name": "Hitman Collection"
+        },
+        "homepage": "http://www.foxmovies.com/movies/hitman-agent-47",
+        "imdb_id": "tt2679042",
+        "original_language": "en",
+        "popularity": 49.927,
+        "status": "Released",
+        "tagline": "Your Number is Up.",
+        "video": false
+    },
+    {
+        "id_tmdb": 392044,
+        "title": "Murder on the Orient Express",
+        "release_date": "2017-11-03",
+        "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+        "poster_path": "/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
+        "backdrop_path": "/2J283YNxKhxAqHeVegUJ5mzLfGb.jpg",
+        "production_companies": [
+            {
+                "name": "The Mark Gordon Company",
+                "id": 1557
+            },
+            {
+                "name": "Genre Films",
+                "id": 28788
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Scott Free Productions",
+                "id": 221347
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 55000000,
+        "revenue": 352800000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 735384,
+            "name": "Hercule Poirot (Kenneth Branagh) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt3402236",
+        "original_language": "en",
+        "popularity": 46.726,
+        "status": "Released",
+        "tagline": "Everyone is a suspect.",
+        "video": false
+    },
+    {
+        "id_tmdb": 291805,
+        "title": "Now You See Me 2",
+        "release_date": "2016-06-02",
+        "overview": "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
+        "poster_path": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+        "backdrop_path": "/oFQilRMEq6yQbtMPxIYWpXeQ5ZN.jpg",
+        "production_companies": [
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            },
+            {
+                "name": "K/O Paper Products",
+                "id": 7296
+            },
+            {
+                "name": "TIK Films",
+                "id": 72441
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 120000000,
+        "revenue": 334900000,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 382685,
+            "name": "Now You See Me Collection"
+        },
+        "homepage": "http://nowyouseeme.movie",
+        "imdb_id": "tt3110958",
+        "original_language": "en",
+        "popularity": 46.149,
+        "status": "Released",
+        "tagline": "You haven't seen anything yet.",
+        "video": false
+    },
+    {
+        "id_tmdb": 395834,
+        "title": "Wind River",
+        "release_date": "2017-08-03",
+        "overview": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+        "poster_path": "/qhdnxNoVRFnAf5iDRrN6oJhJDix.jpg",
+        "backdrop_path": "/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
+        "production_companies": [
+            {
+                "name": "Savvy Media Holdings",
+                "id": 100460
+            },
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "Film 44",
+                "id": 20153
+            },
+            {
+                "name": "Acacia Filmed Entertainment",
+                "id": 68413
+            },
+            {
+                "name": "Riverstone Pictures",
+                "id": 76314
+            },
+            {
+                "name": "Voltage Pictures",
+                "id": 6626
+            },
+            {
+                "name": "Synergics Films",
+                "id": 76315
+            },
+            {
+                "name": "Star Thrower Entertainment",
+                "id": 27497
+            },
+            {
+                "name": "Tunica-Biloxi Tribe of Louisiana",
+                "id": 112050
+            },
+            {
+                "name": "The Fyzz",
+                "id": 36109
+            },
+            {
+                "name": "Wild Bunch",
+                "id": 856
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 11000000,
+        "revenue": 44998252,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1046516,
+            "name": "Wind River Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt5362988",
+        "original_language": "en",
+        "popularity": 44.693,
+        "status": "Released",
+        "tagline": "Nothing is harder to track than the truth.",
+        "video": false
+    },
+    {
+        "id_tmdb": 287948,
+        "title": "The Transporter Refueled",
+        "release_date": "2015-09-02",
+        "overview": "The fast-paced action movie is again set in the criminal underworld in France, where Frank Martin is known as The Transporter, because he is the best driver and mercenary money can buy. In this installment, he meets Anna and they attempt to take down a group of ruthless Russian human traffickers who also have kidnapped Frank’s father.",
+        "poster_path": "/7FlegRMzzGUKHpEuXGGF5jOiA6G.jpg",
+        "backdrop_path": "/mFK2bOh8uGGEtoAL24abyTq3Woc.jpg",
+        "production_companies": [
+            {
+                "name": "EuropaCorp",
+                "id": 6896
+            },
+            {
+                "name": "TF1 Films Production",
+                "id": 356
+            },
+            {
+                "name": "Fundamental Films",
+                "id": 55244
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "OCS",
+                "id": 11620
+            },
+            {
+                "name": "TF1",
+                "id": 22123
+            },
+            {
+                "name": "TMC",
+                "id": 5076
+            },
+            {
+                "name": "Belga Films",
+                "id": 1145
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 72629670,
+        "vote_average": 5.521,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2938956",
+        "original_language": "en",
+        "popularity": 44.369,
+        "status": "Released",
+        "tagline": "He Delivers.",
+        "video": false
+    },
+    {
+        "id_tmdb": 398175,
+        "title": "Brawl in Cell Block 99",
+        "release_date": "2017-09-23",
+        "overview": "After working as a drug courier and getting into a brutal shootout with police, a former boxer finds himself at the mercy of his enemies as they force him to instigate violent acts that turn the prison he resides in into a battleground.",
+        "poster_path": "/lGgIQ10NJ3d0X0uFbbUN4pRrMFZ.jpg",
+        "backdrop_path": "/ct2r3CqnA0KtMfib4AvfBU1W9M2.jpg",
+        "production_companies": [
+            {
+                "name": "XYZ Films",
+                "id": 12142
+            },
+            {
+                "name": "Caliber Media Company",
+                "id": 11049
+            },
+            {
+                "name": "Cinestate",
+                "id": 108781
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 0,
+        "vote_average": 6.98,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5657856",
+        "original_language": "en",
+        "popularity": 43.464,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 278924,
+        "title": "Mechanic: Resurrection",
+        "release_date": "2016-08-25",
+        "overview": "Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents.",
+        "poster_path": "/h651SE7s5z9hbKDiwn38Iubkz5w.jpg",
+        "backdrop_path": "/8U9yGCSAhzSDnVUmIQpFMOIBc6q.jpg",
+        "production_companies": [
+            {
+                "name": "Davis Films",
+                "id": 342
+            },
+            {
+                "name": "ME2 Productions",
+                "id": 80114
+            },
+            {
+                "name": "Millennium Media",
+                "id": 1020
+            },
+            {
+                "name": "Chartoff-Winkler Productions",
+                "id": 12252
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "TH",
+                "name": "Thailand"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 125729635,
+        "vote_average": 6.019,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 280504,
+            "name": "Mechanic Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt3522806",
+        "original_language": "en",
+        "popularity": 42.791,
+        "status": "Released",
+        "tagline": "Four continents. Three kills... Or the love of his life is dead.",
+        "video": false
+    },
+    {
+        "id_tmdb": 449503,
+        "title": "Kill 'em All",
+        "release_date": "2017-06-06",
+        "overview": "After a massive shootout, a mysterious stranger arrives at a local hospital on the brink of death. Then, a foreign gang brazenly comes to the hospital to hunt him down. His nurse, the sole surviving witness to the follow-up shootout, must face an FBI interrogation that unlocks a plot of international intrigue and revenge.",
+        "poster_path": "/5NJ1tE7Ad3okNub0DdMiGLnYKH3.jpg",
+        "backdrop_path": "/hINq9R7bPiGpLOXRA4pl6toh5f3.jpg",
+        "production_companies": [
+            {
+                "name": "March On Productions",
+                "id": 90573
+            },
+            {
+                "name": "Arramis Films",
+                "id": 16936
+            },
+            {
+                "name": "ITN Films",
+                "id": 72149
+            },
+            {
+                "name": "Kill 'Em All Productions",
+                "id": 90574
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1215164,
+            "name": "Kill 'em All Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt5767628",
+        "original_language": "en",
+        "popularity": 42.184,
+        "status": "Released",
+        "tagline": "When you don't know who to trust...",
+        "video": false
+    },
+    {
+        "id_tmdb": 479718,
+        "title": "The Outlaws",
+        "release_date": "2017-10-03",
+        "overview": "In Chinatown, law and order is turned upside down when a trio of feral Chinese gangsters arrive, start terrorizing civilians, and usurping territory. The beleaguered local gangsters team up with the police, lead by the badass loose cannon Ma Seok-do, to bring them down. Based on a true story.",
+        "poster_path": "/pUd1FYQb5r55RqXpx08dnCbP1fs.jpg",
+        "backdrop_path": "/xord8lZ7mK8ctki6FBgNYrbpWCO.jpg",
+        "production_companies": [
+            {
+                "name": "Hong Film",
+                "id": 96989
+            },
+            {
+                "name": "BA Entertainment",
+                "id": 84678
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 5900000,
+        "revenue": 52946454,
+        "vote_average": 7.699,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 619802,
+            "name": "The Roundup Collection"
+        },
+        "homepage": "http://mline-distribution.com/sub/film_010100.html?bmain=view&mode=&uid=282",
+        "imdb_id": "tt7468056",
+        "original_language": "ko",
+        "popularity": 42.052,
+        "status": "Released",
+        "tagline": "Kickstarting a plan to mop up the mob in one clean sweep!",
+        "video": false
+    },
+    {
+        "id_tmdb": 398978,
+        "title": "The Irishman",
+        "release_date": "2019-11-01",
+        "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+        "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+        "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+        "production_companies": [
+            {
+                "name": "Tribeca Productions",
+                "id": 11391
+            },
+            {
+                "name": "Sikelia Productions",
+                "id": 23243
+            },
+            {
+                "name": "Winkler Films",
+                "id": 8880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 159000000,
+        "revenue": 968853,
+        "vote_average": 7.601,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.theirishman-movie.com",
+        "imdb_id": "tt1302006",
+        "original_language": "en",
+        "popularity": 41.93,
+        "status": "Released",
+        "tagline": "His story changed history",
+        "video": false
+    },
+    {
+        "id_tmdb": 390043,
+        "title": "The Hitman's Bodyguard",
+        "release_date": "2017-08-16",
+        "overview": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+        "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+        "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+        "production_companies": [
+            {
+                "name": "Campbell Grobman Films",
+                "id": 48738
+            },
+            {
+                "name": "East Light Media",
+                "id": 94235
+            },
+            {
+                "name": "Nu Boyana Film Studios",
+                "id": 74795
+            },
+            {
+                "name": "Tom de Mol Productions",
+                "id": 23011
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            },
+            {
+                "name": "Millennium Media",
+                "id": 1020
+            },
+            {
+                "name": "Davis Films",
+                "id": 342
+            },
+            {
+                "name": "Cristal Pictures",
+                "id": 197838
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "TIK Films",
+                "id": 72441
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 176586701,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 608101,
+            "name": "The Hitman's Bodyguard Collection"
+        },
+        "homepage": "http://thehitmansbodyguard.movie",
+        "imdb_id": "tt1959563",
+        "original_language": "en",
+        "popularity": 40.862,
+        "status": "Released",
+        "tagline": "Everyone's out to get them... If they don't kill each other first.",
+        "video": false
+    },
+    {
+        "id_tmdb": 339692,
+        "title": "Shot Caller",
+        "release_date": "2017-07-13",
+        "overview": "A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.",
+        "poster_path": "/o8o2oq2LxQyXjFO0eWyUwrFO9WL.jpg",
+        "backdrop_path": "/lLj0Mm99G5EFDPOvIDpr222AJ1a.jpg",
+        "production_companies": [
+            {
+                "name": "DirecTV",
+                "id": 34625
+            },
+            {
+                "name": "Bold Films",
+                "id": 2266
+            },
+            {
+                "name": "Participant",
+                "id": 6735
+            },
+            {
+                "name": "Relativity Media",
+                "id": 7295
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4633690",
+        "original_language": "en",
+        "popularity": 40.646,
+        "status": "Released",
+        "tagline": "Some criminals are made in prison",
+        "video": false
+    },
+    {
+        "id_tmdb": 238713,
+        "title": "Spy",
+        "release_date": "2015-05-06",
+        "overview": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
+        "poster_path": "/6On9Ed52fz8W1h9PzaDQ12ZfHdn.jpg",
+        "backdrop_path": "/a0jJMlI1Nw83EXaYmN0QHuccRXm.jpg",
+        "production_companies": [
+            {
+                "name": "Chernin Entertainment",
+                "id": 7076
+            },
+            {
+                "name": "Feigco Entertainment",
+                "id": 61791
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "The Walt Disney Company",
+                "id": 20193
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 65000000,
+        "revenue": 235666219,
+        "vote_average": 6.832,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.foxmovies.com/movies/spy-unrated",
+        "imdb_id": "tt3079380",
+        "original_language": "en",
+        "popularity": 40.556,
+        "status": "Released",
+        "tagline": "She's a risk they had to take.",
+        "video": false
+    },
+    {
+        "id_tmdb": 483906,
+        "title": "Polar",
+        "release_date": "2019-01-25",
+        "overview": "When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.",
+        "poster_path": "/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg",
+        "backdrop_path": "/lSCKo6QGJ88Gn3espNnvL87CinA.jpg",
+        "production_companies": [
+            {
+                "name": "Dark Horse Entertainment",
+                "id": 552
+            },
+            {
+                "name": "Constantin Film",
+                "id": 47
+            },
+            {
+                "name": "JB Pictures",
+                "id": 124233
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.296,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80223052",
+        "imdb_id": "tt4139588",
+        "original_language": "en",
+        "popularity": 39.033,
+        "status": "Released",
+        "tagline": "If the job doesn't kill you, retirement will.",
+        "video": false
+    },
+    {
+        "id_tmdb": 257088,
+        "title": "Point Break",
+        "release_date": "2015-12-03",
+        "overview": "A young undercover FBI agent infiltrates a gang of thieves who share a common interest in extreme sports. A remake of the 1991 film, \"Point Break\".",
+        "poster_path": "/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg",
+        "backdrop_path": "/3zJnkABcx8xNsD22jYJXEShTjcg.jpg",
+        "production_companies": [
+            {
+                "name": "Studio Babelsberg",
+                "id": 264
+            },
+            {
+                "name": "Alcon Entertainment",
+                "id": 1088
+            },
+            {
+                "name": "DMG Entertainment",
+                "id": 10289
+            },
+            {
+                "name": "Taylor-Baldecchi-Wimmer",
+                "id": 195034
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            },
+            {
+                "name": "Cine Tirol",
+                "id": 13016
+            },
+            {
+                "name": "Eagle Pictures",
+                "id": 10400
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 105000000,
+        "revenue": 133782481,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.facebook.com/PointBreakMovie",
+        "imdb_id": "tt2058673",
+        "original_language": "en",
+        "popularity": 38.374,
+        "status": "Released",
+        "tagline": "The only law that matters is gravity.",
+        "video": false
+    },
+    {
+        "id_tmdb": 241554,
+        "title": "Run All Night",
+        "release_date": "2015-03-11",
+        "overview": "Brooklyn mobster and prolific hit man Jimmy Conlon has seen better days. Longtime best friend of a mob boss, Jimmy is haunted by the sins of his past—as well as a dogged police detective who’s been one step behind Jimmy for 30 years. But when Jimmy’s estranged son becomes a target, Jimmy must make a choice between the crime family he chose and the real family he abandoned long ago. Now, with nowhere safe to turn, Jimmy has just one night to figure out exactly where his loyalties lie and to see if he can finally make things right.",
+        "poster_path": "/owTdkLW0uoVTUPtM5h4gw88prdC.jpg",
+        "backdrop_path": "/cb1R4VdM0FkacQ8AYjuK9Qe6Lpl.jpg",
+        "production_companies": [
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            },
+            {
+                "name": "Vertigo Entertainment",
+                "id": 829
+            },
+            {
+                "name": "Energy Entertainment",
+                "id": 18617
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 71561644,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1175592,
+            "name": "Run All Night Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt2199571",
+        "original_language": "en",
+        "popularity": 38.26,
+        "status": "Released",
+        "tagline": "One night to live. To die. To run.",
+        "video": false
+    },
+    {
+        "id_tmdb": 302699,
+        "title": "Central Intelligence",
+        "release_date": "2016-06-16",
+        "overview": "After he reunites with an old pal through Facebook, a mild-mannered accountant is lured into the world of international espionage.",
+        "poster_path": "/7Ou0TRJLi72AwLEUlo7Kym4XuNB.jpg",
+        "backdrop_path": "/2tDsZdSWbqio45xSfuQFuRRUGhm.jpg",
+        "production_companies": [
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            },
+            {
+                "name": "Bluegrass Films",
+                "id": 13778
+            },
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            },
+            {
+                "name": "Perfect World Pictures",
+                "id": 10338
+            },
+            {
+                "name": "Artists First",
+                "id": 106497
+            },
+            {
+                "name": "Principato-Young Entertainment",
+                "id": 37845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 216972543,
+        "vote_average": 6.417,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.centralintelligencemovie.com/",
+        "imdb_id": "tt1489889",
+        "original_language": "en",
+        "popularity": 37.77,
+        "status": "Released",
+        "tagline": "Saving the world takes a little Hart and a big Johnson.",
+        "video": false
+    },
+    {
+        "id_tmdb": 399361,
+        "title": "Triple Frontier",
+        "release_date": "2019-03-06",
+        "overview": "Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.",
+        "poster_path": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+        "backdrop_path": "/s9I2LmQMYCanl6DvC3X1AOHs2r8.jpg",
+        "production_companies": [
+            {
+                "name": "Atlas Entertainment",
+                "id": 507
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.309,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.netflix.com/triplefrontier",
+        "imdb_id": "tt1488606",
+        "original_language": "en",
+        "popularity": 37.698,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 290250,
+        "title": "The Nice Guys",
+        "release_date": "2016-05-15",
+        "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+        "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+        "backdrop_path": "/oLp6ueqQXNWvWCFwrb6tXDnH0Ye.jpg",
+        "production_companies": [
+            {
+                "name": "Silver Pictures",
+                "id": 1885
+            },
+            {
+                "name": "Waypoint Entertainment",
+                "id": 22842
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 71261763,
+        "vote_average": 7.122,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.warnerbros.com/nice-guys",
+        "imdb_id": "tt3799694",
+        "original_language": "en",
+        "popularity": 36.102,
+        "status": "Released",
+        "tagline": "They're not that nice.",
+        "video": false
+    },
+    {
+        "id_tmdb": 370464,
+        "title": "The Masked Saint",
+        "release_date": "2016-01-08",
+        "overview": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+        "poster_path": "/zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg",
+        "backdrop_path": "/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg",
+        "production_companies": [
+            {
+                "name": "Ridgerock Entertainment Group",
+                "id": 197523
+            },
+            {
+                "name": "P23 Entertainment",
+                "id": 197525
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.542,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://freestylereleasing.com/the-masked-saint/",
+        "imdb_id": "tt3103166",
+        "original_language": "en",
+        "popularity": 34.207,
+        "status": "Released",
+        "tagline": "Husband. Pastor. Hero.",
+        "video": false
+    },
+    {
+        "id_tmdb": 256591,
+        "title": "Focus",
+        "release_date": "2015-02-25",
+        "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+        "poster_path": "/j6YcokvYBLSRLBQ4LxeeY6B1Aso.jpg",
+        "backdrop_path": "/e3dzlpDdqkVrxfw9gusYPjG5Vub.jpg",
+        "production_companies": [
+            {
+                "name": "K & S Films",
+                "id": 21914
+            },
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            },
+            {
+                "name": "Zaftig Films",
+                "id": 47586
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Di Novi Pictures",
+                "id": 813
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50100000,
+        "revenue": 153962963,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://focusmovie.com/",
+        "imdb_id": "tt2381941",
+        "original_language": "en",
+        "popularity": 33.897,
+        "status": "Released",
+        "tagline": "Never drop the con.",
+        "video": false
+    },
+    {
+        "id_tmdb": 445571,
+        "title": "Game Night",
+        "release_date": "2018-02-15",
+        "overview": "Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.",
+        "poster_path": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+        "backdrop_path": "/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+        "production_companies": [
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            },
+            {
+                "name": "Aggregate Films",
+                "id": 37361
+            },
+            {
+                "name": "Davis Entertainment",
+                "id": 1302
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 37000000,
+        "revenue": 117501013,
+        "vote_average": 6.853,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.gamenight-movie.com/",
+        "imdb_id": "tt2704998",
+        "original_language": "en",
+        "popularity": 33.56,
+        "status": "Released",
+        "tagline": "This is not a game.",
+        "video": false
+    },
+    {
+        "id_tmdb": 484247,
+        "title": "A Simple Favor",
+        "release_date": "2018-08-29",
+        "overview": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
+        "poster_path": "/5EJWZQ8dh99hfgXP9zAD5Ak5Hrn.jpg",
+        "backdrop_path": "/xRHRTyGt0pceKMTn3EPyRjmHHDt.jpg",
+        "production_companies": [
+            {
+                "name": "Feigco Entertainment",
+                "id": 61791
+            },
+            {
+                "name": "Bron Studios",
+                "id": 13240
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 97644617,
+        "vote_average": 6.635,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 975201,
+            "name": "A Simple Favor Collection"
+        },
+        "homepage": "https://asimplefavor.movie/",
+        "imdb_id": "tt7040874",
+        "original_language": "en",
+        "popularity": 33.317,
+        "status": "Released",
+        "tagline": "Can you keep a secret?",
+        "video": false
+    },
+    {
+        "id_tmdb": 488623,
+        "title": "Forgotten",
+        "release_date": "2017-11-29",
+        "overview": "Seoul, South Korea, 1997. When the young but extremely anxious student Jin-seok, his parents and his successful older brother Yoo-seok move to a new home, mysterious and frightening events begin to happen around them, unexplained events that threaten to ruin their seemingly happy lives. Unable to understand what is happening, Jin-seok wonders if he is losing his mind.",
+        "poster_path": "/nlI9QeP9n7vBmmi9KbnssPR10j0.jpg",
+        "backdrop_path": "/5i6opA0ed7wS0AfixcLI12YeSnt.jpg",
+        "production_companies": [
+            {
+                "name": "BA Entertainment",
+                "id": 84678
+            },
+            {
+                "name": "Michigan Venture Capital",
+                "id": 81594
+            },
+            {
+                "name": "Plus M Entertainment",
+                "id": 91505
+            },
+            {
+                "name": "Kiwi Media Group",
+                "id": 114520
+            },
+            {
+                "name": "Baram Pictures",
+                "id": 140692
+            },
+            {
+                "name": "Union Investment Partners",
+                "id": 88607
+            },
+            {
+                "name": "M-Line Distribution",
+                "id": 48320
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 9968972,
+        "vote_average": 7.967,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://mline-distribution.com/sub/film_010100.html?bmain=view&mode=&uid=283",
+        "imdb_id": "tt7057496",
+        "original_language": "ko",
+        "popularity": 32.86,
+        "status": "Released",
+        "tagline": "Locked. Erased. Controlled. Isolated. Blurred.",
+        "video": false
+    },
+    {
+        "id_tmdb": 575813,
+        "title": "Better Days",
+        "release_date": "2019-10-25",
+        "overview": "A bullied teenage girl forms an unlikely friendship with a mysterious young man who protects her from her assailants, while she copes with the pressures of her final examinations.",
+        "poster_path": "/ev8PDIuKm2j3m3jWxw497zCLjzu.jpg",
+        "backdrop_path": "/putsivYODgbKrhvwl9n4OqhPOkO.jpg",
+        "production_companies": [
+            {
+                "name": "Shooting Pictures",
+                "id": 35228
+            },
+            {
+                "name": "China Wit Media",
+                "id": 140097
+            },
+            {
+                "name": "Tianijn Xiron Entertainment",
+                "id": 140098
+            },
+            {
+                "name": "We Pictures",
+                "id": 7909
+            },
+            {
+                "name": "Goodfellas Media",
+                "id": 140099
+            },
+            {
+                "name": "He Nan Dian Ying Dian Shi Zhi Zuo Ji Tuan",
+                "id": 152608
+            },
+            {
+                "name": "Fat Kids Production",
+                "id": 152609
+            },
+            {
+                "name": "Dadi Film Group",
+                "id": 117435
+            },
+            {
+                "name": "Alibaba Pictures Group",
+                "id": 69484
+            },
+            {
+                "name": "Lian Ray Pictures",
+                "id": 131587
+            },
+            {
+                "name": "Henan Film & TV Production Group",
+                "id": 74194
+            },
+            {
+                "name": "China Film Co-Production Corp.",
+                "id": 2269
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 225879065,
+        "vote_average": 8.128,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.wellgousa.com/films/better-days",
+        "imdb_id": "tt9586294",
+        "original_language": "zh",
+        "popularity": 32.803,
+        "status": "Released",
+        "tagline": "You protect the world. I'll protect you.",
+        "video": false
+    },
+    {
+        "id_tmdb": 395990,
+        "title": "Death Wish",
+        "release_date": "2018-03-02",
+        "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+        "poster_path": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+        "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "Cave 76 Productions",
+                "id": 102500
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 34017028,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.deathwish.movie/",
+        "imdb_id": "tt1137450",
+        "original_language": "en",
+        "popularity": 32.594,
+        "status": "Released",
+        "tagline": "They came for his family. Now he's coming for them.",
+        "video": false
+    },
+    {
+        "id_tmdb": 438650,
+        "title": "Cold Pursuit",
+        "release_date": "2019-02-07",
+        "overview": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+        "poster_path": "/cO802woIgZsLbOWPUSsleobKyDp.jpg",
+        "backdrop_path": "/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+        "production_companies": [
+            {
+                "name": "StudioCanal",
+                "id": 694
+            },
+            {
+                "name": "Paradox Produksjon",
+                "id": 5111
+            },
+            {
+                "name": "MAS Productions",
+                "id": 117591
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            },
+            {
+                "name": "Disappearance",
+                "id": 224686
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Ciné+",
+                "id": 10611
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "NO",
+                "name": "Norway"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 60000000,
+        "revenue": 76419755,
+        "vote_average": 5.826,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 848380,
+            "name": "Cold Pursuit Collection"
+        },
+        "homepage": "https://coldpursuit.movie",
+        "imdb_id": "tt5719748",
+        "original_language": "en",
+        "popularity": 32.209,
+        "status": "Released",
+        "tagline": "Meet Nels Coxman. Citizen of the Year.",
+        "video": false
+    },
+    {
+        "id_tmdb": 338964,
+        "title": "Bad Santa 2",
+        "release_date": "2016-11-23",
+        "overview": "Fueled by cheap whiskey, greed and hatred, Willie Soke teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie's sliver of humanity. Issues arise when the pair are joined by Willie's horror story of a mother, who raises the bar for the gang's ambitions, while somehow lowering the standards of criminal behavior.",
+        "poster_path": "/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg",
+        "backdrop_path": "/lj7enxOyRXazcCIFJyCn9dLuF2V.jpg",
+        "production_companies": [
+            {
+                "name": "Ingenious Media",
+                "id": 290
+            },
+            {
+                "name": "Broad Green Pictures",
+                "id": 49389
+            },
+            {
+                "name": "Miramax",
+                "id": 14
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 26000000,
+        "revenue": 24100000,
+        "vote_average": 5.413,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 423173,
+            "name": "Bad Santa Collection"
+        },
+        "homepage": "http://www.badsanta2.com/",
+        "imdb_id": "tt1798603",
+        "original_language": "en",
+        "popularity": 31.906,
+        "status": "Released",
+        "tagline": "Giving the holidays another shot.",
+        "video": false
+    },
+    {
+        "id_tmdb": 201088,
+        "title": "Blackhat",
+        "release_date": "2015-01-13",
+        "overview": "Nicholas Hathaway, a furloughed convict, and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta. As Hathaway closes in, the stakes become personal as he discovers that the attack on a Chinese nuclear power plant was just the beginning.",
+        "poster_path": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+        "backdrop_path": "/1u7TuvR5mSUz2xRQhz01i75IwdT.jpg",
+        "production_companies": [
+            {
+                "name": "Legendary Pictures",
+                "id": 923
+            },
+            {
+                "name": "Forward Pass",
+                "id": 675
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 70000000,
+        "revenue": 17752940,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2717822",
+        "original_language": "en",
+        "popularity": 31.597,
+        "status": "Released",
+        "tagline": "We are no longer in control.",
+        "video": false
+    },
+    {
+        "id_tmdb": 308266,
+        "title": "War Dogs",
+        "release_date": "2016-08-18",
+        "overview": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
+        "poster_path": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+        "backdrop_path": "/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+        "production_companies": [
+            {
+                "name": "The Mark Gordon Company",
+                "id": 1557
+            },
+            {
+                "name": "Joint Effort",
+                "id": 83036
+            },
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 86234523,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.wardogsthemovie.com/",
+        "imdb_id": "tt2005151",
+        "original_language": "en",
+        "popularity": 31.173,
+        "status": "Released",
+        "tagline": "An American dream",
+        "video": false
+    },
+    {
+        "id_tmdb": 621191,
+        "title": "Blue Story",
+        "release_date": "2019-11-22",
+        "overview": "Blue Story is a tragic tale of a friendship between Timmy and Marco, two young boys from opposing postcodes. Timmy, a shy, smart, naive and timid young boy from Deptford, goes to school in Peckham where he strikes up a friendship with Marco, a charismatic, streetwise kid from the local area. Although from warring postcodes, the two quickly form a firm friendship until it is tested and they wind up on rival sides of a street war. Blue Story depicts elements of Rapman's own personal experiences and aspects of his childhood.",
+        "poster_path": "/qI4Rw83LxKq07xIjM3RcbKcWpAM.jpg",
+        "backdrop_path": "/zbLbjvbDph2eTYhAWWH1rbM0cP5.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "BBC Film",
+                "id": 288
+            },
+            {
+                "name": "Joi Productions",
+                "id": 121620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1600000,
+        "revenue": 5750000,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9285882",
+        "original_language": "en",
+        "popularity": 30.877,
+        "status": "Released",
+        "tagline": "Their bond made them brothers. The streets made them enemies.",
+        "video": false
+    },
+    {
+        "id_tmdb": 337170,
+        "title": "American Made",
+        "release_date": "2017-08-18",
+        "overview": "The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.",
+        "poster_path": "/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
+        "backdrop_path": "/yPXW7E4Tu1Eltb5lxQSwHNLEzlx.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Cross Creek Pictures",
+                "id": 10246
+            },
+            {
+                "name": "Imagine Entertainment",
+                "id": 23
+            },
+            {
+                "name": "Vendian Entertainment",
+                "id": 50481
+            },
+            {
+                "name": "Quadrant Pictures",
+                "id": 80680
+            },
+            {
+                "name": "Hercules Film Fund",
+                "id": 147591
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "LU",
+                "name": "Luxembourg"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 133511855,
+        "vote_average": 6.884,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.americanmademovie.net/",
+        "imdb_id": "tt3532216",
+        "original_language": "en",
+        "popularity": 30.859,
+        "status": "Released",
+        "tagline": "It's not a felony if you're doing it for the good guys.",
+        "video": false
+    },
+    {
+        "id_tmdb": 473033,
+        "title": "Uncut Gems",
+        "release_date": "2019-08-30",
+        "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+        "poster_path": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+        "backdrop_path": "/3gmXCrXHAfsdaNRScoXce6mMBL4.jpg",
+        "production_companies": [
+            {
+                "name": "A24",
+                "id": 41077
+            },
+            {
+                "name": "Elara Pictures",
+                "id": 94312
+            },
+            {
+                "name": "IAC Films",
+                "id": 93105
+            },
+            {
+                "name": "Sikelia Productions",
+                "id": 23243
+            },
+            {
+                "name": "Scott Rudin Productions",
+                "id": 258
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 19000000,
+        "revenue": 50023780,
+        "vote_average": 7.153,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://a24films.com/films/uncut-gems",
+        "imdb_id": "tt5727208",
+        "original_language": "en",
+        "popularity": 30.688,
+        "status": "Released",
+        "tagline": "This is how I win.",
+        "video": false
+    },
+    {
+        "id_tmdb": 353070,
+        "title": "Going in Style",
+        "release_date": "2017-04-06",
+        "overview": "Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.",
+        "poster_path": "/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg",
+        "backdrop_path": "/uARnuPezr7eZkOsHj2ujFQz6EKE.jpg",
+        "production_companies": [
+            {
+                "name": "Village Roadshow Pictures",
+                "id": 79
+            },
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            },
+            {
+                "name": "De Line Pictures",
+                "id": 2609
+            },
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 84618541,
+        "vote_average": 6.71,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt2568862",
+        "original_language": "en",
+        "popularity": 30.298,
+        "status": "Released",
+        "tagline": "You're never too old to get even.",
+        "video": false
+    },
+    {
+        "id_tmdb": 334074,
+        "title": "Survivor",
+        "release_date": "2015-05-21",
+        "overview": "A Foreign Service Officer in London tries to prevent a terrorist attack set to hit New York, but is forced to go on the run when she is framed for crimes she did not commit.",
+        "poster_path": "/npyCpfYyYknFoY2iJPyfqp70FVX.jpg",
+        "backdrop_path": "/kbvSneIEkEcxHZ3AayZUEN2xC1P.jpg",
+        "production_companies": [
+            {
+                "name": "Nu Image",
+                "id": 925
+            },
+            {
+                "name": "Winkler Films",
+                "id": 8880
+            },
+            {
+                "name": "Millenium Films",
+                "id": 115204
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://survivormovie.com/",
+        "imdb_id": "tt3247714",
+        "original_language": "en",
+        "popularity": 30.194,
+        "status": "Released",
+        "tagline": "His next target is now hunting him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 554972,
+        "title": "Unstoppable",
+        "release_date": "2018-11-22",
+        "overview": "Dong-chul and Ji-soo are a happily married couple. One day, Dong-chul comes home to find his house in disarray and his wife missing.",
+        "poster_path": "/csle64zkLObsdRoabreC6bBRxLI.jpg",
+        "backdrop_path": "/3XPgvbWGlEJfgmEBzQHLtcEZfLt.jpg",
+        "production_companies": [
+            {
+                "name": "BA Entertainment",
+                "id": 84678
+            },
+            {
+                "name": "PLUSMedia Entertainment",
+                "id": 173594
+            },
+            {
+                "name": "Showbox",
+                "id": 3491
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 9512390,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9225192",
+        "original_language": "ko",
+        "popularity": 29.941,
+        "status": "Released",
+        "tagline": "A human trafficking ring faces their doom when they kidnap an ex-gangster's wife.",
+        "video": false
+    },
+    {
+        "id_tmdb": 338766,
+        "title": "Hell or High Water",
+        "release_date": "2016-08-11",
+        "overview": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+        "poster_path": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+        "backdrop_path": "/w0phfkRFdYlhYXi9d4jONxAw2XH.jpg",
+        "production_companies": [
+            {
+                "name": "Sidney Kimmel Entertainment",
+                "id": 737
+            },
+            {
+                "name": "Film 44",
+                "id": 20153
+            },
+            {
+                "name": "OddLot Entertainment",
+                "id": 3263
+            },
+            {
+                "name": "Estrella Media",
+                "id": 8518
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "CBS Films",
+                "id": 5490
+            },
+            {
+                "name": "Sierra/Affinity",
+                "id": 24049
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 37600000,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://hellorhighwater.movie",
+        "imdb_id": "tt2582782",
+        "original_language": "en",
+        "popularity": 29.562,
+        "status": "Released",
+        "tagline": "Blood always follows money.",
+        "video": false
+    },
+    {
+        "id_tmdb": 396371,
+        "title": "Molly's Game",
+        "release_date": "2017-12-07",
+        "overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
+        "poster_path": "/tUYapLlLBB1FtDbU79JjhP8LE1a.jpg",
+        "backdrop_path": "/yvbXGWjg30sj7rohEZvSe90jSJC.jpg",
+        "production_companies": [
+            {
+                "name": "The Mark Gordon Company",
+                "id": 1557
+            },
+            {
+                "name": "Pascal Pictures",
+                "id": 84041
+            },
+            {
+                "name": "STXfilms",
+                "id": 47729
+            },
+            {
+                "name": "Huayi Brothers Pictures",
+                "id": 3393
+            },
+            {
+                "name": "Entertainment One Features",
+                "id": 69850
+            },
+            {
+                "name": "Entertainment One",
+                "id": 8147
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 59284015,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://mollysgame.movie/",
+        "imdb_id": "tt4209788",
+        "original_language": "en",
+        "popularity": 29.469,
+        "status": "Released",
+        "tagline": "Deal with her.",
+        "video": false
+    },
+    {
+        "id_tmdb": 396461,
+        "title": "Under the Silver Lake",
+        "release_date": "2018-08-08",
+        "overview": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.",
+        "poster_path": "/771Ey73LqsE9ORJhQCI25rgMXS2.jpg",
+        "backdrop_path": "/gXbcj4taNuDsKjavcm9UrzfyYxd.jpg",
+        "production_companies": [
+            {
+                "name": "Michael De Luca Productions",
+                "id": 11370
+            },
+            {
+                "name": "Good Fear",
+                "id": 103698
+            },
+            {
+                "name": "PASTEL",
+                "id": 103697
+            },
+            {
+                "name": "UnLTD Productions",
+                "id": 89267
+            },
+            {
+                "name": "Salem Street Entertainment",
+                "id": 87458
+            },
+            {
+                "name": "Boo Pictures",
+                "id": 54268
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 8500000,
+        "revenue": 2053469,
+        "vote_average": 6.386,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://a24films.com/films/under-the-silver-lake",
+        "imdb_id": "tt5691670",
+        "original_language": "en",
+        "popularity": 29.417,
+        "status": "Released",
+        "tagline": "What are they hiding?",
+        "video": false
+    },
+    {
+        "id_tmdb": 338803,
+        "title": "The Treacherous",
+        "release_date": "2015-05-21",
+        "overview": "The story of Joseon's tyrant king Yeonsan who exploits the populace for his own carnal pleasures, his seemingly loyal retainer who controls him and all court dealings, and a woman who seeks vengeance.",
+        "poster_path": "/1YpS9sXZ8bRrmPwULftGbfwImnR.jpg",
+        "backdrop_path": "/sRsWd7iVMXuOpHf2hufCy06oEkX.jpg",
+        "production_companies": [
+            {
+                "name": "Lotte Entertainment",
+                "id": 7819
+            },
+            {
+                "name": "Soo Film",
+                "id": 96988
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 0,
+        "revenue": 6906250,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4844288",
+        "original_language": "ko",
+        "popularity": 28.294,
+        "status": "Released",
+        "tagline": "A tyrant king, a treacherous subject, and a woman seeking revenge.",
+        "video": false
+    },
+    {
+        "id_tmdb": 372343,
+        "title": "The Snowman",
+        "release_date": "2017-08-24",
+        "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+        "poster_path": "/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg",
+        "backdrop_path": "/rfBUlspOpxPavxrhkhvzlBlwfD8.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Working Title Films",
+                "id": 10163
+            },
+            {
+                "name": "Another Park Film",
+                "id": 70986
+            },
+            {
+                "name": "Perfect World Pictures",
+                "id": 214539
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 43203413,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.thesnowmanmovie.com/",
+        "imdb_id": "tt1758810",
+        "original_language": "en",
+        "popularity": 28.286,
+        "status": "Released",
+        "tagline": "Soon the first snow will come, and then he will kill again.",
+        "video": false
+    },
+    {
+        "id_tmdb": 181283,
+        "title": "Child 44",
+        "release_date": "2015-03-15",
+        "overview": "Set in Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a series of child murders -- a case that begins to connect with the very top of party leadership.",
+        "poster_path": "/5OCQvDKHbQbhs6bby3Aa6Tmsg92.jpg",
+        "backdrop_path": "/sjsaxwNsgBbrWrJIXtCT5DNo9Mt.jpg",
+        "production_companies": [
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            },
+            {
+                "name": "Worldview Entertainment",
+                "id": 9015
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "Scott Free Productions",
+                "id": 221347
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 12951093,
+        "vote_average": 6.283,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1014763",
+        "original_language": "en",
+        "popularity": 27.941,
+        "status": "Released",
+        "tagline": "How do you find a killer who doesn’t exist?",
+        "video": false
+    },
+    {
+        "id_tmdb": 448776,
+        "title": "A Prayer Before Dawn",
+        "release_date": "2018-05-24",
+        "overview": "The amazing true story of Billy Moore, an English boxer incarcerated in Thailand’s most notorious prison. Thrown into a world of drugs and violence, he finds his best chance to escape is to fight his way out in prison Muay Thai tournaments.",
+        "poster_path": "/toYs3tZrHbSKJS1hmiTY1fJnPjm.jpg",
+        "backdrop_path": "/euCBYT2HASDMuaxu23yXDuzy3ju.jpg",
+        "production_companies": [
+            {
+                "name": "Meridian Entertainment",
+                "id": 90589
+            },
+            {
+                "name": "Symbolic Exchange",
+                "id": 103536
+            },
+            {
+                "name": "Senorita Films",
+                "id": 90588
+            },
+            {
+                "name": "Indochina Productions",
+                "id": 19751
+            },
+            {
+                "name": "HanWay Films",
+                "id": 2395
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KH",
+                "name": "Cambodia"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            }
+        ],
+        "budget": 0,
+        "revenue": 958883,
+        "vote_average": 6.716,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://prayerbeforedawn.movie",
+        "imdb_id": "tt4080956",
+        "original_language": "en",
+        "popularity": 27.855,
+        "status": "Released",
+        "tagline": "The fight starts from inside.",
+        "video": false
+    },
+    {
+        "id_tmdb": 504172,
+        "title": "The Mule",
+        "release_date": "2018-12-14",
+        "overview": "Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+        "poster_path": "/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",
+        "backdrop_path": "/h51DdjaDD2aPu1fLHsmpJaaJinS.jpg",
+        "production_companies": [
+            {
+                "name": "Imperative Entertainment",
+                "id": 81121
+            },
+            {
+                "name": "Bron Studios",
+                "id": 13240
+            },
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 50000000,
+        "revenue": 174800000,
+        "vote_average": 6.853,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.themulefilm.com",
+        "imdb_id": "tt7959026",
+        "original_language": "en",
+        "popularity": 27.345,
+        "status": "Released",
+        "tagline": "Nobody Runs Forever",
+        "video": false
+    },
+    {
+        "id_tmdb": 398173,
+        "title": "The House That Jack Built",
+        "release_date": "2018-07-05",
+        "overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
+        "poster_path": "/rHR3Z5QWzODnoI2GeYtEIHiz1R8.jpg",
+        "backdrop_path": "/ipImTSlyrmCwqeF0P9Y9xNW5DBU.jpg",
+        "production_companies": [
+            {
+                "name": "Zentropa Entertainments",
+                "id": 76
+            },
+            {
+                "name": "Copenhagen Film Fund",
+                "id": 73539
+            },
+            {
+                "name": "Copenhagen Film Fund",
+                "id": 73539
+            },
+            {
+                "name": "Slot Machine",
+                "id": 7777
+            },
+            {
+                "name": "Film i Väst",
+                "id": 2801
+            },
+            {
+                "name": "Zentropa International Sweden",
+                "id": 8288
+            },
+            {
+                "name": "Zentropa International France",
+                "id": 8556
+            },
+            {
+                "name": "Zentropa International Köln",
+                "id": 8289
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 9800000,
+        "revenue": 5566776,
+        "vote_average": 7.136,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://zentropa.dk/en/portfolio-item/the-house-that-jack-built/",
+        "imdb_id": "tt4003440",
+        "original_language": "en",
+        "popularity": 27.335,
+        "status": "Released",
+        "tagline": "If you feel like screaming... you definitely should.",
+        "video": false
+    },
+    {
+        "id_tmdb": 461130,
+        "title": "Code 8",
+        "release_date": "2019-12-06",
+        "overview": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)",
+        "poster_path": "/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+        "backdrop_path": "/sna617r0Sv4Ba34UMGvtIoqBU3t.jpg",
+        "production_companies": [
+            {
+                "name": "Colony Pictures",
+                "id": 126355
+            },
+            {
+                "name": "The Fyzz",
+                "id": 36109
+            },
+            {
+                "name": "Lane E Productions",
+                "id": 126513
+            },
+            {
+                "name": "XYZ Films",
+                "id": 12142
+            },
+            {
+                "name": "Blue Ice Pictures",
+                "id": 82659
+            },
+            {
+                "name": "Téléfilm Canada",
+                "id": 806
+            },
+            {
+                "name": "Collective Pictures",
+                "id": 26742
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 157209,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1196403,
+            "name": "Code 8 Collection"
+        },
+        "homepage": "https://www.thefyzz.com/project/code-8",
+        "imdb_id": "tt6259380",
+        "original_language": "en",
+        "popularity": 27.268,
+        "status": "Released",
+        "tagline": "Fear is the most dangerous power",
+        "video": false
+    },
+    {
+        "id_tmdb": 388399,
+        "title": "Patriots Day",
+        "release_date": "2016-12-12",
+        "overview": "In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.",
+        "poster_path": "/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg",
+        "backdrop_path": "/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+        "production_companies": [
+            {
+                "name": "TIK Films",
+                "id": 72441
+            },
+            {
+                "name": "CBS Films",
+                "id": 5490
+            },
+            {
+                "name": "Closest to the Hole Productions",
+                "id": 8537
+            },
+            {
+                "name": "Bluegrass Films",
+                "id": 13778
+            },
+            {
+                "name": "Hutch Parker Entertainment",
+                "id": 91797
+            },
+            {
+                "name": "Leverage Entertainment",
+                "id": 8536
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 45000000,
+        "revenue": 50548152,
+        "vote_average": 7.055,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.lionsgate.com/movies/patriots-day",
+        "imdb_id": "tt4572514",
+        "original_language": "en",
+        "popularity": 27.162,
+        "status": "Released",
+        "tagline": "The inside story of the world's greatest manhunt.",
+        "video": false
+    },
+    {
+        "id_tmdb": 449992,
+        "title": "The Night Comes for Us",
+        "release_date": "2018-10-05",
+        "overview": "After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.",
+        "poster_path": "/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+        "backdrop_path": "/feyYAbERTGHLQctqEPj900sTIFN.jpg",
+        "production_companies": [
+            {
+                "name": "Screenplay Infinite Films",
+                "id": 87477
+            },
+            {
+                "name": "XYZ Films",
+                "id": 12142
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.903,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80148162/",
+        "imdb_id": "tt6116856",
+        "original_language": "id",
+        "popularity": 27.079,
+        "status": "Released",
+        "tagline": "In search of salvation, he'll make the city rain blood.",
+        "video": false
+    },
+    {
+        "id_tmdb": 551115,
+        "title": "Penoza: The Final Chapter",
+        "release_date": "2019-11-28",
+        "overview": "The Black Widow is not dead ... Drug Queen Carmen van Walraven is hiding in Canada and leads an anonymous life there. One evening a colleague is harassed and Carmen helps her. In self-defense, she kills the perpetrator, is arrested and extradited to the Netherlands. While her children are in shock that their mother is still alive, there are also some people who still have to settle something with Carmen. Everyone is again dragged into an emotional rollercoaster. Carmen will now have deal with her past to save her family.",
+        "poster_path": "/ba1NlageLgbxOPLXjX0qX7HDBTc.jpg",
+        "backdrop_path": "/iqqMJwvPlovftBfdHVrpP2B1IxE.jpg",
+        "production_companies": [
+            {
+                "name": "NL Film en TV",
+                "id": 5573
+            },
+            {
+                "name": "KRO-NCRV",
+                "id": 99613
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "pt",
+                "name": "Português"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9272572",
+        "original_language": "nl",
+        "popularity": 27.037,
+        "status": "Released",
+        "tagline": "The Black Widow is not dead ... and she have to deal with her past to save her family.",
+        "video": false
+    },
+    {
+        "id_tmdb": 359940,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "release_date": "2017-12-01",
+        "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+        "poster_path": "/uGMM9ZObmPUFrGqcbFMVyv8L1lU.jpg",
+        "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+        "production_companies": [
+            {
+                "name": "Blueprint Pictures",
+                "id": 2376
+            },
+            {
+                "name": "Cutting Edge Group",
+                "id": 94694
+            },
+            {
+                "name": "Fox Searchlight Pictures",
+                "id": 43
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 162729321,
+        "vote_average": 8.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.foxsearchlight.com/threebillboardsoutsideebbingmissouri",
+        "imdb_id": "tt5027774",
+        "original_language": "en",
+        "popularity": 26.742,
+        "status": "Released",
+        "tagline": "Raped while dying, and still no arrests. How come, Chief Willoughby?",
+        "video": false
+    },
+    {
+        "id_tmdb": 446807,
+        "title": "The Girl in the Spider's Web",
+        "release_date": "2018-10-25",
+        "overview": "After being enlisted to recover a dangerous computer program, hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+        "poster_path": "/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+        "backdrop_path": "/cCyaG86vAhQQgtAJLBkio16HNvz.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "Regency Enterprises",
+                "id": 508
+            },
+            {
+                "name": "Scott Rudin Productions",
+                "id": 258
+            },
+            {
+                "name": "The Cantillon Company",
+                "id": 71170
+            },
+            {
+                "name": "Rose Pine Productions",
+                "id": 138439
+            },
+            {
+                "name": "Studio Babelsberg",
+                "id": 264
+            },
+            {
+                "name": "Yellow Bird UK",
+                "id": 183067
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 43000000,
+        "revenue": 35164920,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 575987,
+            "name": "The Girl - Millennium Collection"
+        },
+        "homepage": "https://www.sonypictures.com/movies/thegirlinthespidersweb",
+        "imdb_id": "tt5177088",
+        "original_language": "en",
+        "popularity": 26.463,
+        "status": "Released",
+        "tagline": "The past never forgets.",
+        "video": false
+    },
+    {
+        "id_tmdb": 550776,
+        "title": "Believe Me: The Abduction of Lisa McVey",
+        "release_date": "2018-09-30",
+        "overview": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and manages to be a victim of rape. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
+        "poster_path": "/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
+        "backdrop_path": "/gPW90IPq6Go8hlT0n7Es3cFl7ly.jpg",
+        "production_companies": [
+            {
+                "name": "Cineflix Productions",
+                "id": 32205
+            },
+            {
+                "name": "Lifetime",
+                "id": 3431
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt9072202",
+        "original_language": "en",
+        "popularity": 25.776,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 470044,
+        "title": "The Hate U Give",
+        "release_date": "2018-10-19",
+        "overview": "Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.",
+        "poster_path": "/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+        "backdrop_path": "/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+        "production_companies": [
+            {
+                "name": "Temple Hill Entertainment",
+                "id": 12292
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 23000000,
+        "revenue": 34934009,
+        "vote_average": 8.115,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://thehateugive.com",
+        "imdb_id": "tt5580266",
+        "original_language": "en",
+        "popularity": 25.77,
+        "status": "Released",
+        "tagline": "Two worlds. One voice. No going back.",
+        "video": false
+    },
+    {
+        "id_tmdb": 261023,
+        "title": "Black Mass",
+        "release_date": "2015-09-17",
+        "overview": "The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.",
+        "poster_path": "/nSbpuyd2UySuW7kaoXzYUfes1Bl.jpg",
+        "backdrop_path": "/QOD3qMHtj7DlxN1W6jemFVyxlV.jpg",
+        "production_companies": [
+            {
+                "name": "Vendian Entertainment",
+                "id": 50481
+            },
+            {
+                "name": "Infinitum Nihil",
+                "id": 2691
+            },
+            {
+                "name": "Head Gear Films",
+                "id": 5056
+            },
+            {
+                "name": "Cross Creek Pictures",
+                "id": 10246
+            },
+            {
+                "name": "Free State Pictures",
+                "id": 40106
+            },
+            {
+                "name": "RatPac Entertainment",
+                "id": 41624
+            },
+            {
+                "name": "Le Grisbi Productions",
+                "id": 47169
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 53000000,
+        "revenue": 99975678,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1355683",
+        "original_language": "en",
+        "popularity": 25.542,
+        "status": "Released",
+        "tagline": "Keep your enemies close.",
+        "video": false
+    },
+    {
+        "id_tmdb": 351460,
+        "title": "Death Note",
+        "release_date": "2017-08-25",
+        "overview": "A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.",
+        "poster_path": "/8xRQ0KG9ZZzjEiFa5fgEaTKhc0d.jpg",
+        "backdrop_path": "/nDAbr3NSkkOMIkFrQ3ycVxzgaMc.jpg",
+        "production_companies": [
+            {
+                "name": "Vertigo Entertainment",
+                "id": 829
+            },
+            {
+                "name": "Lin Pictures",
+                "id": 2723
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 40000000,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.netflix.com/title/80122759",
+        "imdb_id": "tt1241317",
+        "original_language": "en",
+        "popularity": 25.479,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 466081,
+        "title": "The Informer",
+        "release_date": "2019-08-30",
+        "overview": "In New York, former convict Pete Koslow, related to the Polish mafia, must deal with both Klimek the General, his ruthless boss, and the twisted ambitions of two federal agents, as he tries to survive and protect the lives of his loved ones.",
+        "poster_path": "/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg",
+        "backdrop_path": "/98sIdYdvnh68Va1JLjcyAuFGZO5.jpg",
+        "production_companies": [
+            {
+                "name": "Thunder Road",
+                "id": 3528
+            },
+            {
+                "name": "The Fyzz",
+                "id": 36109
+            },
+            {
+                "name": "Maddem Films",
+                "id": 122390
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 60000000,
+        "revenue": 2927708,
+        "vote_average": 6.522,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://aviron.com/films/the-informer.php",
+        "imdb_id": "tt1833116",
+        "original_language": "en",
+        "popularity": 25.344,
+        "status": "Released",
+        "tagline": "Choose your enemies wisely",
+        "video": false
+    },
+    {
+        "id_tmdb": 553837,
+        "title": "Code Geass: Lelouch of the Re;Surrection",
+        "release_date": "2019-02-09",
+        "overview": "In the second year of the Kowa Period, the world has unified around the reorganised United Federation of Nations. However, the peace suddenly comes to an end.",
+        "poster_path": "/v0vnSvdBKPH5doDsDpcOoFWQniQ.jpg",
+        "backdrop_path": "/PVJqQItx8d4Ey1suNQyrR1mqAE.jpg",
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 9982083,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 680435,
+            "name": "Code Geass: Lelouch of the Rebellion"
+        },
+        "homepage": "http://www.geass.jp/R-geass/",
+        "imdb_id": "tt6344664",
+        "original_language": "ja",
+        "popularity": 25.198,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 522212,
+        "title": "Just Mercy",
+        "release_date": "2019-12-25",
+        "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+        "poster_path": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+        "backdrop_path": "/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+        "production_companies": [
+            {
+                "name": "Netter Productions",
+                "id": 32555
+            },
+            {
+                "name": "Outlier Society",
+                "id": 102334
+            },
+            {
+                "name": "Endeavor Content",
+                "id": 100640
+            },
+            {
+                "name": "MACRO",
+                "id": 79426
+            },
+            {
+                "name": "One Community",
+                "id": 125590
+            },
+            {
+                "name": "Participant",
+                "id": 6735
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 50401502,
+        "vote_average": 7.87,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt4916630",
+        "original_language": "en",
+        "popularity": 25.136,
+        "status": "Released",
+        "tagline": "Every generation has its hero. Meet ours.",
+        "video": false
+    },
+    {
+        "id_tmdb": 399170,
+        "title": "Logan Lucky",
+        "release_date": "2017-08-17",
+        "overview": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.",
+        "poster_path": "/2yfQR59Cu1ZFHdti0igSxAIL8hd.jpg",
+        "backdrop_path": "/vzu7tNNF5jT6u2AScPwi6qF7T75.jpg",
+        "production_companies": [
+            {
+                "name": "Fingerprint Releasing",
+                "id": 149869
+            },
+            {
+                "name": "Incarceration Industries",
+                "id": 217235
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 29000000,
+        "revenue": 48453605,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5439796",
+        "original_language": "en",
+        "popularity": 25.129,
+        "status": "Released",
+        "tagline": "See how the other half steals.",
+        "video": false
+    },
+    {
+        "id_tmdb": 401469,
+        "title": "Widows",
+        "release_date": "2018-11-06",
+        "overview": "A police shootout leaves four thieves dead during an explosive armed robbery attempt in Chicago. Their widows have nothing in common except a debt left behind by their spouses' criminal activities. Hoping to forge a future on their own terms, they join forces to pull off a heist.",
+        "poster_path": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+        "backdrop_path": "/tkri1hMrb1FhWfb2bWpprsvq9Sd.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Regency Enterprises",
+                "id": 508
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            },
+            {
+                "name": "New Regency Pictures",
+                "id": 10104
+            },
+            {
+                "name": "See-Saw Films",
+                "id": 7217
+            },
+            {
+                "name": "Lammas Park",
+                "id": 113380
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 42000000,
+        "revenue": 73900000,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://widowsmovie.com",
+        "imdb_id": "tt4218572",
+        "original_language": "en",
+        "popularity": 25.044,
+        "status": "Released",
+        "tagline": "Left with nothing. Capable of anything.",
+        "video": false
+    },
+    {
+        "id_tmdb": 540901,
+        "title": "Hustlers",
+        "release_date": "2019-09-12",
+        "overview": "A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.",
+        "poster_path": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+        "backdrop_path": "/jTab4cf4X1dJJVS4F8UOGuesvPd.jpg",
+        "production_companies": [
+            {
+                "name": "STXfilms",
+                "id": 47729
+            },
+            {
+                "name": "Gloria Sanchez Productions",
+                "id": 77152
+            },
+            {
+                "name": "Nuyorican Productions",
+                "id": 1620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 157600000,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.hustlers.movie/",
+        "imdb_id": "tt5503686",
+        "original_language": "en",
+        "popularity": 24.971,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 486131,
+        "title": "Shaft",
+        "release_date": "2019-06-14",
+        "overview": "JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.",
+        "poster_path": "/joNpwk3wQXpiv6d2bPemjWj3CBd.jpg",
+        "backdrop_path": "/hwaYxb8nm7ADQRgUIsqUTsDwgyO.jpg",
+        "production_companies": [
+            {
+                "name": "Davis Entertainment",
+                "id": 1302
+            },
+            {
+                "name": "New Line Cinema",
+                "id": 12
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 30000000,
+        "revenue": 21360215,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 608103,
+            "name": "Shaft (Reboot) Collection"
+        },
+        "homepage": "https://www.warnerbros.com/movies/shaft-2019/",
+        "imdb_id": "tt4463894",
+        "original_language": "en",
+        "popularity": 24.957,
+        "status": "Released",
+        "tagline": "More Shaft than you can handle.",
+        "video": false
+    },
+    {
+        "id_tmdb": 408620,
+        "title": "Asura: The City of Madness",
+        "release_date": "2016-09-28",
+        "overview": "A shady cop finds himself in over his head when he gets caught between Internal Affairs and the city’s corrupt mayor.",
+        "poster_path": "/vJmSw2QFvX5vqdGQSBGe1x7HEcJ.jpg",
+        "backdrop_path": "/1Q9xEpkSTBgJISMZFLiPt96Jlhs.jpg",
+        "production_companies": [
+            {
+                "name": "CJ Entertainment",
+                "id": 7036
+            },
+            {
+                "name": "Sanai Pictures",
+                "id": 27133
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "ne",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 18200000,
+        "vote_average": 6.752,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5918028",
+        "original_language": "ko",
+        "popularity": 24.833,
+        "status": "Released",
+        "tagline": "Once you trip in, there is no way out.",
+        "video": false
+    },
+    {
+        "id_tmdb": 450001,
+        "title": "Master Z: Ip Man Legacy",
+        "release_date": "2018-12-20",
+        "overview": "Following his defeat by Master Ip, Cheung Tin Chi tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it's not long before the mix of foreigners, money, and triad leaders draw him once again to the fight.",
+        "poster_path": "/6VxEvOF7QDovsG6ro9OVyjH07LF.jpg",
+        "backdrop_path": "/5z45jC9MqJzQYjYnzs6Ap1RGXDX.jpg",
+        "production_companies": [
+            {
+                "name": "Mandarin Motion Pictures",
+                "id": 126771
+            },
+            {
+                "name": "Golden Harvest Company",
+                "id": 9046
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 21832649,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7262882",
+        "original_language": "cn",
+        "popularity": 24.499,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 339527,
+        "title": "Solace",
+        "release_date": "2015-09-03",
+        "overview": "A psychic doctor, John Clancy, works with an FBI special agent in search of a serial killer.",
+        "poster_path": "/pbcXpZgem8kgr90RwIUNAbC2ite.jpg",
+        "backdrop_path": "/z8pQocUi56yIAToFjrmSumQ7VAL.jpg",
+        "production_companies": [
+            {
+                "name": "Venture Forth",
+                "id": 20313
+            },
+            {
+                "name": "Grindstone Entertainment Group",
+                "id": 3604
+            },
+            {
+                "name": "Lionsgate Premiere",
+                "id": 85885
+            },
+            {
+                "name": "Eden Rock Media",
+                "id": 2273
+            },
+            {
+                "name": "FilmNation Entertainment",
+                "id": 7493
+            },
+            {
+                "name": "Flynn Picture Company",
+                "id": 34081
+            },
+            {
+                "name": "Silver Reel",
+                "id": 12075
+            },
+            {
+                "name": "Supersensory",
+                "id": 88460
+            },
+            {
+                "name": "Black Maria",
+                "id": 147186
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 22586863,
+        "vote_average": 6.414,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt1291570",
+        "original_language": "en",
+        "popularity": 24.383,
+        "status": "Released",
+        "tagline": "How do you stop a killer that can read your mind?",
+        "video": false
+    },
+    {
+        "id_tmdb": 505192,
+        "title": "Shoplifters",
+        "release_date": "2018-06-02",
+        "overview": "After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu’s wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them.",
+        "poster_path": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+        "backdrop_path": "/Z1JeznJExodyj0iUbL1wgkts88.jpg",
+        "production_companies": [
+            {
+                "name": "Fuji Television Network",
+                "id": 3341
+            },
+            {
+                "name": "AOI Pro.",
+                "id": 39804
+            },
+            {
+                "name": "BUN-BUKU",
+                "id": 75214
+            },
+            {
+                "name": "GAGA Corporation",
+                "id": 84048
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.shopliftersfilm.com/",
+        "imdb_id": "tt8075192",
+        "original_language": "ja",
+        "popularity": 23.967,
+        "status": "Released",
+        "tagline": "Sometimes you choose your family.",
+        "video": false
+    },
+    {
+        "id_tmdb": 461053,
+        "title": "S.W.A.T.: Under Siege",
+        "release_date": "2017-08-01",
+        "overview": "When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as “The Scorpion” for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it’s up to him and his expert S.W.A.T. team to keep “The Scorpion” and his billion dollar secrets safe.",
+        "poster_path": "/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg",
+        "backdrop_path": "/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
+        "production_companies": [
+            {
+                "name": "Original Film",
+                "id": 333
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 221111,
+            "name": "S.W.A.T. Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt6014472",
+        "original_language": "en",
+        "popularity": 23.862,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 302156,
+        "title": "Criminal",
+        "release_date": "2016-04-07",
+        "overview": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.",
+        "poster_path": "/lm0NlIsgGDqdx7CGFCDDJo1ptgh.jpg",
+        "backdrop_path": "/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
+        "production_companies": [
+            {
+                "name": "BenderSpink",
+                "id": 6363
+            },
+            {
+                "name": "Campbell Grobman Films",
+                "id": 48738
+            },
+            {
+                "name": "Criminal Productions",
+                "id": 91929
+            },
+            {
+                "name": "Fipex Holding",
+                "id": 40822
+            },
+            {
+                "name": "Lionsgate",
+                "id": 1632
+            },
+            {
+                "name": "Millennium Media",
+                "id": 1020
+            },
+            {
+                "name": "Davis Films",
+                "id": 342
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 31500000,
+        "revenue": 14708696,
+        "vote_average": 6.203,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3014866",
+        "original_language": "en",
+        "popularity": 23.517,
+        "status": "Released",
+        "tagline": "The mission is in the memories.",
+        "video": false
+    },
+    {
+        "id_tmdb": 535292,
+        "title": "21 Bridges",
+        "release_date": "2019-10-24",
+        "overview": "An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him.",
+        "poster_path": "/hZCF5eqnZouyg7efzw3xPhnghQ1.jpg",
+        "backdrop_path": "/y2M6OULGs8EO7G6mNgMEUBR3FJl.jpg",
+        "production_companies": [
+            {
+                "name": "AGBO",
+                "id": 106544
+            },
+            {
+                "name": "MWM Studios",
+                "id": 36209
+            },
+            {
+                "name": "Huayi Brothers Pictures",
+                "id": 3393
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 33000000,
+        "revenue": 49900000,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.21bridges.movie",
+        "imdb_id": "tt8688634",
+        "original_language": "en",
+        "popularity": 23.516,
+        "status": "Released",
+        "tagline": "The only way out is through him",
+        "video": false
+    },
+    {
+        "id_tmdb": 460846,
+        "title": "Security",
+        "release_date": "2017-03-04",
+        "overview": "An ex-special services veteran, down on his luck and desperate for work, takes a job as a security guard at a run-down mall in a rough area of town. On his first night on the job, he opens the door to a distraught and desperate young girl who has fled the hijacking of a Police motorcade that was transporting her to testify as a witness in a trial. Hot on her heels is the psychopathic hijacker and his team of henchmen, who will stop at nothing to extract and eliminate the witness.",
+        "poster_path": "/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg",
+        "backdrop_path": "/41pWNOj2rqKSfsKayS4kAbzpsRt.jpg",
+        "production_companies": [
+            {
+                "name": "Nu Boyana Film Studios",
+                "id": 74795
+            },
+            {
+                "name": "Nu Image",
+                "id": 925
+            },
+            {
+                "name": "Millennium Media",
+                "id": 1020
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 0,
+        "vote_average": 6.308,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt3501112",
+        "original_language": "en",
+        "popularity": 23.44,
+        "status": "Released",
+        "tagline": "It's going to be a long night.",
+        "video": false
+    },
+    {
+        "id_tmdb": 438674,
+        "title": "Dragged Across Concrete",
+        "release_date": "2019-02-21",
+        "overview": "Two policemen, one an old-timer, the other his volatile younger partner, find themselves suspended when a video of their strong-arm tactics becomes the media's cause du jour. Low on cash and with no other options, these two embittered soldiers descend into the criminal underworld to gain their just due, but instead find far more than they wanted awaiting them in the shadows.",
+        "poster_path": "/dQ9EkVyPYJNVCfP5jWXRe4faUFA.jpg",
+        "backdrop_path": "/3A1DuYh9aXicQPyTZlVixAncvff.jpg",
+        "production_companies": [
+            {
+                "name": "Cinestate",
+                "id": 108781
+            },
+            {
+                "name": "Look to the Sky Films",
+                "id": 89122
+            },
+            {
+                "name": "Unified Pictures",
+                "id": 13238
+            },
+            {
+                "name": "Realmbuilders Productions",
+                "id": 116266
+            },
+            {
+                "name": "The Fyzz",
+                "id": 36109
+            },
+            {
+                "name": "Endeavor Content",
+                "id": 100640
+            },
+            {
+                "name": "Summit Entertainment",
+                "id": 491
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 660132,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6491178",
+        "original_language": "en",
+        "popularity": 23.439,
+        "status": "Released",
+        "tagline": "Those who can't earn a living must find another way to provide",
+        "video": false
+    },
+    {
+        "id_tmdb": 558144,
+        "title": "Deadpool: No Good Deed",
+        "release_date": "2017-03-03",
+        "overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
+        "poster_path": "/wlKU9yB0Q8nfPMakBcSBT0JGS7.jpg",
+        "backdrop_path": "/sUELHitVw5U0tOJg0x34wY7eTuh.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.youtube.com/watch?v=Z5ezsReZcxU",
+        "imdb_id": "tt6612630",
+        "original_language": "en",
+        "popularity": 23.214,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 347866,
+        "title": "Hot Summer Nights",
+        "release_date": "2018-07-26",
+        "overview": "In 1991, a sheltered teenager comes of age during a wild summer on Cape Cod, getting rich from selling pot to gangsters, falling in love for the first time, partying, and eventually realizing that he's in way over his head.",
+        "poster_path": "/gsWdYsXkpJx2CYkveEw779O5eMg.jpg",
+        "backdrop_path": "/iBIgNzzVa1lacALNiHvnQPFfWJ4.jpg",
+        "production_companies": [
+            {
+                "name": "Imperative Entertainment",
+                "id": 81121
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 246133,
+        "vote_average": 6.663,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://a24films.com/films/hot-summer-nights",
+        "imdb_id": "tt3416536",
+        "original_language": "en",
+        "popularity": 23.092,
+        "status": "Released",
+        "tagline": "One summer can change everything.",
+        "video": false
+    },
+    {
+        "id_tmdb": 437109,
+        "title": "The Villainess",
+        "release_date": "2017-06-08",
+        "overview": "A young girl is raised as a killer in the Yanbian province of China. She hides her identity and travels to South Korea where she hopes to lead a quiet life but becomes involved with two mysterious men.",
+        "poster_path": "/tJlOV2SU6qTxR540H9VtoCAOVm.jpg",
+        "backdrop_path": "/z1cnQkqzlncY75HFdfjX0wJkYjN.jpg",
+        "production_companies": [
+            {
+                "name": "Apeitda",
+                "id": 96850
+            },
+            {
+                "name": "Next Entertainment World",
+                "id": 20064
+            },
+            {
+                "name": "Contents Panda",
+                "id": 73918
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            }
+        ],
+        "budget": 125000,
+        "revenue": 8737458,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt6777338",
+        "original_language": "ko",
+        "popularity": 23.088,
+        "status": "Released",
+        "tagline": "An endless vengeance begins.",
+        "video": false
+    },
+    {
+        "id_tmdb": 446021,
+        "title": "Bad Times at the El Royale",
+        "release_date": "2018-10-04",
+        "overview": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.",
+        "poster_path": "/eBXFMpewhnmWLLQqg1EJWJwSw7a.jpg",
+        "backdrop_path": "/4704PDuWDDZSpkA4UslA0ulvdll.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "Goddard Textiles",
+                "id": 51964
+            },
+            {
+                "name": "TSG Entertainment",
+                "id": 22213
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 32000000,
+        "revenue": 31882724,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.foxmovies.com/movies/bad-times-at-the-el-royale",
+        "imdb_id": "tt6628394",
+        "original_language": "en",
+        "popularity": 23.055,
+        "status": "Released",
+        "tagline": "All roads lead here",
+        "video": false
+    },
+    {
+        "id_tmdb": 449562,
+        "title": "The Hustle",
+        "release_date": "2019-05-09",
+        "overview": "Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy \"Dirty Rotten Scoundrels.\"",
+        "poster_path": "/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+        "backdrop_path": "/s6awXOxTKYQLSktiIJfI3969dZH.jpg",
+        "production_companies": [
+            {
+                "name": "Pin High",
+                "id": 79566
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "Cave 76 Productions",
+                "id": 102500
+            },
+            {
+                "name": "Camp Sugar",
+                "id": 115634
+            },
+            {
+                "name": "Palma Pictures",
+                "id": 233919
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 21000000,
+        "revenue": 97400000,
+        "vote_average": 6.182,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.thehustle.movie/",
+        "imdb_id": "tt1298644",
+        "original_language": "en",
+        "popularity": 23.035,
+        "status": "Released",
+        "tagline": "They're giving dirty rotten men a run for their money.",
+        "video": false
+    },
+    {
+        "id_tmdb": 346685,
+        "title": "The Girl on the Train",
+        "release_date": "2016-10-05",
+        "overview": "Rachel Watson, devastated by her recent divorce, spends her daily commute fantasizing about the seemingly perfect couple who live in a house that her train passes every day, until one morning she sees something shocking happen there and becomes entangled in the mystery that unfolds.",
+        "poster_path": "/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+        "backdrop_path": "/hmMnCqNnHPvQhuxynSVAqQWmQVK.jpg",
+        "production_companies": [
+            {
+                "name": "Reliance Entertainment",
+                "id": 7294
+            },
+            {
+                "name": "DreamWorks Pictures",
+                "id": 7
+            },
+            {
+                "name": "Marc Platt Productions",
+                "id": 2527
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 45000000,
+        "revenue": 173200000,
+        "vote_average": 6.439,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.thegirlonthetrainmovie.com/",
+        "imdb_id": "tt3631112",
+        "original_language": "en",
+        "popularity": 22.935,
+        "status": "Released",
+        "tagline": "What you see can hurt you.",
+        "video": false
+    },
+    {
+        "id_tmdb": 399173,
+        "title": "The Assignment",
+        "release_date": "2016-06-08",
+        "overview": "Ace assassin Frank Kitchen is double crossed by gangsters and falls into the hands of rogue surgeon known as The Doctor who turns him into a woman. The hitman, now a hitwoman, sets out for revenge, aided by a nurse named Johnnie who also has secrets.",
+        "poster_path": "/3wx83iGCATiIAyrZHI6AeeNfiAT.jpg",
+        "backdrop_path": "/j4eGK1WH9YZWoDNDM9mAsF3mhLx.jpg",
+        "production_companies": [
+            {
+                "name": "SBS Productions",
+                "id": 8997
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 5000000,
+        "revenue": 388789,
+        "vote_average": 5.484,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt5034474",
+        "original_language": "en",
+        "popularity": 22.809,
+        "status": "Released",
+        "tagline": "A revenger's tale.",
+        "video": false
+    }
+]

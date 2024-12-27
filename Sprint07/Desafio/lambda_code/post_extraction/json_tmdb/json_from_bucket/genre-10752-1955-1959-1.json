@@ -1,0 +1,4319 @@
+[
+    {
+        "id_tmdb": 975,
+        "title": "Paths of Glory",
+        "release_date": "1957-10-25",
+        "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+        "poster_path": "/tJXwtzOSNUC8dxJfrdvkNtGrrgW.jpg",
+        "backdrop_path": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
+        "production_companies": [
+            {
+                "name": "Bryna Productions",
+                "id": 611
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Harris-Kubrick Productions",
+                "id": 52795
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 935000,
+        "revenue": 1200000,
+        "vote_average": 8.266,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050825",
+        "original_language": "en",
+        "popularity": 25.585,
+        "status": "Released",
+        "tagline": "It explodes in the no-man's land no picture ever dared cross before!",
+        "video": false
+    },
+    {
+        "id_tmdb": 826,
+        "title": "The Bridge on the River Kwai",
+        "release_date": "1957-10-11",
+        "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+        "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+        "backdrop_path": "/3hbwK1t6UeRbIs1decX7k3XBYOr.jpg",
+        "production_companies": [
+            {
+                "name": "Horizon Pictures",
+                "id": 11356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "th",
+                "name": "ภาษาไทย"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 44908000,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050212",
+        "original_language": "en",
+        "popularity": 24.234,
+        "status": "Released",
+        "tagline": "It spans a whole new world of entertainment!",
+        "video": false
+    },
+    {
+        "id_tmdb": 38360,
+        "title": "The Cranes Are Flying",
+        "release_date": "1957-10-12",
+        "overview": "Veronika and Boris come together in Moscow shortly before World War II. Walking along the river, they watch cranes fly overhead, and promise to rendezvous before Boris leaves to fight. Boris misses the meeting and is off to the front lines, while Veronika waits patiently, sending letters faithfully. After her house is bombed, Veronika moves in with Boris' family, into the company of a cousin with his own intentions.",
+        "poster_path": "/foXYOdXEJ0rvtTDo4LLnsUnvPLB.jpg",
+        "backdrop_path": "/kmmt99iuCEm8iX39yxfqKu5xHGj.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050634",
+        "original_language": "ru",
+        "popularity": 19.552,
+        "status": "Released",
+        "tagline": "The compelling story of a girl's impassioned search for happiness.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11706,
+        "title": "War and Peace",
+        "release_date": "1956-08-21",
+        "overview": "Napoleon's tumultuous relations with Russia including his disastrous 1812 invasion serve as the backdrop for the tangled personal lives of two aristocratic families.",
+        "poster_path": "/cIh7pBAjzxrJYNRt1JcQPFReF36.jpg",
+        "backdrop_path": "/wVNkaSBX3gHk1zGZ3XaI0ycoJvY.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Ponti-De Laurentiis Cinematografica",
+                "id": 217
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 12500000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049934",
+        "original_language": "en",
+        "popularity": 16.184,
+        "status": "Released",
+        "tagline": "The greatest novel ever written ... Now magnificently alive on the screen!",
+        "video": false
+    },
+    {
+        "id_tmdb": 40739,
+        "title": "The Young Lions",
+        "release_date": "1958-04-02",
+        "overview": "The lives of three young men, a German and two Americans, during WWII.",
+        "poster_path": "/7o0UhkzH01DhAP3JsMLoNPQnoqc.jpg",
+        "backdrop_path": "/5E4359lwKUHAi48eybPrFZtW28T.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052415",
+        "original_language": "en",
+        "popularity": 15.78,
+        "status": "Released",
+        "tagline": "Irwin Shaw's monumental best-seller",
+        "video": false
+    },
+    {
+        "id_tmdb": 9660,
+        "title": "Operation Petticoat",
+        "release_date": "1959-12-05",
+        "overview": "A World War II submarine commander finds himself stuck with a damaged sub, a con-man executive officer, and a group of army nurses.",
+        "poster_path": "/pIsm8JvpFZidVxKexv5UgoCjwpZ.jpg",
+        "backdrop_path": "/5IlP7GetxoZIUHvSRasVGMxBp2l.jpg",
+        "production_companies": [
+            {
+                "name": "Granart Company",
+                "id": 156494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 6800000,
+        "vote_average": 7.189,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053143",
+        "original_language": "en",
+        "popularity": 14.889,
+        "status": "Released",
+        "tagline": "20,000 Laughs Under The Sea!",
+        "video": false
+    },
+    {
+        "id_tmdb": 46592,
+        "title": "Ballad of a Soldier",
+        "release_date": "1959-12-01",
+        "overview": "During World War II, earnest young Russian soldier Alyosha Skvortsov is rewarded with a short leave of absence for performing a heroic deed on the battlefield. Feeling homesick, he decides to visit his mother. Due to his kindhearted nature, however, Alyosha is repeatedly sidetracked by his efforts to help those he encounters, including a lovely girl named Shura. In his tour of a country devastated by war, he struggles to keep hope alive.",
+        "poster_path": "/9teeqzdIgPkWsykRapYkqhdefmm.jpg",
+        "backdrop_path": "/dt580H0MCP5Epuc0sI9TxmtjqnU.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.995,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052600",
+        "original_language": "ru",
+        "popularity": 14.571,
+        "status": "Released",
+        "tagline": "From the very pages of life itself!",
+        "video": false
+    },
+    {
+        "id_tmdb": 34528,
+        "title": "The Human Condition II: Road to Eternity",
+        "release_date": "1959-11-20",
+        "overview": "Kaji is sent to the Japanese army labeled Red and is mistreated by the vets. Along his assignment, Kaji witnesses cruelties in the army and revolts against the abusive treatment against the recruit Obara. He also sees his friend Shinjô Ittôhei defecting to the Russian border, and he ends in the front to fight a lost battle against the Russian tanks division.",
+        "poster_path": "/7jfv1C4t06VGenQxf3HbmLVmUHZ.jpg",
+        "backdrop_path": "/4zNC1BtW9uyOKCjbtMZmtu5oGrt.jpg",
+        "production_companies": [
+            {
+                "name": "Ninjin Club",
+                "id": 7040
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 85473,
+            "name": "The Human Condition Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0053115",
+        "original_language": "ja",
+        "popularity": 14.48,
+        "status": "Released",
+        "tagline": "You can always meet those you really wish to.",
+        "video": false
+    },
+    {
+        "id_tmdb": 33319,
+        "title": "The Burmese Harp",
+        "release_date": "1956-01-21",
+        "overview": "In Burma during the closing days of WWII, a Japanese soldier separated from his unit disguises himself as a Buddhist monk to escape imprisonment as a POW.",
+        "poster_path": "/aQbrTw1srrfDbte9ZduzF2bTKDI.jpg",
+        "backdrop_path": "/oUX2SiqoXorKUjd82Ax7mMjKI2R.jpg",
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "my",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.908,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049012",
+        "original_language": "ja",
+        "popularity": 13.923,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 88564,
+        "title": "Fate of a Man",
+        "release_date": "1959-04-12",
+        "overview": "The story of a man whose life was ruthlessly crippled by World War II. His wife and daughters were killed during the bombing of his village, he spent some time as a prisoner, and his only son was killed in action only a few days before the victory...",
+        "poster_path": "/10WCdk4KSQcQmG4iW87NOor9jvD.jpg",
+        "backdrop_path": "/go2wY7NjoHu8T4BsNI9Rx7CZjcj.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053317",
+        "original_language": "ru",
+        "popularity": 12.104,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43258,
+        "title": "Friendly Persuasion",
+        "release_date": "1956-11-25",
+        "overview": "The story of a family of Quakers in Indiana in 1862. Their religious sect is strongly opposed to violence and war. It's not easy for them to meet the rules of their religion in everyday life but when Southern troops pass the area they are in real trouble. Should they fight, despite their peaceful attitude?",
+        "poster_path": "/mhsdObvFHoOfgaKAVJUOeK3LiOP.jpg",
+        "backdrop_path": "/vRkB3lYI26YjXvMEc8IvxM45h8X.jpg",
+        "production_companies": [
+            {
+                "name": "Allied Artists",
+                "id": 517
+            },
+            {
+                "name": "B-M Productions",
+                "id": 17736
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3000000,
+        "revenue": 8000000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049233",
+        "original_language": "en",
+        "popularity": 11.989,
+        "status": "Released",
+        "tagline": "Here's A Superb Motion Picture Full Of Fun... Laughter and Happiness.",
+        "video": false
+    },
+    {
+        "id_tmdb": 17664,
+        "title": "The Horse Soldiers",
+        "release_date": "1959-06-11",
+        "overview": "A Union Cavalry outfit is sent behind confederate lines in strength to destroy a rail supply center. Along with them is sent a doctor who causes instant antipathy between him and the commander. The secret plan for the mission is overheard by a southern belle who must be taken along to assure her silence.",
+        "poster_path": "/kLBwk5ppNsA0DizEocXClTi1Lmx.jpg",
+        "backdrop_path": "/oquDYG2NRGc5A9KwUz79UI9zDKY.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Mahin-Rackin",
+                "id": 10699
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052902",
+        "original_language": "en",
+        "popularity": 11.875,
+        "status": "Released",
+        "tagline": "...rides where only the great ones do!",
+        "video": false
+    },
+    {
+        "id_tmdb": 31427,
+        "title": "Fires on the Plain",
+        "release_date": "1959-11-03",
+        "overview": "In the closing days of WWII, a Japanese soldier afflicted with tuberculosis is abandoned by his company and left to wander the Philippine island of Leyte.",
+        "poster_path": "/1EqsuQxayOZCLV7AiEnNRRKLsS.jpg",
+        "backdrop_path": "/su1tQiqq7AZX0wV0ybsu5VUioZG.jpg",
+        "production_companies": [
+            {
+                "name": "Daiei Film",
+                "id": 880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053121",
+        "original_language": "ja",
+        "popularity": 11.61,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 42668,
+        "title": "Alexander the Great",
+        "release_date": "1956-03-28",
+        "overview": "An engrossing spectacle set in the 4th-century BC, in which Alexander of Greece leads his troops forth, conquering all of the known world, in the belief that the Greek way of thinking will bring enlightenment to people. The son of the barbaric and ruthless King Philip of Macedonia, Alexander achieved glory in his short but remarkable life.",
+        "poster_path": "/e3P3GiCKaEmLxzibDMzALmPbEHL.jpg",
+        "backdrop_path": "/7l8kWurhMmZAhU1oZKzp2sUE3Xc.jpg",
+        "production_companies": [
+            {
+                "name": "Rossen Films",
+                "id": 22820
+            },
+            {
+                "name": "C.B. Films S.A.",
+                "id": 2101
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048937",
+        "original_language": "en",
+        "popularity": 11.367,
+        "status": "Released",
+        "tagline": "The colossus who conquered the world!",
+        "video": false
+    },
+    {
+        "id_tmdb": 803,
+        "title": "Night and Fog",
+        "release_date": "1959-04-27",
+        "overview": "Filmmaker Alain Resnais documents the atrocities behind the walls of Hitler's concentration camps.",
+        "poster_path": "/2iWYQia8enOai7QEO3TvenleD7r.jpg",
+        "backdrop_path": "/cnl95VtUon66J1PLRPpsgYgwHF7.jpg",
+        "production_companies": [
+            {
+                "name": "Cocinor",
+                "id": 512
+            },
+            {
+                "name": "Cosmo Film",
+                "id": 513
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.224,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048434",
+        "original_language": "fr",
+        "popularity": 10.781,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43100,
+        "title": "General Della Rovere",
+        "release_date": "1959-10-07",
+        "overview": "The Gestapo forces con man Victorio Bardone to impersonate a dead partisan general in order to extract information from his fellow inmates.",
+        "poster_path": "/dTynqWaUm92ecwxCuMkTdHCoOfx.jpg",
+        "backdrop_path": "/uRMjUzSuVfbzuZkenEV9DkHxOR.jpg",
+        "production_companies": [
+            {
+                "name": "Société Nouvelle des Établissements Gaumont (SNEG)",
+                "id": 22396
+            },
+            {
+                "name": "Zebra Film",
+                "id": 126244
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.442,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053856",
+        "original_language": "it",
+        "popularity": 10.689,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17352,
+        "title": "South Pacific",
+        "release_date": "1958-03-18",
+        "overview": "Can a girl from Little Rock find happiness with a mature French planter she got to know one enchanted evening away from the military hospital where she is a nurse? Or should she just wash that man out of her hair? Bloody Mary is the philosopher of the island and it's hard to believe she could be the mother of Liat who has captured the heart of Lt. Joseph Cable USMC. While waiting for action in the war in the South Pacific, sailors and nurses put on a musical comedy show. The war gets closer and the saga of Nellie Forbush and Emile de Becque becomes serious drama.",
+        "poster_path": "/nYNltu2clFoRQGBz9BtZUTcCbUm.jpg",
+        "backdrop_path": "/1l0rx8cwekCKlGPO9iWFtHvQ7nL.jpg",
+        "production_companies": [
+            {
+                "name": "Magna Theatre Corporation",
+                "id": 89188
+            },
+            {
+                "name": "South Pacific Enterprises",
+                "id": 89189
+            },
+            {
+                "name": "The Rodgers & Hammerstein Organization",
+                "id": 89190
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 36800000,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052225",
+        "original_language": "en",
+        "popularity": 10.585,
+        "status": "Released",
+        "tagline": "There is nothing you can name that is anything like...",
+        "video": false
+    },
+    {
+        "id_tmdb": 5055,
+        "title": "Ashes and Diamonds",
+        "release_date": "1958-10-03",
+        "overview": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales.",
+        "poster_path": "/rA7Rr0j8NfgxLaxvtItz9rc1iiT.jpg",
+        "backdrop_path": "/9O505J26S17HbmqlxStlWlBg1Ve.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy Kadr",
+                "id": 7926
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052080",
+        "original_language": "pl",
+        "popularity": 10.312,
+        "status": "Released",
+        "tagline": "Touched with the fire and rebellion of a new generation of Polish film makers",
+        "video": false
+    },
+    {
+        "id_tmdb": 1566,
+        "title": "The Bridge",
+        "release_date": "1959-10-21",
+        "overview": "A group of German boys are ordered to protect a small bridge in their home village during the waning months of the second world war. Truckloads of defeated, cynical Wehrmacht soldiers flee the approaching American troops, but the boys, full of enthusiasm for the \"blood and honor\" Nazi ideology, stay to defend the useless bridge. The film is based on a West German anti-war novel of the same name, written by Gregor Dorfmeister.",
+        "poster_path": "/jCg5NqSdUFB1S6iJu3jyXwHOE8d.jpg",
+        "backdrop_path": "/lcWezs3dPkI35SzhVM6KgNRpCXV.jpg",
+        "production_companies": [
+            {
+                "name": "Fono Film",
+                "id": 1626
+            },
+            {
+                "name": "Taurus Produktion",
+                "id": 8179
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052654",
+        "original_language": "de",
+        "popularity": 10.311,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17591,
+        "title": "The Battle of the River Plate",
+        "release_date": "1956-10-30",
+        "overview": "In the early years of the World War II, the Royal Navy is fighting a desperate battle to keep the Atlantic convoy routes open to supply the British Isles, facing the great danger posed by the many German warships, such as the Admiral Graf Spee, which are scouring the ocean for cargo ships to sink.",
+        "poster_path": "/pCkNI9LVDkH5z6PzwQUbutQcm3U.jpg",
+        "backdrop_path": "/d1juLtJbpbRgMeSpWYJ0d6q7OSg.jpg",
+        "production_companies": [
+            {
+                "name": "The Archers",
+                "id": 4397
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048990",
+        "original_language": "en",
+        "popularity": 10.263,
+        "status": "Released",
+        "tagline": "Pursuit of the Graf Spee",
+        "video": false
+    },
+    {
+        "id_tmdb": 23102,
+        "title": "The Pride and the Passion",
+        "release_date": "1957-07-10",
+        "overview": "During the Napoleonic Wars, when the French have occupied Spain, some Spanish guerrilla soldiers are going to move a big cannon across Spain in order to help the British defeat the French. A British officer is there to accompany the Spanish and along the way, he falls in love with the leader's girl.",
+        "poster_path": "/y2VMSaMcwKMdIsy2vdB2FsXmfyD.jpg",
+        "backdrop_path": "/avig8B7cHhtVIDjQDRyslAAE7nx.jpg",
+        "production_companies": [
+            {
+                "name": "Stanley Kramer Productions",
+                "id": 893
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050858",
+        "original_language": "en",
+        "popularity": 10.224,
+        "status": "Released",
+        "tagline": "You have never seen its like -- and may never see its equal!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43226,
+        "title": "The Mysterians",
+        "release_date": "1957-12-28",
+        "overview": "In Japan, scientifically advanced invaders from the war-destroyed planet Mysteroid cause an entire village to vanish, then send a giant robot out to storm the city by night, after which they request a small patch of land on Earth and the right to marry earthling women, claiming to be pacifists.  Mankind must decide whether to capitulate or to resist.",
+        "poster_path": "/dAPtapXkw1ScxW8SwxWNSV3TtLV.jpg",
+        "backdrop_path": "/bS8cS0JcxIe2kV126GINgeOxlVS.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            },
+            {
+                "name": "Far East Laboratory",
+                "id": 243867
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 491769,
+            "name": "The Mysterians Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0050251",
+        "original_language": "ja",
+        "popularity": 10.176,
+        "status": "Released",
+        "tagline": "Space weapons mobilize! A great battle between Earth forces and the gruesome mystery planet people, the Mysterians!",
+        "video": false
+    },
+    {
+        "id_tmdb": 31217,
+        "title": "The Human Condition I: No Greater Love",
+        "release_date": "1959-01-15",
+        "overview": "After handing in a report on the treatment of Chinese colonial labor, Kaji is offered the post of labor chief at a large mining operation in Manchuria, which also grants him exemption from military service. He accepts, and moves to Manchuria with his newly-wed wife Michiko, but when he tries to put his ideas of more humane treatment into practice, he finds himself at odds with scheming officials, cruel foremen, and the military police.",
+        "poster_path": "/q7godavx5XEbeVxEeqi4pmiOKdI.jpg",
+        "backdrop_path": "/d9IXxTrra12erdjVXoWUhuTVzTH.jpg",
+        "production_companies": [
+            {
+                "name": "Ninjin Club",
+                "id": 7040
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.071,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 85473,
+            "name": "The Human Condition Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0053114",
+        "original_language": "ja",
+        "popularity": 10.119,
+        "status": "Released",
+        "tagline": "The Immortal Story.",
+        "video": false
+    },
+    {
+        "id_tmdb": 37451,
+        "title": "The Inn of the Sixth Happiness",
+        "release_date": "1958-12-11",
+        "overview": "All her life, Englishwoman Gladys Aylward knew that China was the place where she belonged. Not qualified to be sent there as a missionary, Gladys works as a domestic to earn the money to send herself to a poor, remote village. There she eventually lives a full and happy life: running the inn, acting as \"foot inspector\", advising the local Mandarin, and even winning the heart of mixed race Captain Lin Nan. But Gladys discovers her real destiny when the country is invaded by Japan and the Chinese children need her to save their lives. Based on a true story.",
+        "poster_path": "/qSkuoH1e3pUO2sbwESHqq2CNPel.jpg",
+        "backdrop_path": "/3R8lX1mqTeBFLlFSyfnxRSYiEgk.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051776",
+        "original_language": "en",
+        "popularity": 10.094,
+        "status": "Released",
+        "tagline": "BACK AGAIN - INGRID BERGMAN in her greatest role",
+        "video": false
+    },
+    {
+        "id_tmdb": 80255,
+        "title": "A Farewell to Arms",
+        "release_date": "1957-12-14",
+        "overview": "An English nurse and an American soldier on the Italian front during World War I fall in love, but the horrors surrounding them test their romance to the limit.",
+        "poster_path": "/3GQahUGOXXr7LEZJUOcVmTv16UO.jpg",
+        "backdrop_path": "/1ygkMVHFVImBNZoaUHbiyVJ8qt1.jpg",
+        "production_companies": [
+            {
+                "name": "Selznick International Pictures",
+                "id": 1553
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 4100000,
+        "revenue": 20000000,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050379",
+        "original_language": "en",
+        "popularity": 10.082,
+        "status": "Released",
+        "tagline": "One of the great love stories of all time!",
+        "video": false
+    },
+    {
+        "id_tmdb": 15876,
+        "title": "The Enemy Below",
+        "release_date": "1957-12-25",
+        "overview": "The crew of the American destroyer escort, the USS Haynes, detects a German U-Boat—resulting in a prolonged, deadly battle of wits.",
+        "poster_path": "/9IUUCfrEEkq92sCLznzSAjDPusk.jpg",
+        "backdrop_path": "/mdAfVGjZb6effnYswkyjcljz3HA.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050356",
+        "original_language": "en",
+        "popularity": 9.885,
+        "status": "Released",
+        "tagline": "The most amazing saga in the fighting annals of the US Navy!",
+        "video": false
+    },
+    {
+        "id_tmdb": 37305,
+        "title": "Pork Chop Hill",
+        "release_date": "1959-05-29",
+        "overview": "Korean War, April 1953. Lieutenant Clemons, leader of the King company of the United States Infantry, is ordered to recapture Pork Chop Hill, occupied by a powerful Chinese Army force, while, just seventy miles away, at nearby the village of Panmunjom, a tense cease-fire conference is celebrated.",
+        "poster_path": "/88LF3thfIx1BDqa5aErseoFXz58.jpg",
+        "backdrop_path": "/ceB7vL3GOtB3rfA88OhQiCbtABf.jpg",
+        "production_companies": [
+            {
+                "name": "Melville Productions",
+                "id": 130581
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053183",
+        "original_language": "en",
+        "popularity": 9.836,
+        "status": "Released",
+        "tagline": "Bold! Blunt! Blistering! The battle picture without equal!",
+        "video": false
+    },
+    {
+        "id_tmdb": 13210,
+        "title": "The Dam Busters",
+        "release_date": "1955-05-16",
+        "overview": "The story of the conception of a new British weapon for smashing the German dams in the Ruhr industrial complex and the execution of the raid by 617 Squadron 'The Dam Busters'.",
+        "poster_path": "/bZKmBxzy5O5PjguhfMYgSaUxUmi.jpg",
+        "backdrop_path": "/udcO3A9ch2z1LMSyC5aDNa00Sgg.jpg",
+        "production_companies": [
+            {
+                "name": "Associated British Picture Corporation",
+                "id": 1441
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.883,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0046889",
+        "original_language": "en",
+        "popularity": 9.253,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 37103,
+        "title": "Heaven Knows, Mr. Allison",
+        "release_date": "1957-03-13",
+        "overview": "A Roman Catholic nun and a hard-bitten US Marine are stranded together on a Japanese-occupied island in the South Pacific during World War II. Under constant threat of discovery by a ruthless enemy, they hide in a cave and forage for food together. Their forced companionship and the struggle for survival forge a powerful emotional bond between them.",
+        "poster_path": "/90jAEsc3teDWpDr5wiAmcxAjuVp.jpg",
+        "backdrop_path": "/dnZ1uqmtDEu1Uu4fyB6mw9q4TPz.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050490",
+        "original_language": "en",
+        "popularity": 9.153,
+        "status": "Released",
+        "tagline": "They were alone on this Pacific Island... trapped behind enemy lines... the marine who had been thru Hell and Sister Angela with her supreme faith in God.",
+        "video": false
+    },
+    {
+        "id_tmdb": 37853,
+        "title": "Mister Roberts",
+        "release_date": "1955-07-10",
+        "overview": "Mr. Roberts is a Navy officer who's yearning for battle but is stuck in the backwaters of World War II on a non-commissioned ship run by the bullying Captain Morton.",
+        "poster_path": "/5B8Gc1N2S3CDWHBzm0VxaMPTyzJ.jpg",
+        "backdrop_path": "/tWzWYnlvrUFwcEeRNKbsXPpjiRS.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Orange Productions",
+                "id": 128896
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 398740,
+            "name": "Mister Roberts Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0048380",
+        "original_language": "en",
+        "popularity": 9.13,
+        "status": "Released",
+        "tagline": "All The Uproarious Fun Of the Smash Broadway Play!",
+        "video": false
+    },
+    {
+        "id_tmdb": 29933,
+        "title": "Kanal",
+        "release_date": "1957-04-20",
+        "overview": "During the last few days of the Warsaw Uprising following World War II, a modest group of Resistance members remains. The band must take refuge in the sewers under the orders of leader Zadra, but it's only a matter of time before they will have to emerge. However, when they try, they are met only with intense hostility from the Nazis. Despite their attempts stay resolute through immense mental strain, it becomes increasingly apparent that they may be doomed.",
+        "poster_path": "/mUxZNNmvX3MwIJ9LTcuw76ZdtN6.jpg",
+        "backdrop_path": "/kfuJtNiY3aevZHzSMA007pbVWqH.jpg",
+        "production_companies": [
+            {
+                "name": "Zespół Filmowy Kadr",
+                "id": 7926
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.669,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050585",
+        "original_language": "pl",
+        "popularity": 8.893,
+        "status": "Released",
+        "tagline": "The Claustrophobic Nightmare of War",
+        "video": false
+    },
+    {
+        "id_tmdb": 42658,
+        "title": "Helen of Troy",
+        "release_date": "1956-01-26",
+        "overview": "Prince Paris of Troy, shipwrecked on a mission to the king of Sparta, meets and falls for Queen Helen before he knows who she is. Rudely received by the royal Greeks, he must flee...but fate and their mutual passions lead him to take Helen along. This gives the Greeks just the excuse they need for much-desired war.",
+        "poster_path": "/u0JgGavnWfisAkFEhGfu9xbzceS.jpg",
+        "backdrop_path": "/btmQVS7TGeXDOFPfh8Adv46oYX.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049301",
+        "original_language": "en",
+        "popularity": 8.851,
+        "status": "Released",
+        "tagline": "Its towering wonders span the age of titans!",
+        "video": false
+    },
+    {
+        "id_tmdb": 18784,
+        "title": "Run Silent, Run Deep",
+        "release_date": "1958-03-27",
+        "overview": "The captain of a submarine sunk by the Japanese during WWII is finally given a chance to skipper another sub after a year of working a desk job. His singleminded determination for revenge against the destroyer that sunk his previous vessel puts his new crew in unneccessary danger.",
+        "poster_path": "/6pYDWEQjsx3R0A6Mk4Op4wnntWj.jpg",
+        "backdrop_path": "/5yQa1XNCOZiRBuIwLBPoyLzujaY.jpg",
+        "production_companies": [
+            {
+                "name": "Jeffrey Pictures Corp.",
+                "id": 82943
+            },
+            {
+                "name": "Hill-Hecht-Lancaster Productions",
+                "id": 14269
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052151",
+        "original_language": "en",
+        "popularity": 8.826,
+        "status": "Released",
+        "tagline": "Gable and Lancaster make the seas boil in the battle adventure that hits like a torpedo!",
+        "video": false
+    },
+    {
+        "id_tmdb": 32110,
+        "title": "Carry On Sergeant",
+        "release_date": "1958-08-31",
+        "overview": "Sergeant Grimshawe wants to retire in the flush of success by winning the Star Squad prize with his very last platoon of newly called-up National Servicemen. But a motley bunch they turn out to be, and it's up to Grimshawe to put the no-hopers through their paces.",
+        "poster_path": "/5nb596JUBIugTkBFugD9Ek6TKJl.jpg",
+        "backdrop_path": "/jnIBbQimxl0hRnEtxhHXnITROZh.jpg",
+        "production_companies": [
+            {
+                "name": "Peter Rogers Productions",
+                "id": 10265
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.295,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 918027,
+            "name": "Carry On Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0051453",
+        "original_language": "en",
+        "popularity": 8.554,
+        "status": "Released",
+        "tagline": "It’s all about a Dad . . . a Draftee . . . and a Detonation heard round the camp!",
+        "video": false
+    },
+    {
+        "id_tmdb": 32087,
+        "title": "Attack",
+        "release_date": "1956-09-19",
+        "overview": "Battle of the Bulge, World War II, 1944. Lieutenant Costa, an infantry company officer who must establish artillery observation posts in a strategic area, has serious doubts about Captain Cooney's leadership ability.",
+        "poster_path": "/7r2MrvqqpvUfaIjxlQx0wx5o3Qe.jpg",
+        "backdrop_path": "/kedP4CNpzOzS6mkttq31mVwIFZz.jpg",
+        "production_companies": [
+            {
+                "name": "The Associates & Aldrich Company",
+                "id": 2595
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048966",
+        "original_language": "en",
+        "popularity": 8.548,
+        "status": "Released",
+        "tagline": "It rips open the hot Hell behind the glory!",
+        "video": false
+    },
+    {
+        "id_tmdb": 17720,
+        "title": "Dunkirk",
+        "release_date": "1958-03-20",
+        "overview": "A British Corporal in France finds himself responsible for the lives of his men when their officer is killed. He has to get them back to Britain somehow. Meanwhile, British civilians are being dragged into the war with Operation Dynamo, the scheme to get the French and British forces back from the Dunkirk beaches. Some come forward to help, others were less willing.",
+        "poster_path": "/357BscJA1gDEOzRuTeHnHmVBi7u.jpg",
+        "backdrop_path": "/28h4irC8CPqnS7oKQ18RHDgCuPI.jpg",
+        "production_companies": [
+            {
+                "name": "Ealing Studios",
+                "id": 2650
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051565",
+        "original_language": "en",
+        "popularity": 8.512,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 125250,
+        "title": "Desperado Outpost",
+        "release_date": "1959-10-06",
+        "overview": "When Sergeant Okubo's brother is murdered at a Japanese outpost in Northern China during the Second World War, Okubo poses as a war correspondent and seeks out his brother's killer.",
+        "poster_path": "/139SxqyIKq4Wb8YIMas6ugCXts2.jpg",
+        "backdrop_path": "/tGAfsd3YQGYG64qiQwxtHRBiu7A.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 441914,
+            "name": "Desperado Outpost Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0052747",
+        "original_language": "ja",
+        "popularity": 8.27,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 55823,
+        "title": "The Great War",
+        "release_date": "1959-10-28",
+        "overview": "Italy, 1916. Oreste Jacovacci and Giovanni Busacca are called, as all the Italian youths, to serve the army in the WWI. They both try in every way to avoid serving the army.",
+        "poster_path": "/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg",
+        "backdrop_path": "/fcH7FM74GoHgOUnKjpGAoKOxWvY.jpg",
+        "production_companies": [
+            {
+                "name": "gray-film",
+                "id": 30931
+            },
+            {
+                "name": "DDL Cinematografica",
+                "id": 1216
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052861",
+        "original_language": "it",
+        "popularity": 7.878,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 43791,
+        "title": "The Man Who Never Was",
+        "release_date": "1956-04-03",
+        "overview": "The true story of a British effort to trick the Germans into weakening Sicily's defenses before the 1943 attack. A dead soldier is dressed as a British officer and outfitted with faked papers showing that the Allies were intending to invade occupied Greece. His body is put into the sea where it will ultimately drift ashore and the papers be passed along to German Intelligence.",
+        "poster_path": "/ajb6naQi07fPhyJQ9DxkrGNU4Sw.jpg",
+        "backdrop_path": "/ybrl3pEoMwJ9YVZnTdS2Tmyhvvu.jpg",
+        "production_companies": [
+            {
+                "name": "Sumar Productions",
+                "id": 16528
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.988,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049471",
+        "original_language": "en",
+        "popularity": 7.763,
+        "status": "Released",
+        "tagline": "The most fiendish plot ever conceived! The most amazing \"human being\" ever created! The most diabolical phantom--",
+        "video": false
+    },
+    {
+        "id_tmdb": 4820,
+        "title": "Never So Few",
+        "release_date": "1959-12-07",
+        "overview": "A U.S. military troop takes command of a band of Burmese guerillas during World War II.",
+        "poster_path": "/ix9ImZOS1KPedJSlyVfrhQQ2BK3.jpg",
+        "backdrop_path": "/lmlfBM23b1zgLmSJTswRGZwm1km.jpg",
+        "production_companies": [
+            {
+                "name": "Canterbury Productions",
+                "id": 1845
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053108",
+        "original_language": "en",
+        "popularity": 7.554,
+        "status": "Released",
+        "tagline": "Kiss by kiss the time ran out and never so few were the moments left for love!",
+        "video": false
+    },
+    {
+        "id_tmdb": 88395,
+        "title": "Violent Summer",
+        "release_date": "1959-11-13",
+        "overview": "Summer, 1943: wealthy youth in the Riccione district of Rimini play while the war gets closer. Carlo Caremoli, a young man who follows the crowd, has found ways to avoid military service. Then, on the beach, he meets Roberta, a war widow with a child. Roberta's mother warns Roberta to avoid Carlo, but to her, he seems attentive and to her daughter he is kind. Romance develops. Within a few weeks, Roberta is risking everything. Can there be a resolution between passion, on the one hand, and war, duty, and social expectation on the other?",
+        "poster_path": "/7rq5h5rYtYVYmfg5725BRDaqIFe.jpg",
+        "backdrop_path": "/4IKzuEBM9Pi8QvisMFYOIRgnzF5.jpg",
+        "production_companies": [
+            {
+                "name": "Société Générale de Cinématographie (S.G.C.)",
+                "id": 8894
+            },
+            {
+                "name": "Titanus",
+                "id": 641
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052786",
+        "original_language": "it",
+        "popularity": 7.381,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 16284,
+        "title": "Ice Cold in Alex",
+        "release_date": "1958-06-24",
+        "overview": "A group of army personnel and nurses attempt a dangerous and arduous trek across the deserts of North Africa during the second world war. The leader of the team dreams of his ice cold beer when he reaches Alexandria.",
+        "poster_path": "/lkqTxSL9JwyyXDu5yeOoj5mzsVc.jpg",
+        "backdrop_path": "/1fvSrGEt1UsxENnZ3wHYKuFT87n.jpg",
+        "production_companies": [
+            {
+                "name": "Associated British Picture Corporation",
+                "id": 1441
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053935",
+        "original_language": "en",
+        "popularity": 7.381,
+        "status": "Released",
+        "tagline": "3 guys...and a couple of gals...and the mission that led them through 600 miles of burning hell!",
+        "video": false
+    },
+    {
+        "id_tmdb": 46189,
+        "title": "The Wings of Eagles",
+        "release_date": "1957-01-31",
+        "overview": "The story of Frank W. \"Spig\" Wead - a Navy-flyer turned screenwriter.",
+        "poster_path": "/mNZZb39Tpe7zqXA8WGl6F9cvGtd.jpg",
+        "backdrop_path": "/wzGczI3dl9Zl9grMgUdLTaiHnm9.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051198",
+        "original_language": "en",
+        "popularity": 7.297,
+        "status": "Released",
+        "tagline": "THE SKY IS THE LIMIT for Fun, Thrills, Excitement!",
+        "video": false
+    },
+    {
+        "id_tmdb": 84079,
+        "title": "A Time to Love and a Time to Die",
+        "release_date": "1958-07-09",
+        "overview": "A German soldier home on leave falls in love with a girl, then returns to World War II.",
+        "poster_path": "/nTN6eW0iYtLW2PEDveaHSAOq92X.jpg",
+        "backdrop_path": "/4mcrE2W30EyhUIY5fqejZDMi54y.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052296",
+        "original_language": "en",
+        "popularity": 6.95,
+        "status": "Released",
+        "tagline": "Born out of the blazing passions of war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 149106,
+        "title": "Mameluke",
+        "release_date": "1958-09-14",
+        "overview": "In Arabic, “mameluke” means a white slave, a prisoner. In Egypt, this name was given to prisoners of war who had been sold into slavery from Georgia and other countries of the Caucasus. The action of this drama starts in Georgia in the late 18th century. Two friends are abducted and sold into slavery. One ends up in Egypt, the other - in Venice. Years later, they meet by the ancient pyramids, in the desert where a battle is going on between the armies of Bonaparte and Ali-bey, the ruler of Egypt. In a combat with a French officer, the Mameluke injures him. Falling from his horse onto the sand, the officer exclaims in Georgian: “Vai, nana!” (“Oh, mother!”). And the Mameluke recognizes in him a mate of his childhood games.",
+        "poster_path": "/t0XgmP44IJUsTqXBn8MS74DcJKG.jpg",
+        "backdrop_path": "/iJefkd1zKp71fWAK1AHZZcFAYLC.jpg",
+        "production_companies": [
+            {
+                "name": "Georgia-Film",
+                "id": 186508
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ka",
+                "name": "ქართული"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0265305",
+        "original_language": "ka",
+        "popularity": 6.933,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36439,
+        "title": "The Unknown Soldier",
+        "release_date": "1955-12-23",
+        "overview": "It is the summer of 1941. An eastern-Finnish machine gun company receives an order to turn in their surplus equipment. The company is transferred to the front lines. The next morning the soldiers wake to the sound of guns – the war has begun.",
+        "poster_path": "/3vXBRAd4tydmLsIvQGiVzwS6QOQ.jpg",
+        "backdrop_path": "/25hJTjExgVWI4DbybpAms4X3tQa.jpg",
+        "production_companies": [
+            {
+                "name": "Suomen Filmiteollisuus",
+                "id": 12982
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048752",
+        "original_language": "fi",
+        "popularity": 6.899,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 58736,
+        "title": "The Cow and I",
+        "release_date": "1959-12-16",
+        "overview": "In 1942, a French prisonner of war in Germany decide to escape to France using a cow hold by a lunge as a decoy. He cross all Germany in this way.",
+        "poster_path": "/2OJStomiaADWhVefZxrHrmtpgBy.jpg",
+        "backdrop_path": "/x0C7IMKq7CfD2juh5kUYaYzEiD6.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films du Cyclope",
+                "id": 16059
+            },
+            {
+                "name": "Da-Ma Cinematografica",
+                "id": 19155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.734,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053403",
+        "original_language": "fr",
+        "popularity": 6.36,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 108812,
+        "title": "Until They Sail",
+        "release_date": "1957-10-08",
+        "overview": "Four sisters in New Zealand fall for soldiers en route to the Pacific theater in WWII.",
+        "poster_path": "/tS2IvH9qU9rPQOCHOgjlnwFIhY8.jpg",
+        "backdrop_path": "/rWIogUOuteu4xd0XaFEN5z5Ikvs.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051141",
+        "original_language": "en",
+        "popularity": 6.336,
+        "status": "Released",
+        "tagline": "They couldn't have the love they wanted, so they took the love they could get!",
+        "video": false
+    },
+    {
+        "id_tmdb": 16514,
+        "title": "To Hell and Back",
+        "release_date": "1955-09-22",
+        "overview": "The true WWII story of Audie Murphy, the most decorated soldier in U.S. history. Based on the autobiography of Audie Murphy who stars as himself in the film.",
+        "poster_path": "/uzeK4UwVVzzg5zUmYlfXdGXDOG5.jpg",
+        "backdrop_path": "/vJSSWXiKjLMJtYQ8X0vQdDRHZVN.jpg",
+        "production_companies": [
+            {
+                "name": "Universal International Pictures",
+                "id": 10330
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048729",
+        "original_language": "en",
+        "popularity": 6.133,
+        "status": "Released",
+        "tagline": "Rejected by the Marines, the Navy, and the Army paratroopers due to his small size and youthful appearance, when he was finally accepted by the army Murphy became the most decorated soldier in U.S. history!!!",
+        "video": false
+    },
+    {
+        "id_tmdb": 37112,
+        "title": "The Great Locomotive Chase",
+        "release_date": "1956-06-08",
+        "overview": "During the Civil War, a Union spy, Andrews, is asked to lead a band of Union soldiers into the South so that they could destroy the railway system. However, things don't go as planned when the conductor of the train that they stole is on to them and is doing everything he can to stop them. Based on a true story.",
+        "poster_path": "/siLEcZZS3VXPkBmaDPPYe6sNG40.jpg",
+        "backdrop_path": "/vNAvBHJCwp8KmXVYQ7zBQsDEksL.jpg",
+        "production_companies": [
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049279",
+        "original_language": "en",
+        "popularity": 6.075,
+        "status": "Released",
+        "tagline": "A true-life spy story of ultimate suspense. High speed and inconceivable bravery!",
+        "video": false
+    },
+    {
+        "id_tmdb": 22350,
+        "title": "Reach for the Sky",
+        "release_date": "1956-07-05",
+        "overview": "The true story of airman Douglas Bader who overcame the loss of both legs in a 1931 flying accident to become a successful fighter pilot and wing leader during World War II.",
+        "poster_path": "/2OKZUqjoIC71vkJ8SUR7DzvXAvw.jpg",
+        "backdrop_path": "/pujpNHRw5wFJNmRy8upv75WWywn.jpg",
+        "production_companies": [
+            {
+                "name": "The Rank Organisation",
+                "id": 364
+            },
+            {
+                "name": "Angel Productions",
+                "id": 4079
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049665",
+        "original_language": "en",
+        "popularity": 6.063,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 16912,
+        "title": "The Colditz Story",
+        "release_date": "1955-01-25",
+        "overview": "Allied prisoners of various nationalities pool their resources to plan numerous escapes from an \"escape-proof\" German P.O.W. camp housed in a Medieval castle.",
+        "poster_path": "/yLeEVpgapcRBzUdeZdSWAe3fYLg.jpg",
+        "backdrop_path": "/cxuBWkPCnMPbx6Ja37cxz9s0Azw.jpg",
+        "production_companies": [
+            {
+                "name": "Ivan Foxwell Productions",
+                "id": 20826
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.604,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047945",
+        "original_language": "en",
+        "popularity": 6.005,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 71768,
+        "title": "The Guns of Fort Petticoat",
+        "release_date": "1957-04-01",
+        "overview": "Opposing his commanding officer's decision to attack a group of innocent Indians and wipe them out, Lt. Frank Hewitt leaves his post and heads home to Texas. He knows that the attack will send all of the tribes on the warpath and he wants to forewarn everyone. He gets a chilly reception back home however. With most of the men away having enlisted in the Confederate army Frank, a Union officer, is seen by the local women as a traitor. He convinces them of the danger that lies ahead and trains them to repel the attack that will eventually come.",
+        "poster_path": "/AqPmINIfSS2s0NNh8XpmoDcphs1.jpg",
+        "backdrop_path": "/o43syNek37CQzBOnEtYYV7zcaY6.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Brown-Murphy Pictures",
+                "id": 148099
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050470",
+        "original_language": "en",
+        "popularity": 5.971,
+        "status": "Released",
+        "tagline": "GOOD WOMEN...BAD WOMEN...BRAWLING WOMEN...BRAVE WOMEN! They were all soldiers in skirts!",
+        "video": false
+    },
+    {
+        "id_tmdb": 44559,
+        "title": "Carve Her Name with Pride",
+        "release_date": "1958-02-18",
+        "overview": "London, England, during World War II. After living a tragic life experience, young Violette Szabo joins the Special Operations Executive and crosses the German enemy lines as a secret agent to aid a French Resistance group.",
+        "poster_path": "/8W38RjfUf3QNwBUCwHC7NiT681u.jpg",
+        "backdrop_path": "/6C8JT07pChGqHnwDDKN2LUvHkgV.jpg",
+        "production_companies": [
+            {
+                "name": "Angel Productions",
+                "id": 4079
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051454",
+        "original_language": "en",
+        "popularity": 5.835,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 4933,
+        "title": "The Buccaneer",
+        "release_date": "1958-12-11",
+        "overview": "During the War of 1812 against Britain: General Andrew Jackson has only 1,200 men left to defend New Orleans when he learns that a British fleet will arrive with 60 ships and 16,000 men to take the city. In this situation an island near the city becomes strategically important to both parties, but it's inhabited by the last big buccaneer: Jean Lafitte. Although Lafitte never attacks American ships, the governor hates him for selling merchandise without taxes - and is loved by the citizens for the same reason. When the big fight gets nearer, Lafitte is drawn between the fronts. His heart belongs to America, but his people urge him to join the party that's more likely to win.",
+        "poster_path": "/hUUg1IuxuKl54eyQfyu5tCZhI1g.jpg",
+        "backdrop_path": "/89y96uZNPM46hFzwBylFCAXo8bQ.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.37,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051436",
+        "original_language": "en",
+        "popularity": 5.823,
+        "status": "Released",
+        "tagline": "Piercing Drama of La Fitte - Man or Devil ?",
+        "video": false
+    },
+    {
+        "id_tmdb": 18146,
+        "title": "Up Periscope",
+        "release_date": "1959-03-04",
+        "overview": "Lieutenant Braden discovers that Sally, the woman he's been falling in love with, has actually been checking out his qualifications to be a U.S. Navy frogman. He must put his personal life behind him after being assigned to be smuggled into a Japanese-held island via submarine to photograph radio codes.",
+        "poster_path": "/1t0Zo7y4L7PSJV1T5K5JM8HFQqw.jpg",
+        "backdrop_path": "/z2FgyLq9sL3K6xBSEnwKZRM7ANE.jpg",
+        "production_companies": [
+            {
+                "name": "Lakeside Productions",
+                "id": 8476
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Aubrey Schenck Productions",
+                "id": 1347
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053399",
+        "original_language": "en",
+        "popularity": 5.776,
+        "status": "Released",
+        "tagline": "The man they called the 'human torpedo' - the secret underwater marauder who hit like no man hit before!",
+        "video": false
+    },
+    {
+        "id_tmdb": 102081,
+        "title": "The Key",
+        "release_date": "1958-05-28",
+        "overview": "In wartime England, circa 1941, poorly-armed tugs are sent into \"U-Boat Alley\" to rescue damaged Allied ships. An American named David Ross arrives to captain one of these tugs. He's given a key by a fellow tugboat-man -- a key to an apartment and its pretty female resident. Should something happen to the friend, Ross can use the key.",
+        "poster_path": "/30lPhoDVPyZNQ3cjjTlsYuO4x0Z.jpg",
+        "backdrop_path": "/q87fkPucgvWSv7D5nQUa0JXCMqd.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051816",
+        "original_language": "en",
+        "popularity": 5.748,
+        "status": "Released",
+        "tagline": "He had the life expectancy of a match.",
+        "video": false
+    },
+    {
+        "id_tmdb": 123513,
+        "title": "The Good Soldier Švejk",
+        "release_date": "1957-08-23",
+        "overview": "Good-natured and garrulous, Schweik becomes the Austrian army's most loyal Czech soldier when he is called up on the outbreak of World War I -- although his bumbling attempts to get to the front serve only to prevent him from reaching it. Playing cards and getting drunk, he uses all his cunning and genial subterfuge to deal with the police, clergy, and officers who chivy him toward battle.",
+        "poster_path": "/rK3R4cFvcyXZT0XTZ6UJZXJi3G.jpg",
+        "backdrop_path": "/jQH5gsn4ElMKVhaDyilfI4QtV4P.jpg",
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 264664,
+            "name": "Josef Švejk Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0049147",
+        "original_language": "cs",
+        "popularity": 5.633,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40578,
+        "title": "The Sea Chase",
+        "release_date": "1955-06-04",
+        "overview": "As the Second World War breaks out, German freighter captain Karl Ehrlich is about to leave Sydney, Australia with his vessel, the Ergenstrasse. Ehrlich, an anti-Nazi but proud German, hopes to outrun or out-maneuver the British warship pursuing him. Aboard his vessel is Elsa Keller, a woman Ehrlich has been ordered to return to Germany safely along with whatever secrets she carries. When Ehrlich's fiercely Nazi chief officer Kirchner commits an atrocity, the British pursuit becomes deadly.",
+        "poster_path": "/vFzBvq70zOqCb25pJL7pjGBrVAN.jpg",
+        "backdrop_path": "/mIs8rSSOtQ7v2Pm7yUBLsmONZM0.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 6000000,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048593",
+        "original_language": "en",
+        "popularity": 5.466,
+        "status": "Released",
+        "tagline": "JOHN WAYNE - a skipper sworn never to be taken! LANA TURNER - the fuse of his floating time-bomb!",
+        "video": false
+    },
+    {
+        "id_tmdb": 443969,
+        "title": "Admiral Yamamoto and the Allied Fleets",
+        "release_date": "1956-07-21",
+        "overview": "Admiral Isoroku Yamamoto leads the Combined Fleet of the Imperial Japanese Navy to defeat the American Fleet.",
+        "poster_path": "/aAivP0Z5nzHuzlk1asDWcDz9yZ1.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shintoho Company",
+                "id": 3094
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt7953734",
+        "original_language": "ja",
+        "popularity": 5.368,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 54797,
+        "title": "Ill Met by Moonlight",
+        "release_date": "1957-01-31",
+        "overview": "Led by British officers, partisans on Crete plan to kidnap the island's German commander and smuggle him to Cairo to embarrass the occupiers.",
+        "poster_path": "/xJVmq3Jxytt3o4vXP46Xj5M9ZLP.jpg",
+        "backdrop_path": "/acVsRJUJIRrBlFarElklGYb5tvt.jpg",
+        "production_companies": [
+            {
+                "name": "The Rank Organisation",
+                "id": 364
+            },
+            {
+                "name": "Vega Film",
+                "id": 8138
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049357",
+        "original_language": "en",
+        "popularity": 5.203,
+        "status": "Released",
+        "tagline": "They stole a General under the noses of his 20,000 crack paratroops.",
+        "video": false
+    },
+    {
+        "id_tmdb": 56499,
+        "title": "Babette Goes to War",
+        "release_date": "1959-09-18",
+        "overview": "Comedy about a naive French country girl in London who helps the war effort by parachuting into German-occupied France to help kidnap an important German general. She bungles through to a heroic finish of plot and counter-plot.",
+        "poster_path": "/a8dtIN2c53PCB6aQvVmSv3LBIoy.jpg",
+        "backdrop_path": "/n4KbSGafzC9P2e8piNf8E3eKqb6.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films Ariane",
+                "id": 7110
+            },
+            {
+                "name": "Iéna Productions",
+                "id": 2486
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052595",
+        "original_language": "fr",
+        "popularity": 5.201,
+        "status": "Released",
+        "tagline": "Brigitte Bardot is a Comedienne Now!",
+        "video": false
+    },
+    {
+        "id_tmdb": 402678,
+        "title": "The Sacrifice of the Human Torpedoes",
+        "release_date": "1955-01-09",
+        "overview": "",
+        "poster_path": "/oLavn0jxCekamHwIJAle338ryWX.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Shintoho Company",
+                "id": 3094
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0323411",
+        "original_language": "ja",
+        "popularity": 5.176,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 354577,
+        "title": "Emperor Meiji and the Great Russo-Japanese War",
+        "release_date": "1957-04-29",
+        "overview": "Meiji Tenno portrays the buildup to the Russo-Japan War. In addition to showing the political events that led to war, it also shows the era from the story of a farm family in rural Japan that sends their son off to war. As such, it could be considered an anti-war movie, showing how, while war is devised by governments, the people do not really understand what war is, and its combatants often do not know what they are fighting for.",
+        "poster_path": "/rp9P6XpPovFeY67vniQ5192qPit.jpg",
+        "backdrop_path": "/j7VM3wjEzZ8ebCn9EmH6hurWpYt.jpg",
+        "production_companies": [
+            {
+                "name": "Shintoho Company",
+                "id": 3094
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 633759,
+            "name": "Emperor Meiji Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0197429",
+        "original_language": "ja",
+        "popularity": 5.051,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 80775,
+        "title": "Away All Boats",
+        "release_date": "1956-08-16",
+        "overview": "The story of USS 'Belinda', a U.S. naval ship, and its crew during the battle of the Pacific 1943-1945, as it prepares for action and landing troops on enemy beachheads.",
+        "poster_path": "/dyyRfeB45ZUx9JhFKL0L9FS9wOU.jpg",
+        "backdrop_path": "/6T5WkjSQlakJPq1slvb8WEPV85q.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048971",
+        "original_language": "en",
+        "popularity": 4.944,
+        "status": "Released",
+        "tagline": "The battle cry of the South Pacific",
+        "video": false
+    },
+    {
+        "id_tmdb": 61370,
+        "title": "Men in War",
+        "release_date": "1957-05-03",
+        "overview": "In Korea, on 6 September 1950, Lieutenant Benson's platoon finds itself isolated in enemy-held territory after a retreat. Soon they are joined by Sergeant Montana, whose overriding concern is caring for his catatonic colonel. Benson and Montana can't stand each other, but together they must get the survivors to Hill 465, where they hope the division is waiting. It's a long, harrowing march, fraught with all the dangers the elusive enemy can summon.",
+        "poster_path": "/dvhuQmsl5RclJhiiVoYFPj6e3wX.jpg",
+        "backdrop_path": "/3hEwqtqiXRkJnmHYIFEkADOM2b.jpg",
+        "production_companies": [
+            {
+                "name": "Security Pictures",
+                "id": 4388
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050699",
+        "original_language": "en",
+        "popularity": 4.936,
+        "status": "Released",
+        "tagline": "\"One more step and I'll fill your guts with lead!\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 82838,
+        "title": "The Rack",
+        "release_date": "1956-11-02",
+        "overview": "Army Captain Edward Hall returns to the U.S. after two years in a prison camp in the Korean War. In the camp, he was brainwashed and helped the Chinese convince the other prisoners that they were fighting an unjust war. When he comes back he is charged for collaboration with the enemy. Where does loyalty end in a prison camp, when the camp is a living hell?",
+        "poster_path": "/rX5LTigzW7MOuTZeMBNwdQfC6RV.jpg",
+        "backdrop_path": "/8IG1yDCyYNLKtWBNxdYCA8LLmmn.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049652",
+        "original_language": "en",
+        "popularity": 4.915,
+        "status": "Released",
+        "tagline": "Paul Newman, a wonderful new star!",
+        "video": false
+    },
+    {
+        "id_tmdb": 69977,
+        "title": "Torpedo Run",
+        "release_date": "1958-10-24",
+        "overview": "A submarine commander is on a relentless pursuit of a Japanese aircraft carrier in the South Seas during World War II.",
+        "poster_path": "/261OLcRuuBzhAeFPmziJ3a9x5cG.jpg",
+        "backdrop_path": "/nhlLsxdVOk44Mpz2K585nid0qyq.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052303",
+        "original_language": "en",
+        "popularity": 4.812,
+        "status": "Released",
+        "tagline": "The greatest submarine picture of them all!",
+        "video": false
+    },
+    {
+        "id_tmdb": 75796,
+        "title": "The Dark Avenger",
+        "release_date": "1955-04-15",
+        "overview": "Edward, Prince of Wales, son and heir to his father King Edward III of England, leads an English army to the French province of Aquitaine to protect the inhabitant from the ravages of the French. After defeating the French in battle, the defeated French plot to kill the prince. Failing in this, they kidnap his lady, the lovely Lady Joan Holland. Of course Prince Edward has to ride to the rescue, adopting numerous guises to save his paramour, which ultimately end in him leading his men into one final climactic battle against the French. (Also known as \"The Warriors\" and \"The Black Prince\").",
+        "poster_path": "/zoTE1JPNDjy1nWQNiQ7hpRajxPL.jpg",
+        "backdrop_path": "/qg2mdKbAe3ynSKFtXdW4XLuRImA.jpg",
+        "production_companies": [
+            {
+                "name": "Allied Artists Pictures",
+                "id": 4928
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047975",
+        "original_language": "en",
+        "popularity": 4.747,
+        "status": "Released",
+        "tagline": "Flaming With the Barbaric Cruelties And Infamous Conquests of the Dark Age of Terror!",
+        "video": false
+    },
+    {
+        "id_tmdb": 64129,
+        "title": "D-Day the Sixth of June",
+        "release_date": "1956-05-29",
+        "overview": "En route to Normandy, an American and a British officer reminisce in flashback about their romances with the same woman.",
+        "poster_path": "/ghPpTqMNDYxexeuxPlc10aWIvot.jpg",
+        "backdrop_path": "/EBi9prC8HSKeKGyrS9p90YfMSQ.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049117",
+        "original_language": "en",
+        "popularity": 4.746,
+        "status": "Released",
+        "tagline": "The Great Love Story of the Great War",
+        "video": false
+    },
+    {
+        "id_tmdb": 68850,
+        "title": "Bitter Victory",
+        "release_date": "1957-08-28",
+        "overview": "During the second world war, two British officers, Brand and Leith, who have never seen combat, are assigned a vital mission. Their relationship and the operation are complicated by the arrival of Brand's wife, who had a tryst with Leith years earlier.",
+        "poster_path": "/8i6gzqhFqeDyddzv68P0ZzB9Jx8.jpg",
+        "backdrop_path": "/iUUn3vngSbZoOT6twT48RQvcEUI.jpg",
+        "production_companies": [
+            {
+                "name": "Robert Laffont Productions",
+                "id": 82035
+            },
+            {
+                "name": "Transcontinental Films",
+                "id": 1723
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050126",
+        "original_language": "en",
+        "popularity": 4.714,
+        "status": "Released",
+        "tagline": "THE DESERT COMMANDO RAID THEY WIPED OFF THE RECORD BOOKS!",
+        "video": false
+    },
+    {
+        "id_tmdb": 159412,
+        "title": "The Thick-Walled Room",
+        "release_date": "1956-10-31",
+        "overview": "A group of rank-and-file Japanese soldiers are jailed for crimes against humanity, themselves victims of a nation refusing to bear its burdens as a whole.",
+        "poster_path": "/sRI55L5hmLs6LTa031W4q7PwLaW.jpg",
+        "backdrop_path": "/5bhdBKrTuM1OcIhSPC38mGfDzzv.jpg",
+        "production_companies": [
+            {
+                "name": "Shochiku",
+                "id": 192
+            },
+            {
+                "name": "Shinei Productions",
+                "id": 118035
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0134756",
+        "original_language": "ja",
+        "popularity": 4.691,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 60387,
+        "title": "Operation Mad Ball",
+        "release_date": "1957-08-17",
+        "overview": "In this wacky military spoof, Lemmon plays a terminally bored Army private waging a war of wits as he tries to throw a party under the nose of his obnoxious commanding officer.",
+        "poster_path": "/dZKL7oB3NVY94YWN9F3gk55VIH7.jpg",
+        "backdrop_path": "/hcnfZWVCiURtdRZTsb54aGH70jW.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050805",
+        "original_language": "en",
+        "popularity": 4.623,
+        "status": "Released",
+        "tagline": "It's Operation Laughter For You! and anything goes!",
+        "video": false
+    },
+    {
+        "id_tmdb": 102966,
+        "title": "Revolt at Fort Laramie",
+        "release_date": "1957-03-01",
+        "overview": "At the breaking of the Civil War the garrison of Fort Laramie splits between the sympathezers of the two different factions, but when the fort is attacked by the Sioux, they unite their forces to fight them.",
+        "poster_path": "/3AcwSy5YGxzbZJZHpJx0ydPkviI.jpg",
+        "backdrop_path": "/7W6ybSJERB1w2QJf71TxUlRmGDK.jpg",
+        "production_companies": [
+            {
+                "name": "Bel-Air Productions",
+                "id": 4802
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050895",
+        "original_language": "en",
+        "popularity": 4.62,
+        "status": "Released",
+        "tagline": "...THIS TIME IT WAS DIFFERENT...THIS TIME SOLDIER WAS MASSACRING SOLDIER IN A FLAMING REBELLION AT FORT LARAMIE!",
+        "video": false
+    },
+    {
+        "id_tmdb": 46741,
+        "title": "The Forty-First",
+        "release_date": "1956-10-15",
+        "overview": "An unexpected romance occurs for a female Red Army sniper and a White Army officer.",
+        "poster_path": "/lBsI21dsazVNuJtN9EghAZwjhoq.jpg",
+        "backdrop_path": "/esOG3emlmfIDokMi55kY512gJKX.jpg",
+        "production_companies": [
+            {
+                "name": "Mosfilm",
+                "id": 344
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049783",
+        "original_language": "ru",
+        "popularity": 4.567,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 11295,
+        "title": "The Devil's General",
+        "release_date": "1955-02-23",
+        "overview": "Curt Jurgens stars as a courageous Luftwaffe officer. Jurgens loves the service, even though he barely tolerates the Hitler regime. Sickened by wartime Nazi atrocities, Jurgens renounces his government, and is imprisoned and tortured as a result. Once released, the general takes pity on a downtrodden Jewish family. This isolated act of kindness is a point in his favor when Jurgens stands before Satan himself for his final judgment. The Devil's General was based on an immensely successful postwar play by German author Carl Zuckmeyer.",
+        "poster_path": "/fOUYefiSxExCzKVrpcXwIROeS9Y.jpg",
+        "backdrop_path": "/pBGyZKdtjaDMi6mVogt9wCNAkng.jpg",
+        "production_companies": [
+            {
+                "name": "Real-Film",
+                "id": 2050
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.735,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047572",
+        "original_language": "de",
+        "popularity": 4.536,
+        "status": "Released",
+        "tagline": "They bought his soul and put him in command of Hell!",
+        "video": false
+    },
+    {
+        "id_tmdb": 30104,
+        "title": "Sea of Sand",
+        "release_date": "1958-11-04",
+        "overview": "A small British army team is sent deep behind enemy lines to destroy a German petrol dump as part of the preparation for a major attack in the North African campaign. Sea of Sand was distributed in the US in a shortened version, Desert Patrol.",
+        "poster_path": "/1ayB67SFbOrpyqZixGiPY6Pso3h.jpg",
+        "backdrop_path": "/72hg3ZUvpI36sckQlvmzCQwf1wa.jpg",
+        "production_companies": [
+            {
+                "name": "Tempean Films",
+                "id": 4278
+            },
+            {
+                "name": "The Rank Organisation",
+                "id": 364
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051532",
+        "original_language": "en",
+        "popularity": 4.438,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 118910,
+        "title": "The Court-Martial of Billy Mitchell",
+        "release_date": "1955-12-31",
+        "overview": "A dramatization of the American general and his court martial for publically complaining about High Command's dismissal and neglect of the aerial fighting forces.",
+        "poster_path": "/i9aQURs2c3xvH7ah1VQF8JoDr5K.jpg",
+        "backdrop_path": "/4pF0O7M99X5bCdz7CdbsKPd2p9o.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "United States Pictures",
+                "id": 11276
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.705,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047956",
+        "original_language": "en",
+        "popularity": 4.365,
+        "status": "Released",
+        "tagline": "He defied the army and navy . . . and they gave him a Court Martial!",
+        "video": false
+    },
+    {
+        "id_tmdb": 75046,
+        "title": "Battle Hymn",
+        "release_date": "1957-02-14",
+        "overview": "Dean Hess, who entered the ministry to atone for bombing a German orphanage, decides he’s a failure at preaching. Rejoined to train pilots early in the Korean War, he finds Korean orphans raiding the airbase garbage. With a pretty Korean teacher, he sets up an orphanage for them and others.",
+        "poster_path": "/l3W5IvmN6uPAPUJv9hiYIo3pyND.jpg",
+        "backdrop_path": "/iTv2lL9n08200tToP2zMF2z1QT9.jpg",
+        "production_companies": [
+            {
+                "name": "Universal International Pictures",
+                "id": 10330
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ko",
+                "name": "한국어/조선말"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.475,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050171",
+        "original_language": "en",
+        "popularity": 4.334,
+        "status": "Released",
+        "tagline": "The true story of Col. Dean Hess, clergyman turned fighter pilot!",
+        "video": false
+    },
+    {
+        "id_tmdb": 46615,
+        "title": "Darby's Rangers",
+        "release_date": "1958-02-12",
+        "overview": "Stationed in Scotland, Maj. William Darby and the men under his command are trained by British commandos, becoming the U.S. Army's 1st Ranger Battalion. Their drilling period is rigorous, but the men find time to romance local women before being deployed to fight the Nazis. U.S. forces battle from French North Africa to Italy, but when a surprise attack decimates the 1st and 3rd Battalions at the Battle of Cisterna, Darby and the 4th Battalion must come to their aid.",
+        "poster_path": "/eUTRFjBP6BbQlya3FBTHRdnkSQ2.jpg",
+        "backdrop_path": "/8xXzROwyXY5wqekf9YLrMbM8PuZ.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051519",
+        "original_language": "en",
+        "popularity": 4.301,
+        "status": "Released",
+        "tagline": "The Picture That Gets Closer To A Fighting Man Than Any Picture Before!",
+        "video": false
+    },
+    {
+        "id_tmdb": 86777,
+        "title": "China Gate",
+        "release_date": "1957-05-22",
+        "overview": "Near the end of the French phase of the Vietnam War, a group of mercenaries are recruited to travel through enemy territory to the Chinese border.",
+        "poster_path": "/pVc5V8iljUjrODwzfBlvWXJ3XzP.jpg",
+        "backdrop_path": "/abXXb1Plde4nGdJpl1g9FOi8nZO.jpg",
+        "production_companies": [
+            {
+                "name": "Globe Enterprises",
+                "id": 15299
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 150000,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050252",
+        "original_language": "en",
+        "popularity": 4.293,
+        "status": "Released",
+        "tagline": "An American dynamiter love-locked in war-locked China!",
+        "video": false
+    },
+    {
+        "id_tmdb": 65114,
+        "title": "The Cockleshell Heroes",
+        "release_date": "1955-11-16",
+        "overview": "During WW2, German ships are \"safely\" docked upriver at Bordeaux, but the British send a team of kayakers to attack them.",
+        "poster_path": "/j9114GBqzD4T2x4o3UupsdNgp7f.jpg",
+        "backdrop_path": "/eKBIAsrOTPrxGx909oGURrh1VKX.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Warwick Film Productions",
+                "id": 1807
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.889,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049083",
+        "original_language": "en",
+        "popularity": 4.095,
+        "status": "Released",
+        "tagline": "They Called Them \"Canoe Commandos\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 64735,
+        "title": "The One That Got Away",
+        "release_date": "1957-11-22",
+        "overview": "Based on the true story of Oberleutnant Franz von Werra, the only German prisoner of war captured in Britain to escape back to Germany during the Second World War.",
+        "poster_path": "/nYkPLiaHuQN5kcoNj3HpKaw9vFI.jpg",
+        "backdrop_path": "/2YBUwWtLtAfFggIyAFBsMkN9YDx.jpg",
+        "production_companies": [
+            {
+                "name": "Julian Wintle Productions",
+                "id": 73517
+            },
+            {
+                "name": "The Rank Organisation",
+                "id": 364
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.011,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050803",
+        "original_language": "en",
+        "popularity": 4.075,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 76714,
+        "title": "The Journey",
+        "release_date": "1959-02-11",
+        "overview": "A Communist officer falls hard for a married woman trying to escape from Hungary.",
+        "poster_path": "/9HXN8SKOYnasVRPY1JUYiWzMFia.jpg",
+        "backdrop_path": "/9YkboCn0ejNBAwXjsCGkSGWy0L5.jpg",
+        "production_companies": [
+            {
+                "name": "Alby Pictures",
+                "id": 15843
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 19873,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052950",
+        "original_language": "en",
+        "popularity": 4.07,
+        "status": "Released",
+        "tagline": "The Major was used to having his way - and he meant to take this lovely iceberg - by force if necessary",
+        "video": false
+    },
+    {
+        "id_tmdb": 45520,
+        "title": "The Hunters",
+        "release_date": "1958-09-01",
+        "overview": "With its electrifying flight sequences and high-powered cast, The Hunters is a mesmerizing film based on the best-selling novel by veteran fighter pilot James Salter. Set during the height of the Korean War, the story centers on Major Cleve Saville (Robert Mitchum), a master of the newly operational F-86 Sabre fighter jets. But adept as he is at flying, Saville¹s personal life takes a nosedive when he falls in love with his wingman¹s (Lee Philips) beautiful wife (May Britt). To make matters worse, Saville must cope with a loud-mouthed rookie (Robert Wagner) in a daring rescue mission that threatens all their lives in this well-crafted war drama.",
+        "poster_path": "/rKywOWIo1GVj7XjoxFWegiOkoXq.jpg",
+        "backdrop_path": "/6SVKzfocGbrCq3BRrF3kULMoKsX.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051750",
+        "original_language": "en",
+        "popularity": 4.066,
+        "status": "Released",
+        "tagline": "Mightiest thrill-shocked adventure spectacle of the super-sonic age !",
+        "video": false
+    },
+    {
+        "id_tmdb": 51426,
+        "title": "Battle Cry",
+        "release_date": "1955-02-02",
+        "overview": "The dramatic story of US Marines in training, in combat, and in love, during World War II. The story centers on a major who guides the raw recruits from their training to combat.",
+        "poster_path": "/ae9Wrw5vQ4WM2NqxNPlYRbfV2n.jpg",
+        "backdrop_path": "/r0QqmAFLC1uMYQyTv2zTr64LqeU.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nv",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047860",
+        "original_language": "en",
+        "popularity": 3.931,
+        "status": "Released",
+        "tagline": "The men who fought. The women who waited. And the stolen moments they shared.",
+        "video": false
+    },
+    {
+        "id_tmdb": 88558,
+        "title": "A Town Like Alice",
+        "release_date": "1956-03-01",
+        "overview": "In 1941 Malaysia, the advancing Japanese army captures a lot of British territory very quickly. The men are sent off to labor camps, but they have no plan on what to do with the women and children of the British.",
+        "poster_path": "/aTBNZnQVSn26DuQHdRUTW8a6Aux.jpg",
+        "backdrop_path": "/hbYoayaqNv3KOEZIP14QVxnj83o.jpg",
+        "production_companies": [
+            {
+                "name": "The Rank Organisation",
+                "id": 364
+            },
+            {
+                "name": "Vic Films Productions",
+                "id": 11707
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0049871",
+        "original_language": "en",
+        "popularity": 3.909,
+        "status": "Released",
+        "tagline": "A tale of survival.",
+        "video": false
+    },
+    {
+        "id_tmdb": 123755,
+        "title": "The Camp on Blood Island",
+        "release_date": "1958-04-15",
+        "overview": "Set in a Japanese prisoner of war camp during World War II, the film focuses on the brutality and horror that the allied prisoners were exposed to as the Japanese metered out subjugation and punishment to a disgraced and defeated enemy. This harrowing drama concentrates on the deviations of legal and moral definitions when two opposing cultures clash. Although fictional, this was one of the earliest films to deal realistically with life and death in a Japanese prisoner-of-war camp during the Second War.",
+        "poster_path": "/aQ0Bj6uI3Ei2TyRjgb3sEQUU2II.jpg",
+        "backdrop_path": "/isfAPiVQVBGHllGQsvd5UZytQ4c.jpg",
+        "production_companies": [
+            {
+                "name": "Hammer Film Productions",
+                "id": 1314
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051444",
+        "original_language": "en",
+        "popularity": 3.889,
+        "status": "Released",
+        "tagline": "This is not just a story - it is based on brutal truth",
+        "video": false
+    },
+    {
+        "id_tmdb": 434554,
+        "title": "Temptation on Glamour Island",
+        "release_date": "1959-01-15",
+        "overview": "Comedy about three soldiers, two female reporters, six prostitutes, and the wife of an officer, all stranded on a South Seas island at the end of World War II.",
+        "poster_path": "/g9R1ZLP2loTy88GjWmrZfHqsauz.jpg",
+        "backdrop_path": "/9FDU0REAcepR9WM0dNw6SQ5shQ.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            },
+            {
+                "name": "Tokyo Eiga",
+                "id": 44545
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0204357",
+        "original_language": "ja",
+        "popularity": 3.849,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 82181,
+        "title": "Hellcats of the Navy",
+        "release_date": "1957-05-01",
+        "overview": "Future \"first couple\" Ronald Reagan and Nancy Davis made their only joint film appearance in Hellcats of the Navy. Ronnie plays Casey Abbott, commander of a WW2 submarine, while Nancy portrays navy nurse Helen Blair, Abbott's off-and-on girlfriend. During a delicate mission in which his sub is ordered to retrieve a revolutionary new Japanese mine, Abbott is forced to leave frogman Wes Barton (Harry Lauter) behind to save the rest of his crew. But Abbott's second-in-command Don Landon (Eduard Franz) is convincing that Abbott's sacrifice of Barton was due to the fact that the dead man had been amorously pursuing Helen.",
+        "poster_path": "/sdt2fdPjhX2NhfpZtRtRPDX65J6.jpg",
+        "backdrop_path": "/wrF33Z9YkRfrU5yQ4cMu2NxcqDP.jpg",
+        "production_companies": [
+            {
+                "name": "Morningside Productions",
+                "id": 5040
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050500",
+        "original_language": "en",
+        "popularity": 3.833,
+        "status": "Released",
+        "tagline": "Down . . . Down . . . Down . . . into enemy waters with the fightin' hellcats of the U.S. sub pack !",
+        "video": false
+    },
+    {
+        "id_tmdb": 43322,
+        "title": "A Generation",
+        "release_date": "1955-01-26",
+        "overview": "Stach is a wayward teen living in squalor on the outskirts of Nazi-occupied Warsaw. Guided by an avuncular Communist organizer, he is introduced to the underground resistance—and to the beautiful Dorota. Soon he is engaged in dangerous efforts to fight oppression and indignity, maturing as he assumes responsibility for others’ lives. A coming-of-age story of survival and shattering loss, A Generation delivers a brutal portrait of the human cost of war.",
+        "poster_path": "/zUQKN61bjCxSgubchybgzExMCNR.jpg",
+        "backdrop_path": "/mVQthfjH5QrkDyiY6RxAgl60LqG.jpg",
+        "production_companies": [
+            {
+                "name": "Wytwórnia Filmów Fabularnych we Wrocławiu",
+                "id": 55703
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.827,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048500",
+        "original_language": "pl",
+        "popularity": 3.778,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 306818,
+        "title": "The Gadfly",
+        "release_date": "1955-04-12",
+        "overview": "Italy, XIX century. The country is occupied by Austrian troops, the resistance movement is actively developing. Student Arthur Burton is involved in the activities of the underground organization “Young Italy”, envies its leader, Giovanni Bolla, and is jealous of his bride Gemma. He talks about this at a confession to a priest, as a result of which gendarmes take revolutionaries under arrest...",
+        "poster_path": "/Ah9g2FhqddnBZfzxFMKcPNwP2Ki.jpg",
+        "backdrop_path": "/8BwbM4JWdDtuedDM5ekfk5GNqX5.jpg",
+        "production_companies": [
+            {
+                "name": "Lenfilm",
+                "id": 10845
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048461",
+        "original_language": "ru",
+        "popularity": 3.748,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 28909,
+        "title": "Above Us the Waves",
+        "release_date": "1955-03-29",
+        "overview": "In World War II, the greatest threat to the British navy is the German battleship Tirpitz. While anchored in a Norwegian fjord, it is impossible to attack by conventional means, so a plan is hatched for a special commando unit to attack it, using midget submarines to plant underwater explosives.",
+        "poster_path": "/aLSgdOlchDNJcr7nzQAnSjVKl9n.jpg",
+        "backdrop_path": "/3fZi5vsXis8FsaDI07NK9DkmfOp.jpg",
+        "production_companies": [
+            {
+                "name": "London Independent Producers",
+                "id": 15871
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "sv",
+                "name": "svenska"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0047797",
+        "original_language": "en",
+        "popularity": 3.741,
+        "status": "Released",
+        "tagline": "Their Orders...Sink the Tirpitz!",
+        "video": false
+    },
+    {
+        "id_tmdb": 91613,
+        "title": "Sign of the Gladiator",
+        "release_date": "1959-03-05",
+        "overview": "Zenobia, Queen of Palmira, revolts against Rome and defeats the Roman troops, but she makes a big mistake when she falls in love with enemy officer Marco Valerio.",
+        "poster_path": "/6wlZrlo9xaNSgMsNBoLsVYWUXyP.jpg",
+        "backdrop_path": "/arEha92zi6vC99FsVU4reXMivtG.jpg",
+        "production_companies": [
+            {
+                "name": "Glomer Film",
+                "id": 8939
+            },
+            {
+                "name": "Societé Cinématographique Lyre",
+                "id": 8948
+            },
+            {
+                "name": "Tele Film GmbH",
+                "id": 8949
+            },
+            {
+                "name": "Lux Compagnie Cinématographique de France",
+                "id": 12243
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0051985",
+        "original_language": "pt",
+        "popularity": 3.739,
+        "status": "Released",
+        "tagline": "SEE! 10,000 NORSEMEN CHARGE THE VALLEY OF BLOOD",
+        "video": false
+    },
+    {
+        "id_tmdb": 130145,
+        "title": "The Two-Headed Spy",
+        "release_date": "1958-11-17",
+        "overview": "Wartime thriller with film noir elements based on a true story as written in A.P. Scotland's autobiography \"The London Cage\". The plot has greatly exaggerated the actual events of A.P. Scotland's experiences, including the addition of a fictional love interest.",
+        "poster_path": "/jvJQPx5pI5KM8tfZYfxKgclhcm7.jpg",
+        "backdrop_path": "/20GRPjOQFoMlZpPUzOoqMeNzORO.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052327",
+        "original_language": "en",
+        "popularity": 3.721,
+        "status": "Released",
+        "tagline": "Fantastic Exploits of the Master Spy of WWII",
+        "video": false
+    },
+    {
+        "id_tmdb": 94135,
+        "title": "Yesterday's Enemy",
+        "release_date": "1959-09-10",
+        "overview": "Set during the Burma Campaign of World War 2, this is the story of courage and endurance of the soldiers struggling at close quarters against the enemy. The film examines the moral dilemmas ordinary men face during war, when the definitions of acceptable military action and insupportable brutality become blurred and distorted.",
+        "poster_path": "/piYJtlIlOFyDjui7j6NAuywNGbe.jpg",
+        "backdrop_path": "/zD9u2lmJTp918Y3jpVWyAHRn4OK.jpg",
+        "production_companies": [
+            {
+                "name": "Hammer Film Productions",
+                "id": 1314
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0053458",
+        "original_language": "en",
+        "popularity": 3.709,
+        "status": "Released",
+        "tagline": "War Is Hell!",
+        "video": false
+    },
+    {
+        "id_tmdb": 43320,
+        "title": "Napoleon",
+        "release_date": "1955-03-25",
+        "overview": "The film follows the life of Napoleon from his early life in Corsica to his death at Saint Helena. The film is notable for its use of location shooting for numerous scenes, especially at the French estates of Malmaison and Fontainebleau, the Palace of Versailles, and sites of Napoleonic battles including Austerlitz and Waterloo.",
+        "poster_path": "/frKF1ZFc7KUf0NyUSAtNy2uSXPV.jpg",
+        "backdrop_path": "/9XoUxZJ263hOggq6RiYDAWrL2Tl.jpg",
+        "production_companies": [
+            {
+                "name": "Francinex",
+                "id": 10882
+            },
+            {
+                "name": "Courts et Longs Métrages (C.L.M.)",
+                "id": 77866
+            },
+            {
+                "name": "Filmsonor",
+                "id": 534
+            },
+            {
+                "name": "Rizzoli Film",
+                "id": 1131
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0048413",
+        "original_language": "fr",
+        "popularity": 3.676,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 109441,
+        "title": "Don't Go Near the Water",
+        "release_date": "1957-11-14",
+        "overview": "Madison Avenue-trained Navy men handle public relations on a South Pacific island during World War II.",
+        "poster_path": "/zxs6jZIyWWOsANrwol8YhxxKeCR.jpg",
+        "backdrop_path": "/wLubSdLGzxDgoCDixcXBR4pGTzf.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            },
+            {
+                "name": "Avon Productions",
+                "id": 100
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0050327",
+        "original_language": "en",
+        "popularity": 3.659,
+        "status": "Released",
+        "tagline": "THE LAUGH OF YOUR LIFE-TIME!",
+        "video": false
+    },
+    {
+        "id_tmdb": 84109,
+        "title": "Private's Progress",
+        "release_date": "1956-02-17",
+        "overview": "Stanley Windrush has to interrupt his university education when he is called up towards the end of the war. He quickly proves himself not to be officer material, but befriends wily Private Percival Cox who knows exactly how all the scams work in the confused world of the British Army. And Stanley's brigadier War Office uncle seems to be up to something more than a bit shady too - and they are both soon working for him, behind the enemy lines.",
+        "poster_path": "/dnHaZ2dyyuz4YAW7L5fgzn3Xwk5.jpg",
+        "backdrop_path": "/kYEoCQQd3bnDnzgpTo4IZij7k40.jpg",
+        "production_companies": [
+            {
+                "name": "Charter Film Productions",
+                "id": 8622
+            },
+            {
+                "name": "British Lion Film Corporation",
+                "id": 104314
+            },
+            {
+                "name": "Boulting Brothers",
+                "id": 14884
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1000578,
+            "name": "Stanley Windrush Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0049637",
+        "original_language": "en",
+        "popularity": 3.633,
+        "status": "Released",
+        "tagline": "The film that is respectfully dedicated to all those who got away with it !",
+        "video": false
+    },
+    {
+        "id_tmdb": 19968,
+        "title": "No Time for Sergeants",
+        "release_date": "1958-07-05",
+        "overview": "Georgia farm boy Will Stockdale is about to bust with pride. He’s been drafted. Will’s ready. But is Uncle Sam ready for Will?",
+        "poster_path": "/yCoIRzy6C5TCXN0ibD2IqEqqOgl.jpg",
+        "backdrop_path": "/4fobpKsoeNrJ8BtbYiHP4AdSVjU.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0052005",
+        "original_language": "en",
+        "popularity": 3.62,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

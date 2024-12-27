@@ -1,0 +1,63 @@
+[
+    {
+        "id_tmdb": 283828,
+        "title": "For the Red Banner",
+        "release_date": "1919-02-23",
+        "overview": "",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "AO \"Neptun\"",
+                "id": 241756
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0229066",
+        "original_language": "ru",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 213282,
+        "title": "Der Feind hört mit",
+        "release_date": "1918-08-09",
+        "overview": "Der Feind hört mit is a propaganda film showing the unintentional effects of a negligent comment made by one German radio operator which causes the loss of many German lives. The slogan Feind hört mit (= the enemy is listening) is the German equivalent of loose lips sink ships .",
+        "poster_path": "/k9ygM31S2wKXTXSZ9TkjI7nur4p.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "",
+        "original_language": "de",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

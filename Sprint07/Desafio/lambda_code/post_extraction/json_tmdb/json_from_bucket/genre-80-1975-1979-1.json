@@ -1,0 +1,4420 @@
+[
+    {
+        "id_tmdb": 103,
+        "title": "Taxi Driver",
+        "release_date": "1976-02-09",
+        "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+        "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+        "production_companies": [
+            {
+                "name": "Italo/Judeo Productions",
+                "id": 46059
+            },
+            {
+                "name": "Bill/Phillips",
+                "id": 46060
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 1900000,
+        "revenue": 28579636,
+        "vote_average": 8.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075314",
+        "original_language": "en",
+        "popularity": 53.242,
+        "status": "Released",
+        "tagline": "On every street in every city, there's a nobody who dreams of being a somebody.",
+        "video": false
+    },
+    {
+        "id_tmdb": 73475,
+        "title": "Call of the Blonde Goddess",
+        "release_date": "1977-12-09",
+        "overview": "Susan arrives in Haiti to live with her husband Jack, who lives with a lesbian housekeeper and Olga, a nymphomaniac platinum blonde, introduced to her as Jack's sister. Susan begins to have nightmares about voodoo ceremonies and murder.",
+        "poster_path": "/wgskL0VpR4ezc2Q7TE2Yfxy4fBL.jpg",
+        "backdrop_path": "/61zVzhJ1BnvYiC7THoLf4jyrxBw.jpg",
+        "production_companies": [
+            {
+                "name": "Nestor Film Produktion",
+                "id": 83438
+            },
+            {
+                "name": "Elite Film",
+                "id": 4856
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076645",
+        "original_language": "de",
+        "popularity": 28.428,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 15371,
+        "title": "Lupin the Third: The Castle of Cagliostro",
+        "release_date": "1979-07-06",
+        "overview": "After a successful robbery leaves famed thief Lupin the Third and his partner Jigen with nothing but a large amount of expertly crafted counterfeit bills, he decides to track down the forgers responsible—and steal any other treasures he may find in the Castle of Cagliostro, including the 'damsel in distress' he finds imprisoned there.",
+        "poster_path": "/hSFdyWptoDHuXlFZGzIrfVell4Q.jpg",
+        "backdrop_path": "/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+        "production_companies": [
+            {
+                "name": "Tokyo Movie Shinsha",
+                "id": 3069
+            },
+            {
+                "name": "Telecom Animation Film",
+                "id": 20868
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 7202188,
+        "revenue": 8194857,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1185967,
+            "name": "Lupin The Third Collection"
+        },
+        "homepage": "https://tmsanime.com/project/the-castle-of-cagliostro",
+        "imdb_id": "tt0079833",
+        "original_language": "ja",
+        "popularity": 22.718,
+        "status": "Released",
+        "tagline": "Believe in the Thief.",
+        "video": false
+    },
+    {
+        "id_tmdb": 968,
+        "title": "Dog Day Afternoon",
+        "release_date": "1975-09-21",
+        "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+        "poster_path": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+        "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+        "production_companies": [
+            {
+                "name": "Artists Entertainment Complex",
+                "id": 612
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1800000,
+        "revenue": 46665856,
+        "vote_average": 7.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072890",
+        "original_language": "en",
+        "popularity": 22.68,
+        "status": "Released",
+        "tagline": "Anything can happen during the dog days of summer. On August 22nd, 1972, everything did.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10649,
+        "title": "The Enforcer",
+        "release_date": "1976-12-16",
+        "overview": "Dirty Harry Callahan returns again, this time saddled with a rookie female partner. Together, they must stop a terrorist group consisting of angry Vietnam veterans.",
+        "poster_path": "/gs7Xz7uwUooKzuHebaniHUT97Gn.jpg",
+        "backdrop_path": "/bAMxzr52aGwNOQrrxqYyIrvx9zk.jpg",
+        "production_companies": [
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            },
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 46236000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 10456,
+            "name": "Dirty Harry Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0074483",
+        "original_language": "en",
+        "popularity": 22.552,
+        "status": "Released",
+        "tagline": "The dirtiest Harry of them all.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11327,
+        "title": "Midnight Express",
+        "release_date": "1978-08-31",
+        "overview": "Billy Hayes is caught attempting to smuggle drugs out of Turkey. The Turkish courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+        "poster_path": "/mW54BtqVRxrPnoO9gQQjTLJlnuU.jpg",
+        "backdrop_path": "/dIeD6Sgnpkwu3pkuEQ3rsVsvNCE.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Casablanca Filmworks",
+                "id": 15058
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "mt",
+                "name": "Malti"
+            },
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            }
+        ],
+        "budget": 2300000,
+        "revenue": 35000000,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://alanparker.com/film/midnight-express/",
+        "imdb_id": "tt0077928",
+        "original_language": "en",
+        "popularity": 21.755,
+        "status": "Released",
+        "tagline": "Walk into the incredible true experience of Billy Hayes. And bring all the courage you can.",
+        "video": false
+    },
+    {
+        "id_tmdb": 59068,
+        "title": "Sister Emanuelle",
+        "release_date": "1977-08-10",
+        "overview": "Sister Emanuelle and Sister Nanà go to meet Mr. Cazzabriga, who has a problem: his wild-child daughter, Monica, who he wants to send to a Catholic school to remove her from temptations around the house.",
+        "poster_path": "/eRmBJGmljHY9o7OHpcmPfdMKqQg.jpg",
+        "backdrop_path": "/7SyXKnL76PqHtIcGdUWnrOgdEkm.jpg",
+        "production_companies": [
+            {
+                "name": "MEN Cinematografica",
+                "id": 57000
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 227140,
+            "name": "Black Emanuelle Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0078344",
+        "original_language": "it",
+        "popularity": 21.104,
+        "status": "Released",
+        "tagline": "She sought refuge from her unquenchable thirst for love",
+        "video": false
+    },
+    {
+        "id_tmdb": 11843,
+        "title": "The Return of the Pink Panther",
+        "release_date": "1975-05-21",
+        "overview": "The famous Pink Panther jewel has once again been stolen and Inspector Clouseau is called in to catch the thief. The Inspector is convinced that 'The Phantom' has returned and utilises all of his resources – himself and his Asian manservant – to reveal the identity of 'The Phantom'.",
+        "poster_path": "/cDi6lHXmY12SxtjcP6IdK7mB3W1.jpg",
+        "backdrop_path": "/dNxg3o9PLnOcasD2QwvhuBxgRCO.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Jewel Productions",
+                "id": 10257
+            },
+            {
+                "name": "Pimlico Films",
+                "id": 10258
+            },
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 5000000,
+        "revenue": 41833347,
+        "vote_average": 6.807,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 937,
+            "name": "The Pink Panther (Original) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0072081",
+        "original_language": "en",
+        "popularity": 19.453,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 59902,
+        "title": "Bobbie Jo and the Outlaw",
+        "release_date": "1976-03-01",
+        "overview": "A young country-star wannabe takes off from her carhop career to join with a young, modern Billy the Kid wannabe for an adventure in theft, murder and mayhem.",
+        "poster_path": "/m32mECgVlf6b4laxNf017lIlgDe.jpg",
+        "backdrop_path": "/uMFLWov3TIkNOHPNGB3PMwrhQ8U.jpg",
+        "production_companies": [
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 300000,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074228",
+        "original_language": "en",
+        "popularity": 19.243,
+        "status": "Released",
+        "tagline": "It started out as a joy ride...It sure didn't end that way!",
+        "video": false
+    },
+    {
+        "id_tmdb": 225914,
+        "title": "Spider-Man",
+        "release_date": "1977-09-14",
+        "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+        "poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
+        "backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
+        "production_companies": [
+            {
+                "name": "Danchuk Productions",
+                "id": 10367
+            },
+            {
+                "name": "Charles Fries Productions",
+                "id": 19683
+            },
+            {
+                "name": "Dan Goodman Productions",
+                "id": 57020
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 225941,
+            "name": "Spider-Man (TV) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0075671",
+        "original_language": "en",
+        "popularity": 18.837,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 11583,
+        "title": "The First Great Train Robbery",
+        "release_date": "1978-12-14",
+        "overview": "In Victorian England, a master criminal makes elaborate plans to steal a shipment of gold from a moving train.",
+        "poster_path": "/56vLMA3Ab4TdclYnFrLTfrbg2ne.jpg",
+        "backdrop_path": "/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Starling Films",
+                "id": 23126
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079240",
+        "original_language": "en",
+        "popularity": 17.664,
+        "status": "Released",
+        "tagline": "Never have so few taken so much from so many.",
+        "video": false
+    },
+    {
+        "id_tmdb": 30143,
+        "title": "Lupin the Third: The Mystery of Mamo",
+        "release_date": "1978-12-16",
+        "overview": "While attempting to win the affections of a beautiful rival, a master thief risks death to learn the secret intentions of a wealthy and seemingly immortal, but certainly ruthless, recluse.",
+        "poster_path": "/6XyexLxAWQ2lezWtcfq6LqmJ5Tt.jpg",
+        "backdrop_path": "/gccc3ftPltWgFBGxPxQfOmBuY3a.jpg",
+        "production_companies": [
+            {
+                "name": "TOHO",
+                "id": 882
+            },
+            {
+                "name": "Tokyo Movie Shinsha",
+                "id": 3069
+            },
+            {
+                "name": "Telecom Animation Film",
+                "id": 20868
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1185967,
+            "name": "Lupin The Third Collection"
+        },
+        "homepage": "https://tmsanime.com/lupin-the-3rd-mystery-of-mamo",
+        "imdb_id": "tt0078187",
+        "original_language": "ja",
+        "popularity": 17.199,
+        "status": "Released",
+        "tagline": "Sometimes, being able to put together a world-class art collection takes a thief... this time it takes an extraordinary thief!",
+        "video": false
+    },
+    {
+        "id_tmdb": 2153,
+        "title": "The Driver",
+        "release_date": "1978-06-08",
+        "overview": "The Driver specializes in driving getaway cars for robberies. His exceptional talent has prevented him from being caught yet. After another successful flight from the police a self-assured detective makes it his primary goal to catch the Driver. He promises pardons to a gang if they help to convict him in a set-up robbery. The Driver seeks help from The Player to mislead the detective.",
+        "poster_path": "/zSpk2OH4MCgLGB06XDv4YUfBTv6.jpg",
+        "backdrop_path": "/yoh0I10l4ZnoCHxBIhZSIohTdvx.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            },
+            {
+                "name": "EMI Films",
+                "id": 538
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4000000,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077474",
+        "original_language": "en",
+        "popularity": 16.283,
+        "status": "Released",
+        "tagline": "To break the driver, the cop was willing to break the law.",
+        "video": false
+    },
+    {
+        "id_tmdb": 56659,
+        "title": "Midnight Party",
+        "release_date": "1976-01-23",
+        "overview": "Sylvia, a stripper, attends a party where the theme is a mock spy adventure. Unfortunately, she soon finds herself thrust in a real espionage adventure. There are these two playboys that invite her to their midnight orgy. Later, her communist rock star lover shows up in her dressing room and starts shouting anti-capitalist rhetoric. In the mean time, her hypochondriac husband keeps loosing money in poker games. And in between, she talks directly into the camera, trying to entertain us.",
+        "poster_path": "/puKdpBuqVJx3bHBX2DFr4hITZdu.jpg",
+        "backdrop_path": "/7A9Eit3DyYyMaJgALDipkkKzIFZ.jpg",
+        "production_companies": [
+            {
+                "name": "Elite Film",
+                "id": 4856
+            },
+            {
+                "name": "Eurociné",
+                "id": 4799
+            },
+            {
+                "name": "BelFilm",
+                "id": 28951
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072793",
+        "original_language": "fr",
+        "popularity": 16.013,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17814,
+        "title": "Assault on Precinct 13",
+        "release_date": "1976-10-08",
+        "overview": "The lone inhabitants of an abandoned police station are under attack by the overwhelming numbers of a seemingly unstoppable street gang.",
+        "poster_path": "/cbmyFLPqs4goYor9aY1X8cm65FL.jpg",
+        "backdrop_path": "/dm1bqDSw3MJTjYCeuNUv122BXFp.jpg",
+        "production_companies": [
+            {
+                "name": "Overseas FilmGroup",
+                "id": 888
+            },
+            {
+                "name": "The CKK Corporation",
+                "id": 3403
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 150000,
+        "revenue": 0,
+        "vote_average": 7.279,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.theofficialjohncarpenter.com/assault-of-precinct-13/",
+        "imdb_id": "tt0074156",
+        "original_language": "en",
+        "popularity": 15.761,
+        "status": "Released",
+        "tagline": "A white-hot night of hate!",
+        "video": false
+    },
+    {
+        "id_tmdb": 6081,
+        "title": "Revenge of the Pink Panther",
+        "release_date": "1978-01-08",
+        "overview": "Chief Inspector Jacques Clouseau is dead. At least that is what the world—and Charles Dreyfus—believe when a dead body is discovered in Clouseau's car after being shot off the road. Naturally, Clouseau knows differently and, taking advantage of not being alive, sets out to discover why an attempt was made on his life.",
+        "poster_path": "/pvFiI8Kkq6JIf9uxDUU5FEvet7f.jpg",
+        "backdrop_path": "/uizfVRkjqjTUcPu1rhb2Up10gwp.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Jewel Productions",
+                "id": 10257
+            },
+            {
+                "name": "Sellers-Edwards productions",
+                "id": 23537
+            },
+            {
+                "name": "Pimlico Films",
+                "id": 10258
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 49579269,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 937,
+            "name": "The Pink Panther (Original) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0078163",
+        "original_language": "en",
+        "popularity": 15.704,
+        "status": "Released",
+        "tagline": "Just when you thought it was safe to go back to the movies.",
+        "video": false
+    },
+    {
+        "id_tmdb": 42170,
+        "title": "Vengeance Is Mine",
+        "release_date": "1979-04-21",
+        "overview": "A thief, a murderer, and a charming lady-killer, Iwao Enokizu is on the run from the police.",
+        "poster_path": "/7mzlay0miUkplT0EsKdR8znOVpe.jpg",
+        "backdrop_path": "/dJnL1UmpXJEXSPqBklbmxEkzGcw.jpg",
+        "production_companies": [
+            {
+                "name": "Imamura Productions",
+                "id": 10444
+            },
+            {
+                "name": "Shochiku",
+                "id": 192
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.504,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079182",
+        "original_language": "ja",
+        "popularity": 15.294,
+        "status": "Released",
+        "tagline": "Living only for today — for pleasure. A killer who gets what he wants — including death.",
+        "video": false
+    },
+    {
+        "id_tmdb": 12268,
+        "title": "The Pink Panther Strikes Again",
+        "release_date": "1976-12-15",
+        "overview": "Charles Dreyfus, who has finally cracked over inspector Clouseau's antics, escapes from a mental institution and launches an elaborate plan to get rid of Clouseau once and for all.",
+        "poster_path": "/GGCch9LNAKwp4ZADAcNz1hd1dn.jpg",
+        "backdrop_path": "/mOAfltAX1xtY6kunfAmF4BZjO8A.jpg",
+        "production_companies": [
+            {
+                "name": "Amjo Productions",
+                "id": 23534
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6000000,
+        "revenue": 33833201,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 937,
+            "name": "The Pink Panther (Original) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0075066",
+        "original_language": "en",
+        "popularity": 14.994,
+        "status": "Released",
+        "tagline": "Why are the world's chief assassins after Inspector Clouseau? Why not? Everybody else is.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11558,
+        "title": "Silver Streak",
+        "release_date": "1976-12-03",
+        "overview": "A somewhat daffy book editor on a rail trip from Los Angeles to Chicago thinks that he sees a murdered man thrown from the train. When he can find no one who will believe him, he starts doing some investigating of his own. But all that accomplishes is to get the killer after him.",
+        "poster_path": "/fNOh3ljmTonQ9kuICJhp02bXGDg.jpg",
+        "backdrop_path": "/gSVgrsjXECh9Km2SuITqdAHSeaL.jpg",
+        "production_companies": [
+            {
+                "name": "Frank Yablans Presentations",
+                "id": 4988
+            },
+            {
+                "name": "Miller-Milkis Productions",
+                "id": 12283
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 6500000,
+        "revenue": 51100000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075223",
+        "original_language": "en",
+        "popularity": 14.248,
+        "status": "Released",
+        "tagline": "By train, by plane, by the edge of your seat - It's the most hilarious suspense ride of your life!",
+        "video": false
+    },
+    {
+        "id_tmdb": 42172,
+        "title": "Hardcore",
+        "release_date": "1979-02-09",
+        "overview": "A conservative Midwest businessman ventures into the sordid underworld of pornography in search of his runaway teenage daughter who’s making hardcore films in the pits of Los Angeles.",
+        "poster_path": "/g6m9xBTAzxXVhdJ624s9BLK9o6.jpg",
+        "backdrop_path": "/o9waw6sQvm6NeEMdDXeoCQI0nYo.jpg",
+        "production_companies": [
+            {
+                "name": "A-Team",
+                "id": 6128
+            },
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079271",
+        "original_language": "en",
+        "popularity": 13.267,
+        "status": "Released",
+        "tagline": "“Oh my God, that's my daughter.”",
+        "video": false
+    },
+    {
+        "id_tmdb": 143472,
+        "title": "Oryu's Passion: Bondage Skin",
+        "release_date": "1975-06-18",
+        "overview": "When the boss of a yakuza clan in 1920s Osaka is assassinated, Oryu, his mistress, vows revenge. Her search for the killer takes her out of the city. The old boss' son proves a poor leader, only interested in Omitsu, his high-class girlfriend. Yajima, the second-in-command, is taking advantage of the situation to accumulate power for himself...",
+        "poster_path": "/vCISzRPio9ogTGn3mVwZVJNuakF.jpg",
+        "backdrop_path": "/pS2E1lQsNMrM6zt9qkvNquK3H3q.jpg",
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0287617",
+        "original_language": "ja",
+        "popularity": 13.226,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22094,
+        "title": "Hard Times",
+        "release_date": "1975-08-13",
+        "overview": "In the depression, Chaney, a strong silent streetfighter, joins with Speed, a promoter of no-holds-barred street boxing bouts. They go to New Orleans where Speed borrows money to set up fights for Chaney, but Speed gambles away any winnings.",
+        "poster_path": "/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg",
+        "backdrop_path": "/cjA8bxjXcw3I63DlO3qa6uFwrH4.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "Claridge Productions",
+                "id": 15667
+            },
+            {
+                "name": "Major Studio Partners",
+                "id": 445
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2700000,
+        "revenue": 5000000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073092",
+        "original_language": "en",
+        "popularity": 13.184,
+        "status": "Released",
+        "tagline": "New Orleans, 1933. In those days words didn't say much.",
+        "video": false
+    },
+    {
+        "id_tmdb": 39876,
+        "title": "Rape! 13th Hour",
+        "release_date": "1977-01-22",
+        "overview": "A serial rapist takes on a young protégé to his craft as he is pursued by a homosexual gang seeking vengeance for an attack on their leader.",
+        "poster_path": "/cVMPBtT57ok6yHRsldWL90PmWK5.jpg",
+        "backdrop_path": "/a3RWRdhD2i9xw59HbVn86tLgmnz.jpg",
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0287648",
+        "original_language": "ja",
+        "popularity": 13.076,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40420,
+        "title": "Cop or Hood",
+        "release_date": "1979-03-28",
+        "overview": "When the local police inspector was found dead in a prostitute's house, police division commissioner Stan Borowitz is sent to investigate the situation. Posing as the prostitute's long-lost brother \"Antonio Cerruti,\" he discovers a mare's nest of police corruption. In fact, in this comedy thriller the whole town is corrupt. If they were closely examined, Stan's methods for pursuing this investigation might embarrass the police. For instance, he drives into a criminal's house in a fancy, expensive race car. In another incident, he callously blows up a casino owned by Musard , one of the town's crime bosses. On that occasion, he first forces Musard to remove his clothes, and the poor criminal watches his casino explode from across the square while standing naked in a phone booth. Meanwhile, Stan seduces the lovely Edmonde.",
+        "poster_path": "/1wL9rqvi9346OdZs9EptPTEHMOz.jpg",
+        "backdrop_path": "/v4IYpvcpfs34FShpJ2h0YkS4ol6.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont",
+                "id": 9
+            },
+            {
+                "name": "Cerito Films",
+                "id": 10784
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077563",
+        "original_language": "fr",
+        "popularity": 12.969,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17689,
+        "title": "The Gauntlet",
+        "release_date": "1977-12-17",
+        "overview": "Phoenix cop Ben Shockley is well on his way to becoming a derelict when he is assigned to transport a witness from Las Vegas. The witness turns out to be a belligerent prostitute with mob ties—and incriminating information regarding a high-ranking figure.",
+        "poster_path": "/hYXkHixmH2W4hXA0qVJpT4ONPt1.jpg",
+        "backdrop_path": "/lgDQLrJs6XAJ1svDFVAPlBztECb.jpg",
+        "production_companies": [
+            {
+                "name": "Malpaso Productions",
+                "id": 171
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 5500000,
+        "revenue": 26400000,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076070",
+        "original_language": "en",
+        "popularity": 12.956,
+        "status": "Released",
+        "tagline": "Clint Eastwood is the man in the middle of The Gauntlet",
+        "video": false
+    },
+    {
+        "id_tmdb": 47634,
+        "title": "The Bullet Train",
+        "release_date": "1975-07-05",
+        "overview": "A Japanese bullet train is threatened with a bomb that will explode automatically if the train slows below 80 km/h, unless a ransom is paid. Police race to find the bombers so the train crew can learn how to defuse the bomb.",
+        "poster_path": "/viCIKxztBhLjiXOiuNLqpaUHI0v.jpg",
+        "backdrop_path": "/rD4ktz5ycjXos7fCk6oMrUx6Lbj.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0080479",
+        "original_language": "ja",
+        "popularity": 12.693,
+        "status": "Released",
+        "tagline": "They said it couldn't happen... But for 1500 passengers Bullet Train 109 became a nightmare journey that just couldn't be stopped!",
+        "video": false
+    },
+    {
+        "id_tmdb": 6037,
+        "title": "Murder by Death",
+        "release_date": "1976-06-23",
+        "overview": "Lionel Twain invites the world's five greatest detectives to a 'dinner and murder'. Included are a blind butler, a deaf-mute maid, screams, spinning rooms, secret passages, false identities and more plot turns and twists than are decently allowed.",
+        "poster_path": "/9HlvA3JUn0yuUvWUXJTfMJB1Vge.jpg",
+        "backdrop_path": "/frM7pCS0vWnT1Utb81YyErmohmg.jpg",
+        "production_companies": [
+            {
+                "name": "Rastar Productions",
+                "id": 1177
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 32511047,
+        "vote_average": 7.186,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074937",
+        "original_language": "en",
+        "popularity": 12.549,
+        "status": "Released",
+        "tagline": "By the time the world's greatest detectives figure out whodunnit... you could die laughing!",
+        "video": false
+    },
+    {
+        "id_tmdb": 32042,
+        "title": "Night Moves",
+        "release_date": "1975-02-27",
+        "overview": "Private detective and former football player Harry Moseby gets hired on to what seems a standard missing person case, as a former Hollywood actress whose only major roles came thanks to being married to a studio mogul wants Moseby to find and return her daughter. Harry travels to Florida to find her, but he begins to see a connection between the runaway girl, the world of Hollywood stuntmen, and a suspicious mechanic when an unsolved murder comes to light.",
+        "poster_path": "/j3zMCyvhGlpw31BAWLVMEZNPfOX.jpg",
+        "backdrop_path": "/oIZzr5PKgMRCb685CzBJVfW0zkg.jpg",
+        "production_companies": [
+            {
+                "name": "Layton Productions",
+                "id": 76493
+            },
+            {
+                "name": "Hiller Productions",
+                "id": 76494
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073453",
+        "original_language": "en",
+        "popularity": 12.433,
+        "status": "Released",
+        "tagline": "Maybe he would find the girl... maybe he would find himself.",
+        "video": false
+    },
+    {
+        "id_tmdb": 68635,
+        "title": "Women in Cellblock 9",
+        "release_date": "1978-03-17",
+        "overview": "A group of female freedom-fighters led by Karine Levere is caught by the warden of a women's prison, located somwhere in the South American jungle. None of them will reveal the secrets of their organisation or the names of their collaborators in the cities, so they are handed over to Dr. Costa who, after four years inactivity in Europe, is delighted to be able to practice his torture techniques once more.  Laverne fails to resist the inhuman treatments and reveals all. The only hope of saving the organization is for the girls to warn the city cell before it's too late. They trick the prison guard into having sex with them, knock him out and break out of prison. The warden and Dr. Costa must prevent them from revealing the practices inside the prison. The hunt is on and it's shoot to kill...",
+        "poster_path": "/c5FFvN60v6tO1iV9QDVsuGq4Tw4.jpg",
+        "backdrop_path": "/1jpIO9qYkn4CC0xO32J2fYD244W.jpg",
+        "production_companies": [
+            {
+                "name": "Elite Film",
+                "id": 4856
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0123847",
+        "original_language": "de",
+        "popularity": 12.43,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 38362,
+        "title": "The Con Artists",
+        "release_date": "1976-04-15",
+        "overview": "Belle Duke, in order to get revenge on her former lover Philip Bang, organize his jail break. But instead of Philip is the Italian Felice Brianza, AKAS Felix, to escape. Now Felix is obliged to help Philip to escape. He will succeeded and from that moment on the two will join to defraud Belle. The swindle plot become more complicate when Felix falls in love for Philip's daughter.",
+        "poster_path": "/4A35BCPL2bIEtvxONiE8FxqDm1J.jpg",
+        "backdrop_path": "/fVyZzDlAV8EUpEN5a2k5165Lzda.jpg",
+        "production_companies": [
+            {
+                "name": "Capital Film",
+                "id": 9290
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.071,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076101",
+        "original_language": "it",
+        "popularity": 11.591,
+        "status": "Released",
+        "tagline": "They'll do anything for a buck!",
+        "video": false
+    },
+    {
+        "id_tmdb": 10711,
+        "title": "French Connection II",
+        "release_date": "1975-05-18",
+        "overview": "\"Popeye\" Doyle travels to Marseilles to find Alain Charnier, the drug smuggler that eluded him in New York.",
+        "poster_path": "/kVaDwISsbAfBK4TdPZIDtEDIZxW.jpg",
+        "backdrop_path": "/ffI5k9rPEkEKRTYm4bS4da3Yh20.jpg",
+        "production_companies": [
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 4300000,
+        "revenue": 12500000,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 155474,
+            "name": "French Connection Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0073018",
+        "original_language": "en",
+        "popularity": 11.252,
+        "status": "Released",
+        "tagline": "The French Connection was only the beginning. THIS IS THE CLIMAX.",
+        "video": false
+    },
+    {
+        "id_tmdb": 5854,
+        "title": "Family Plot",
+        "release_date": "1976-04-09",
+        "overview": "Spiritualist Blanche Tyler and her cab-driving boyfriend encounter a pair of serial kidnappers while trailing a missing heir in California.",
+        "poster_path": "/yNgLa9mQUnf4Fz8fLq27gw7yHVf.jpg",
+        "backdrop_path": "/5WzusZileLb3TLyMOYrwWrh4YXu.jpg",
+        "production_companies": [
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            },
+            {
+                "name": "Alfred J. Hitchcock Productions",
+                "id": 10715
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2000000,
+        "revenue": 7900000,
+        "vote_average": 6.735,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074512",
+        "original_language": "en",
+        "popularity": 11.229,
+        "status": "Released",
+        "tagline": "There's no body in the family plot.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1835,
+        "title": "Farewell, My Lovely",
+        "release_date": "1975-08-08",
+        "overview": "Private eye Philip Marlowe is hired by ex-con Moose Malloy to find his girlfriend, a former lounge dancer. While also investigating the murder of a client and the theft of a jade necklace, Marlowe becomes entangled with seductress Helen Grayle and discovers a web of dark secrets that are better left hidden.",
+        "poster_path": "/ygk9oP5BJM7viLut42RidNB5JPV.jpg",
+        "backdrop_path": "/r0EBtfYplRIagrYMfi0pni3xpzr.jpg",
+        "production_companies": [
+            {
+                "name": "E.K.",
+                "id": 3537
+            },
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2500000,
+        "revenue": 2000000,
+        "vote_average": 6.587,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 515268,
+            "name": "Philip Marlowe (Robert Mitchum) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0072973",
+        "original_language": "en",
+        "popularity": 10.912,
+        "status": "Released",
+        "tagline": "\"I need another drink... I need a lot of life insurance... I need a vacation.... and all I've got is a coat, a hat, and a gun!\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 18710,
+        "title": "Capone",
+        "release_date": "1975-04-16",
+        "overview": "Young Al Capone catches the eye of Johnny Torrio, a criminal visiting New York from Chicago. Torrio invites Capone to move to Illinois to help run his Prohibition-era alcohol sales operation. Capone rises through the ranks of Torrio's gang and eventually takes over. On top, he works to consolidate his power by eliminating his enemies, fixing elections to his advantage and getting rich. In his spare time, Capone courts the principled Iris Crawford.",
+        "poster_path": "/jQYr6eQmKyNoKHrHUzeErgu4YXF.jpg",
+        "backdrop_path": "/i567c5aJrfN9KHFoD4lETnDRXji.jpg",
+        "production_companies": [
+            {
+                "name": "Santa Fe Productions",
+                "id": 77413
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 970000,
+        "revenue": 2000000,
+        "vote_average": 5.962,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072761",
+        "original_language": "en",
+        "popularity": 10.766,
+        "status": "Released",
+        "tagline": "The Man Who Made the Twenties Roar",
+        "video": false
+    },
+    {
+        "id_tmdb": 23397,
+        "title": "Straight Time",
+        "release_date": "1978-03-18",
+        "overview": "After being released on parole, a burglar attempts to go straight, get a regular job, and just go by the rules. He soon finds himself back in jail at the hands of a power-hungry parole officer.",
+        "poster_path": "/qht8SAqj7dEeEzv9yXalFB35ycb.jpg",
+        "backdrop_path": "/pEZ2w4DGCJD4DoK7ifQZLUDT7oK.jpg",
+        "production_companies": [
+            {
+                "name": "First Artists",
+                "id": 4376
+            },
+            {
+                "name": "Sweetwall",
+                "id": 14568
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 9900000,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078326",
+        "original_language": "en",
+        "popularity": 10.271,
+        "status": "Released",
+        "tagline": "\"Please God, don't let him get caught.\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 31604,
+        "title": "The Killer Elite",
+        "release_date": "1975-12-19",
+        "overview": "Mike Locken is one of the principal members of a group of freelance spies. A significant portion of their work is for the CIA, and while on a case for them one of his friends turns on him and shoots him in the elbow and knee. His assignment, to protect someone, goes down in flames. He is nearly crippled, but with braces is able to again become mobile. For revenge as much as anything else, Mike goes after his ex-friend.",
+        "poster_path": "/d8G9oXJcFjl7dPVVg83HpKQ9td9.jpg",
+        "backdrop_path": "/9YLtCFKDTi9MYkGnfyBMDZJrdK4.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Persky-Bright Productions",
+                "id": 624
+            },
+            {
+                "name": "Baum/Dantine Productions",
+                "id": 2162
+            },
+            {
+                "name": "Exeter Associates",
+                "id": 6164
+            },
+            {
+                "name": "Arthur Lewis Productions",
+                "id": 28265
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 1000000,
+        "vote_average": 5.768,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073240",
+        "original_language": "en",
+        "popularity": 10.142,
+        "status": "Released",
+        "tagline": "They protect us from the enemy, but who protects us from them?",
+        "video": false
+    },
+    {
+        "id_tmdb": 25476,
+        "title": "Scum",
+        "release_date": "1979-09-12",
+        "overview": "Powerful, uncompromising drama about two boys' struggle for survival in the nightmare world of Britain's notorious Borstal Reformatory.",
+        "poster_path": "/7jgzCmnF4QwRGbv2ubK9VIOAkJp.jpg",
+        "backdrop_path": "/aLwCAYMGhjx2TgSRvEbLUFg3sJc.jpg",
+        "production_companies": [
+            {
+                "name": "Berwick Street Productions",
+                "id": 2392
+            },
+            {
+                "name": "Boyd's Company",
+                "id": 3147
+            },
+            {
+                "name": "Kendon Films Ltd.",
+                "id": 3148
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 420000,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079871",
+        "original_language": "en",
+        "popularity": 10.13,
+        "status": "Released",
+        "tagline": "In Borstal, survival rules!",
+        "video": false
+    },
+    {
+        "id_tmdb": 11222,
+        "title": "The American Friend",
+        "release_date": "1977-06-24",
+        "overview": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
+        "poster_path": "/pBi7QjQJbyEKK7Y5B1vHaEaO3BS.jpg",
+        "backdrop_path": "/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
+        "production_companies": [
+            {
+                "name": "Road Movies",
+                "id": 45
+            },
+            {
+                "name": "Wim Wenders Productions",
+                "id": 27992
+            },
+            {
+                "name": "Les Films du Losange",
+                "id": 223
+            },
+            {
+                "name": "WDR",
+                "id": 46
+            },
+            {
+                "name": "Bavaria Film",
+                "id": 1704
+            },
+            {
+                "name": "Filmverlag der Autoren",
+                "id": 10869
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075675",
+        "original_language": "de",
+        "popularity": 10.119,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 69517,
+        "title": "Death of a Corrupt Man",
+        "release_date": "1977-12-07",
+        "overview": "In the middle of the night, deputy Philippe Dubaye wakes up his old friend Xavier Maréchal with disturbing news: he has just killed Serrano, a racketeer with extant political connections. Serrano kept proofs of Dubaye's involvement in corrupt dealings and was poised to use them against the deputy. Xavier readily agrees to cover up for his old pal Philippe, but he soon runs into difficulties. Nobody believes Dubaye's alibi. And everybody -- influential personalities, powerful businessmen, dubious go-betweens and the police -- wants to get hold of the documents that served to blackmail Dubaye; by all possible means...",
+        "poster_path": "/pba0ETxhAldp0ccDGoz4RM8JyJ9.jpg",
+        "backdrop_path": "/8U31A3HgUkF83wy6BL4zgtE26fe.jpg",
+        "production_companies": [
+            {
+                "name": "Adel Productions",
+                "id": 1713
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076410",
+        "original_language": "fr",
+        "popularity": 9.963,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 34374,
+        "title": "Murder by Decree",
+        "release_date": "1979-02-01",
+        "overview": "Sherlock Holmes is drawn into the case of Jack the Ripper, who is killing prostitutes in London's East End. Assisted by Dr. Watson, and using information provided by a renowned psychic, Robert Lees, Holmes finds that the murders may have their roots in a Royal indiscretion and that a cover-up is being managed by politicians at the highest level, all of whom happen to be Masons.",
+        "poster_path": "/vjuO0XKak8v3uUdNjWr5sNIlJ4b.jpg",
+        "backdrop_path": "/xHZ4ws882XSmz6mYtDUyceRjKIx.jpg",
+        "production_companies": [
+            {
+                "name": "Canadian Film Development Corporation",
+                "id": 4952
+            },
+            {
+                "name": "Famous Players",
+                "id": 541
+            },
+            {
+                "name": "Highlight",
+                "id": 10
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079592",
+        "original_language": "en",
+        "popularity": 9.953,
+        "status": "Released",
+        "tagline": "The Jack the Ripper Murders. Sherlock Holmes lifts the veil of secrecy, corruption and terror at the heart of the throne of England itself. Clue by clue... Murder by murder...",
+        "video": false
+    },
+    {
+        "id_tmdb": 25264,
+        "title": "I... For Icarus",
+        "release_date": "1979-12-19",
+        "overview": "Following the assassination of President Marc Jarry, a member of the investigation committee refuses to sign off on the committee's final findings.",
+        "poster_path": "/q3t1r7zabpfUDTzpbN7ecsl0Rp2.jpg",
+        "backdrop_path": "/w9IdCHryST0DuiYoiGs98m2Prnn.jpg",
+        "production_companies": [
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            },
+            {
+                "name": "SFP",
+                "id": 6849
+            },
+            {
+                "name": "V Films",
+                "id": 14388
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.686,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079322",
+        "original_language": "fr",
+        "popularity": 9.932,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 33831,
+        "title": "The Onion Field",
+        "release_date": "1979-09-09",
+        "overview": "An LA police officer is murdered in the onion fields outside of Bakersfield. However, legal loopholes could keep his kidnappers from receiving justice, and his partner is haunted by overwhelming survivor's guilt.",
+        "poster_path": "/9XQiG3wiaHnJnAU2uNz5OaTBgBy.jpg",
+        "backdrop_path": "/iUsvXEn5avXC1AXkQUu6CUxbUjw.jpg",
+        "production_companies": [
+            {
+                "name": "Black Marble Productions",
+                "id": 5386
+            },
+            {
+                "name": "AVCO Embassy Pictures",
+                "id": 494
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.069,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079668",
+        "original_language": "en",
+        "popularity": 9.888,
+        "status": "Released",
+        "tagline": "What happened in the onion field is true. But the real crime is what happened after.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11055,
+        "title": "Flatfoot in Africa",
+        "release_date": "1978-03-22",
+        "overview": "Inspector Rizzo in Napoli gets a message from a policeman from South Africa who wants to meet him. Immediately before this meeting the South African policeman is killed. Dying he shows Rizzo a picture of his young son Bodo. Rizzo travels to Johannesburg to find out what the policeman was working on and to find Bodo.",
+        "poster_path": "/qNdEEsnYgKaaKIhlcRyAjSbpni4.jpg",
+        "backdrop_path": "/giUXzKkVLWeU2opZNMKPK54Z07C.jpg",
+        "production_companies": [
+            {
+                "name": "Rialto Film",
+                "id": 29165
+            },
+            {
+                "name": "Laser Films",
+                "id": 15191
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.13,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 10964,
+            "name": "Flatfoot Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0076544",
+        "original_language": "it",
+        "popularity": 9.605,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 14584,
+        "title": "The Cheap Detective",
+        "release_date": "1978-06-23",
+        "overview": "A spoof of the entire 1940s detective genre. San Francisco private detective, Lou Pekinpaugh is accused of murdering his partner at the instigation of his mistress—his partner's wife.",
+        "poster_path": "/7poVN0zQuxCIorAR9N6JDJN0dGG.jpg",
+        "backdrop_path": "/rVwsqRYQk3pz4irrqaOQcLTTKlM.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            },
+            {
+                "name": "EMI Films",
+                "id": 538
+            },
+            {
+                "name": "Rastar Productions",
+                "id": 1177
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077321",
+        "original_language": "en",
+        "popularity": 9.505,
+        "status": "Released",
+        "tagline": "He knows every cheap trick, cheap joke, cheap shot and cheap dame in the book.",
+        "video": false
+    },
+    {
+        "id_tmdb": 21948,
+        "title": "Rolling Thunder",
+        "release_date": "1977-11-02",
+        "overview": "A Vietnam veteran, Charles Rane, returns home after years in a POW camp and is treated as a hero. He has a hard time adjusting, and things go badly. A movie about the walking dead, before that meant just flesh-eating zombies.",
+        "poster_path": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+        "backdrop_path": "/jNwWDAetEotkXJeJyU4YYp4winp.jpg",
+        "production_companies": [
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            },
+            {
+                "name": "Lawrence Gordon Productions",
+                "id": 840
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 2000000,
+        "revenue": 0,
+        "vote_average": 6.804,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076637",
+        "original_language": "en",
+        "popularity": 9.499,
+        "status": "Released",
+        "tagline": "Major Charles Rane has come home to war!",
+        "video": false
+    },
+    {
+        "id_tmdb": 67467,
+        "title": "The Meeting Place Cannot Be Changed",
+        "release_date": "1979-11-11",
+        "overview": "Summer of 1945. The salute of the Great Victory died down and the country is gradually returning to peaceful life. From \"fire yes into the fire\" a young reconnaissance commander Volodya Sharapov falls, having come to the MUR for distribution, to the department for combating banditry. In the city the Black Cat gang rages, terrifying Muscovites. Captain Gleb Zheglov enters the fray with the bandits, for whom Sharapov soon becomes his right hand.",
+        "poster_path": "/4zQ9YplCntIrUrR2Hsq1i5vEPjY.jpg",
+        "backdrop_path": "/arUywl3oO34NyaXU3tHDCMeDxjy.jpg",
+        "production_companies": [
+            {
+                "name": "Odessa Film Studio",
+                "id": 3161
+            },
+            {
+                "name": "Gosteleradio USSR",
+                "id": 14620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SU",
+                "name": "Soviet Union"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.196,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078655",
+        "original_language": "ru",
+        "popularity": 9.422,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 23957,
+        "title": "Over the Edge",
+        "release_date": "1979-05-18",
+        "overview": "A group of bored teenagers rebel against authority in the community of New Granada.",
+        "poster_path": "/qSOYYtslBhH1kXIqA3h8FgecQe7.jpg",
+        "backdrop_path": "/tZEJL00TB6Md5sC5o36aI8pk1LV.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.172,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079688",
+        "original_language": "en",
+        "popularity": 9.393,
+        "status": "Released",
+        "tagline": "Nobody listened. Nobody cared. Until the night they went \"Over the Edge\"",
+        "video": false
+    },
+    {
+        "id_tmdb": 32653,
+        "title": "Flic Story",
+        "release_date": "1975-10-01",
+        "overview": "The film story depicts Emile Buisson, following the death of his wife and child, escaping from a psychiatric institution in 1947 and returning to Paris. Buisson, who three years later would become France's public enemy number one, begins a murderous rampage through the French capital.",
+        "poster_path": "/zaQ0ypsYBkMeQaBsNIj0mJBmCJz.jpg",
+        "backdrop_path": "/u321dKUqPavjKsBoXVSvqQtF8KD.jpg",
+        "production_companies": [
+            {
+                "name": "Adel Productions",
+                "id": 1713
+            },
+            {
+                "name": "Lira Films",
+                "id": 10522
+            },
+            {
+                "name": "Mondial Televisione Film",
+                "id": 10523
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072996",
+        "original_language": "fr",
+        "popularity": 9.303,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 32040,
+        "title": "The Killing of a Chinese Bookie",
+        "release_date": "1976-02-15",
+        "overview": "Cosmo Vittelli, the proprietor of a sleazy, low-rent Hollywood cabaret, has a real affection for the women who strip in his peepshows and the staff who keep up his dingy establishment. He also has a major gambling problem that has gotten him in trouble before. When Cosmo loses big-time at an underground casino run by mobster Mort, he isn't able to pay up. Mort then offers Cosmo the chance to pay back his debt by knocking off a pesky, Mafia-protected bookie.",
+        "poster_path": "/clQgmbmBOxvA2NepvijoL7YUCvr.jpg",
+        "backdrop_path": "/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",
+        "production_companies": [
+            {
+                "name": "Faces International Films",
+                "id": 454
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.107,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074749",
+        "original_language": "en",
+        "popularity": 9.271,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 91845,
+        "title": "The Return of Sister Street Fighter",
+        "release_date": "1975-09-30",
+        "overview": "When Koryu's childhood friend Shurei is abducted by gangsters, the desperate young woman recruits a female martial artist and a tough-as-nails stranger to join her for a dangerous rescue mission.",
+        "poster_path": "/psto61LrBvp7enqKrztjo5Ix2K6.jpg",
+        "backdrop_path": "/9lig0jtFMB6kWH8vgWDLlTXKu5h.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.393,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 334563,
+            "name": "Sister Street Fighter Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0196100",
+        "original_language": "ja",
+        "popularity": 9.255,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 48197,
+        "title": "The Town That Dreaded Sundown",
+        "release_date": "1976-12-24",
+        "overview": "When two young lovers are savagely beaten and tortured on a back country road in Texarkana, local police are baffled and must find \"the Phantom Killer\" before he can kill again.",
+        "poster_path": "/sI6kUePh4S3T1rDozPR0Etg7E8X.jpg",
+        "backdrop_path": "/18t6Zq6aEdZAfcQXilDi2NrMNJ7.jpg",
+        "production_companies": [
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            },
+            {
+                "name": "Charles B. Pierce Film Productions",
+                "id": 11468
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 400000,
+        "revenue": 0,
+        "vote_average": 5.799,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1035153,
+            "name": "The Town That Dreaded Sundown Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0075342",
+        "original_language": "en",
+        "popularity": 9.148,
+        "status": "Released",
+        "tagline": "In 1946 this man killed five people... Today he still lurks the streets of Texarkana, Arkansas.",
+        "video": false
+    },
+    {
+        "id_tmdb": 54523,
+        "title": "Hitch Hike",
+        "release_date": "1977-04-30",
+        "overview": "A bickering couple driving cross-country pick up a murderous hitchhiker who threatens to kill them unless they take him to a sanctuary. In return he agrees to split some bank loot he has on him.",
+        "poster_path": "/qo8Z0japEz6xKR9OBPslzKKqmND.jpg",
+        "backdrop_path": "/69f9n3MlirrkbkW6rx4G1HZlwof.jpg",
+        "production_companies": [
+            {
+                "name": "Medusa Distribuzione",
+                "id": 15868
+            },
+            {
+                "name": "Explorer Film '58",
+                "id": 1671
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077188",
+        "original_language": "it",
+        "popularity": 9.112,
+        "status": "Released",
+        "tagline": "Hitch a Ride ... Hitch a Date with Death!",
+        "video": false
+    },
+    {
+        "id_tmdb": 21376,
+        "title": "A Force of One",
+        "release_date": "1979-06-01",
+        "overview": "Karate champion Matt Logan is enlisted by the police to train officers in self-defense after narcotics agents are killed by an assailant using the martial arts.",
+        "poster_path": "/7VrGDSXa7TD0fTljibymINxQ5Hg.jpg",
+        "backdrop_path": "/iLGPSH7FOnPCANAW5ZUwy05UFUp.jpg",
+        "production_companies": [
+            {
+                "name": "American Cinema Productions",
+                "id": 4112
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3500000,
+        "revenue": 20166000,
+        "vote_average": 4.82,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0079168",
+        "original_language": "en",
+        "popularity": 8.989,
+        "status": "Released",
+        "tagline": "He hears the silence. He see's the darkness. He's the only one who can stop the killing.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1815,
+        "title": "The Big Sleep",
+        "release_date": "1978-03-13",
+        "overview": "Private eye Philip Marlowe investigates a case of blackmail involving the two wild daughters of a rich general, a pornographer and a gangster.",
+        "poster_path": "/8GQIPVoISizOE9t0R9NO2ypG9wa.jpg",
+        "backdrop_path": "/yz54vZyynTtKyq82zjJFucBcOUm.jpg",
+        "production_companies": [
+            {
+                "name": "ITC Entertainment",
+                "id": 1155
+            },
+            {
+                "name": "Winkast Film Productions",
+                "id": 13721
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 515268,
+            "name": "Philip Marlowe (Robert Mitchum) Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0077234",
+        "original_language": "en",
+        "popularity": 8.96,
+        "status": "Released",
+        "tagline": "Meet Philip Marlowe. The toughest private eye who ever wore a trench coat, slapped a dame and split his knuckles on a jawbone.",
+        "video": false
+    },
+    {
+        "id_tmdb": 89602,
+        "title": "Crazy Mama",
+        "release_date": "1975-06-01",
+        "overview": "Melba Stokes, her mother Sheba and daughter Cheryl embark on a crime spree after their California beauty parlor is repossessed. Their destination is Arkansas, where the three generations of women want to reclaim the family farm.",
+        "poster_path": "/868gQ8gYhBggAy3meIx57fUfsDY.jpg",
+        "backdrop_path": "/nKmecN2dvKLjkcFol7MdKb6lbiC.jpg",
+        "production_companies": [
+            {
+                "name": "New World Pictures",
+                "id": 1950
+            },
+            {
+                "name": "New World",
+                "id": 96477
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072829",
+        "original_language": "en",
+        "popularity": 8.797,
+        "status": "Released",
+        "tagline": "In 1957 Cheryl Drove Her Mom's Chevy on a Heavy Date: Got Knocked Up, Knocked Over a Bank, Smashed Four Police Cars, and Kidnapped Her Stepfather. It Was a Crazy Year!",
+        "video": false
+    },
+    {
+        "id_tmdb": 21147,
+        "title": "No Deposit, No Return",
+        "release_date": "1976-02-05",
+        "overview": "Two rich children devise a way to escape their grandfather and visit their mother. Unfortunately for two hapless safe crackers, they become part of the plan.",
+        "poster_path": "/kPcaro9ZFI41mpEXu2Uz8M6iizL.jpg",
+        "backdrop_path": "/wz5y94yqjBdcgrBiKORcjYoQZhC.jpg",
+        "production_companies": [
+            {
+                "name": "Walt Disney Productions",
+                "id": 3166
+            },
+            {
+                "name": "Buena Vista Pictures",
+                "id": 32
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074968",
+        "original_language": "en",
+        "popularity": 8.702,
+        "status": "Released",
+        "tagline": "A pair of jokers make double trouble in a hullaba-lulu of a caper",
+        "video": false
+    },
+    {
+        "id_tmdb": 14839,
+        "title": "Blue Collar",
+        "release_date": "1978-02-10",
+        "overview": "Fed up with mistreatment at the hands of both management and union brass, and coupled with financial hardships on each man's end, three auto assembly line workers hatch a plan to rob a safe at union headquarters.",
+        "poster_path": "/7WBBcgzESyX1qEq9x7tg22dlORL.jpg",
+        "backdrop_path": "/rLA4Dr4r9JNcc43OLNwMGy1cnFB.jpg",
+        "production_companies": [
+            {
+                "name": "TAT Communications Company",
+                "id": 14109
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1700000,
+        "revenue": 6521083,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077248",
+        "original_language": "en",
+        "popularity": 8.596,
+        "status": "Released",
+        "tagline": "\"Blue Collar\" is the American Dream. If you're rich, you can buy it. If you're anything else, you gotta fight for it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 91872,
+        "title": "Cops vs. Thugs",
+        "release_date": "1975-04-26",
+        "overview": "When a lucrative waterfront development becomes available, the Kawade gang quickly use their political connections to secure the land. However, the acting boss of the Ohara gang also has his eyes on the property and recruits crooked detective Tokumatsu Kuno to help him hijack the deal. With relations between the rival gangs at breaking point, it's not long before all-out war breaks out as the gangsters, police and local politicians battle for control of the city.",
+        "poster_path": "/wPMSKwFJSQfhoiqFUCvSeSSEWaF.jpg",
+        "backdrop_path": "/4oqbAlUCFqGlOgCnZGu2zRFV0Kg.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.292,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073234",
+        "original_language": "ja",
+        "popularity": 8.523,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40180,
+        "title": "The Night Caller",
+        "release_date": "1975-04-09",
+        "overview": "A serial-killer frightens Paris by phoning young ladies at night, telling them insults about their lives. Minos, as he calls himself, wants to prevent the world from free women and he targets at first these ones. Commissaire Letellier is given the investigation and he has hard work with the maniac.",
+        "poster_path": "/8i1a5edqui2fbP6zDmSvHWe0Wr2.jpg",
+        "backdrop_path": "/ufOOBCOyZbCp6xNYiDH3Zwz5f96.jpg",
+        "production_companies": [
+            {
+                "name": "Mondial Televisione Film",
+                "id": 10523
+            },
+            {
+                "name": "Cerito Films",
+                "id": 10784
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073535",
+        "original_language": "fr",
+        "popularity": 8.506,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 59143,
+        "title": "Mikey and Nicky",
+        "release_date": "1976-12-21",
+        "overview": "Nick is desperate, holed up in a cheap hotel, suffering from an ulcer and convinced that a local mob boss wants him killed. Desperate and terrified, he calls Mikey, his friend since childhood and a fellow gangster. So begins a long night…",
+        "poster_path": "/fnHC1OJ1EbdOX97nmXVYrXFgiQT.jpg",
+        "backdrop_path": "/ikKB3UCXJ9acTrXEkyqGsWzCfvv.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4300000,
+        "revenue": 0,
+        "vote_average": 6.827,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074901",
+        "original_language": "en",
+        "popularity": 8.46,
+        "status": "Released",
+        "tagline": "...don’t expect to like ‘em.",
+        "video": false
+    },
+    {
+        "id_tmdb": 27396,
+        "title": "Brannigan",
+        "release_date": "1975-03-21",
+        "overview": "A hard-nosed Chicago cop is sent to London to bring back an American mobster being held for extradition. Brannigan in his Irish-American way brings American law to the people of Scotland Yard but has to contend with a stuffy old London first.",
+        "poster_path": "/n1kLe6y8hiPEOH9DhZcX7c12IP7.jpg",
+        "backdrop_path": "/t9dr5fN1mQzWGQaeqfMXx3wzQLy.jpg",
+        "production_companies": [
+            {
+                "name": "Levy-Gardner-Laven",
+                "id": 10463
+            },
+            {
+                "name": "Wellborn",
+                "id": 61092
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.878,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0072732",
+        "original_language": "en",
+        "popularity": 8.45,
+        "status": "Released",
+        "tagline": "Big Jim Brannigan takes on London - Chicago Style !",
+        "video": false
+    },
+    {
+        "id_tmdb": 21882,
+        "title": "Gator",
+        "release_date": "1976-08-25",
+        "overview": "After his release from prison, notorious ex-con and moonshine distiller Gator McKlusky moves in with his father in a cabin in the Okefenokee Swamp. His bootlegging plans are cut short, however, when a federal agent tells McKlusky that he will lose custody of his 9-year-old daughter unless he helps bring down local crime lord Bama McCall. McKlusky enlists the help of reporter Aggie Maybank and a few local eccentrics to bring down McCall's empire.",
+        "poster_path": "/n7mBSRhiH3qPHNgXqTc2evCx186.jpg",
+        "backdrop_path": "/l7sNa1FYIEevAMu1pCWOj615dIu.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Levy-Gardner-Laven",
+                "id": 10463
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 11000000,
+        "vote_average": 5.235,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 289531,
+            "name": "Gator Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0074564",
+        "original_language": "en",
+        "popularity": 8.393,
+        "status": "Released",
+        "tagline": "Come and get him.",
+        "video": false
+    },
+    {
+        "id_tmdb": 38438,
+        "title": "Buffet Froid",
+        "release_date": "1979-12-19",
+        "overview": "An absurd black comedy that cunningly reverses the conventions of the crime thriller to comment on the alienating and dehumanizing effects of contemporary urban life. Alphonse Tram is unwittingly involved in several murders despite having no memory of committing the crimes. His confusion lead him to confess to his neighbour, Inspector Morvandieu. Alphonse and Morvandieu become the axis around which murders occur.",
+        "poster_path": "/j6Yzrhn9bSwJprYTYl0xIC4NNPi.jpg",
+        "backdrop_path": "/vEjdGYz6slDQg7QE7EbRpDs0H7D.jpg",
+        "production_companies": [
+            {
+                "name": "Antenne 2",
+                "id": 1117
+            },
+            {
+                "name": "Sara Films",
+                "id": 876
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078913",
+        "original_language": "fr",
+        "popularity": 8.367,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17200,
+        "title": "Helter Skelter",
+        "release_date": "1976-04-01",
+        "overview": "The investigation of two horrific mass murders leads to the capture and trial of the psychotic pseudo-hippie Charles Manson and his \"family\".",
+        "poster_path": "/t2GMGZFT6AKEocASzRRe2yoOkuK.jpg",
+        "backdrop_path": "/wLHfFCz36xnIooBKVRFt3HDob8V.jpg",
+        "production_companies": [
+            {
+                "name": "Lorimar Productions",
+                "id": 898
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074621",
+        "original_language": "en",
+        "popularity": 8.35,
+        "status": "Released",
+        "tagline": "WHISPER IT LIKE A CURSE!",
+        "video": false
+    },
+    {
+        "id_tmdb": 57310,
+        "title": "The Sunday Woman",
+        "release_date": "1975-12-23",
+        "overview": "Police commissioner Santamaria is investigating the murder of the ambiguous architect Mr. Garrone. The investigations soon drive him into the Torino's high society. Santamaria suspect Anna Carla and at the same time falls in love for her. Lello is the lover of Massimo, Anna Carla’s gay friend. He is following another direction in order to find out the truth, and his results are confusing the Policeman. But another murder happens...",
+        "poster_path": "/kSoRxJc5vBYj1x1atWhE61e8z5k.jpg",
+        "backdrop_path": "/54upLqnMOkkmsh8KC1WirJrar0B.jpg",
+        "production_companies": [
+            {
+                "name": "Les Productions Fox Europa",
+                "id": 1602
+            },
+            {
+                "name": "Primex",
+                "id": 5081
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074423",
+        "original_language": "it",
+        "popularity": 8.349,
+        "status": "Released",
+        "tagline": "The police have the victim, the weapon and the suspect. What they don't have is the Sunday Woman.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11512,
+        "title": "Hunter Will Get You",
+        "release_date": "1976-02-01",
+        "overview": "L'Alpagueur is a free-lance spy from the French secret agency. He's put on the investigation about L'epervier, a serial-killer who employs young boys to help him robbing banks before killing them.",
+        "poster_path": "/2JmSWZVcK9gQAbIY5ni53oCvkp1.jpg",
+        "backdrop_path": "/giwEta86ga5JvMgkl178B4cULo.jpg",
+        "production_companies": [
+            {
+                "name": "Cerito Films",
+                "id": 10784
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074123",
+        "original_language": "fr",
+        "popularity": 8.189,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 59352,
+        "title": "The Man Who Stole the Sun",
+        "release_date": "1979-10-06",
+        "overview": "A high school science teacher is the butt of all his students' jokes, until their bus is hijacked on a school trip. But something more sinister lurks beneath the surface: he's building an atomic bomb in his apartment.",
+        "poster_path": "/valqAOUVMlnPchpQheo3aXIUfb5.jpg",
+        "backdrop_path": "/gGXpY7kZx34Ulo9Rnand43mqt1D.jpg",
+        "production_companies": [
+            {
+                "name": "Kitty Films",
+                "id": 4766
+            },
+            {
+                "name": "Tristone Entertainment",
+                "id": 13871
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0194426",
+        "original_language": "ja",
+        "popularity": 8.146,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 37455,
+        "title": "Police Python 357",
+        "release_date": "1976-03-31",
+        "overview": "A tough but honest cop must clear his name after a corrupt colleague implicates him in a murder in this French thriller. Ferrot is a hard-as-nails police detective who is attracted to a beautiful woman named Sylvia. Sylvia, however, is having an affair with Ganay, who happens to be Ferrot's superior on the force; Ganay happens to be married to Therese, who is handicapped. Sylvia is found murdered, and Ferrot is assigned to investigate; Ferrot is convinced that Ganay killed Sylvia because she wanted to end their relationship, but to his dismay, Ferrot discovers that the killer has placed a number of false clues that point the blame toward Ferrot.",
+        "poster_path": "/67ddTJ1msWwQtpRtksn0im0ysNW.jpg",
+        "backdrop_path": "/cQwWgR5FXi6Jwq2jeUvzppytG0Z.jpg",
+        "production_companies": [
+            {
+                "name": "Albina Productions S.a.r.l.",
+                "id": 1416
+            },
+            {
+                "name": "T.I.T. Filmproduktion",
+                "id": 1417
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075082",
+        "original_language": "fr",
+        "popularity": 8.096,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 69846,
+        "title": "Manhunt",
+        "release_date": "1976-02-11",
+        "overview": "A tough prosecutor is falsely accused of theft and goes on the run to clear his name. He is assisted by the beautiful daughter of a rich man.",
+        "poster_path": "/pYWmNHIJ1fT6EDmcOnE0IxNlpBR.jpg",
+        "backdrop_path": "/3O51qzXXnlA4wskz9zVTA0mWA94.jpg",
+        "production_companies": [
+            {
+                "name": "Daiei Film",
+                "id": 880
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0327002",
+        "original_language": "ja",
+        "popularity": 7.967,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 71851,
+        "title": "Graveyard of Honor",
+        "release_date": "1975-02-15",
+        "overview": "A self-destructive man becomes a powerful member of the Japanese mafia but quickly loses his self control. Based on the true story of Rikio Ishikawa.",
+        "poster_path": "/akDVDztEBt2SZ1StpPWMDMbVlL8.jpg",
+        "backdrop_path": "/zHX28FhOkzxoVbHdaMbHu0k2kPY.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.723,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073207",
+        "original_language": "ja",
+        "popularity": 7.941,
+        "status": "Released",
+        "tagline": "Only crows will cry when I die!",
+        "video": false
+    },
+    {
+        "id_tmdb": 24109,
+        "title": "Fun with Dick and Jane",
+        "release_date": "1977-03-18",
+        "overview": "When an upwardly mobile couple find themselves unemployed and in debt, they turn to armed robbery in desperation.",
+        "poster_path": "/obBXkCU29eRzbVX5erjrAxugOpN.jpg",
+        "backdrop_path": "/uEnOR1sA0B8AMrMl4J6MHLFvRvS.jpg",
+        "production_companies": [
+            {
+                "name": "Columbia Pictures",
+                "id": 5
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 4500000,
+        "revenue": 13600000,
+        "vote_average": 6.508,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.sonypictures.com/movies/funwithdickandjane",
+        "imdb_id": "tt0076059",
+        "original_language": "en",
+        "popularity": 7.919,
+        "status": "Released",
+        "tagline": "A Tribute to American Ingenuity",
+        "video": false
+    },
+    {
+        "id_tmdb": 31579,
+        "title": "God Told Me To",
+        "release_date": "1976-10-22",
+        "overview": "A repressed Catholic NYPD detective uncovers a netherworld of deranged faith, alien insemination and his own unholy connection to a homicidal messiah with a perverse plan for the soul of mankind.",
+        "poster_path": "/nbUjhJGCuSiDiMaNJs2kCtTL7ag.jpg",
+        "backdrop_path": "/lROocFe9RbTlOEHUU29AGH7KgWF.jpg",
+        "production_companies": [
+            {
+                "name": "Larco Productions",
+                "id": 17069
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.832,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075930",
+        "original_language": "en",
+        "popularity": 7.854,
+        "status": "Released",
+        "tagline": "The people of this city are being terrorized. The crimes have no motives. The killers have only one explanation...",
+        "video": false
+    },
+    {
+        "id_tmdb": 61226,
+        "title": "Incorrigible",
+        "release_date": "1975-10-15",
+        "overview": "Victor Vautier is incorrigible: he's in constant motion, working several cons at once, using different names and changing disguises. He's charming and outrageous, incapable of uttering a sentence that isn't embellished or an outright lie. His life goal is to make enough money to build a sea wall to protect Mont-Saint-Michel. Charlotte, a parole officer, shows up: she's young and seems taken in by Victor. He discovers she lives above the Senlus Museum, where her parents are the curators. With two pals he decides to steal a priceless El Greco triptych and then ransom it back to the cultural ministry. What will Charlotte do when she realizes he's used her to make a fortune?",
+        "poster_path": "/7oebCmYVJvmG7qB46inErLLLJbX.jpg",
+        "backdrop_path": "/2m0CqpQEneojpexmQiypm6zbTN0.jpg",
+        "production_companies": [
+            {
+                "name": "Mondex Et Cie",
+                "id": 175455
+            },
+            {
+                "name": "Les Films Ariane",
+                "id": 7110
+            },
+            {
+                "name": "Simar Films",
+                "id": 21466
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073163",
+        "original_language": "fr",
+        "popularity": 7.799,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 19174,
+        "title": "Dolemite",
+        "release_date": "1975-04-26",
+        "overview": "Dolemite is a pimp who was set up by Willie Greene and the cops, who have planted drugs, stolen furs, and guns in his trunk and got him sentenced to 20 years in jail. One day, Queen B and a warden planned to get him out of Jail and get Willie Green and Mitchell busted for what they did to him.",
+        "poster_path": "/sc81lG0MdHq1UCY5b2B10c9wSKw.jpg",
+        "backdrop_path": "/sytoeq1ScNHTbjUaAPRzshjtN63.jpg",
+        "production_companies": [
+            {
+                "name": "Comedian Intl Enterprise Productions (C.I.E.)",
+                "id": 17953
+            },
+            {
+                "name": "Dimension Pictures",
+                "id": 4997
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 120000,
+        "revenue": 12000000,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 405256,
+            "name": "Dolemite Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0072895",
+        "original_language": "en",
+        "popularity": 7.451,
+        "status": "Released",
+        "tagline": "With his All-Girl Army of Kung Fu Killers!",
+        "video": false
+    },
+    {
+        "id_tmdb": 69013,
+        "title": "A Woman Called Sada Abe",
+        "release_date": "1975-02-08",
+        "overview": "The young and beautiful Sada Abe, the daughter of a rich merchant, is banished for losing her virginity after being raped by a college student. Sada wanders the city, becoming a geisha and eventually meeting Kichizo, a posh restaurateur who falls under her spell. Together, they embark on a week-long sexual escapade filled with dangerous obsessions. Their complete descent into each others desires culminates in a shocking crime of passion which captures the city's headlines. Based on a real event from 1936.",
+        "poster_path": "/metI6uPwJiRm0cFgCb4ZutYWb7A.jpg",
+        "backdrop_path": "/jRMFyIZTH4Hn7SrpFa11FumyKbM.jpg",
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.nikkatsu.com/movie/25344.html",
+        "imdb_id": "tt0073208",
+        "original_language": "ja",
+        "popularity": 7.44,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 537316,
+        "title": "Company Buggers",
+        "release_date": "1975-08-09",
+        "overview": "Hiroshi, a small-time racketeer, makes a name for himself extorting vulnerable companies and their directors for financial gain.",
+        "poster_path": "/88af56Xq8d2cs8WgCb2ryknEKiW.jpg",
+        "backdrop_path": "/eK9MQizfCw2k2qbz1zWrSdTqxCA.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0321567",
+        "original_language": "ja",
+        "popularity": 7.419,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 39856,
+        "title": "Assault! Jack the Ripper",
+        "release_date": "1976-07-07",
+        "overview": "Two restaurant employees begin a sexual killing spree after they accidentally kill a hitch hiker and find that murder and mutilation is their mutual aphrodisiac.",
+        "poster_path": "/wcQTBOmfPihlhs06aboO8S8RfiR.jpg",
+        "backdrop_path": "/lkjdiMm9BCqlJIfFdbfDg1w9pex.jpg",
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.nikkatsu.com/movie/25450.html",
+        "imdb_id": "tt0237045",
+        "original_language": "ja",
+        "popularity": 7.41,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 3013,
+        "title": "Bloodline",
+        "release_date": "1979-06-29",
+        "overview": "A pampered heiress inherits her father's pharmaceutical empire when he dies in a suspicious accident, and soon finds herself surrounded by ruthless board members and grasping family members who will seemingly stop at nothing to profit.",
+        "poster_path": "/bMiBusE5lhrZN0z4DXHlg3LXkSf.jpg",
+        "backdrop_path": "/ewS7KWgEFj8TQ6SeWyJaV2Zlvlh.jpg",
+        "production_companies": [
+            {
+                "name": "NF Geria III-Produktion München",
+                "id": 50666
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Bavaria Film",
+                "id": 1704
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 8200000,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0078879",
+        "original_language": "en",
+        "popularity": 7.41,
+        "status": "Released",
+        "tagline": "The line between love and death is the bloodline.",
+        "video": false
+    },
+    {
+        "id_tmdb": 4990,
+        "title": "Hustle",
+        "release_date": "1975-12-25",
+        "overview": "The body of teenager Gloria Hollinger is found dead on a Los Angeles beach, and Lt. Phil Gaines is in charge of the investigation. Gaines learns that the girl, a stripper and prostitute, committed suicide, but he ignores the connection between her and a powerful mob lawyer, Leo Sellers. Hollinger's father, however, is not satisfied with Gaines's results, and attempts to investigate the case on his own.",
+        "poster_path": "/n52YsqFEkHDL1nbg6LLAWdR9G43.jpg",
+        "backdrop_path": "/lXoI0QruPYwthKYNPG1sLrr2mHx.jpg",
+        "production_companies": [
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Churchill Service Company",
+                "id": 29387
+            },
+            {
+                "name": "RoBurt",
+                "id": 29388
+            },
+            {
+                "name": "Zeeuwse Maatschappij N.V.",
+                "id": 29386
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 3050000,
+        "revenue": 10390000,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073133",
+        "original_language": "en",
+        "popularity": 7.333,
+        "status": "Released",
+        "tagline": "She's the call girl. He's the cop. They both take their jobs seriously.",
+        "video": false
+    },
+    {
+        "id_tmdb": 20087,
+        "title": "Adela Has Not Had Supper Yet",
+        "release_date": "1978-08-04",
+        "overview": "When famous detective Nick Carter visits Prague, he becomes involved in strange case of a missing dog and even stranger carnivorous plant. He becomes convinced that he is standing against his greatest enemy, the Gardener, who supposedly died years ago in a swamp...",
+        "poster_path": "/4bEeCFpdaWjRpyN2wpOY2wuD42y.jpg",
+        "backdrop_path": "/c6S1CqSkfFZZB61sL1f0P0UG5pK.jpg",
+        "production_companies": [
+            {
+                "name": "Filmové studio Barrandov",
+                "id": 1931
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "XC",
+                "name": "Czechoslovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075633",
+        "original_language": "cs",
+        "popularity": 7.306,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 91892,
+        "title": "Hokuriku Proxy War",
+        "release_date": "1977-02-26",
+        "overview": "In the setting of the Hokuriku region, where the snow and cold winds rage, for the first time in true-life yakuza film history, director Kinji Fukasaku shows battles among yakuza who value land over tradition. Hiroki Matsukata stars as Noboru Kawada, a Hokuriku yakuza who will use any measure for survival, disregarding parents, brothers, and tradition.",
+        "poster_path": "/dRRcW1eo18iAtuZSB59PDDky44P.jpg",
+        "backdrop_path": "/rTztWCPaapImzqResO8ddfw0gSS.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076148",
+        "original_language": "ja",
+        "popularity": 7.282,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 287765,
+        "title": "Proof of the Man",
+        "release_date": "1977-10-08",
+        "overview": "When an American is murdered in a Japanese inn, Tokyo police detective Munesue follows the trail of the killer to New York. There he is joined by a New York City detective named Shuftan and together they sort out the crime.",
+        "poster_path": "/nuwOF9mwHLSpJjFH6klXdniMg49.jpg",
+        "backdrop_path": "/lGQd5yytoz5Sw7x0l82DEy292pX.jpg",
+        "production_companies": [
+            {
+                "name": "KADOKAWA",
+                "id": 2073
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076460",
+        "original_language": "ja",
+        "popularity": 7.245,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 21950,
+        "title": "Jackson County Jail",
+        "release_date": "1976-03-31",
+        "overview": "A young woman stumbles into a nightmare land of hijacking and humiliation while driving cross-country from California to New York.",
+        "poster_path": "/d2rQhz0rOcqr5HdHnlLChNHgL6f.jpg",
+        "backdrop_path": "/u49ZKtFmlElapLRQokaAOoXfSge.jpg",
+        "production_companies": [
+            {
+                "name": "New World Pictures",
+                "id": 1950
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 445000,
+        "revenue": 2300000,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074706",
+        "original_language": "en",
+        "popularity": 7.225,
+        "status": "Released",
+        "tagline": "The cops are there to protect her… but who will protect her from the cops?",
+        "video": false
+    },
+    {
+        "id_tmdb": 165282,
+        "title": "Wolf Guy",
+        "release_date": "1975-04-04",
+        "overview": "Akira Inugami is the only survivor of a clan of ancient werewolves who relies on his supernatural powers to solve mysterious crimes. After a series of bloody killings perpetrated by an unseen force, Inugami uncovers a conspiracy involving a murdered cabaret singer, corrupt politicians, and a plot by the J-CIA to harvest his blood in order to steal his lycanthropic powers.",
+        "poster_path": "/oNQvi7sxrDUwf3ezgXmmmpl543r.jpg",
+        "backdrop_path": "/2JZ13EBbXujjwHKxJL0K4dyu5sr.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.071,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0202114",
+        "original_language": "ja",
+        "popularity": 7.177,
+        "status": "Released",
+        "tagline": "In the depths of his glaring eyes lies the strange fate of this man!",
+        "video": false
+    },
+    {
+        "id_tmdb": 27716,
+        "title": "Coonskin",
+        "release_date": "1975-08-20",
+        "overview": "Brother Rabbit, Brother Bear, and Preacher Fox rise to the top of the crime ranks in Harlem by going up against a con-man, a racist cop, and the Mafia.",
+        "poster_path": "/3zrxUkbeLl2KmSIRywNTwiGOZ2y.jpg",
+        "backdrop_path": "/m0h8qVyCfLPMin2tgQT7JRWON6b.jpg",
+        "production_companies": [
+            {
+                "name": "ASR Productions",
+                "id": 16311
+            },
+            {
+                "name": "Bakshi Productions",
+                "id": 4921
+            },
+            {
+                "name": "Bryanston Distributing",
+                "id": 13951
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 1600000,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0071361",
+        "original_language": "en",
+        "popularity": 7.032,
+        "status": "Released",
+        "tagline": "This is it Folks!",
+        "video": false
+    },
+    {
+        "id_tmdb": 38080,
+        "title": "The Judge and the Assassin",
+        "release_date": "1976-03-10",
+        "overview": "France, 1893. Joseph Bouvier attempts to shoot his love who refused to marry him and to commit suicide. Upon release from the filthy asylum where he was placed, with bullets still remaining in his head, he wanders the country roads and rapes and murders many teenagers over years. The judge Rousseau captures him, but to serve his ambition seeks to avoid that Bouvier is simply declared insane.",
+        "poster_path": "/2FwFJvyktddFy8eJc9jMmn6efYv.jpg",
+        "backdrop_path": "/aAKUY85PzNJXG4F1WWHfw6TopzG.jpg",
+        "production_companies": [
+            {
+                "name": "Lira Films",
+                "id": 10522
+            },
+            {
+                "name": "FR3",
+                "id": 1579
+            },
+            {
+                "name": "SFP",
+                "id": 6849
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.895,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073219",
+        "original_language": "fr",
+        "popularity": 6.967,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 19108,
+        "title": "Breaker! Breaker!",
+        "release_date": "1977-04-01",
+        "overview": "Truck driver searches for his brother, who has disappeared in a town run by a corrupt judge.",
+        "poster_path": "/gfYp4WG1l4uk5eoUf3Iqe3knwZY.jpg",
+        "backdrop_path": "/gpAGraW59m8PSweLbThQrdlS94B.jpg",
+        "production_companies": [
+            {
+                "name": "Paragon Films",
+                "id": 69832
+            },
+            {
+                "name": "American International Pictures",
+                "id": 9266
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 250000,
+        "revenue": 12000000,
+        "vote_average": 4.714,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075783",
+        "original_language": "en",
+        "popularity": 6.965,
+        "status": "Released",
+        "tagline": "A town without justice. A hero without fear.",
+        "video": false
+    },
+    {
+        "id_tmdb": 52808,
+        "title": "Rome, Armed to the Teeth",
+        "release_date": "1976-10-10",
+        "overview": "A tough, violent cop who doesn't mind bending the law goes after a machine-gun-carrying, hunchbacked psychotic killer.",
+        "poster_path": "/dRJZ313alDx2BIFRNo0lPI5w9gh.jpg",
+        "backdrop_path": "/hjzsy6UWzmdlDGxvWVvwCDwRfwQ.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075152",
+        "original_language": "it",
+        "popularity": 6.859,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 255087,
+        "title": "Japanese Godfather: Ambition",
+        "release_date": "1977-10-29",
+        "overview": "An ambitious Kansai yakuza don moves in on Tokyo using financial and political tactics, sparking conflict with a local criminal association.",
+        "poster_path": "/dmWtExCufVwBoDHI2E4428ot9OF.jpg",
+        "backdrop_path": "/AiucbIvr8xSKWxqE8aMkytjxGzM.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 8.75,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 789631,
+            "name": "Japanese Godfather Trilogy"
+        },
+        "homepage": "",
+        "imdb_id": "tt0076461",
+        "original_language": "ja",
+        "popularity": 6.833,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 21990,
+        "title": "The Man from Hong Kong",
+        "release_date": "1975-07-31",
+        "overview": "Australian authorities arrest a man believed to be connected to the Sydney criminal underworld and send for Inspector Fang Sing Leng from Hong Kong to question him. After the alleged criminal is assassinated, Inspector Leng and the Sydney police try to hunt down those responsible and hope to solve their case along the way.",
+        "poster_path": "/lCLUFxMNxcutYcSXbMySWDJvAUd.jpg",
+        "backdrop_path": "/y1MJJPzf3FUOQgdNv037BLMjioM.jpg",
+        "production_companies": [
+            {
+                "name": "The Movie Company Pty. Ltd.",
+                "id": 42346
+            },
+            {
+                "name": "Orange Sky Golden Harvest",
+                "id": 2521
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073343",
+        "original_language": "en",
+        "popularity": 6.789,
+        "status": "Released",
+        "tagline": "Fast! Fantastic! Fun! Nothing can stop him!",
+        "video": false
+    },
+    {
+        "id_tmdb": 67568,
+        "title": "New Battles Without Honor and Humanity 2: Head of the Boss",
+        "release_date": "1975-11-01",
+        "overview": "The seventh in the shocking \"Jingi Naki Tatakai\" movie series, which exposes the true lives of the yakuza that is hidden by a mask of \"jingi\". The next stage of this continuing drama is the Kanmon Channel where the Owada and the Kyoei groups are battling for territorial rights and drug smuggling. The Owada sends their man, Tetsu, and his friend Shuji to kill the Kyoei boss. With the promise of fame and riches, Shuji takes the fall and goes to jail for 7 years. But when he's released, he discovers that he and Tetsu have been all but forgotten by the Owada. Feeling betrayed, Shuji takes matters into his own hands and becomes an unsuspecting pawn in an internal conflict and an assassination attempt on the Owada boss. And now angered, Shuji seeks revenge...",
+        "poster_path": "/41omrFdUKnjELfL3lqoh8HoUxcE.jpg",
+        "backdrop_path": "/v8M7dvdhx1Qluq0Dq9dI60VwFSE.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 473694,
+            "name": "New Battles Without Honor and Humanity Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0073702",
+        "original_language": "ja",
+        "popularity": 6.693,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 64578,
+        "title": "Yakuza Graveyard",
+        "release_date": "1976-10-30",
+        "overview": "A police investigator cracks down on yakuza business, but once he realizes the police are in negotiations with certain factions, he sides with his own syndicate of choice.",
+        "poster_path": "/bF0YXY1UOEfKphZaz5qWcv2lzhD.jpg",
+        "backdrop_path": "/1msC8NustIljEWLjZqhm68VrPQD.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.46,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075441",
+        "original_language": "ja",
+        "popularity": 6.663,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 52633,
+        "title": "Switchblade Sisters",
+        "release_date": "1975-01-05",
+        "overview": "A tough gang of teenage girls are looking for love and fighting for turf on the mean streets of the city! Bad girls to the core, these impossibly outrageous high school hoodlums go where they want ... and create mayhem wherever they go!",
+        "poster_path": "/rJ2cKHfBnBHzV1aNMd4fzxjKyhr.jpg",
+        "backdrop_path": "/skhujduNpvMRIUplK2MafcyL5M0.jpg",
+        "production_companies": [
+            {
+                "name": "Centaur Pictures Inc.",
+                "id": 17777
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0073778",
+        "original_language": "en",
+        "popularity": 6.641,
+        "status": "Released",
+        "tagline": "So Easy to Kill, So Hard to Love",
+        "video": false
+    },
+    {
+        "id_tmdb": 12712,
+        "title": "The Olsen Gang Never Surrenders",
+        "release_date": "1979-12-26",
+        "overview": "Egon plans to exploit knowledge gained during his latest term of incarceration. By stealing the unmanipulated financial records of DanInvest he obtains the majority of the stocks in the department store Magasin du Nord, just in time for their closing sale. The attempt to get the red suitcase that will save the day they rob the main vault at the EEC headquarters in Brussels and end up hijacking a tank.",
+        "poster_path": "/o9mkIUS5uaO6Vfx1cgBs8PZXmI6.jpg",
+        "backdrop_path": "/uGWxfVncuBII4rqVGRCGuMEnXrG.jpg",
+        "production_companies": [
+            {
+                "name": "Nordisk Film Denmark",
+                "id": 235
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "da",
+                "name": "Dansk"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 11118,
+            "name": "The Olsen Gang Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0079662",
+        "original_language": "da",
+        "popularity": 6.609,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40135,
+        "title": "Jailbirds",
+        "release_date": "1978-08-18",
+        "overview": "Four female convicts break out of prison, and during their escape they take hostage a bus full of young female tennis players. They drive the bus to the house of the judge who originally sent them to prison, where--since this is after all a women-in-prison picture--the hostages undergo various forms of physical and sexual abuse in various degrees of nudity.",
+        "poster_path": "/qY5HlWlTcERVLZ1v42BiNaxiBm1.jpg",
+        "backdrop_path": "/tIvn7ncXJFyI2rl4cNgz16yjCG5.jpg",
+        "production_companies": [
+            {
+                "name": "Cinema 13 Cooperativa",
+                "id": 39572
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0077520",
+        "original_language": "it",
+        "popularity": 6.566,
+        "status": "Released",
+        "tagline": "Chained, Beaten and Abused ... Now They're Bustin' Out!",
+        "video": false
+    },
+    {
+        "id_tmdb": 364408,
+        "title": "Crazy Sex",
+        "release_date": "1976-06-26",
+        "overview": "Shaw Brothers superdirector Li Han-Hsiang was particularly masterful in two genres: erotica and classic Chinese tales. He combined these two loves in this two-part examination of lust. The first story features an elderly jeweler's adventures with his unsatisfied wife, a handsome neighbor, and the neighborhood bordello. The second is a more modern tale of sex, lies, and videotape.",
+        "poster_path": "/ikUQwZ7uPWGycf37KapXOHLK8Iv.jpg",
+        "backdrop_path": "/92Qq5F9l1Aki0AXQN7T2PPHuvb4.jpg",
+        "production_companies": [
+            {
+                "name": "Shaw Brothers",
+                "id": 5798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0074355",
+        "original_language": "zh",
+        "popularity": 6.564,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 14262,
+        "title": "Desperate Living",
+        "release_date": "1977-05-27",
+        "overview": "After killing her husband, Peggy Gravel and her murderous maid Grizelda wind up in the crazy town of Mortville, where Queen Carlotta presides over a sleazy collection of misfits.",
+        "poster_path": "/mEEa4FKZ3S0VlfVDvU0SZOoOYkB.jpg",
+        "backdrop_path": "/t29rVDjDzZp9mPOZ5TDbwbNgvBP.jpg",
+        "production_companies": [
+            {
+                "name": "Charm City Productions",
+                "id": 2880
+            },
+            {
+                "name": "Dreamland Productions",
+                "id": 38223
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 65000,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0075936",
+        "original_language": "en",
+        "popularity": 6.501,
+        "status": "Released",
+        "tagline": "The world may never be the same again!",
+        "video": false
+    },
+    {
+        "id_tmdb": 22090,
+        "title": "Telefon",
+        "release_date": "1977-12-16",
+        "overview": "Nicolai Dalchimski, a mad KGB agent steals a notebook full of names of \"sleeping\" undercover KGB agents sent to the U.S. in the 1950's. These agents got their assignments under hypnosis, so they can't remember their missions until they're told a line of a Robert Frost poem. Dalchimski flees to the U.S. and starts phoning these agents who perform sabotage acts against military targets.",
+        "poster_path": "/vmhPsfOkQAvusrpZbisvzhsFLEG.jpg",
+        "backdrop_path": "/yheWWmGBLEf7lTePzl6cmXDOjEK.jpg",
+        "production_companies": [
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.594,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0076804",
+        "original_language": "en",
+        "popularity": 6.426,
+        "status": "Released",
+        "tagline": "They'll do anything to stop Telefon. The operation that can trigger 51 human time bombs.",
+        "video": false
+    },
+    {
+        "id_tmdb": 557863,
+        "title": "Secret Honeymoon: Assault Train",
+        "release_date": "1977-10-15",
+        "overview": "After a bungled robbery attempt, two thugs kidnap a bride on her wedding day.",
+        "poster_path": "/m25Zre75PfbGupecWbHcWwhxWzI.jpg",
+        "backdrop_path": "/mNpMYecVAEvb6nXmvc6eBGp9nP1.jpg",
+        "production_companies": [
+            {
+                "name": "Nikkatsu Corporation",
+                "id": 955
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.nikkatsu-romanporno.com/movies/2017/02/25548.php",
+        "imdb_id": "tt0287552",
+        "original_language": "ja",
+        "popularity": 6.403,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 261478,
+        "title": "The Criminals, Part 5: The Teenager's Nightmare",
+        "release_date": "1977-11-11",
+        "overview": "Shaw Brothers Exploitation Flick, 5th installment in \"The Criminals\" series.",
+        "poster_path": "/5KeGORdzurlGhrQLoLDLratFYf7.jpg",
+        "backdrop_path": "/ofPBZQmEPOfhHSklZ8jLu2LQUJ3.jpg",
+        "production_companies": [
+            {
+                "name": "Shaw Brothers",
+                "id": 5798
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 362294,
+            "name": "The Criminals Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0934437",
+        "original_language": "cn",
+        "popularity": 6.38,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]

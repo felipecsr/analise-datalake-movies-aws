@@ -1,3 +1,26 @@
+- criei a função lamba, testei local e depois testei no aws
+- ao testar local percebi que poderia ultrapassar 500 páginas do endpoint discover
+- o lambda tem 15 min de execução no máximo e localmente de 2h
+- então atualizei o código para receber inputs desde o scheduler, e criei os agendamentos através de um script para facilitar (foram 50 agendamentos)
+- testei com agendamento manual, observando o s3 e cloudwatch
+- coloquei intervalo de 1 min para nao ultrapassar as requisições limite da api da tmdb
+- resultado de 5 em 5 anos em diversos jsons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 🎯 Objetivo 🔴
 

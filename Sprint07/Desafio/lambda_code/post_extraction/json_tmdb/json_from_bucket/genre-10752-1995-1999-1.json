@@ -1,0 +1,5351 @@
+[
+    {
+        "id_tmdb": 857,
+        "title": "Saving Private Ryan",
+        "release_date": "1998-07-24",
+        "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+        "poster_path": "/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
+        "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+        "production_companies": [
+            {
+                "name": "DreamWorks Pictures",
+                "id": 7
+            },
+            {
+                "name": "Paramount Pictures",
+                "id": 4
+            },
+            {
+                "name": "Amblin Entertainment",
+                "id": 56
+            },
+            {
+                "name": "Mutual Film Company",
+                "id": 762
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 70000000,
+        "revenue": 481840909,
+        "vote_average": 8.217,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120815",
+        "original_language": "en",
+        "popularity": 71.125,
+        "status": "Released",
+        "tagline": "The mission is a man.",
+        "video": false
+    },
+    {
+        "id_tmdb": 27098,
+        "title": "All Things Fair",
+        "release_date": "1995-03-08",
+        "overview": "Stig is a 15-year-old pupil of 37-year-old teacher Viola. He is attracted by her beauty and maturity while she is drawn to him by his youth and innocence, a relief from her drunk and miserable husband.",
+        "poster_path": "/y1oFNynXrIzlPUe4CXKMR2dpNep.jpg",
+        "backdrop_path": "/3upQ6RVYDl5BcxCMlLDu0F5c8EM.jpg",
+        "production_companies": [
+            {
+                "name": "Per Holst Filmproduktion",
+                "id": 8229
+            },
+            {
+                "name": "Det Danske Filminstitut",
+                "id": 118
+            },
+            {
+                "name": "Nordisk Film & TV Fond",
+                "id": 5403
+            },
+            {
+                "name": "Svenska Filminstitutet",
+                "id": 2302
+            },
+            {
+                "name": "Egmont Film",
+                "id": 9365
+            },
+            {
+                "name": "TV 2",
+                "id": 758
+            },
+            {
+                "name": "SVT Drama",
+                "id": 157
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            },
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "sv",
+                "name": "svenska"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0113720",
+        "original_language": "sv",
+        "popularity": 67.662,
+        "status": "Released",
+        "tagline": "He was a student. She was his teacher. Their love was forbidden.",
+        "video": false
+    },
+    {
+        "id_tmdb": 197,
+        "title": "Braveheart",
+        "release_date": "1995-05-24",
+        "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+        "poster_path": "/g8UItTLFApanO8rwDsl6qDjU9St.jpg",
+        "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+        "production_companies": [
+            {
+                "name": "Icon Entertainment International",
+                "id": 4564
+            },
+            {
+                "name": "The Ladd Company",
+                "id": 7965
+            },
+            {
+                "name": "B.H. Finance C.V.",
+                "id": 11353
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "gd",
+                "name": ""
+            }
+        ],
+        "budget": 72000000,
+        "revenue": 213200000,
+        "vote_average": 7.941,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0112573",
+        "original_language": "en",
+        "popularity": 58.081,
+        "status": "Released",
+        "tagline": "Every man dies, not every man really lives.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10047,
+        "title": "The Messenger: The Story of Joan of Arc",
+        "release_date": "1999-10-27",
+        "overview": "In 1429, a French teenager stood before her King with a message she claimed came from God; that she would defeat the world's greatest army and liberate her country from its political and religious turmoil. As she reclaims God's diminished kingdom, this courageous young woman has various amazing victories until her violent and untimely death.",
+        "poster_path": "/bR16gmwgnCD5e5UWPZHc1BsOsV0.jpg",
+        "backdrop_path": "/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg",
+        "production_companies": [
+            {
+                "name": "Gaumont",
+                "id": 9
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 85000000,
+        "revenue": 66976317,
+        "vote_average": 6.379,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.sonypictures.com/movies/themessengerthestoryofjoanofarc/",
+        "imdb_id": "tt0151137",
+        "original_language": "en",
+        "popularity": 40.025,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 409,
+        "title": "The English Patient",
+        "release_date": "1996-11-14",
+        "overview": "In the 1930s, Count Almásy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Almásy enters into a world of love, betrayal, and politics.",
+        "poster_path": "/gvkXoA9IMS3zmhQKdnuxSuQCO1U.jpg",
+        "backdrop_path": "/em5kAUF8QbwThG5BCqVgFomxNT5.jpg",
+        "production_companies": [
+            {
+                "name": "Miramax",
+                "id": 14
+            },
+            {
+                "name": "The Saul Zaentz Company",
+                "id": 5237
+            },
+            {
+                "name": "Tiger Moth Productions",
+                "id": 12204
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 27000000,
+        "revenue": 231976425,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116209",
+        "original_language": "en",
+        "popularity": 23.546,
+        "status": "Released",
+        "tagline": "In love, there are no boundaries.",
+        "video": false
+    },
+    {
+        "id_tmdb": 8741,
+        "title": "The Thin Red Line",
+        "release_date": "1998-12-23",
+        "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+        "poster_path": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+        "backdrop_path": "/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+        "production_companies": [
+            {
+                "name": "Fox 2000 Pictures",
+                "id": 711
+            },
+            {
+                "name": "Phoenix Pictures",
+                "id": 11317
+            },
+            {
+                "name": "Pioneer Films",
+                "id": 43944
+            },
+            {
+                "name": "George Stevens Jr. Productions",
+                "id": 13579
+            },
+            {
+                "name": "Geisler-Roberdeau Productions",
+                "id": 23660
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 52000000,
+        "revenue": 98126565,
+        "vote_average": 7.457,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120863",
+        "original_language": "en",
+        "popularity": 23.463,
+        "status": "Released",
+        "tagline": "Every man fights his own war.",
+        "video": false
+    },
+    {
+        "id_tmdb": 6415,
+        "title": "Three Kings",
+        "release_date": "1999-09-27",
+        "overview": "A group of American soldiers stationed in Iraq at the end of the Gulf War find a map they believe will take them to a huge cache of stolen Kuwaiti gold hidden near their base, and they embark on a secret mission that's destined to change everything.",
+        "poster_path": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+        "backdrop_path": "/wycMD2x1xyfEk2plmYgkE0JZfUQ.jpg",
+        "production_companies": [
+            {
+                "name": "Village Roadshow Pictures",
+                "id": 79
+            },
+            {
+                "name": "Atlas Entertainment",
+                "id": 507
+            },
+            {
+                "name": "Village-A.M. Partnership",
+                "id": 23689
+            },
+            {
+                "name": "Coast Ridge",
+                "id": 23690
+            },
+            {
+                "name": "Junger Witt Productions",
+                "id": 23691
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            }
+        ],
+        "budget": 75000000,
+        "revenue": 108000000,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120188",
+        "original_language": "en",
+        "popularity": 21.902,
+        "status": "Released",
+        "tagline": "It's good to be king.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10684,
+        "title": "Courage Under Fire",
+        "release_date": "1996-07-04",
+        "overview": "A US Army officer, who made a \"friendly fire\" mistake that was covered up, has been reassigned to a desk job. He is tasked to investigate a female chopper commander's worthiness to be awarded the Medal of Honor. At first all seems in order. But then he begins to notice inconsistencies between the testimonies of the witnesses...",
+        "poster_path": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+        "backdrop_path": "/51Mr7maI9JaE3pY2CeUSZHTdRas.jpg",
+        "production_companies": [
+            {
+                "name": "Davis Entertainment",
+                "id": 1302
+            },
+            {
+                "name": "Fox 2000 Pictures",
+                "id": 711
+            },
+            {
+                "name": "Joseph M. Singer Entertainment",
+                "id": 1301
+            },
+            {
+                "name": "20th Century Fox",
+                "id": 25
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 46000000,
+        "revenue": 100900000,
+        "vote_average": 6.503,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0115956",
+        "original_language": "en",
+        "popularity": 17.483,
+        "status": "Released",
+        "tagline": "A medal for honor. A search for justice. A battle for truth.",
+        "video": false
+    },
+    {
+        "id_tmdb": 3513,
+        "title": "Legionnaire",
+        "release_date": "1998-12-03",
+        "overview": "Alain Lefevre is a boxer paid by a Marseille mobster to take a dive. When he wins the fight he attempts to flee to America with the mobster's girlfriend Katrina. This plan fails and he seeks escape by joining the foreign legion. As part of the legion he tangles with abusive lieutenant Steinkampf and bonds with legionnaires Luther, Mackintosh and Rosetti.",
+        "poster_path": "/sBeI7TeJzVw103iacL03v7Y5mCX.jpg",
+        "backdrop_path": "/uDicXMIFyQKDUgMaXq0YAHNPs5I.jpg",
+        "production_companies": [
+            {
+                "name": "Quadra Entertainment",
+                "id": 1438
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 0,
+        "vote_average": 5.717,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0126388",
+        "original_language": "en",
+        "popularity": 16.514,
+        "status": "Released",
+        "tagline": "A fugitive from a killer. A remote outpost. A fight to the death.",
+        "video": false
+    },
+    {
+        "id_tmdb": 11902,
+        "title": "Underground",
+        "release_date": "1995-05-13",
+        "overview": "A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love and hate.",
+        "poster_path": "/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+        "backdrop_path": "/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+        "production_companies": [
+            {
+                "name": "Komuna",
+                "id": 653
+            },
+            {
+                "name": "Barrandov Studio",
+                "id": 6242
+            },
+            {
+                "name": "Pandora Filmproduktion",
+                "id": 254
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "CS",
+                "name": "Serbia and Montenegro"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 14000000,
+        "revenue": 0,
+        "vote_average": 7.738,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114787",
+        "original_language": "sr",
+        "popularity": 15.189,
+        "status": "Released",
+        "tagline": "ONCE UPON A TIME THERE WAS A COUNTRY",
+        "video": false
+    },
+    {
+        "id_tmdb": 11780,
+        "title": "Rob Roy",
+        "release_date": "1995-04-13",
+        "overview": "In the highlands of Scotland in the 1700s, Rob Roy tries to lead his small town to a better future, by borrowing money from the local nobility to buy cattle to herd to market. When the money is stolen, Rob is forced into a Robin Hood lifestyle to defend his family and honour.",
+        "poster_path": "/4QuypgbNYmPECAAHnV3QY8qEpOz.jpg",
+        "backdrop_path": "/5GCUPT3yRkVjJ0uXJ66lR9Lrs1e.jpg",
+        "production_companies": [
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "Talisman Films",
+                "id": 225310
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 28000000,
+        "revenue": 31600000,
+        "vote_average": 6.703,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114287",
+        "original_language": "en",
+        "popularity": 15.092,
+        "status": "Released",
+        "tagline": "Honor made him a man. Courage made him a hero. History made him a legend.",
+        "video": false
+    },
+    {
+        "id_tmdb": 1770,
+        "title": "Michael Collins",
+        "release_date": "1996-10-25",
+        "overview": "Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic.",
+        "poster_path": "/baEsjm8fMi51hDOFwwDQRekY9Xw.jpg",
+        "backdrop_path": "/A4Ikk4bR7R16rMFrDUsbUrurEHM.jpg",
+        "production_companies": [
+            {
+                "name": "Geffen Pictures",
+                "id": 360
+            },
+            {
+                "name": "Warner Bros. Pictures",
+                "id": 174
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 25000000,
+        "revenue": 16900000,
+        "vote_average": 6.891,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0117039",
+        "original_language": "en",
+        "popularity": 13.358,
+        "status": "Released",
+        "tagline": "Ireland, 1916. His Dreams Inspired Hope. His Words Ignited Passion. His Courage Forged A Nation's Destiny.",
+        "video": false
+    },
+    {
+        "id_tmdb": 31894,
+        "title": "The Tuskegee Airmen",
+        "release_date": "1995-08-25",
+        "overview": "During the Second World War, a special project is begun by the US Army Air Corps to integrate African American pilots into the Fighter Pilot Program. Known as the \"Tuskegee Airman\" for the name of the airbase at which they were trained, these men were forced to constantly endure harassement, prejudice, and much behind the scenes politics until at last they were able to prove themselves in combat.",
+        "poster_path": "/8xgYqh9XlFLusp4R8u5ocZM0WjV.jpg",
+        "backdrop_path": "/2nTYrk82ALzqMfPfq4lUe3yXn4m.jpg",
+        "production_companies": [
+            {
+                "name": "HBO",
+                "id": 3268
+            },
+            {
+                "name": "Price Entertainment",
+                "id": 23808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.025,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114745",
+        "original_language": "en",
+        "popularity": 12.103,
+        "status": "Released",
+        "tagline": "The right spirit. The right attitude. The wrong color.",
+        "video": false
+    },
+    {
+        "id_tmdb": 9102,
+        "title": "Screamers",
+        "release_date": "1995-09-08",
+        "overview": "SIRIUS 6B, Year 2078. On a distant mining planet ravaged by a decade of war, scientists have created the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers designed for one purpose only -- to hunt down and destroy all enemy life forms.",
+        "poster_path": "/eqgBf791rMZG7ywHfObpXeMpiRf.jpg",
+        "backdrop_path": "/7LMy4tZggDRa31ycv5ccnPtLspV.jpg",
+        "production_companies": [
+            {
+                "name": "Fuji Eight Company Ltd.",
+                "id": 7958
+            },
+            {
+                "name": "Allegro Films",
+                "id": 4899
+            },
+            {
+                "name": "Fries Film Group",
+                "id": 23096
+            },
+            {
+                "name": "Super Ecran",
+                "id": 23097
+            },
+            {
+                "name": "Triumph Films",
+                "id": 23098
+            },
+            {
+                "name": "The Movie Network",
+                "id": 808
+            },
+            {
+                "name": "Fries Film Company",
+                "id": 62765
+            },
+            {
+                "name": "Triumph",
+                "id": 4078
+            },
+            {
+                "name": "Allegro Film",
+                "id": 404
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 20000000,
+        "revenue": 5781885,
+        "vote_average": 6.211,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 122017,
+            "name": "Screamers Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0114367",
+        "original_language": "en",
+        "popularity": 12.021,
+        "status": "Released",
+        "tagline": "The last scream you hear will be your own.",
+        "video": false
+    },
+    {
+        "id_tmdb": 13935,
+        "title": "When Trumpets Fade",
+        "release_date": "1998-06-27",
+        "overview": "In WWII Western Germany, Private David Manning reluctantly leaves behind a mortally wounded fellow soldier and searches for survivors from his platoon, only to learn from commanding officer Captain Pritchett that they have all been killed in action. Despite requesting a discharge on the grounds of mental disability, Manning is promoted to sergeant and assigned to lead a new platoon of young inductees.",
+        "poster_path": "/jdANR1WXRQ56jPe2jTEArB4zzXI.jpg",
+        "backdrop_path": "/tqzpeMDGkC5z2n28U13kRZR4Lti.jpg",
+        "production_companies": [
+            {
+                "name": "HBO",
+                "id": 3268
+            },
+            {
+                "name": "Citadel Entertainment",
+                "id": 3559
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.561,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0135706",
+        "original_language": "en",
+        "popularity": 11.803,
+        "status": "Released",
+        "tagline": "In the heat of battle not all soldiers can be heroes.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2042,
+        "title": "Savior",
+        "release_date": "1998-06-01",
+        "overview": "A hardened mercenary in the Foreign Legion begins to find his own humanity when confronted with atrocities during the fighting in Bosnia.",
+        "poster_path": "/7qMfDjUTEvLg5640CUAddk2BNpG.jpg",
+        "backdrop_path": "/iLyQVeo4Jm9UmLM8YEWStdgTuV4.jpg",
+        "production_companies": [
+            {
+                "name": "Initial Entertainment Group",
+                "id": 7380
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 10000000,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120070",
+        "original_language": "hu",
+        "popularity": 10.633,
+        "status": "Released",
+        "tagline": "He's fighting a war he doesn't believe in, hoping to find something he does.",
+        "video": false
+    },
+    {
+        "id_tmdb": 30529,
+        "title": "The Truce",
+        "release_date": "1997-02-14",
+        "overview": "After the liberation of Auschwitz, an Italian prisoner of War begins a torturous voyage home to Turin, through a Europe caught between war and peace.",
+        "poster_path": "/k4GWXtFvRQ8zKuf6ICOpjcyNjYE.jpg",
+        "backdrop_path": "/92Oqn01ncWZU5pvYY9wLST5joUM.jpg",
+        "production_companies": [
+            {
+                "name": "DaZu Film",
+                "id": 55381
+            },
+            {
+                "name": "3 emme cinematografica",
+                "id": 22979
+            },
+            {
+                "name": "Stéphan Films",
+                "id": 2359
+            },
+            {
+                "name": "UGC",
+                "id": 1475
+            },
+            {
+                "name": "Capitol Films",
+                "id": 826
+            },
+            {
+                "name": "RAI",
+                "id": 1583
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Filmstiftung Nordrhein-Westfalen",
+                "id": 315
+            },
+            {
+                "name": "T&C Film",
+                "id": 5414
+            },
+            {
+                "name": "Televisione Svizzera Italiana (TSI)",
+                "id": 140787
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0117959",
+        "original_language": "it",
+        "popularity": 10.616,
+        "status": "Released",
+        "tagline": "At the end of the war, a group of Italian prisoners got lost on their way home. Their journey back transformed everyone they met along the way.",
+        "video": false
+    },
+    {
+        "id_tmdb": 17771,
+        "title": "Sunshine",
+        "release_date": "1999-09-13",
+        "overview": "The story of a Jewish family living in Hungary—through three generations—rising from humble beginnings to positions of wealth and power in the crumbling Austro-Hungarian Empire. The patriarch becomes a prominent judge but is torn when his government sanctions anti-Jewish persecutions. His son converts to Christianity to advance his career as a champion fencer and Olympic hero, but is caught up in the Holocaust. Finally, the grandson, after surviving war, revolution, loss and betrayal, realizes that his ultimate allegiance must be to himself and his heritage.",
+        "poster_path": "/qcHDFrjClW35u0dSuLjsQEi8gDk.jpg",
+        "backdrop_path": "/6yluUpGJavNDS5ASgPCANmRKGE3.jpg",
+        "production_companies": [
+            {
+                "name": "Téléfilm Canada",
+                "id": 806
+            },
+            {
+                "name": "Channel Four Films",
+                "id": 181
+            },
+            {
+                "name": "Dor Film",
+                "id": 608
+            },
+            {
+                "name": "Alliance Atlantis",
+                "id": 803
+            },
+            {
+                "name": "Serendipity Point Films",
+                "id": 805
+            },
+            {
+                "name": "Eurimages",
+                "id": 850
+            },
+            {
+                "name": "Kinowelt Filmproduktion",
+                "id": 2051
+            },
+            {
+                "name": "Hungarian Motion Picture Fund",
+                "id": 3385
+            },
+            {
+                "name": "ISL Film",
+                "id": 3386
+            },
+            {
+                "name": "InterCom",
+                "id": 3387
+            },
+            {
+                "name": "TV 2",
+                "id": 3389
+            },
+            {
+                "name": "Vienna Film Financing Fund",
+                "id": 3390
+            },
+            {
+                "name": "ORF",
+                "id": 3391
+            },
+            {
+                "name": "Starhaus Filmproduktion",
+                "id": 10272
+            },
+            {
+                "name": "The Movie Network",
+                "id": 808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 26000000,
+        "revenue": 7918035,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0145503",
+        "original_language": "en",
+        "popularity": 10.12,
+        "status": "Released",
+        "tagline": "In a time of revolution, in a family torn by tradition, one man was consumed by love.",
+        "video": false
+    },
+    {
+        "id_tmdb": 38884,
+        "title": "Land and Freedom",
+        "release_date": "1995-04-07",
+        "overview": "David Carr is a British Communist who is unemployed. In 1936, when the Spanish Civil War begins, he decides to fight for the Republican side, a coalition of liberals, communists and anarchists, so he joins the POUM militia and witnesses firsthand the betrayal of the Spanish revolution by Stalin's followers and Moscow's orders.",
+        "poster_path": "/u5QRqW0vFYMHFzeQJ4oFgJtu5Xp.jpg",
+        "backdrop_path": "/nKGVLehRRJt2UK2Hn9JvNAzd4C6.jpg",
+        "production_companies": [
+            {
+                "name": "Parallax Pictures",
+                "id": 983
+            },
+            {
+                "name": "Messidor Films",
+                "id": 14245
+            },
+            {
+                "name": "Road Movies",
+                "id": 45
+            },
+            {
+                "name": "British Screen",
+                "id": 871
+            },
+            {
+                "name": "BBC Film",
+                "id": 288
+            },
+            {
+                "name": "Canal+ España",
+                "id": 9335
+            },
+            {
+                "name": "TVE",
+                "id": 981
+            },
+            {
+                "name": "ARD Degeto",
+                "id": 6187
+            },
+            {
+                "name": "Filmstiftung Nordrhein-Westfalen",
+                "id": 315
+            },
+            {
+                "name": "BIM Distribuzione",
+                "id": 225
+            },
+            {
+                "name": "Diaphana Films",
+                "id": 744
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ca",
+                "name": "Català"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114671",
+        "original_language": "en",
+        "popularity": 9.796,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 8056,
+        "title": "Train of Life",
+        "release_date": "1998-09-16",
+        "overview": "In 1941, the inhabitants of a small Jewish village in Central Europe organize a fake deportation train so that they can escape the Nazis and flee to Palestine.",
+        "poster_path": "/anUwgyVrC7kUwN5OliazbC5qBfr.jpg",
+        "backdrop_path": "/7QDnuj2T6CCY5wOSnKfYH7cIb6M.jpg",
+        "production_companies": [
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            },
+            {
+                "name": "Raphael Films",
+                "id": 72094
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "IL",
+                "name": "Israel"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            },
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "budget": 154790,
+        "revenue": 3311162,
+        "vote_average": 7.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0170705",
+        "original_language": "fr",
+        "popularity": 9.343,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 45614,
+        "title": "The Island on Bird Street",
+        "release_date": "1997-04-11",
+        "overview": "Alex is an 11-year old boy who, during WWII, hides in the Jewish ghetto from Nazis after all his relatives have been sent to the concentration camp. The movie portrays the ghetto through his eyes.",
+        "poster_path": "/q8IXiMGnid3jSk5GAJAyjvDHL4E.jpg",
+        "backdrop_path": "/8k2cDumng4l0QUjfA7C66762ucX.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119389",
+        "original_language": "en",
+        "popularity": 9.274,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 22267,
+        "title": "Ride with the Devil",
+        "release_date": "1999-11-24",
+        "overview": "Ride with the Devil follows four people who are fighting for truth and justice amidst the turmoil of the American Civil War. Director Ang Lee takes us to a no man's land on the Missouri/Kansas border where a staunch loyalist, an immigrant's son, a freed slave, and a young widow form an unlikely friendship as they learn how to survive in an uncertain time. In a place without rules and redefine the meaning of bravery and honor.",
+        "poster_path": "/pH3J5IUzho4ZVaRuTuErzqHHovb.jpg",
+        "backdrop_path": "/yBkZyxzIl46PVgFEDsTCtoGd5F4.jpg",
+        "production_companies": [
+            {
+                "name": "Good Machine",
+                "id": 10565
+            },
+            {
+                "name": "Universal Pictures",
+                "id": 33
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 35000000,
+        "revenue": 635096,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0134154",
+        "original_language": "en",
+        "popularity": 8.854,
+        "status": "Released",
+        "tagline": "In a No-man's Land between North and South, You didn't fight for the Blue or the Grey... You fought for your friends and family.",
+        "video": false
+    },
+    {
+        "id_tmdb": 10368,
+        "title": "Tea with Mussolini",
+        "release_date": "1999-03-25",
+        "overview": "In 1930s fascist Italy, adolescent Luca just lost his mother. His father, a callous businessman, sends him to be taken care of by British expatriate Mary Wallace. Mary and her cultured friends - including artist Arabella, young widow Elsa, and archaeologist Georgie - keep a watchful eye over the boy. But the women's cultivated lives take a dramatic turn when Allied forces declare war on Mussolini.",
+        "poster_path": "/i3rAPxhhDjqsL1rZJM57pyR7xFW.jpg",
+        "backdrop_path": "/w5AkUNcQP5FtEhEBeU3yioZOczN.jpg",
+        "production_companies": [
+            {
+                "name": "Cattleya",
+                "id": 10102
+            },
+            {
+                "name": "Cineritmo",
+                "id": 10378
+            },
+            {
+                "name": "Film and General Productions",
+                "id": 10379
+            },
+            {
+                "name": "Medusa Produzione",
+                "id": 1702
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 12000000,
+        "revenue": 21001563,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120857",
+        "original_language": "en",
+        "popularity": 8.789,
+        "status": "Released",
+        "tagline": "A story of civilized disobedience",
+        "video": false
+    },
+    {
+        "id_tmdb": 77223,
+        "title": "Paradise Road",
+        "release_date": "1997-02-11",
+        "overview": "A group of English, American, Dutch and Australian women creates a vocal orchestra while being imprisoned in a Japanese POW camp on Sumatra during World War II.",
+        "poster_path": "/mEA7Iv1e6HqpSGMfVUdUfYOusNU.jpg",
+        "backdrop_path": "/dlUBOryv6pTSqseV4PpGwqyRDX7.jpg",
+        "production_companies": [
+            {
+                "name": "Samson Productions",
+                "id": 5368
+            },
+            {
+                "name": "Fox Searchlight Pictures",
+                "id": 43
+            },
+            {
+                "name": "Village Roadshow Entertainment",
+                "id": 13675
+            },
+            {
+                "name": "Australian Film Commission",
+                "id": 417
+            },
+            {
+                "name": "Pacific Film and Television Commission",
+                "id": 4024
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "iso_639_1": "ms",
+                "name": "Bahasa melayu"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 16000000,
+        "revenue": 2007100,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119859",
+        "original_language": "en",
+        "popularity": 8.764,
+        "status": "Released",
+        "tagline": "Courage echoes forever.",
+        "video": false
+    },
+    {
+        "id_tmdb": 31174,
+        "title": "Richard III",
+        "release_date": "1995-12-29",
+        "overview": "A murderous lust for the British throne sees Richard III descend into madness. Though the setting is transposed to the 1930s, England is torn by civil war, split between the rivaling houses of York and Lancaster. Richard aspires to a fascist dictatorship, but must first remove the obstacles to his ascension—among them his brother, his nephews and his brother's wife. When the Duke of Buckingham deserts him, Richard's plans are compromised.",
+        "poster_path": "/aN2BcIH6rvGbYiRQCS8lxOdeeVQ.jpg",
+        "backdrop_path": "/l8gbqIvow8rXFblM5IzYI5AKN8Z.jpg",
+        "production_companies": [
+            {
+                "name": "Mayfair Entertainment International",
+                "id": 34237
+            },
+            {
+                "name": "British Screen",
+                "id": 871
+            },
+            {
+                "name": "United Artists",
+                "id": 60
+            },
+            {
+                "name": "First Look Pictures",
+                "id": 13534
+            },
+            {
+                "name": "Bayly/Paré Productions",
+                "id": 38025
+            },
+            {
+                "name": "Metro-Goldwyn-Mayer",
+                "id": 21
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 2748518,
+        "vote_average": 6.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114279",
+        "original_language": "en",
+        "popularity": 8.743,
+        "status": "Released",
+        "tagline": "I can smile, and murder while I smile",
+        "video": false
+    },
+    {
+        "id_tmdb": 14439,
+        "title": "The Pentagon Wars",
+        "release_date": "1998-02-28",
+        "overview": "From the director of “Made In America” and “The Money Pit” comes a hilarious look at one of the most expensive blunders in military history. Over 17 years and almost as many billion dollars have gone into devising the BFV (Bradley Fighting Vehicle). There's only one problem. . . it doesn't work.",
+        "poster_path": "/qPe6EtkyONh6JuekhPZ56jRWyVV.jpg",
+        "backdrop_path": "/5uMgPq5IVsTrZZGT2yIRVITwfp3.jpg",
+        "production_companies": [
+            {
+                "name": "HBO",
+                "id": 3268
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.772,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0144550",
+        "original_language": "en",
+        "popularity": 8.718,
+        "status": "Released",
+        "tagline": "They aimed to build the ultimate fighting machine... they missed.",
+        "video": false
+    },
+    {
+        "id_tmdb": 22549,
+        "title": "Ulysses' Gaze",
+        "release_date": "1995-10-12",
+        "overview": "An exiled filmmaker finally returns to his home country where former mysteries and afflictions of his early life come back to haunt him once more.",
+        "poster_path": "/lj3pmqiy15O1KyljPRb4k2rb5XO.jpg",
+        "backdrop_path": "/2CqkiCDXftfhTGMy3odCgTFkHP5.jpg",
+        "production_companies": [
+            {
+                "name": "Greek Film Centre",
+                "id": 7254
+            },
+            {
+                "name": "MEGA TV",
+                "id": 18394
+            },
+            {
+                "name": "Paradis Films",
+                "id": 255
+            },
+            {
+                "name": "La Générale d'Images",
+                "id": 1180
+            },
+            {
+                "name": "La Sept Cinéma",
+                "id": 16366
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AL",
+                "name": "Albania"
+            },
+            {
+                "iso_3166_1": "BA",
+                "name": "Bosnia and Herzegovina"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sq",
+                "name": "shqip"
+            },
+            {
+                "iso_639_1": "bg",
+                "name": "български език"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "el",
+                "name": "ελληνικά"
+            },
+            {
+                "iso_639_1": "ku",
+                "name": ""
+            },
+            {
+                "iso_639_1": "mk",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.39,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114863",
+        "original_language": "el",
+        "popularity": 8.547,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 29927,
+        "title": "Pretty Village, Pretty Flame",
+        "release_date": "1996-05-11",
+        "overview": "In the opening stages of the Bosnian War, a small group of Serbian soldiers are trapped in a tunnel by a Muslim force.",
+        "poster_path": "/kh4VuXrgAmQCSKFsQHXdZ03l0rC.jpg",
+        "backdrop_path": "/b8tdsfLeuuT306AXcggEk8XDvvh.jpg",
+        "production_companies": [
+            {
+                "name": "MCRS",
+                "id": 83034
+            },
+            {
+                "name": "Cobra Film Department",
+                "id": 75151
+            },
+            {
+                "name": "RTS",
+                "id": 25204
+            },
+            {
+                "name": "Greek Film Centre",
+                "id": 7254
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CS",
+                "name": "Serbia and Montenegro"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116860",
+        "original_language": "sr",
+        "popularity": 8.491,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 44136,
+        "title": "Sahara",
+        "release_date": "1995-04-25",
+        "overview": "After the fall of Tobruk in June 1942, U.S. Army sergeant Joe Gunn leads his tank into the Sahara desert, in order to evade advancing Rommel's forces and reach Allied lines. Along the way he picks up few Allied soldiers, but soon they are running out of water. They find water at the ancient well, but the well is a goal of an entire German battalion. Despite the impossible odds, Sergeant Gunn decides to defend the well.",
+        "poster_path": "/be1SfIkSJ3jeSD7OhsDX3eNCNcE.jpg",
+        "backdrop_path": "/ovPlqmYbB3JsZOMorwL6vREgFij.jpg",
+        "production_companies": [
+            {
+                "name": "Showtime Networks",
+                "id": 4343
+            },
+            {
+                "name": "Village Roadshow Entertainment",
+                "id": 13675
+            },
+            {
+                "name": "TriStar Pictures",
+                "id": 559
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.305,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114324",
+        "original_language": "en",
+        "popularity": 8.126,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 27123,
+        "title": "The Trench",
+        "release_date": "1999-09-17",
+        "overview": "The Trench tells the story of a group of young British soldiers on the eve of the Battle of the Somme in the summer of 1916, the worst defeat in British military history. Against this ill-fated backdrop, the movie depicts the soldiers' experience as a mixture of boredom, fear, panic, and restlessness, confined to a trench on the front lines.",
+        "poster_path": "/tEK7lwfMz7Hy3LhuunPH0cjQDXl.jpg",
+        "backdrop_path": "/eAjt5jswKjomWLLpJqAm3D45Wam.jpg",
+        "production_companies": [
+            {
+                "name": "Portman Entertainment Group",
+                "id": 1095
+            },
+            {
+                "name": "British Screen",
+                "id": 871
+            },
+            {
+                "name": "The Arts Council",
+                "id": 122040
+            },
+            {
+                "name": "Bonaparte Films Ltd",
+                "id": 180009
+            },
+            {
+                "name": "Skyline Films",
+                "id": 2055
+            },
+            {
+                "name": "Galatée Films",
+                "id": 793
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0161010",
+        "original_language": "en",
+        "popularity": 8.057,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 67297,
+        "title": "The Girl of Your Dreams",
+        "release_date": "1998-11-13",
+        "overview": "A company of Spanish movie makers leaves Franco's Spain and moves to Hitler's Germany to make a film in co-production. Soon some problems start to arise...",
+        "poster_path": "/lKu9RSzI8yjs8o18f2SwelPsifW.jpg",
+        "backdrop_path": "/bvZde5jspfH4XjhwkoA7zkhwdV1.jpg",
+        "production_companies": [
+            {
+                "name": "Cartel",
+                "id": 1026
+            },
+            {
+                "name": "Fernando Trueba PC",
+                "id": 11424
+            },
+            {
+                "name": "Cartel Films",
+                "id": 154936
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 506044,
+            "name": "The Girl of Your Dreams Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0158030",
+        "original_language": "es",
+        "popularity": 7.928,
+        "status": "Released",
+        "tagline": "A romantic comedy about war, filmmaking and impossible love.",
+        "video": false
+    },
+    {
+        "id_tmdb": 20595,
+        "title": "The Last Days",
+        "release_date": "1998-10-23",
+        "overview": "Five Jewish Hungarians, now US citizens, tell their stories: before March 1944, when Nazis began to exterminate Hungarian Jews, months in concentration camps, and visiting childhood homes more than 50 years later. An historian, a Sonderkommando, a doctor who experimented on Auschwitz prisoners, and US soldiers who were part of the liberation in April 1945.",
+        "poster_path": "/kWr6QDDcO2HHKqvJvgsJ1hQz4Gs.jpg",
+        "backdrop_path": "/bSvegZGcIA2ipKgPfKu2YQp0EtK.jpg",
+        "production_companies": [
+            {
+                "name": "Ken Lipper/June Beallor Production",
+                "id": 3805
+            },
+            {
+                "name": "Shoah Foundation",
+                "id": 3806
+            },
+            {
+                "name": "Survivors of the Shoah Visual History Foundation",
+                "id": 3807
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0174852",
+        "original_language": "en",
+        "popularity": 7.741,
+        "status": "Released",
+        "tagline": "Everything you're about to see is true.",
+        "video": false
+    },
+    {
+        "id_tmdb": 31273,
+        "title": "With Fire and Sword",
+        "release_date": "1999-02-08",
+        "overview": "In the mid-17th century, Poland was the largest, most democratic, and most tolerant country in Europe. However, a tragic civil war brought about the gradual decline of the once glorious republic...  An epic story about the Ukrainian uprising against the Polish-Lithuanian Commonwealth magnates in the 17th Century.",
+        "poster_path": "/cCCeqG9sjts6H6LKKgDnqcQuVtq.jpg",
+        "backdrop_path": "/eC061TTyouKa6Hprd4PS801pHpR.jpg",
+        "production_companies": [
+            {
+                "name": "Okocimskie Zaklady Piwowarskie S.A.",
+                "id": 73860
+            },
+            {
+                "name": "Agencja Produkcji Filmowej",
+                "id": 266
+            },
+            {
+                "name": "Kredyt Bank PBI S.A.",
+                "id": 73861
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tr",
+                "name": "Türkçe"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "tt",
+                "name": ""
+            },
+            {
+                "iso_639_1": "uk",
+                "name": "Український"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1003970,
+            "name": "Henryk Sienkiewicz's Trilogy"
+        },
+        "homepage": "",
+        "imdb_id": "tt0128378",
+        "original_language": "pl",
+        "popularity": 7.389,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 14905,
+        "title": "Welcome to Sarajevo",
+        "release_date": "1997-05-09",
+        "overview": "Follow a group of international journalists into the heart of the once cosmopolitan city of Sarajevo—now a danger zone of sniper and mortar attacks where residents still live. While reporting on an American aid worker who’s trying to get children out of the country, a British correspondent decides to take an orphaned girl home to London.",
+        "poster_path": "/bGdDqsFCF0v9M5mB77fAF8vJMsy.jpg",
+        "backdrop_path": "/9NjCvqLUAQYfX3ksAImHdtdc1Bx.jpg",
+        "production_companies": [
+            {
+                "name": "Miramax",
+                "id": 14
+            },
+            {
+                "name": "Dragon Pictures",
+                "id": 2997
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "bs",
+                "name": "Bosanski"
+            },
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 9000000,
+        "revenue": 334319,
+        "vote_average": 6.402,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120490",
+        "original_language": "en",
+        "popularity": 7.112,
+        "status": "Released",
+        "tagline": "To get the story, they’ll risk everything.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2143,
+        "title": "Carla's Song",
+        "release_date": "1996-10-30",
+        "overview": "A Glasgow man visits war-torn Nicaragua with a refugee tormented by her memories.",
+        "poster_path": "/jQtbHH07alTI1knOmt8ZabU6p3c.jpg",
+        "backdrop_path": "/mBc5ehhLAEoOgbUSSsp6gQFDrnO.jpg",
+        "production_companies": [
+            {
+                "name": "Alta Films S.A.",
+                "id": 697
+            },
+            {
+                "name": "The Glasgow Film Fund",
+                "id": 980
+            },
+            {
+                "name": "Road Movies Dritte Produktionen",
+                "id": 982
+            },
+            {
+                "name": "Parallax Pictures",
+                "id": 983
+            },
+            {
+                "name": "Institute of Culture",
+                "id": 984
+            },
+            {
+                "name": "Filmstiftung NRW",
+                "id": 985
+            },
+            {
+                "name": "Degeto Film",
+                "id": 986
+            },
+            {
+                "name": "TVE",
+                "id": 981
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.799,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0115832",
+        "original_language": "en",
+        "popularity": 6.983,
+        "status": "Released",
+        "tagline": "A dream called freedom. A nightmare called Nicaragua.",
+        "video": false
+    },
+    {
+        "id_tmdb": 19493,
+        "title": "Hornblower: The Even Chance",
+        "release_date": "1998-10-07",
+        "overview": "Portsmouth, 1794. Under thundery skies and in lashing rain, 17-year-old midshipman Horatio Hornblower takes the first tentative steps of his naval career, but a feud with a shipmate causes complications.",
+        "poster_path": "/gEBjQzBRJMTil8XE2VoZrOg5IYs.jpg",
+        "backdrop_path": "/yb1Fnpt51RR8gaNK9Hk7jXHGyrx.jpg",
+        "production_companies": [
+            {
+                "name": "Meridian Broadcasting Ltd",
+                "id": 5620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 115164,
+            "name": "Hornblower Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0129686",
+        "original_language": "en",
+        "popularity": 6.706,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 46334,
+        "title": "Captain Conan",
+        "release_date": "1996-10-16",
+        "overview": "The last days of World War I, Eastern front. Captain Conan, a lone wolf, a true warrior, leads a band of ruthless French fighters who love hand-to-hand combat; they are not fit for peacetime, they only feel really alive in the chaos of the battlefield.",
+        "poster_path": "/5prF2brzZEFSqBC5v8d7AemMIQE.jpg",
+        "backdrop_path": "/8ohEXPkeEvP19l0k1ecPAkzgewb.jpg",
+        "production_companies": [
+            {
+                "name": "Studio Images 2",
+                "id": 6069
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Les Films Alain Sarde",
+                "id": 635
+            },
+            {
+                "name": "Little Bear",
+                "id": 16772
+            },
+            {
+                "name": "TF1 Films Production",
+                "id": 356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ro",
+                "name": "Română"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.651,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://www.studiocanal.com/title/captain-conan-1996",
+        "imdb_id": "tt0115822",
+        "original_language": "fr",
+        "popularity": 6.547,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 48580,
+        "title": "A Self-Made Hero",
+        "release_date": "1996-05-15",
+        "overview": "Set in France at the end of World War II Albert Dehousse finds out his father wasn't a war hero and his mother is a collaborator.",
+        "poster_path": "/kq8aRQHSQyyFTEfGNgOjaTuxkQ5.jpg",
+        "backdrop_path": "/2sxUrCRimUdYMtgGubx9lLMWMtz.jpg",
+        "production_companies": [
+            {
+                "name": "Alicéléo",
+                "id": 8799
+            },
+            {
+                "name": "Cofimage 7",
+                "id": 8800
+            },
+            {
+                "name": "Lumière",
+                "id": 11793
+            },
+            {
+                "name": "Studio Images 2",
+                "id": 6069
+            },
+            {
+                "name": "France 3 Cinéma",
+                "id": 591
+            },
+            {
+                "name": "M6 Films",
+                "id": 1115
+            },
+            {
+                "name": "Initial Groupe",
+                "id": 22240
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0118020",
+        "original_language": "fr",
+        "popularity": 6.518,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 41614,
+        "title": "Jinnah",
+        "release_date": "1998-11-07",
+        "overview": "Biography of Mohammed Ali Jinnah, the founder of modern Pakistan is told through flashbacks as his soul tries to find eternal rest. The flashbacks start in 1947 as Jinnah pleads for a separate nation for the Muslim minority, infuriating Lord Mountbatten. Mountbatten then tries to enlist Gandhi & Nehru to persuade Jinnah to stop his efforts. Gandhi sides with Jinnah, which upsets Nehru. However, Jinnah turns down the offer to become prime minister and the film takes another slide back to 1916, which reveals all of the political implications that have occurred.",
+        "poster_path": "/di3SL7umThzyGgwa0p7LlULIsJB.jpg",
+        "backdrop_path": "/vnQhzxHqAeZK5mkevV0yl9QYxiZ.jpg",
+        "production_companies": [
+            {
+                "name": "Dehlavi Films",
+                "id": 4431
+            },
+            {
+                "name": "The Quaid Project",
+                "id": 41727
+            },
+            {
+                "name": "Petra Film",
+                "id": 41728
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PK",
+                "name": "Pakistan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 230000,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0183306",
+        "original_language": "ur",
+        "popularity": 6.364,
+        "status": "Released",
+        "tagline": "He fought for justice, and made Pakistan.",
+        "video": false
+    },
+    {
+        "id_tmdb": 145766,
+        "title": "Hakuchi: The Innocent",
+        "release_date": "1999-11-13",
+        "overview": "In a future where World War II never ended, Japan is decimated by nightly bombings. The only building left standing is known as the Media Station, a broadcasting center responsible for all of Japan's entertainment.",
+        "poster_path": "/4GiZiFrfRdrVZoHxNHgkcNbxCmd.jpg",
+        "backdrop_path": "/x1fnM1anR3zUsTc0bjGgeHoyqXY.jpg",
+        "production_companies": [
+            {
+                "name": "Tezuka Productions",
+                "id": 4262
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0233839",
+        "original_language": "ja",
+        "popularity": 6.233,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 20546,
+        "title": "Goodnight, Mister Tom",
+        "release_date": "1998-10-25",
+        "overview": "A shy and quiet World War II evacuee is housed by a disgruntled old man, and they soon develop a close bond.",
+        "poster_path": "/qxlqWxL5dgZuSS2XicVt1WNRq8r.jpg",
+        "backdrop_path": "/8eohkYjvxMzxYpzWIZ2GC8Sl7yo.jpg",
+        "production_companies": [
+            {
+                "name": "Carlton Television",
+                "id": 5171
+            },
+            {
+                "name": "GBH",
+                "id": 10197
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0175680",
+        "original_language": "en",
+        "popularity": 6.101,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 95963,
+        "title": "The Walking Dead",
+        "release_date": "1995-02-24",
+        "overview": "Five young marines on a suicide mission in Vietnam, struggle for survival in a jungle minefield. The mean streets of home did not prepare them for this.",
+        "poster_path": "/c0RtcIN4oSzSZoNs0nJMevfGYS4.jpg",
+        "backdrop_path": "/rVGuvGbS1D2fuENKcVWTwFqEmAp.jpg",
+        "production_companies": [
+            {
+                "name": "Jackson-McHenry Entertainment",
+                "id": 37350
+            },
+            {
+                "name": "Savoy Pictures",
+                "id": 11308
+            },
+            {
+                "name": "Price Entertainment",
+                "id": 23808
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 6014541,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114888",
+        "original_language": "en",
+        "popularity": 5.99,
+        "status": "Released",
+        "tagline": "Surviving the streets was just a rehearsal.",
+        "video": false
+    },
+    {
+        "id_tmdb": 2131,
+        "title": "Hostile Waters",
+        "release_date": "1997-10-18",
+        "overview": "Based on true events, an American submarine collides into a Soviet sub of the coast of America and an ensuing standoff occurs that could lead to total annihilation.",
+        "poster_path": "/6froDO7JfGq3VnuYLt4l8Jq5KD4.jpg",
+        "backdrop_path": "/lE8V3A0tORu6kaSNbJxg0XOZz9V.jpg",
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            },
+            {
+                "name": "HBO",
+                "id": 3268
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.788,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119320",
+        "original_language": "en",
+        "popularity": 5.621,
+        "status": "Released",
+        "tagline": "We were seconds from death and we didn't know it.",
+        "video": false
+    },
+    {
+        "id_tmdb": 464038,
+        "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+        "release_date": "1998-08-01",
+        "overview": "Universal Century 0079. The One Year War rages on, and Shiro Amada and his unit, the 08th MS team, continue their struggle against Zeon forces in the jungles of Southeast Asia. But recent events have put them under close scrutiny by Federation leaders. Alice Miller, an officer of the Federation Intelligence Division, has been dispatched to ascertain the truth behind a series of events leading to the capture of a new enemy mobile armor. As she begins her investigation, the lines between Federation and Zeon become blurred. Is there really a spy among the 08th MS team?",
+        "poster_path": "/fdFxuckun446PsbjhfeunhgKeLF.jpg",
+        "backdrop_path": "/dhZzWxSTC5YdQrBsVEMzYEG9d8F.jpg",
+        "production_companies": [
+            {
+                "name": "SUNRISE",
+                "id": 3153
+            },
+            {
+                "name": "Bandai Visual",
+                "id": 528
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0945355",
+        "original_language": "ja",
+        "popularity": 5.594,
+        "status": "Released",
+        "tagline": "The war just got personal.",
+        "video": false
+    },
+    {
+        "id_tmdb": 45046,
+        "title": "The Second Civil War",
+        "release_date": "1997-12-04",
+        "overview": "When a planeload of Pakistani orphans are shipped to his state for permanent relocation, the governor of Idaho defies the president and closes the state's border. News Net Television, a cable news program that makes hay by reporting on political scandals, quickly spins the racist act into an overnight media sensation, creating a divide in national opinion over the issue.",
+        "poster_path": "/aVdrnRbP38f2R0u9OxqRUC8Wr09.jpg",
+        "backdrop_path": "/7FPertuwiq39BkPTx3xs2tkq7h9.jpg",
+        "production_companies": [
+            {
+                "name": "Baltimore Pictures",
+                "id": 11407
+            },
+            {
+                "name": "HBO",
+                "id": 3268
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120086",
+        "original_language": "en",
+        "popularity": 5.528,
+        "status": "Released",
+        "tagline": "A very uncivil comedy",
+        "video": false
+    },
+    {
+        "id_tmdb": 58097,
+        "title": "Freedomfighters",
+        "release_date": "1996-04-19",
+        "overview": "At the outbreak of the Spanish Civil War, the nun Maria is forced to flee her convent. She takes refuge in a brothel, until it is liberated by a woman's anarchist group. Maria joins the group and eventually goes to the front. The women's group faces the problems of fighting not only the nationalists, but also factions on the left seeking to impose a more traditional military structure.",
+        "poster_path": "/k9HiiZRNS6N0PnUM7Wyeo5cspEn.jpg",
+        "backdrop_path": "/1Jo5VQqlHd2fxR6LOnusoKumXuU.jpg",
+        "production_companies": [
+            {
+                "name": "Academy Pictures",
+                "id": 1036
+            },
+            {
+                "name": "Canal+ España",
+                "id": 9335
+            },
+            {
+                "name": "Erato Films",
+                "id": 2239
+            },
+            {
+                "name": "Lolafilms",
+                "id": 1025
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0113649",
+        "original_language": "es",
+        "popularity": 5.316,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 109535,
+        "title": "Purgatory",
+        "release_date": "1998-03-23",
+        "overview": "This is a story about the battle for a hospital building in Grozny (Chechnya) in January 1995 between Russian Army forces and Chechen rebels supported by Arabian mujahideen and international mercenaries. Although the story is fictional, most of the characters are based on real-life prototypes and events are the compilation of true events during the Grozny Siege in the First Chechen War.",
+        "poster_path": "/6MCMEAHc9HSVmmGc07ZsfvP3Xic.jpg",
+        "backdrop_path": "/a6rzCCEJSmegBHljVjXVGkIY7N7.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ar",
+                "name": "العربية"
+            },
+            {
+                "iso_639_1": "ce",
+                "name": ""
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            },
+            {
+                "iso_639_1": "lt",
+                "name": "Lietuvių"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0846774",
+        "original_language": "ru",
+        "popularity": 4.91,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 65431,
+        "title": "The Hunley",
+        "release_date": "1999-07-11",
+        "overview": "CSS Hunley tells the incredible true story of the crew of the manually propelled submarine CSS Hunley, during the siege of Charleston of 1864. It is a story of heroism in the face of adversity, the Hunley being the first submersible to sink an enemy boat in time of war. It also relates the human side of the story relating the uncommon and extaordinary temperament of the 9 men who led the Hunley into history and died valiantly accomplishing this feat.",
+        "poster_path": "/7crYm70v5B7r4HjOki5xaRnOuhw.jpg",
+        "backdrop_path": "/n0yOTFDQo1nr7u3WEa0Rq19suqm.jpg",
+        "production_companies": [
+            {
+                "name": "Adelson Entertainment",
+                "id": 39335
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0162897",
+        "original_language": "en",
+        "popularity": 4.775,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 21846,
+        "title": "Trinity and Beyond: The Atomic Bomb Movie",
+        "release_date": "1995-09-29",
+        "overview": "\"Trinity and Beyond\" is an unsettling yet visually fascinating documentary presenting the history of nuclear weapons development and testing between 1945-1963. Narrated by William Shatner and featuring an original score performed by the Moscow Symphony Orchestra, this award-winning documentary reveals previously unreleased and classified government footage from several countries.",
+        "poster_path": "/mkLY0SC2cBF3lE6bv3W0V4muJ4Q.jpg",
+        "backdrop_path": "/7v6kVboVfR5x4Y2TqRZhWTYSzQn.jpg",
+        "production_companies": [
+            {
+                "name": "Visual Concept Entertainment",
+                "id": 4020
+            },
+            {
+                "name": "Documentary Film Works",
+                "id": 170493
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 126678,
+            "name": "The Atomic Bomb Collection"
+        },
+        "homepage": "http://www.vce.com/trinity.html",
+        "imdb_id": "tt0114728",
+        "original_language": "en",
+        "popularity": 4.714,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 253014,
+        "title": "In Praise of Older Women",
+        "release_date": "1997-04-11",
+        "overview": "In the turmoil of the Spanish Civil War, a young man comes of age sexually, through a string of relationships with a wide range of mature, older women.",
+        "poster_path": "/gH0yZpm2AmrmBjyXHWB25xYjTrV.jpg",
+        "backdrop_path": "/mccgOAQpggIbAwgcB4dEb6eXqyf.jpg",
+        "production_companies": [
+            {
+                "name": "Sogepaq",
+                "id": 11955
+            },
+            {
+                "name": "Canal+ España",
+                "id": 9335
+            },
+            {
+                "name": "Lolafilms",
+                "id": 1025
+            },
+            {
+                "name": "Sogetel",
+                "id": 15469
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116193",
+        "original_language": "es",
+        "popularity": 4.626,
+        "status": "Released",
+        "tagline": "Love & Sex as vital harmony",
+        "video": false
+    },
+    {
+        "id_tmdb": 55936,
+        "title": "Prisoner of the Mountains",
+        "release_date": "1996-03-15",
+        "overview": "Two Russian soldiers, one battle-seasoned and the other barely into his boots and uniform, are taken prisoner by an anxious Islamic father from a remote village hoping to trade them for his captured son.",
+        "poster_path": "/82WdNsibYEwZI3u3XB0ndfKKKLe.jpg",
+        "backdrop_path": "/9HguisYwGUiEE9ajopMEBmjvDwN.jpg",
+        "production_companies": [
+            {
+                "name": "Karavan",
+                "id": 81995
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            },
+            {
+                "iso_3166_1": "KZ",
+                "name": "Kazakhstan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 890078,
+        "vote_average": 6.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116754",
+        "original_language": "ru",
+        "popularity": 4.587,
+        "status": "Released",
+        "tagline": "An extraordinary story of hope, courage and humanity.",
+        "video": false
+    },
+    {
+        "id_tmdb": 33125,
+        "title": "Border",
+        "release_date": "1997-06-13",
+        "overview": "It's 1971, and 2000 members of the Pakistani Army—armed with tanks—are at war with just 120 men in a battalion of Indian soldiers based in the Longewala region of Rajasthan in India.",
+        "poster_path": "/sFyftHJ5wXdZXHDKBhQX2mPWZLr.jpg",
+        "backdrop_path": "/eUiSc6AdJcWSRokq0cPMJ0q2j6M.jpg",
+        "production_companies": [
+            {
+                "name": "J.P. Films",
+                "id": 107387
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "hi",
+                "name": "हिन्दी"
+            }
+        ],
+        "budget": 0,
+        "revenue": 37000000,
+        "vote_average": 6.377,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1370659,
+            "name": "Border Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0118751",
+        "original_language": "hi",
+        "popularity": 4.567,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 128396,
+        "title": "The Diary Of Anne Frank",
+        "release_date": "1995-08-19",
+        "overview": "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
+        "poster_path": "/cFVgglkfaEoBZodxeP1VG9QrNd6.jpg",
+        "backdrop_path": "/1qR0S1EHqsoIwZc5H6dkof0vcZU.jpg",
+        "production_companies": [
+            {
+                "name": "Madhouse",
+                "id": 3464
+            },
+            {
+                "name": "TBS",
+                "id": 1393
+            },
+            {
+                "name": "Bungeishunju",
+                "id": 101877
+            },
+            {
+                "name": "Tokyo FM",
+                "id": 569
+            },
+            {
+                "name": "IMAGICA",
+                "id": 13412
+            },
+            {
+                "name": "Hakuhodo",
+                "id": 13411
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0112862",
+        "original_language": "ja",
+        "popularity": 4.38,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 136478,
+        "title": "All My Loved Ones",
+        "release_date": "1999-10-21",
+        "overview": "Told from the perspective of man reflecting on his childhood in Prague in the early years of World War II and the eventual destruction of his family as the Nazis rise to power. The storyline focuses heavily on Jewish-Czech Silberstein family members. Drama was filmed on the real events as a tribute to Mr. Nicholas Winton, the British humanitarian who organized the rescue of 669 children, most of them Jewish, from Czechoslovakia on the eve of the Second World War in an operation later known as the Czech Kindertransport from German-occupied Czechoslovakia and likely death in the Holocaust.",
+        "poster_path": "/57oFPLFv4JxguTV8iOgVzRpjyBS.jpg",
+        "backdrop_path": "/eNakw439gNHIeWLqzQ2Lq04WlwI.jpg",
+        "production_companies": [
+            {
+                "name": "In Film Praha",
+                "id": 64295
+            },
+            {
+                "name": "Agencja Produkcji Filmowej",
+                "id": 266
+            },
+            {
+                "name": "Česká televize",
+                "id": 487
+            },
+            {
+                "name": "Komitet Kinematografii",
+                "id": 68029
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CZ",
+                "name": "Czech Republic"
+            },
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            },
+            {
+                "iso_3166_1": "SK",
+                "name": "Slovakia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cs",
+                "name": "Český"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0218705",
+        "original_language": "cs",
+        "popularity": 4.283,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 36412,
+        "title": "Deserter's Gold",
+        "release_date": "1998-12-03",
+        "overview": "\"Deserter's Gold\", the sequel to the very popular \"The Deserters\", is a rich war comedy, skipping humorously around the more serious dangers of a war. Deserters Gold takes place during World War II, while the first film happened during WWI. The heroes' mission is to rob a Nazi-run bank in Poland for gold that will buy military supplies for the Polish Underground.",
+        "poster_path": "/5fdW1pgFCZeCuYyUpBu2kjrN15s.jpg",
+        "backdrop_path": "/sMazTy9n34keMplTbKXOasxx0Sv.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.9,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 1328355,
+            "name": "Dezerterzy - Kolekcja"
+        },
+        "homepage": "",
+        "imdb_id": "tt0191666",
+        "original_language": "pl",
+        "popularity": 4.224,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 174127,
+        "title": "A Moment of Romance III",
+        "release_date": "1996-03-28",
+        "overview": "Lau Tin-Wai is a fighter pilot in the Chinese airforce who is forced to ditch in a field; he is taken in by the remote community of farmers who nurse him back to health, here he meets Ting Siu-Wo, a young woman who falls in love with him.",
+        "poster_path": "/ySgtPwRfhcIngUYjrjlrxQ6p1Xo.jpg",
+        "backdrop_path": "/jlxhs5smQMs7OkJYgKHTWQLjFJg.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 14,
+        "vote_average": 5.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 370667,
+            "name": "A Moment of Romance Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0117072",
+        "original_language": "cn",
+        "popularity": 4.113,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 116333,
+        "title": "Bravo Two Zero",
+        "release_date": "1999-10-07",
+        "overview": "When an elite eight-man British SAS team is dropped behind enemy lines, their mission is clear: take out Saddam Hussein's SCUD missile systems. But when communications are cut and the team finds themselves surrounded by Saddam's army, their only hope is to risk capture and torture in a desperate 185-kilometer run to the Syrian border.  Based on the true story of a British Special Forces unit behind enemy lines during the Gulf War, Bravo Two Zero explores the tragedies and triumphs of men taken to the edge of survival in the Persian Gulf War.",
+        "poster_path": "/qYQnIBew0Tv2BPT0kpNSekxmAyr.jpg",
+        "backdrop_path": "/54mzszGjQWMxByAF0nbYH3dBqZV.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120617",
+        "original_language": "en",
+        "popularity": 4.108,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 193212,
+        "title": "The Man Who Captured Eichmann",
+        "release_date": "1996-11-08",
+        "overview": "Set in 1960, the story follows the efforts of the Mossad, the Israeli Secret Service, to find former SS Colonel Adolf Eichmann, who ran from Germany to Argentina and took the name Ricardo Clement. He was wanted for the murders of both Europeans and Jews during the Holocaust. Learning of Eichmann's living in Argentina, the Mossad sends a team to capture him, led by agent Peter Malkin. The standing order: bring Eichmann back alive to Israel for trial.",
+        "poster_path": "/dUuHzPsRD38TlPwbSXBjlT3ojJy.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Turner Pictures (I)",
+                "id": 6189
+            },
+            {
+                "name": "Butcher's Run Films",
+                "id": 3864
+            },
+            {
+                "name": "Stan Margolies Company",
+                "id": 48105
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AR",
+                "name": "Argentina"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116975",
+        "original_language": "en",
+        "popularity": 4.042,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 113290,
+        "title": "The Long Way Home",
+        "release_date": "1997-09-19",
+        "overview": "The story of the post World War II Jewish refugee situation from liberation to the establishment of the modern state of Israel.",
+        "poster_path": "/inb3aRpo10mOpGxBzwE0v1OF53c.jpg",
+        "backdrop_path": "/xhJWiIsNh7oGE8iw0z6WgEAZJIY.jpg",
+        "production_companies": [
+            {
+                "name": "Moriah Films",
+                "id": 101283
+            },
+            {
+                "name": "Simon Wiesenthal Center",
+                "id": 89356
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://www.multicom.tv/library/Long_Way_Home,_The",
+        "imdb_id": "tt0119561",
+        "original_language": "en",
+        "popularity": 4.03,
+        "status": "Released",
+        "tagline": "For the survivors of the Holocaust, liberation was only the beginning.",
+        "video": false
+    },
+    {
+        "id_tmdb": 48213,
+        "title": "The Ogre",
+        "release_date": "1996-09-12",
+        "overview": "Frenchman Abel Tiffauges is a naive man who lives a simple life working as a mechanic. Falsely accused of being a child abuser, he is recruited as a soldier when World War II begins, but is captured soon and taken to the heart of Nazi Germany.",
+        "poster_path": "/ybLzxBiB9qiiqyANLj8RGs2Dkp3.jpg",
+        "backdrop_path": "/rIfaCpgE59tkjZbAOIZnuXvhCBv.jpg",
+        "production_companies": [
+            {
+                "name": "Heritage Films",
+                "id": 58245
+            },
+            {
+                "name": "Recorded Picture Company",
+                "id": 11561
+            },
+            {
+                "name": "Renn Productions",
+                "id": 82
+            },
+            {
+                "name": "Studio Babelsberg",
+                "id": 264
+            },
+            {
+                "name": "UFA",
+                "id": 12372
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            },
+            {
+                "name": "WDR",
+                "id": 46
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "he",
+                "name": "עִבְרִית"
+            },
+            {
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "iso_639_1": "ru",
+                "name": "Pусский"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "https://heritage.com.pl/en/production/the-ogre",
+        "imdb_id": "tt0118043",
+        "original_language": "de",
+        "popularity": 3.971,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 23217,
+        "title": "Shot Through the Heart",
+        "release_date": "1998-10-04",
+        "overview": "The horrors of war are examined from the view points of lifelong friends (Linus Roache, Vincent Perez), who end up on opposing sides in the civil war in Sarajevo. One is an expert marksman, who trains the snipers used to terrify the city and the other becomes a freedom fighter, who rejects his friend's offer to gain an escape from the city. As might be expected, the two eventually have to face-off against one another.",
+        "poster_path": "/sDqON14grrU1yFJNqPqVugirH7q.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            },
+            {
+                "name": "Company Pictures",
+                "id": 11842
+            },
+            {
+                "name": "Alliance Films",
+                "id": 2514
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0171741",
+        "original_language": "en",
+        "popularity": 3.76,
+        "status": "Released",
+        "tagline": "Two Friends.  Two Marksmen.  Two Targets.  Each Other.",
+        "video": false
+    },
+    {
+        "id_tmdb": 51007,
+        "title": "Black Sun: The Nanking Massacre",
+        "release_date": "1995-07-07",
+        "overview": "Black Sun: The Nanking Massacre depicts the brutal events behind the Nanking Massacre committed by the Imperial Japanese army against the Chinese people during the Second Sino-Japanese War.",
+        "poster_path": "/zxDxcrXzJzZLzEkk0MNozzKiAzi.jpg",
+        "backdrop_path": "/iOmFvzcJ02RZvgk4QKtePOL6K2R.jpg",
+        "production_companies": [
+            {
+                "name": "T.F. Film Company",
+                "id": 13531
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "cn",
+                "name": "广州话 / 廣州話"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 633245,
+            "name": "Unit 731"
+        },
+        "homepage": "",
+        "imdb_id": "tt0113281",
+        "original_language": "cn",
+        "popularity": 3.734,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 75136,
+        "title": "Sharpe's Gold",
+        "release_date": "1995-04-01",
+        "overview": "Sharpe is sent on a mission to exchange rifles for deserters with a strange band of Spanish guerillas. He also has to chaperone two women looking for their missing husband.",
+        "poster_path": "/eLTolubxEYMzr7pVbrCg58zbTBR.jpg",
+        "backdrop_path": "/z5Ux9258a7RUBwlRH6iEOmVkoCO.jpg",
+        "production_companies": [
+            {
+                "name": "Celtic Films Entertainment",
+                "id": 7783
+            },
+            {
+                "name": "Carlton Film Export",
+                "id": 901
+            },
+            {
+                "name": "Central",
+                "id": 3649
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 69788,
+            "name": "Sharpe Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0114417",
+        "original_language": "en",
+        "popularity": 3.721,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 541130,
+        "title": "Pride",
+        "release_date": "1998-05-23",
+        "overview": "Based on the International Military Tribunal for the Far East of 1946–48, depicts Japanese prime minister Hideki Tojo as a family man who fought to defend Japan and Asia from western colonialism but was ultimately hanged by a vengeful United States.",
+        "poster_path": "/ijDgWD1hezj53yVt6rndFzVdfag.jpg",
+        "backdrop_path": "/4IIK8IkZiOFYHZccYkeiB14smyd.jpg",
+        "production_companies": [
+            {
+                "name": "Toei Company",
+                "id": 5822
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 11000000,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0162563",
+        "original_language": "ja",
+        "popularity": 3.649,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 57563,
+        "title": "Level Five",
+        "release_date": "1997-02-19",
+        "overview": "Laura, a French programmer, inherits the task of creating a game about the World War II Battle of Okinawa. Her research and interviews with Japanese experts and witnesses prompt her to reflect on life, humanity, and the lasting influence of history and memories.",
+        "poster_path": "/9C0ntn8RXc9U3La2PjUtpLlIEOo.jpg",
+        "backdrop_path": "/9lHSirzogf9T1tuouY5thjhoabK.jpg",
+        "production_companies": [
+            {
+                "name": "Les Films de l'Astrophore",
+                "id": 7573
+            },
+            {
+                "name": "Argos Films",
+                "id": 6116
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "http://icarusfilms.com/if-l5",
+        "imdb_id": "tt0116866",
+        "original_language": "fr",
+        "popularity": 3.595,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 53253,
+        "title": "All the King's Men",
+        "release_date": "1999-11-14",
+        "overview": "Feature-length drama about the mystery of Sandringham Company, which disappeared in action at Gallipoli in 1915. Commanded by Captain Frank Beck, their estate manager, the men advanced into battle, were enveloped in a strange mist and never seen again.",
+        "poster_path": "/9VoSiPBeoGVnLeXsdRdPBJvSOVz.jpg",
+        "backdrop_path": "/1sdmiqdM9yM2W0zKV7cheIMSue6.jpg",
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            },
+            {
+                "name": "GBH",
+                "id": 10197
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0220969",
+        "original_language": "en",
+        "popularity": 3.594,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 40529,
+        "title": "Time Out",
+        "release_date": "1998-01-01",
+        "overview": "The whimsical and joyous parade of ridiculous events satirize the war that rages in Colombia right now and exposes the real spirit of those who inhabit such a beautiful country.",
+        "poster_path": "/vR3tBLtDf9QcPqA45IFs2jgsYAK.jpg",
+        "backdrop_path": "/vUBWxH66j0Uxc6Xonh76qhNOaHA.jpg",
+        "production_companies": [
+            {
+                "name": "Caracol Televisión",
+                "id": 2586
+            },
+            {
+                "name": "Emme",
+                "id": 167806
+            },
+            {
+                "name": "Producciones Fotograma",
+                "id": 167807
+            },
+            {
+                "name": "SYX",
+                "id": 167808
+            },
+            {
+                "name": "Sesamo Ltda.",
+                "id": 167809
+            },
+            {
+                "name": "TVE",
+                "id": 981
+            },
+            {
+                "name": "Tornasol Media",
+                "id": 7680
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "CO",
+                "name": "Colombia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0183127",
+        "original_language": "es",
+        "popularity": 3.588,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 68799,
+        "title": "Iron Sister",
+        "release_date": "1996-01-06",
+        "overview": "Manchuria 1941: Caught sleeping with his Japanese major's mistress, Manchurian collaborator Tung Fei (Jackson Liu Hsiu-hsien) fatally shoots the man and flees for his life. Overcome by fatigue after hours of travel on horseback, Tung eventually awakens to find himself under the care of hunter Suen (Dick Wei) and his daughter, Ironic (Hsu).",
+        "poster_path": "/e3soY8EsAscTe4G2kDao7YwiwAI.jpg",
+        "backdrop_path": "/gIX3P6SXb4dpeTW6UN7uPWPncoV.jpg",
+        "production_companies": [
+            {
+                "name": "Bao Shiung Film & Communication Co. Ltd.",
+                "id": 80595
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0319574",
+        "original_language": "zh",
+        "popularity": 3.565,
+        "status": "Released",
+        "tagline": "Life and death combines with battle, madness and sex.",
+        "video": false
+    },
+    {
+        "id_tmdb": 441705,
+        "title": "Mulan",
+        "release_date": "1998-07-14",
+        "overview": "Determined to bring honor to her family, Mulan lies her way into the army to protect her father.",
+        "poster_path": "/jHnwgGWfNs8QqK0fWoRgaidn2nI.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Burbank Animation Studios",
+                "id": 65288
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0238429",
+        "original_language": "en",
+        "popularity": 3.564,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 35494,
+        "title": "Hornblower: The Examination for Lieutenant",
+        "release_date": "1998-11-18",
+        "overview": "Acting Lieutenant Hornblower attempts to study for his promotion examination, but becomes distracted by the serious supply problems that face his crew.",
+        "poster_path": "/rTr2RvAopTve6QTsxz4f8V1cCgC.jpg",
+        "backdrop_path": "/8Chey6igDxv7WF6goflYGy3tTJb.jpg",
+        "production_companies": [
+            {
+                "name": "Meridian Broadcasting Ltd",
+                "id": 5620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            },
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 115164,
+            "name": "Hornblower Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0194947",
+        "original_language": "en",
+        "popularity": 3.512,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 21038,
+        "title": "Andersonville",
+        "release_date": "1996-03-03",
+        "overview": "This lengthy docudrama records the harrowing conditions at the Confederacy's most notorious prisoner-of-war camp. The drama unfolds through the eyes of a company of Union soldiers captured at the Battle of Cold Harbor, VA, in June 1864, and shipped to the camp in southern Georgia. A private, Josiah Day, and his sergeant  try to hold their company together in the face of squalid living conditions, inhumane punishments, and a gang of predatory fellow prisoners called the Raiders.",
+        "poster_path": "/s6eZmCPGfUzvWiWw8NnoEZG7UnD.jpg",
+        "backdrop_path": "/keiDXn0wTk9vS3zAbniqoRS9qnl.jpg",
+        "production_companies": [
+            {
+                "name": "Turner Pictures (I)",
+                "id": 6189
+            },
+            {
+                "name": "Turner Network Television",
+                "id": 678
+            },
+            {
+                "name": "Gideon Productions",
+                "id": 107362
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0115097",
+        "original_language": "en",
+        "popularity": 3.479,
+        "status": "Released",
+        "tagline": "The great untold story of the American Civil War.",
+        "video": false
+    },
+    {
+        "id_tmdb": 45266,
+        "title": "Behind Enemy Lines",
+        "release_date": "1997-05-23",
+        "overview": "An ex-marine returns to Vietnam when he learns his former mercenary partner whom he thought was killed is being held by a sadistic general.",
+        "poster_path": "/6eAMxsasHwJAraxAg9lwPdvBAWz.jpg",
+        "backdrop_path": "/i1FeeMnrjtA8tTWE22R0GqmOyya.jpg",
+        "production_companies": [
+            {
+                "name": "Orion Pictures",
+                "id": 41
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0115647",
+        "original_language": "en",
+        "popularity": 3.408,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 49798,
+        "title": "Regeneration",
+        "release_date": "1997-08-27",
+        "overview": "Wilfred Owen and Siegfried Sassoon, two of England's most important World War I poets are sent, along with other traumatized combatants, to a rest home in order to treat their emotional troubles, caused by the psychological fatigue that suffer the soldiers fighting in the no man's land.",
+        "poster_path": "/jWNif4E8ZRhqRBItr0FWVMz1ooO.jpg",
+        "backdrop_path": "/kMVOGxOzn0ukgcOg8GLwpDpIOC6.jpg",
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120001",
+        "original_language": "en",
+        "popularity": 3.401,
+        "status": "Released",
+        "tagline": "Between duty and destiny, loyalty and love, lies the road to...",
+        "video": false
+    },
+    {
+        "id_tmdb": 75137,
+        "title": "Sharpe's Battle",
+        "release_date": "1995-04-19",
+        "overview": "When Sharpe is ordered to whip the King of Spain's Irish Royal Brigade into shape, he faces dissent from the men who believe the British are slaughtering their relatives in Ireland and a spy from within.",
+        "poster_path": "/6zZ2b0cSnfSwXLByumjyM0ssruj.jpg",
+        "backdrop_path": "/ozRG8u06exClVFvANaOvkPXeKYC.jpg",
+        "production_companies": [
+            {
+                "name": "Carlton Television",
+                "id": 5171
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.8,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 69788,
+            "name": "Sharpe Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0114416",
+        "original_language": "en",
+        "popularity": 3.367,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 37067,
+        "title": "Hornblower: The Frogs and the Lobsters",
+        "release_date": "1999-04-02",
+        "overview": "Lieutenant Hornblower and his shipmates are sent to accompany a doomed royalist invasion of revolutionary France.",
+        "poster_path": "/xWU6ypb20rJtIIrvHNDqHPXsEh6.jpg",
+        "backdrop_path": "/srUf1xoByWfirQf7cJfe8r0U1k.jpg",
+        "production_companies": [
+            {
+                "name": "Meridian Broadcasting Ltd",
+                "id": 5620
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.1,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 115164,
+            "name": "Hornblower Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0194948",
+        "original_language": "en",
+        "popularity": 3.351,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 410989,
+        "title": "Forever Friends",
+        "release_date": "1995-08-11",
+        "overview": "A couple of friends join the Taiwanese army to fight the Mainland Chinese. But life in the army isn't all that they dreamed off....",
+        "poster_path": "/6nxzgGhZDVINfPzwFGBTQ2kMpek.jpg",
+        "backdrop_path": "/4Ulzs5yQqUaGtt3zUHHzpkUsUWO.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "TW",
+                "name": "Taiwan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116343",
+        "original_language": "zh",
+        "popularity": 3.286,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 17044,
+        "title": "The Land Girls",
+        "release_date": "1998-06-12",
+        "overview": "During World War II, the organisation \"The Women's Land Army\" recruited women to work on British farms while the men were off to war. Three such \"land girls\" of different social backgrounds - quiet Stella, young hairdresser Prue, and Cambridge graduate Ag - become best friends in spite of their different backgrounds.",
+        "poster_path": "/tfdj6Wx8vCDNZbzmIRR2hDn5mAr.jpg",
+        "backdrop_path": "/1a1AZaWccuaFsoJ1fS3JOUUnw5f.jpg",
+        "production_companies": [
+            {
+                "name": "Intermedia",
+                "id": 763
+            },
+            {
+                "name": "Greenpoint Films",
+                "id": 12918
+            },
+            {
+                "name": "Caméra One",
+                "id": 6454
+            },
+            {
+                "name": "West Eleven Films",
+                "id": 52581
+            },
+            {
+                "name": "Arena Films",
+                "id": 38736
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Sofineurope",
+                "id": 124077
+            },
+            {
+                "name": "Channel Four Films",
+                "id": 181
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.217,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119494",
+        "original_language": "en",
+        "popularity": 3.265,
+        "status": "Released",
+        "tagline": "The story of three young women and the events that would change their lives... The friendships that would stay with them forever... and the loves that would change their hearts.",
+        "video": false
+    },
+    {
+        "id_tmdb": 38373,
+        "title": "Demons of War",
+        "release_date": "1998-03-20",
+        "overview": "A detachment of the Polish IFOR forces in Bosnia is led by Major Keller, who is being investigated for insubordination during a patrol in Srebrenica. The investigation is to be led by two arriving officers - Lieutenant Czacki and Major Kusz who will also replace Keller as CO. When the camp's RTO receives a communication from a downed Norwegian chopper, Keller ignores his standing orders and leads a platoon to rescue the crew.",
+        "poster_path": "/oNYUJMdRepEvaBWYv4Y7GlIEDyk.jpg",
+        "backdrop_path": "/mmuX2QxhjKLJr3mufgRIFWAsAiA.jpg",
+        "production_companies": [
+            {
+                "name": "Polsat",
+                "id": 21303
+            },
+            {
+                "name": "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+                "id": 2466
+            },
+            {
+                "name": "Vision Film",
+                "id": 2219
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PL",
+                "name": "Poland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            },
+            {
+                "iso_639_1": "sh",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.4,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0144164",
+        "original_language": "pl",
+        "popularity": 3.217,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 70579,
+        "title": "José Rizal",
+        "release_date": "1998-12-25",
+        "overview": "Accused of treason, Dr. Jose P. Rizal awaits trial and meets with his colonial government-appointed counsel, Luis Taviel de Andrade. The two build the case and arguments for the defense as significant events in the central figure's life prior to his incarceration unfold. Upon hearing Rizal's life story, Taviel begins to realize that the accused not just is innocent but exhibits in fact all the qualities of an extraordinary man. When the mock trial unreels, Taviel is all set to act as the prime advocate for his client as Rizal himself is about to give an earth-moving speech to defend his honor and address his countrymen. Meanwhile, the Spanish authorities have worked out the vast political machinery to ensure a guilty verdict. A revolution waits in the wings.",
+        "poster_path": "/x2I1cdCmfSjzUoKaF1dC6lbHRoC.jpg",
+        "backdrop_path": "/IZELZRU3uMlg45EbDYs730t4DU.jpg",
+        "production_companies": [
+            {
+                "name": "GMA Pictures",
+                "id": 8237
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 9.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0186257",
+        "original_language": "tl",
+        "popularity": 3.167,
+        "status": "Released",
+        "tagline": "What matters death if one dies for what one loves, for native land and cherished ones?",
+        "video": false
+    },
+    {
+        "id_tmdb": 13923,
+        "title": "A Bright Shining Lie",
+        "release_date": "1998-05-30",
+        "overview": "Something in his past keeps career Army man John Paul Vann from advancing past colonel. He views being sent to Vietnam as part of the US military advisory force a stepping stone to promotion. However, he disagrees vocally (and on the record) with the way the war is being run and is forced to leave the military. Returning to Vietnam as a civilian working with the Army, he comes to despise some South Vietnamese officers while he takes charge of some of the U.S. forces and continues his liaisons with Vietnamese women.",
+        "poster_path": "/kH0DdrkbpotdQhwcZaW6TDqZLhQ.jpg",
+        "backdrop_path": "/3TQglwPIrFCCqA3T92UWYqv1GID.jpg",
+        "production_companies": [
+            {
+                "name": "HBO",
+                "id": 3268
+            },
+            {
+                "name": "Labrador Films",
+                "id": 1400
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "vi",
+                "name": "Tiếng Việt"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0126220",
+        "original_language": "en",
+        "popularity": 3.126,
+        "status": "Released",
+        "tagline": "In war as in life, the difference between truth and deception is what a man allows himself to believe.",
+        "video": false
+    },
+    {
+        "id_tmdb": 471202,
+        "title": "The Wall",
+        "release_date": "1998-05-24",
+        "overview": "The story of three items left at the Vietnam Veterans Memorial Wall: a pencil holder, a sheriff's badge, and an electric guitar. Each item connects the living with the dead and are left as either memorials or to heal the wounds of war.",
+        "poster_path": "/s16dTfzGTZ3QRPgCDsyMmnhrJn.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Edgar J. Scherick Associates",
+                "id": 4240
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0162041",
+        "original_language": "en",
+        "popularity": 3.069,
+        "status": "Released",
+        "tagline": "There are 58,183 names on the Vietnam Veterans Memorial. The lives they touched tell their stories.",
+        "video": false
+    },
+    {
+        "id_tmdb": 49320,
+        "title": "Ambush",
+        "release_date": "1999-01-22",
+        "overview": "It is the summer of 1941 and the Finnish army has been mobilized along the border with Russia. A platoon led by Lt. Eero Perkola is waiting for orders to go on the offensive. The platoon receives orders for a recon mission through the wilderness around the Lieksa lake to search for possible Russian defensive positions.",
+        "poster_path": "/iedCF5AVPqiBaZboHXCIMiGoewl.jpg",
+        "backdrop_path": "/6x4d95RgN3jbZMN3t9CoWyuhiQz.jpg",
+        "production_companies": [
+            {
+                "name": "MRP Matila Röhr Productions",
+                "id": 5240
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0162625",
+        "original_language": "fi",
+        "popularity": 3.032,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 30968,
+        "title": "Warriors",
+        "release_date": "1999-11-29",
+        "overview": "If the conflict in Bosnia has become something of a forgotten war, it's not for the want of trying from the immensely powerful BBC film Warriors, the story of five young soldiers and their harrowing experiences in the region.",
+        "poster_path": "/yqENfL9QIfjyLK6A2G532KNJSJa.jpg",
+        "backdrop_path": "/6r94pdoAiwMltdXa6DLJasR2IqI.jpg",
+        "production_companies": [
+            {
+                "name": "BBC",
+                "id": 3324
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119873",
+        "original_language": "en",
+        "popularity": 3.014,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 87190,
+        "title": "Pharaoh's Army",
+        "release_date": "1995-04-09",
+        "overview": "Union soldiers in search of food descend on the farm of a Confederate family and decide to stay until one in their ranks' wounds have healed. While the war weary Union captain falls for the mother of the family - whose husband is off fighting for the rebels - her son plots revenge on the dirty, double-dealing Yankees.",
+        "poster_path": "/yhzCZwkiFYrOrvmMlz14HnV0cM5.jpg",
+        "backdrop_path": "/ocpa9ktptCMeUh8WIXDCcmacDYF.jpg",
+        "production_companies": [
+            {
+                "name": "Cicada Films",
+                "id": 21072
+            },
+            {
+                "name": "Kentucky Educational Television",
+                "id": 21073
+            },
+            {
+                "name": "NEA",
+                "id": 21074
+            },
+            {
+                "name": "Sinkhole Productions Inc.",
+                "id": 21075
+            },
+            {
+                "name": "TMF Metro",
+                "id": 21076
+            },
+            {
+                "name": "ITVS",
+                "id": 10943
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 500000,
+        "revenue": 0,
+        "vote_average": 6.5,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0114122",
+        "original_language": "en",
+        "popularity": 2.892,
+        "status": "Released",
+        "tagline": "A Very Private Civil War",
+        "video": false
+    },
+    {
+        "id_tmdb": 111367,
+        "title": "For Ever Mozart",
+        "release_date": "1996-11-27",
+        "overview": "Episodic film that follows a theater troupe from France attempting to put on a play in Sarajevo. Along their journey they are captured and held in a POW camp, and they call for help from their friends and relations in France.",
+        "poster_path": "/5TCe8LHpl8aZ9OvGvFkakAYyYlL.jpg",
+        "backdrop_path": "/qshC9YvYAFyf7DX58tuSQr2ZxBv.jpg",
+        "production_companies": [
+            {
+                "name": "Avventura Films",
+                "id": 4491
+            },
+            {
+                "name": "Périphéria",
+                "id": 33266
+            },
+            {
+                "name": "France 2 Cinéma",
+                "id": 83
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "CNC",
+                "id": 310
+            },
+            {
+                "name": "Vega Film",
+                "id": 8138
+            },
+            {
+                "name": "TSR",
+                "id": 1245
+            },
+            {
+                "name": "Eurimages",
+                "id": 850
+            },
+            {
+                "name": "DFF - Deutsches Filminstitut & Filmmuseum",
+                "id": 90601
+            },
+            {
+                "name": "ECM Records",
+                "id": 33267
+            },
+            {
+                "name": "Auvergne-Rhône-Alpes Cinéma",
+                "id": 109756
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116334",
+        "original_language": "fr",
+        "popularity": 2.887,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 161382,
+        "title": "The Opium War",
+        "release_date": "1997-06-09",
+        "overview": "The story of the Opium War between China, in the waning days of the Qing Dynasty, and the British Empire, in the 1830s, and the subsequent takeover of Hong Kong by Britain; through the eyes of the key figures, fiercely nationalistic Lin Zexu, and opportunistic British naval diplomat Charles Elliot.",
+        "poster_path": "/28XoyIwslMVJs1Oo4hkXXmNxZhj.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Emei Film Studio",
+                "id": 30324
+            },
+            {
+                "name": "Araba Films",
+                "id": 352
+            },
+            {
+                "name": "Danehip Entertainment",
+                "id": 126754
+            },
+            {
+                "name": "United International Film Group",
+                "id": 184702
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "zh",
+                "name": "普通话"
+            },
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 15000000,
+        "revenue": 0,
+        "vote_average": 6.6,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120538",
+        "original_language": "zh",
+        "popularity": 2.824,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 56077,
+        "title": "Talk of Angels",
+        "release_date": "1998-10-30",
+        "overview": "This is the story of a young Irish woman who comes to Spain to escape from the pressures she feels about her impending marriage to a political activist in Ireland. But in Spain in the 1930's, taking a job of governess in a wealthy family, she finds the same kinds of political unrest. In fact, it isn't long before she finds herself attracted to a married man who is similarly involved in the struggle against fascism and Franco. This awakens her to her nature that brings her to such men and resolves for her what she must do about the life she left in Ireland",
+        "poster_path": "/krvPwGvk6UmwlzwVo3s5dh0AitG.jpg",
+        "backdrop_path": "/wIq8gJcPNhNvrVbXa8tkMpHmCuH.jpg",
+        "production_companies": [
+            {
+                "name": "Polaris Pictures",
+                "id": 90101
+            },
+            {
+                "name": "KanZaman Productions",
+                "id": 4169
+            },
+            {
+                "name": "Kan Zamia-a",
+                "id": 90100
+            },
+            {
+                "name": "Miramax",
+                "id": 14
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.8,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0120271",
+        "original_language": "en",
+        "popularity": 2.778,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 321103,
+        "title": "Fly Boys, Fly!",
+        "release_date": "1995-09-23",
+        "overview": "Six young pilots who all volunteered to be Kami-kaze or suicide pilots.",
+        "poster_path": "/dusA3fLQcPJ7MlYnBCMG1Q2M270.jpg",
+        "backdrop_path": "/sWaYJSCJqz8BnyIZF1q4cQyeaV9.jpg",
+        "production_companies": [
+            {
+                "name": "Destiny",
+                "id": 75428
+            },
+            {
+                "name": "Nippon Herald Films",
+                "id": 1598
+            },
+            {
+                "name": "Pony Canyon",
+                "id": 9148
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0256131",
+        "original_language": "ja",
+        "popularity": 2.705,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 86618,
+        "title": "In the Presence of Mine Enemies",
+        "release_date": "1997-04-20",
+        "overview": "In the Warsau ghetto of 1943, one man's struggle to keep his family together leads him to the ultimate crisis of faith and one final chance at redemption.",
+        "poster_path": "/oojh9nwBNMV27Ept7XcUsVzjfr2.jpg",
+        "backdrop_path": "/ui8aJTuwfdo5XLugTPO6sDqyIhV.jpg",
+        "production_companies": [
+            {
+                "name": "Hallmark Entertainment",
+                "id": 4056
+            },
+            {
+                "name": "Showtime Networks",
+                "id": 4343
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116625",
+        "original_language": "de",
+        "popularity": 2.702,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 75146,
+        "title": "Sharpe's Justice",
+        "release_date": "1997-05-14",
+        "overview": "Napoleon has been exiled to Elba, the English have returned from the wars, and Major Richard Sharpe finds himself in a sort of exile to lead a company of Yorkshire Yeomen. His duties include protecting mill owners from restless workers who are on the verge of strike or outright revolt. Meanwhile, Sharpe's faithless wife and her lover fall within range of Sharpe's wrath. Sharpe, with his two of his devoted Chosen Men nearby, must decide whether to continue to protect the mill owners or to take the side of their fiercely downtrodden workers.",
+        "poster_path": "/1gSrftajShSSvLvRztIDIOyL9mC.jpg",
+        "backdrop_path": "/egMaLWly8HQjLyhaEW18o1mBV0W.jpg",
+        "production_companies": [
+            {
+                "name": "Celtic Films Entertainment",
+                "id": 7783
+            },
+            {
+                "name": "Picture Palace",
+                "id": 7782
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.0,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 69788,
+            "name": "Sharpe Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0120109",
+        "original_language": "en",
+        "popularity": 2.698,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 292017,
+        "title": "Rescuers: Stories of Courage - Two Families",
+        "release_date": "1998-01-01",
+        "overview": "Two compassionate stories about two remarkable families who risk everything to help Jewish refugees during the Holocaust.",
+        "poster_path": "/fdNntoqmGmdwqfmFrxi4xF3nSNo.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "spoken_languages": [],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0171695",
+        "original_language": "en",
+        "popularity": 2.674,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 75147,
+        "title": "Sharpe's Waterloo",
+        "release_date": "1997-05-27",
+        "overview": "Based on the novel by Bernard Cornwell, \"Sharpe's Waterloo\" brings maverick British officer Lt. Col. Richard Sharpe to his last fight against the French, in June of 1815.",
+        "poster_path": "/5NGDArvQGsVvgoZYVLPHkYP6VFJ.jpg",
+        "backdrop_path": "/aYhGtgXg10yczB4qCZWQP9stKO7.jpg",
+        "production_companies": [
+            {
+                "name": "Celtic Films Entertainment",
+                "id": 7783
+            },
+            {
+                "name": "Carlton Television",
+                "id": 5171
+            },
+            {
+                "name": "Picture Palace",
+                "id": 7782
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 69788,
+            "name": "Sharpe Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0120111",
+        "original_language": "en",
+        "popularity": 2.664,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 207127,
+        "title": "Oedipus Mayor",
+        "release_date": "1996-08-23",
+        "overview": "Edipo, is appointed mayor of a town plunged in misery and violence. His first mission is to discover and punish the murderers of Layo, a well-known potentate of the region. His investigation is directed towards all the armed factions that exist in Colombia.",
+        "poster_path": "/4dHrj4wWdSjs1uL1GruaYkF20FW.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Caracol Televisión",
+                "id": 2586
+            },
+            {
+                "name": "Sogetel",
+                "id": 15469
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Instituto Mexicano de Cinematografía",
+                "id": 299
+            },
+            {
+                "name": "Grupo Colombia",
+                "id": 177745
+            },
+            {
+                "name": "Fundación del Nuevo Cine Latinoamericano",
+                "id": 144183
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CO",
+                "name": "Colombia"
+            },
+            {
+                "iso_3166_1": "CU",
+                "name": "Cuba"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.2,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0116170",
+        "original_language": "es",
+        "popularity": 2.563,
+        "status": "Released",
+        "tagline": "Gabriel Garcia Marquez's Steamy Adaptation of OEDIPUS REX",
+        "video": false
+    },
+    {
+        "id_tmdb": 38275,
+        "title": "The Informant",
+        "release_date": "1997-03-15",
+        "overview": "A former Irish Republican Army fighter, Gingy McAnally (Anthony Brophy), is reluctant about being called back into service after serving time in prison. He executes the grisly task but ends up captured by a sympathetic British police lieutenant named Ferris (Cary Elwes). The intimidating Chief Inspector of the Belfast Police (Timothy Dalton) convinces Gingy that his best hope is to become an informant and turn in other IRA operatives. As Gingy's marriage unravels under the stress, he is forced to come to terms with the fact that in this war both sides lose. Three men, three political circles, each fighting for their lives, each with their own agenda in the battle for Northern Ireland.",
+        "poster_path": "/cgO6uvpH43DpYVkmEGN9K6xV6c.jpg",
+        "backdrop_path": "/bJLinpTS2NBRxQf6Xi9LKaDuB3C.jpg",
+        "production_companies": [
+            {
+                "name": "Showtime Networks",
+                "id": 4343
+            },
+            {
+                "name": "Johnny Loves Suzie Productions",
+                "id": 108620
+            },
+            {
+                "name": "Hallmark Entertainment",
+                "id": 4056
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 6.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119368",
+        "original_language": "en",
+        "popularity": 2.528,
+        "status": "Released",
+        "tagline": "Even freedom has its price.",
+        "video": false
+    },
+    {
+        "id_tmdb": 51022,
+        "title": "The Wounds",
+        "release_date": "1998-05-27",
+        "overview": "This film follows two Belgrade youths on their rise to gangster legends in a decaying society.",
+        "poster_path": "/w2BCsgIdGbSGegwWHLlLD24ZiB4.jpg",
+        "backdrop_path": "/yrLRECC4TJZogZDcKGUuAx64rmI.jpg",
+        "production_companies": [
+            {
+                "name": "Cobra Film Department",
+                "id": 75151
+            },
+            {
+                "name": "Pandora Film",
+                "id": 140
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "YU",
+                "name": "Yugoslavia"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "sr",
+                "name": "Srpski"
+            }
+        ],
+        "budget": 10000,
+        "revenue": 150000,
+        "vote_average": 7.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0165546",
+        "original_language": "sr",
+        "popularity": 2.522,
+        "status": "Released",
+        "tagline": "The Years Have Passed Only Wounds Have Remained",
+        "video": false
+    },
+    {
+        "id_tmdb": 52595,
+        "title": "Goodbye America",
+        "release_date": "1997-01-06",
+        "overview": "It is November 1992 and the US Navy is preparing to surrender its largest overseas facility at Subic Bay, Philippines, after almost a century. For both countries, and for the navy, it is a time of change. Violence erupts shortly after the U.S. Navy announces plans to withdraw from a Philippine base in 1992.",
+        "poster_path": "/d8WBlVmZWWXzrczGTymA1Bu4hws.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Star Pacific Cinema",
+                "id": 64817
+            },
+            {
+                "name": "Quantum Entertainment",
+                "id": 38617
+            },
+            {
+                "name": "Star Cinema – ABS-CBN Film Productions",
+                "id": 4676
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 4.7,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0119218",
+        "original_language": "en",
+        "popularity": 2.514,
+        "status": "Released",
+        "tagline": "For love, For honour, For country, There is Love",
+        "video": false
+    },
+    {
+        "id_tmdb": 75142,
+        "title": "Sharpe's Siege",
+        "release_date": "1996-05-08",
+        "overview": "Sharpe, with his new commanding officer, is sent to capture a castle when news comes of locals who will rise against Bonaparte. However, he is somewhat distracted by thoughts of his wife whom he was forced to leave while stricken with fever.",
+        "poster_path": "/b2Yri1KKRr19rkNtfBwZJAgwq2c.jpg",
+        "backdrop_path": "/4NZ4czpS1GRD3aMzyJDXWrkoTpg.jpg",
+        "production_companies": [
+            {
+                "name": "Carlton UK Productions",
+                "id": 17195
+            },
+            {
+                "name": "Celtic Films Entertainment",
+                "id": 7783
+            },
+            {
+                "name": "Picture Palace",
+                "id": 7782
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 7.2,
+        "adult": false,
+        "belongs_to_collection": {
+            "id": 69788,
+            "name": "Sharpe Collection"
+        },
+        "homepage": "",
+        "imdb_id": "tt0117622",
+        "original_language": "en",
+        "popularity": 2.507,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 1065177,
+        "title": "A Web of War",
+        "release_date": "1996-01-01",
+        "overview": "The stories of the battles that brought together a Polish cavalry officer, a Canadian captain, and a Polish underground member are told by the very same Canadians who survived them.",
+        "poster_path": "/u9TOLiOIF5r3X7sGS5bxKxCxQt3.jpg",
+        "backdrop_path": "/z28Cis1EOlcf3pwlRP1xbsT9AL5.jpg",
+        "production_companies": [
+            {
+                "name": "Multicom entertainment",
+                "id": 30702
+            }
+        ],
+        "production_countries": [],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0226618",
+        "original_language": "en",
+        "popularity": 2.486,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 97002,
+        "title": "The Brylcreem Boys",
+        "release_date": "1996-11-14",
+        "overview": "In 1941, as part of an effort to remain strictly neutral, the Dublin government made a deal with both Berlin and London whereby any soldier, sailor or pilot captured on Irish soil, whether of German or Allied forces, would be interned for the duration of the war. What the Irish failed to tell was that they would intern everybody in the same camp. It is here that Canadian pilot Miles Keogh and German pilot Rudolph Von Stegenbeck meet after a fight in which both their planes were downed.",
+        "poster_path": "/pdBmAciTPGfztncT34LYqyvKwj6.jpg",
+        "backdrop_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 3.9,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0115770",
+        "original_language": "en",
+        "popularity": 2.455,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 73067,
+        "title": "Frankie Starlight",
+        "release_date": "1995-11-22",
+        "overview": "The quirky story of a young boy's adventures growing up with his stunningly beautiful mother and the two very different men who love her.",
+        "poster_path": "/6v3VxWhFsr2Qx8qIQkG4WL3f76X.jpg",
+        "backdrop_path": "/zJIZVQ8wLpkL3cmrkIhMOshmOdR.jpg",
+        "production_companies": [
+            {
+                "name": "Fís Éireann/Screen Ireland",
+                "id": 1898
+            },
+            {
+                "name": "Fine Line Features",
+                "id": 8
+            },
+            {
+                "name": "Canal+",
+                "id": 104
+            },
+            {
+                "name": "Film4 Productions",
+                "id": 6705
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 5.3,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0113107",
+        "original_language": "en",
+        "popularity": 2.437,
+        "status": "Released",
+        "tagline": "Sometimes the brightest star is the one that shines within.",
+        "video": false
+    }
+]

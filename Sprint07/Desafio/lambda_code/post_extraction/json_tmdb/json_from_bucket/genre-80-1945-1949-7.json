@@ -1,0 +1,78 @@
+[
+    {
+        "id_tmdb": 1292707,
+        "title": "The Flamingo Affair",
+        "release_date": "1948-01-12",
+        "overview": "An ex-soldier gets mixed up with the crooks a glamourous blonde associates and is persuaded to help in a crime.",
+        "poster_path": null,
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Inspiration",
+                "id": 111466
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": "tt0150580",
+        "original_language": "en",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    },
+    {
+        "id_tmdb": 546624,
+        "title": "Detective a contramano",
+        "release_date": "1949-10-06",
+        "overview": "Satire to common police films at the time. The story, nimbly narrated, revolves around the figure of its popular interpreter, the radio comedian of those years Juan Carlos Mareco.",
+        "poster_path": "/ggkgppOv0JzumZK64gfs556You0.jpg",
+        "backdrop_path": null,
+        "production_companies": [
+            {
+                "name": "Ecran",
+                "id": 73044
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "UY",
+                "name": "Uruguay"
+            }
+        ],
+        "spoken_languages": [
+            {
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "vote_average": 0.0,
+        "adult": false,
+        "belongs_to_collection": null,
+        "homepage": "",
+        "imdb_id": null,
+        "original_language": "es",
+        "popularity": 0.001,
+        "status": "Released",
+        "tagline": "",
+        "video": false
+    }
+]
