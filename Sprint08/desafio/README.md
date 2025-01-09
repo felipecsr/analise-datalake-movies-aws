@@ -1,9 +1,11 @@
-## 🎯 Objetivo 🔴🔴🔴
+## TESTE 🎯 Objetivo 🔴🔴🔴
 
 - Explicitar as questões novamente
 - os 2 jobs do glue
 - prints e código
 - print do config do job mostrando os 60 ou menos, G 1x e woerkrs 2
+
+
 
 
 
