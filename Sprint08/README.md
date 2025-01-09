@@ -182,4 +182,4 @@ Nesta etapa do desafio, o foco principal é a criação de uma **camada Trusted*
 
 A abordagem envolve o uso de `Apache Spark` no Glue para desenvolver *jobs* que consolidam os dados da **camada Raw** em um formato padronizado e escalável, persistido num *bucket* do `AWS S3`. Com essa estrutura, o *Data Lake* será fortalecido para suportar consultas e visualizações otimizadas nas próximas fases do projeto.
 
-[Confira o 'readme' do desafio aqui!](Desafio/README.md)
+[Confira o 'readme' do desafio aqui!](../Sprint08/desafio/README.md)
