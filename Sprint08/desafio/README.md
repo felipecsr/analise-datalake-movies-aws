@@ -1,4 +1,13 @@
 ## 🎯 Objetivo 🔴🔴🔴
+
+- Explicitar as questões novamente
+- os 2 jobs do glue
+- prints e código
+- print do config do job mostrando os 60 ou menos, G 1x e woerkrs 2
+
+
+
+
 Este README, da sprint 08, é o segundo de cinco etapas que compõem o **Desafio Final do Programa de Bolsas da Compass UOL**.
 
 O desafio, em resumo, objetiva a construção de dashboard para análises de dados provenientes de um Data Lake, com um pipeline completo envolvendo coleta, tratamento, análise e visualização de dados. A etapa atual focou na **extração de informações da API pública do TMDB** para complementar os dados locais, na camada de dados brutos, ainda não filtrados e tratdos. Utilizamos tecnologias como AWS Lambda, AWS S3, AWS EventBridge e CloudWatch para garantir automação e eficiência nessa coleta.

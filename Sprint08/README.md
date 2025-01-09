@@ -1,343 +1,185 @@
-# 💻 Exercícios 🔴🔴🔴
+## 💻 Exercícios 
 
-Nesta sprint 08, seguimos com a segunda etapa de construção do **Desafio Final** do Programa de Bolsas da Compass UOL - a etapa 2 de 5.
+Nesta sprint 08, avançamos para a terceira etapa de construção do **Desafio Final do Programa de Bolsas da Compass UOL** - a etapa 3 de 5.
 
-Nesta sprint o tema principal é o `Apache Spark`e suas utilizações para manipulação e análise de dados. Entre suas principais características está o processamento distribuído e paralelo, que é essencial para volumes na ordem dos gigabytes e terabytes, os Data Lakes. Há outras características importantes também como:
+O foco principal nesta sprint é o uso do `Apache Spark`, explorando sua capacidade de manipulação de dados em larga escala e integração com o *Data Lake*. Entre os destaques estão o processamento distribuído e a análise avançada, utilizando tanto Python quanto SQL. Além disso, abordamos práticas otimizadas para manipulação de dados estruturados e semi-estruturados, como o uso dos formatos Parquet e CSV - além dos JSONs da última sprint -, que oferecem compactação eficiente e desempenho elevado para grandes volumes de dados.
 
-- escalabilidade horizontal;
-- integração com Python e SQL;
-- aceita dados semi e não estruturados - além, claro, dos estruturados;
-- trabalha (entre outras) com extensões como `ORC` e `Parquet` que são otimizadas para velocidade de processamento e compactação no armazenamento;
-- integráveis com serviços em nuvem, com a AWS.
+As principais atividades dessa sprint, entre exercícios e desafio, incluem:
+- Criação de datasets simulados utilizando Python e bibliotecas como random e names;
+- Transformação e limpeza de dados com PySpark, explorando:
+- Criação e manipulação de DataFrames;
+- Operações SQL sobre dados armazenados no formato Parquet;
+- Enriquecimento do DataFrame com colunas como País, Ano de Nascimento e Geração.
+- Integração com o Data Lake no AWS S3, consolidando os dados manipulados em uma estrutura confiável e escalável.
+
+Essa etapa fortalece a base para análises e visualizações futuras, garantindo um pipeline eficiente para o processamento de dados no contexto do desafio. Além disso, ajustamos o repositório Git para incluir as atualizações do exercício de extração da API TMDB, realizado na sprint anterior.
+
+Abaixo um pouco mais dos exercícios, de forma detalhada:
+<br/>
+
+## 1 - Exercício: Geração de nomes aleatórios (com *seed*) e massa de dados 🧙‍♂️
+
+#### Etapa 1: Aquecimento com Números Aleatórios e Lista Reversa
+O exercício iniciou com a utilização da biblioteca `random` do Python, onde geramos uma sequência de números aleatórios dentro de um intervalo específico. Em seguida, para explorar a manipulação de listas, imprimimos a versão reversa dessa sequência. Esse "aquecimento" nos ajudou a familiarizar com operações simples, mas essenciais, para trabalhar com dados de forma programática.
+
+![lista reversa](../Sprint08/evidencias/2.geracao_massa_dados/1-etapa1.png)
 
 <br/>
 
-Abaixo veremos os exercícios realizados nesta sprint.
+#### Etapa 2: Criação de um CSV com Nomes de Animais
+Na segunda etapa, trabalhamos com uma lista de nomes de animais previamente criada. O objetivo foi organizar essa lista em ordem alfabética e, a partir dela, gerar um arquivo `.csv`, no qual cada linha correspondia a um animal. Essa etapa reforçou o conceito de ordenação e a prática de exportar dados em formato CSV, frequentemente usado em análises e manipulações de dados. Apesar de ainda ser parte do aquecimento, essa atividade introduziu a importância de estruturar dados para exercícios mais complexos.
 
-## 1 - Exercício: Contador de Palavras com Apache Spark ✨ e Jupyter Lab 🪐
-
-O objetivo deste exercício foi utlizarmos o `Pyspark`para uma análise simples, de contagem de palavras num determinado arquivo - o README da nossa sprint. Em outras palavras, ao invés da original do `Apache Spark`, a linguagem `Scala`, utilizaremos o Pyspark, que de forma nativa também, têm Python e SQL como possibilidades.
-
-### 1.1 - Preparação do Docker
-
-1. Pull da imagem Docker + Jupyter
-![Docker Image](../Sprint07/evidencias/ex5-spark-jupyter/1-dockerpull.png)
+![csv e execução](../Sprint08/evidencias/2.geracao_massa_dados/2-etapa2(csv_e_execucao-terminal).png)
 
 <br/>
 
-2. Execução do Jupyter, via docker, com os parâmetros de porta e path ajustados 
+#### Etapa 3: Geração de um Arquivo TXT com Milhões de Nomes
+A etapa final elevou a complexidade do exercício, exigindo a importação das bibliotecas `random` e `names`. Nosso objetivo foi gerar um arquivo `.txt` contendo milhões de registros com nomes completos. Aqui, o destaque foi o uso da função **`seed`** da biblioteca `random`. Aprendemos que, ao definir uma semente, podemos garantir a reprodutibilidade dos resultados, o que é fundamental em contextos como testes de software e replicação de cenários em diferentes ambientes. Esse aprendizado foi crucial, pois permitiu que, mesmo trabalhando com dados pseudoaleatórios, fosse possível obter sempre os mesmos resultados ao reutilizar a mesma semente. O arquivo gerado será usado no próximo exercício, envolvendo `Spark`, dando continuidade ao processo de análise em massa de dados.
 
-``` Shell
-docker run -it --rm \
-    -p 8888:8888 \
-    -v /home/fcsr/Documentos/Nabucodonossor-workspace/PB-FELIPE-REIS/Sprint07/exercicios/5-Apache_Spark_Contador_de_Palavras:/home/jovyan/work \
-    jupyter/all-spark-notebook
-```
+Essas etapas serviram como uma introdução prática ao trabalho com dados em larga escala, estabelecendo fundamentos importantes para projetos mais avançados.
 
-![Jupyter via Docker](../Sprint07/evidencias/ex5-spark-jupyter/2-jupyter_via_docker.png)
-
-![Jupyter no navegador](../Sprint07/evidencias/ex5-spark-jupyter/3-jupyter_interface.png)
+![instalação names](../Sprint08/evidencias/2.geracao_massa_dados/3-bib_names_installing.png)
+![execução sucesso](../Sprint08/evidencias/2.geracao_massa_dados/4-nomes-aleatorios-gerados.png)
+![final do txt, demonstrando a execução dos milhoes de nomes](../Sprint08/evidencias/2.geracao_massa_dados/5-print_txt_ultimas_linhas.png)
 
 <br/>
-
-3. Testes de execução da Spark Session e reflexo entre diretório do docker e meu ambiente local: sucesso!
-
-![teste jupyter](../Sprint07/evidencias/ex5-spark-jupyter/4-teste_jupyter.png)
-
-![teste jupyter](../Sprint07/evidencias/ex5-spark-jupyter/5-reflexo_docker_local.png)
-
 <br/>
 
-### 1.2 - Execução dos comandos via Pyspark + Resultado
+## 2 - Exercício: Apache Spark ✨✨
 
-1. Execução do docker no modo interativo
-```bash
-docker run -it --rm \
-    -v /home/fcsr/Documentos/Nabucodonossor-workspace/PB-FELIPE-REIS/Sprint07/exercicios/5-Apache_Spark_Contador_de_Palavras:/home/jovyan/work \
-    jupyter/all-spark-notebook /bin/bash
-```
+Este código, desenvolvido com `PySpark`, buscou processar dados de nomes aleatórios gerados no exercício anterior e enriquecer essas informações com a atribuição de países, anos de nascimento, e gerações correspondentes. O objetivo final foi realizar uma análise agregada que demonstra a distribuição de pessoas por país e geração, utilizando técnicas de manipulação de dados, funções python e consultas SQL no ambiente Spark.
 
-<br/>
+O exercício foi realizado em 10 etapas com códigos que foram se acumulando em funcionalidades, e eventualmente reproduzindo a mesma consulta em python ou SQL, tendo o mesmo SEED e portanto o mesmo resultado de consulta.
 
-2. Download do README.md para o diretório do docker
-```bash
-wget --header="Authorization: token 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" \
-https://raw.githubusercontent.com/felipecsr/PB-FELIPE-REIS/refs/heads/main/README.md -O /home/jovyan/work/README.md
-```
->  **Obs:** *foi necessário criar um token via interface do Github, que utilizei na execução do wget no terminal, e apesar de descrito aqui no código/ documentalão/ print, já foi deletado/ expirado e por isso mantive.*
+Aqui abaixo vamos explorar de forma fragmentada o último código da 10a. etapa, que portanto, compreende todas as etapas anteriores - afim de otimizar esta documentação.
 
-![wget sucesso](../Sprint07/evidencias/ex5-spark-jupyter/6-wget.png)
+#### Configuração Inicial e Preparação do Ambiente
+O primeiro passo foi importar as bibliotecas necessárias, com destaque para `SparkSession` e expr do módulo `pyspark.sql.functions`. A configuração da variável `SEED` garantiu a reprodutibilidade dos resultados, assegurando que as operações pseudoaleatórias pudessem ser replicadas de forma idêntica. A `SparkSession` foi inicializada para executar operações distribuídas, configurando o ambiente de processamento local com todos os núcleos disponíveis - que no meu ambiente local são 4 núcleos reais e mais 4 virtuais.
 
-<br/>
-
-3. Código contador de palavras executado no Pyspark
-
-``` python
-import os
-import glob
-import shutil
-from pyspark.sql import SparkSession
-
-# 1. Inicializar a SparkSession
-spark = SparkSession.builder \
-    .appName("Word Count Exercise") \
-    .master("local[*]") \
-    .getOrCreate()
-
-# 2. Definir o caminho absoluto do arquivo README.md
-file_path = "/home/jovyan/work/README.md"
-
-# 3. Carregar o arquivo README.md como RDD
-rdd = spark.sparkContext.textFile(file_path)
-
-# 4. Contar as palavras no arquivo (preservando a ordem de primeira aparição)
-word_counts_with_order = (rdd.flatMap(lambda line: line.split())    # Quebra linhas em palavras
-                              .zipWithIndex()                      # Associa cada palavra a seu índice global
-                              .map(lambda word_idx: (word_idx[0], (1, word_idx[1])))  # Formato (palavra, (1, índice))
-                              .reduceByKey(lambda acc, val: (acc[0] + val[0], min(acc[1], val[1])))  # Soma contagens, mantém o menor índice
-                              .sortBy(lambda word_idx: word_idx[1][1])  # Ordena pelo índice de aparição
-                              .map(lambda word_idx: (word_idx[0], word_idx[1][0])))  # Resultado final: (palavra, contagem)
-
-# 5. Converter para DataFrame
-word_counts_df = word_counts_with_order.toDF(["word", "count"])
-
-# 6. Salvar como CSV em uma única partição
-temp_output_path = "/home/jovyan/work/results/temp_word_counts"
-word_counts_df.coalesce(1).write.csv(temp_output_path, header=True, mode="overwrite")
-
-# 7. Renomear o arquivo CSV gerado para um nome mais intuitivo
-csv_part_file = glob.glob(temp_output_path + "/part-*.csv")[0]  # Busca o arquivo CSV na pasta
-final_csv_file = "/home/jovyan/work/results/word_counts_final.csv"
-
-shutil.move(csv_part_file, final_csv_file)  # Renomeia o arquivo
-shutil.rmtree(temp_output_path)  # Remove a pasta temporária
-
-print(f"Contagem de palavras concluída e salva como um único arquivo CSV em {final_csv_file}")
-```
-<br/>
-
-Além do código acima, registrei a execução do script via Docker > Pyspark:
-![sucesso script](../Sprint07/evidencias/ex5-spark-jupyter/7-pyspark-sucesso.png)
-
-
-4. Resultado obtido
-
-E por fim, neste exercício, o resultado obtido de acordo com o que desenvolvi no script foi um arquivo `csv` que pode ser [consultado aqui neste link](../Sprint07/exercicios/5-Apache_Spark/results/word_counts_final.csv).
-
-> **Obs:** *foi interessante verificar, durante as diversas tentativas de resolução do exercício, o retorno do Spark com arquivos 'particionados', por exemplo 2 arquivos.crc (com os metadados) e outros 2 arquivos.csv - que é demonstração cabal de sua form distribuída de processamentos!*
-
-<br/>
-
-## 2 - Exercício: TMDB 🍿📽️
-Neste exercício, o objetivo foi realizar uma consulta ao agregador de informações de filmes e séries, [TMDB (The Movie Data Base)](https://www.themoviedb.org/?language=pt-BR), via sua API pública.
-
-1. Foi criada uma conta gratuita com meus dados pessoais;
-2. Depois solicitei a liberação de uma chave e token, através da área voltada para desenvolvedores - com êxito!
-3. Construí um código semelhante ao do exemplo do exercício, apenas para teste simples.
 ```python
-import requests
-import pandas as pd
-from IPython.display import display
-from dotenv import load_dotenv
-import os
+# Importando as bibliotecas necessárias
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import expr
 
-# Carregar variáveis de ambiente do arquivo .env
-load_dotenv()
+# Configurando a seed para garantir reprodutibilidade
+SEED = 42
 
-# Obter a chave de API do TMDB
-api_key = os.getenv("TMDB_API_KEY")
-
-# Verificar se a chave foi carregada corretamente
-if not api_key:
-    raise ValueError("Chave de API não encontrada. Verifique o arquivo .env.")
-
-# URL da API (ajustado para Crime e Guerra)
-url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
-
-# Fazer a requisição
-response = requests.get(url)
-data = response.json()
-
-# Lista para armazenar os filmes
-filmes = []
-
-# Coletar os primeiros 30 registros diretamente
-for movie in data['results'][:30]:
-    df = {
-        'Título': movie['title'],
-        'Data de Lançamento': movie['release_date'],
-        'Visão Geral': movie['overview'],
-        'Votos': movie['vote_count'],
-        'Média de Votos': movie['vote_average']
-    }
-    filmes.append(df)
-
-# Criar DataFrame
-df = pd.DataFrame(filmes)
-
-# Exibir DataFrame
-display(df)
+# Inicializando a SparkSession
+spark = SparkSession.builder \
+    .master("local[*]") \
+    .appName("Laboratório Etapa 10 - Pessoas por País e Geração") \
+    .getOrCreate()
 ```
-> **Obs:** pesquisando utilizei uma biblioteca e método que tornam as chaves ocultas no código, para dar mais segurança e praticidade. Trata-se do biblioteca `dotenv`. O funcionamento é simples: cria-se um arquivo .env que terá a chave/ senha  /  o código consulta este arquivo e consulta a senha apenas na memória (de forma oculta ao usuário) e a ligação com a API fica funcional. E para que não suba para o repositorio no `commit` utilizei o `.gitignore`.  
-
 <br/>
 
-4. Tivemos êxito na consulta, que ficou disponível no próprio terminal através da função `display`.
-![consulta API TMDB](../Sprint07/evidencias/ex6-TMDB/display-sucessp.png)
+#### Carregamento e Estruturação dos Dados
+Em seguida, o arquivo `names_aleatorios.txt` foi carregado em um *DataFrame*, com a coluna de nomes renomeada para "nome". A lista de países da América do Sul foi fornecida para ser usada como base na atribuição de nacionalidades fictícias. A escolha desses países serviu para criar uma narrativa regional, tornando o conjunto de dados mais diversificado.
 
-<br/><br/>
+```python
+# Carregando o arquivo names_aleatorios.txt no DataFrame
+df_nomes = spark.read.text("names_aleatorios.txt").withColumnRenamed("value", "nome")
 
-## 3 - Exercício: AWS Glue 🔻🔎📊
+# Lista de países fornecida
+paises = [
+    "Argentina", "Bolívia", "Brasil", "Chile", "Colômbia",
+    "Equador", "Guiana", "Paraguai", "Peru", "Suriname",
+    "Uruguai", "Venezuela", "Guiana Francesa"
+]
+```
+<br/>
 
-Neste exercício trabalhamos com diversos serviços AWS: IAM, S3, Lake Formation, CloudWatch, Athena - mas especialmente, o AWS Glue.
+#### Enriquecimento dos Dados: Países e Anos de Nascimento
+A coluna país foi adicionada ao *DataFrame* de forma pseudoaleatória, utilizando a função `rand()` em combinação com o `SEED`. Isso garantiu uma distribuição uniforme e consistente dos países ao longo dos registros. Em seguida, foi gerada a coluna ano_nascimento, com valores variando entre 1945 e 2010, simulando uma população de diferentes faixas etárias. Esses valores foram calculados com base em um intervalo controlado, introduzindo diversidade temporal no conjunto de dados.
 
-O exercício consistiu num exemplo de ETL, desde um `.csv` com particionamento em diretórios e sub-diretórios temáticos, conversões de texto, conversões para `.json`, até a criação de tabela com `schema` adequado disponível para análise por *queries* em `SQL`. 
+```python
+# Adicionando a coluna 'pais' de forma aleatória baseada no seed
+df_nomes = df_nomes.withColumn(
+    "pais",
+    expr(f"CASE MOD(CAST(rand({SEED}) * {len(paises)} AS INT), {len(paises)}) " +
+         "WHEN 0 THEN 'Argentina' WHEN 1 THEN 'Bolívia' WHEN 2 THEN 'Brasil' " +
+         "WHEN 3 THEN 'Chile' WHEN 4 THEN 'Colômbia' WHEN 5 THEN 'Equador' " +
+         "WHEN 6 THEN 'Guiana' WHEN 7 THEN 'Paraguai' WHEN 8 THEN 'Peru' " +
+         "WHEN 9 THEN 'Suriname' WHEN 10 THEN 'Uruguai' WHEN 11 THEN 'Venezuela' " +
+         "ELSE 'Guiana Francesa' END")
+)
 
-Vamos às etapas:
+# Adicionando a coluna 'ano_nascimento' com valores pseudoaleatórios entre 1945 e 2010
+df_nomes = df_nomes.withColumn(
+    "ano_nascimento",
+    expr(f"CAST(1945 + FLOOR(rand({SEED}) * 66) AS INT)")
+)
+```
+<br/>
 
-### 3.1 - Criação de bucket no S3
+##### Classificação por Geração
+Com a coluna de anos de nascimento definida, foi criada a coluna geracao, categorizando os dados em quatro grupos etários amplamente reconhecidos: Baby Boomers, Geração X, Millennials e Geração Z. Essa classificação foi baseada em critérios históricos, refletindo mudanças demográficas e culturais entre os períodos, numa simulação da massa de dados.
 
-A primeira criação de um *bucket* no S3, afim de armazenar um `.csv` de diversas linhas, com frequencia de nomes registrados em cartório, num determinado espaço de tempo nos EUA.
+```python
+# Adicionando a coluna 'geracao' com base no ano de nascimento
+df_nomes = df_nomes.withColumn(
+    "geracao",
+    expr("""
+        CASE
+            WHEN ano_nascimento BETWEEN 1945 AND 1964 THEN 'Baby Boomers'
+            WHEN ano_nascimento BETWEEN 1965 AND 1979 THEN 'Geracao X'
+            WHEN ano_nascimento BETWEEN 1980 AND 1994 THEN 'Millennials'
+            ELSE 'Geracao Z'
+        END
+    """)
+)
+```
+<br/>
 
-### 3.2 - Criação de função (role) no IAM
-
-Uma vez que o arquivo foi armazenado adequadamente, foi necessário criar uma funçao/ escopo no AWS IAM (Identity and Access Management) que nos valeu de acessos integrados entre os serviços que a seguir serão citados.
-
-### 3.3 - Tratamento do arquivo e conversões
-
-Já, então, no AWS Glue, criamos um script em `python` executado via `Spark`, com uso de determinadas sintaxes típicas de execução do código via `AWS Lambda`. O script objetivou a realização de tratamentos de palavras, particionamentos no momento de criação de diretórios, e quebras do conteúdo em diversos arquivos `.json`.
+#### Análise com Spark SQL
+O *DataFrame* foi registrado como uma tabela temporária chamada nomes, permitindo que consultas `SQL` fossem realizadas diretamente sobre os dados. A consulta principal agrupou as informações por país e geração, contabilizando o número total de registros em cada combinação. A ordenação por país, geração e total possibilitou uma apresentação clara e organizada dos resultados.
 
 ``` python
-import sys
-from awsglue.transforms import *
-from awsglue.utils import getResolvedOptions
-from pyspark.context import SparkContext
-from awsglue.context import GlueContext
-from awsglue.job import Job
-from awsglue.dynamicframe import DynamicFrame
-from pyspark.sql.types import StructType, StructField, StringType, IntegerType
-from pyspark.sql.functions import upper
+# Registrando o DataFrame como uma tabela temporária
+df_nomes.createOrReplaceTempView("nomes")
 
-## @params: [JOB_NAME, S3_INPUT_PATH, S3_TARGET_PATH]
-args = getResolvedOptions(sys.argv, ['JOB_NAME', 'S3_INPUT_PATH', 'S3_TARGET_PATH'])
-
-sc = SparkContext()
-glueContext = GlueContext(sc)
-spark = glueContext.spark_session
-job = Job(glueContext)
-job.init(args['JOB_NAME'], args)
-
-source_file = args['S3_INPUT_PATH']
-target_path = args['S3_TARGET_PATH']
-
-# Definir o schema do arquivo CSV
-schema = StructType([
-    StructField("nome", StringType(), True),
-    StructField("sexo", StringType(), True),  # Letra única
-    StructField("total", IntegerType(), True),
-    StructField("ano", IntegerType(), True)  # Ano como inteiro
-])
-
-# Ler o arquivo CSV com o schema definido
-df = spark.read.csv(source_file, schema=schema, header=True)
-
-# 1. Imprimir o schema do DataFrame
-print("[INFO] Schema do DataFrame lido:")
-df.printSchema()
-
-# 2. Converter a coluna "nome" para maiúsculas
-uppercase_df = df.withColumn("nome", upper(df["nome"]))
-print("[INFO] Coluna 'nome' convertida para maiúsculas.")
-
-# 3. Contar as linhas do DataFrame
-row_count = uppercase_df.count()
-print(f"[INFO] Número total de linhas no DataFrame: {row_count}")
-
-# 4. Contar os nomes agrupados por "ano" e "sexo", ordenados pelo ano mais recente
-grouped_df = uppercase_df.groupBy("ano", "sexo").count().orderBy(uppercase_df["ano"].desc())
-print("[INFO] Contagem de nomes agrupados por ano e sexo (ano mais recente primeiro):")
-grouped_df.show()
-
-# 5. Encontrar o nome feminino mais registrado e o ano correspondente
-most_female_name = uppercase_df.filter(uppercase_df["sexo"] == "F") \
-    .groupBy("nome", "ano") \
-    .sum("total") \
-    .orderBy("sum(total)", ascending=False) \
-    .first()
-if most_female_name:
-    print(f"[INFO] Nome feminino mais registrado: {most_female_name['nome']} em {most_female_name['ano']}")
-else:
-    print("[INFO] Nenhum registro encontrado para sexo feminino.")
-
-# 6. Encontrar o nome masculino mais registrado e o ano correspondente
-most_male_name = uppercase_df.filter(uppercase_df["sexo"] == "M") \
-    .groupBy("nome", "ano") \
-    .sum("total") \
-    .orderBy("sum(total)", ascending=False) \
-    .first()
-if most_male_name:
-    print(f"[INFO] Nome masculino mais registrado: {most_male_name['nome']} em {most_male_name['ano']}")
-else:
-    print("[INFO] Nenhum registro encontrado para sexo masculino.")
-
-# 7. Total de registros por ano (apenas os 10 primeiros, ordenados por ano crescente)
-yearly_totals_df = uppercase_df.groupBy("ano").sum("total").orderBy("ano").limit(10)
-print("[INFO] Total de registros por ano (10 primeiros, ordenados por ano crescente):")
-yearly_totals_df.show()
-
-# 8. Escrever o DataFrame resultante com "nome" em maiúsculas no S3 em formato JSON
-uppercase_df.write.mode("overwrite").option("spark.sql.sources.partitionOverwriteMode", "dynamic").partitionBy("sexo", "ano").json(target_path)
-
-print("[INFO] Processamento concluído e dados salvos no S3.")
-
-job.commit()
+# Consultando o número de pessoas por pais e geracao usando Spark SQL
+resultado = spark.sql("""
+    SELECT pais, geracao, COUNT(*) AS total
+    FROM nomes
+    GROUP BY pais, geracao
+    ORDER BY pais ASC, geracao ASC, total ASC
+""")
 ```
 
-### 3.4 - Evidências do ETL + evidências das funççoes `print()` solicitadas no código
+<br/>
 
-Como a execução via Glue não é idêntica à de um `terminal bash`, recorremos ao `AWS CloudWatch` para observar as respostas típicas de terminal, solciitadas no código, que responderam às perguntas elaboradas no exercício.
+#### Apresentação dos Resultados
+Após realizar a consulta, o número total de combinações foi contado, e os resultados foram exibidos integralmente. Essa etapa serviu para validar a análise, garantindo que todos os dados processados fossem apresentados de forma detalhada. O uso do método `show()` facilitou a visualização das combinações de países e gerações, oferecendo *insights* claros sobre a distribuição da população simulada.
 
-**Sucesso na execução do script**
-![sucesso etl](../Sprint07/evidencias/ex7-awsglue/1-script-etl-sucesso.png)
+``` python
+# Contando o número total de linhas no resultado
+num_linhas = resultado.count()
 
-**Diretórios, sub-duretórios, arquivo JSON (como exemplo, pois foram diversas pastas criadas semelhantes a esta)**
-![json sucesso](../Sprint07/evidencias/ex7-awsglue/4-dir-gender-year-json.png)
-> Obs: no topo da página é possível visualizar o caminho dos diretórios, conforme instrução do exercício, e um [exemplo de JSON gerado](../Sprint07/exercicios/7-AWSGlueLab/part-00001-fa44f7c2-2782-4a85-9300-9c500beae0d0.c000.json).
-
-**Respostas geradas para visualização no "Terminal"**
-![info schema](../Sprint07/evidencias/ex7-awsglue/5-info-schema.png)
-
-![total de linhas dataframe](../Sprint07/evidencias/ex7-awsglue/7-info-df-lines.png)
-
-![cotagem por sexo e ano](../Sprint07/evidencias/ex7-awsglue/8-show-count-per-gender-year.png)
-
-![maiores valores de contagem para sexo feminino](../Sprint07/evidencias/ex7-awsglue/9-info-top-count-per-gender-F.png)
-
-![maiores valores de contagem para sexo masculino](../Sprint07/evidencias/ex7-awsglue/10-info-top-count-per-gender-M.png)
-
-![Top 10 por ano](../Sprint07/evidencias/ex7-awsglue/11-info-top10-count-per-year.png)
-
-### 3.5 - Criação de Crawler de automação
-
-Nesta ultima etapa do exercício criamos um Crawler (uma espécie de automação/ rastreador), que pode agir a cada interação do arquivo no S3, com agendamento ou manualmente. Neste exercício, manualmente, criamos uma tabela no Banco de dados, que pode ser acessado diretamente (e integradamente) via Athena, simulando uma consulta `SQL`.
-
-![crawler criado sucesso](../Sprint07/evidencias/ex7-awsglue/12-Crawler-sucesso.png)
-
-![teste acesso via Athena sucesso](../Sprint07/evidencias/ex7-awsglue/13-athena-sucesso.png)
+# Exibindo todos os resultados
+print(f"Exibindo todas as combinações de países e gerações (total de {num_linhas} linhas):")
+resultado.show(num_linhas, truncate=False)
+```
 
 <br/>
+<br/>
+
+## 3 - Exercício: Extração de dados da API TMDB 🤖
+Este exeercício foi resolvido na sprint 07, e devidamente copiado no repositório conforme instrução.
+
+[Aqui está o código gerado para esta extração](../Sprint08/exercicios/5.TMDB/script.py), lembrando que foi utilizado um arquivo e biblioteca `.env`, como boa prática de não exibir senhas e tokens no código - e por conseguinte, incluído no `.gitignore` da pasta. 
+<br/>
+<br/>  
 
 # 📜 Certificados
-
-- [Formação Spark com Pyspark: o Curso Completo](../Sprint07/certificados/spark.png)
-
-
+Nesta sprint 08, não houve nenhum curso obrigatório com disponibilização de certificados.
+<br/>  
 <br/>  
   
 # 🧠 Desafio
-**TMDB, API JSON e Data Lake com AWS S3: Integração e Expansão de Dados**  
-Nesta etapa do desafio, o foco principal foi a integração de dados externos, utilizando a API pública do TMDB (The Movie Database) para extrair informações detalhadas sobre filmes e séries. O objetivo é enriquecer os dados raw já existentes no bucket "desafio-filmes-series" no S3, consolidando-os em um Data Lake robusto e preparado para análises futuras.
+#### Camada Trusted: Transformação e Integração de Dados no Data Lake  
 
-A abordagem incluiu não apenas a extração de dados, mas também o início de uma estruturação automatizada de pipeline. Essa integração garante que os dados coletados sigam um padrão consistente e sejam organizados de forma escalável para as próximas etapas do projeto.
+Nesta etapa do desafio, o foco principal é a criação de uma **camada Trusted** no *Data Lake*, utilizando o `AWS Glue` para processar e transformar dados provenientes de diferentes fontes. O objetivo é garantir que os dados estejam limpos, confiáveis e prontos para análises em ferramentas como o `AWS Athena`.
+
+A abordagem envolve o uso de `Apache Spark` no Glue para desenvolver *jobs* que consolidam os dados da **camada Raw** em um formato padronizado e escalável, persistido num *bucket* do `AWS S3`. Com essa estrutura, o *Data Lake* será fortalecido para suportar consultas e visualizações otimizadas nas próximas fases do projeto.
 
 [Confira o 'readme' do desafio aqui!](Desafio/README.md)
