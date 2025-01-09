@@ -1,13 +1,3 @@
-## 🎯 Objetivo 🔴🔴🔴
-
-- Explicitar as questões novamente
-- os 2 jobs do glue
-- prints e código
-- print do config do job mostrando os 60 ou menos, G 1x e woerkrs 2
-
-
-
-
 ## 🎯 Objetivo
 Este README documenta o progresso e as validações realizadas durante o Desafio Final do Programa de Bolsas da Compass UOL (etapa 3 de 5), com foco na Sprint 08. Nesta etapa, o objetivo principal foi consolidar um pipeline de dados robusto, que abrange desde a coleta e tratamento de dados até a análise e validação, utilizando tecnologias como AWS Glue, Athena, S3 e PySpark. Os dados utilizados foram extraídos da API pública do TMDB,  e também dados entregues pelo PB com origem no IMDB, com foco nos gêneros Crime e Guerra.
 <br/>
