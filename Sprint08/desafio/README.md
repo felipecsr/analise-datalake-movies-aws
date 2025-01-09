@@ -1,4 +1,4 @@
-## TESTE 🎯 Objetivo 🔴🔴🔴
+## 🎯 Objetivo 🔴🔴🔴
 
 - Explicitar as questões novamente
 - os 2 jobs do glue
