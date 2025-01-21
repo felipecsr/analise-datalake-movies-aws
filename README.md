@@ -27,11 +27,13 @@
 
 ## Sprints 
 
-1. [Sprint01](Sprint01/README.md)
-2. [Sprint02](Sprint02/README.md)  
-3. [Sprint03](Sprint03/README.md)  
-4. [Sprint04](Sprint04/README.md)  
-5. [Sprint05](Sprint05/README.md)  
-6. [Sprint06](Sprint06/README.md)
-7. [Sprint07](Sprint07/README.md)
-8. [Sprint08](Sprint08/README.md)
+01. [Sprint01](Sprint01/README.md)
+02. [Sprint02](Sprint02/README.md)  
+03. [Sprint03](Sprint03/README.md)  
+04. [Sprint04](Sprint04/README.md)  
+05. [Sprint05](Sprint05/README.md)  
+06. [Sprint06](Sprint06/README.md)
+07. [Sprint07](Sprint07/README.md)
+08. [Sprint08](Sprint08/README.md)
+09. [Sprint08](Sprint09/README.md)
+10. [Sprint08](Sprint10/README.md)
