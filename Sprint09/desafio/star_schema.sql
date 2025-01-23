@@ -1,91 +1,94 @@
--- Tabela Fato: Fato_Principal
-CREATE TABLE Fato_Principal (
-    id_fato SERIAL PRIMARY KEY,
-    id___imdb VARCHAR(20),
-    imdb_id___tmdb VARCHAR(20),
-    id_tmdb___tmdb VARCHAR(20),
-    tituloPincipal___imdb VARCHAR(255),
-    tituloOriginal___imdb VARCHAR(255),
-    title___tmdb VARCHAR(255),
-    anoLancamento___imdb INT,
-    release_decade INT,
-    release_date___tmdb DATE,
-    tempoMinutos___imdb INT,
-    budget___tmdb DECIMAL(18, 2),
-    revenue___tmdb DECIMAL(18, 2),
-    ROI DECIMAL(10, 2),
-    financial_result VARCHAR(50),
-    vote_average___tmdb DECIMAL(3, 1),
-    notaMedia___imdb DECIMAL(3, 1),
-    numeroVotos___imdb INT,
-    popularity___tmdb DECIMAL(10, 2),
-    id_idioma INT,
-    id_genero INT,
-    id_artista INT,
-    id_producao INT,
-    id_colecao INT,
-    id_detalhes INT,
-    FOREIGN KEY (id_idioma) REFERENCES Dim_Idioma(id_idioma),
-    FOREIGN KEY (id_genero) REFERENCES Dim_Genero(id_genero),
-    FOREIGN KEY (id_artista) REFERENCES Dim_Artista(id_artista),
-    FOREIGN KEY (id_producao) REFERENCES Dim_Produção(id_producao),
-    FOREIGN KEY (id_colecao) REFERENCES Dim_Coleção(id_colecao),
-    FOREIGN KEY (id_detalhes) REFERENCES Dim_Detalhes(id_detalhes)
+-- Criação da Dimensão Coleção
+CREATE TABLE dim_colecao (
+    id_colecao INTEGER PRIMARY KEY,
+    collection_id_tmdb INTEGER,
+    collection_name_tmdb TEXT
 );
 
--- Tabela Dimensão: Dim_Genero
-CREATE TABLE Dim_Genero (
-    id_genero SERIAL PRIMARY KEY,
-    genero___imdb VARCHAR(100),
-    main_genre___tmdb VARCHAR(100)
+-- Criação da Dimensão Produtora
+CREATE TABLE dim_produtora (
+    id_producao INTEGER PRIMARY KEY,
+    company_name_dim TEXT,
+    company_id_dim INTEGER
 );
 
--- Tabela Dimensão: Dim_Artista
-CREATE TABLE Dim_Artista (
-    id_artista SERIAL PRIMARY KEY,
-    nomeArtista___imdb VARCHAR(255),
-    generoArtista___imdb VARCHAR(50),
-    personagem___imdb VARCHAR(255),
-    anoNascimento___imdb INT,
-    anoFalecimento___imdb INT,
-    profissao___imdb VARCHAR(100),
-    titulosMaisConhecidos___imdb TEXT
+-- Criação da Dimensão País
+CREATE TABLE dim_pais (
+    id_pais INTEGER PRIMARY KEY,
+    country_iso_dim TEXT,
+    country_name_dim TEXT
 );
 
--- Tabela Dimensão: Dim_Produção
-CREATE TABLE Dim_Produção (
-    id_producao SERIAL PRIMARY KEY,
-    production_companies__name VARCHAR(255),
-    production_companies__id VARCHAR(50),
-    production_countries__iso_3166_1 VARCHAR(5),
-    production_countries__name VARCHAR(100)
+-- Criação da Dimensão Artista
+CREATE TABLE dim_artista (
+    id_artista INTEGER PRIMARY KEY,
+    nomeArtista_imdb TEXT,
+    generoArtista_imdb TEXT,
+    personagem_imdb TEXT,
+    anoNascimento_imdb INTEGER,
+    anoFalecimento_imdb INTEGER,
+    profissao_imdb TEXT,
+    titulosMaisConhecidos_imdb TEXT
 );
 
--- Tabela Dimensão: Dim_Coleção
-CREATE TABLE Dim_Coleção (
-    id_colecao SERIAL PRIMARY KEY,
-    collection_id___tmdb VARCHAR(50),
-    collection_name___tmdb VARCHAR(255)
+-- Criação da Dimensão Gênero
+CREATE TABLE dim_genero (
+    id_genero INTEGER PRIMARY KEY,
+    genero TEXT,
+    genre_tmdb TEXT
 );
 
--- Tabela Dimensão: Dim_Detalhes
-CREATE TABLE Dim_Detalhes (
-    id_detalhes SERIAL PRIMARY KEY,
-    overview___tmdb TEXT,
-    poster_path___tmdb VARCHAR(255),
-    backdrop_path___tmdb VARCHAR(255),
-    adult___tmdb BOOLEAN,
-    status___tmdb VARCHAR(50),
-    tagline___tmdb VARCHAR(255),
-    video___tmdb BOOLEAN,
-    source_file___tmdb VARCHAR(255),
-    homepage___tmdb VARCHAR(255)
+-- Criação da Dimensão Detalhes
+CREATE TABLE dim_detalhes (
+    id_detalhes INTEGER PRIMARY KEY,
+    overview_tmdb TEXT,
+    poster_path_tmdb TEXT,
+    backdrop_path_tmdb TEXT,
+    adult_tmdb BOOLEAN,
+    homepage_tmdb TEXT,
+    status_tmdb TEXT,
+    tagline_tmdb TEXT,
+    video_tmdb BOOLEAN,
+    source_file_tmdb TEXT,
+    popularity_tmdb REAL
 );
 
--- Tabela Dimensão: Dim_Idioma
-CREATE TABLE Dim_Idioma (
-    id_idioma SERIAL PRIMARY KEY,
-    original_language___tmdb VARCHAR(5),
-    spoken_languages__iso_639_1 VARCHAR(5),
-    spoken_languages__name VARCHAR(100)
+-- Criação da Dimensão Idioma
+CREATE TABLE dim_idioma (
+    id_idioma INTEGER PRIMARY KEY,
+    original_language TEXT
+);
+
+-- Criação da Tabela Fato
+CREATE TABLE fato_principal (
+    id_fato INTEGER PRIMARY KEY,
+    id_imdb TEXT,
+    id_tmdb_tmdb INTEGER,
+    tituloPrincipal_imdb TEXT,
+    tituloOriginal_imdb TEXT,
+    anoLancamento_imdb INTEGER,
+    release_date_tmdb DATE,
+    release_decade INTEGER,
+    tempoMinutos_imdb INTEGER,
+    notaMedia_imdb REAL,
+    numeroVotos_imdb INTEGER,
+    vote_average_tmdb REAL,
+    budget_tmdb INTEGER,
+    revenue_tmdb INTEGER,
+    financial_result INTEGER,
+    ROI REAL,
+    id_colecao INTEGER,
+    id_producao INTEGER,
+    id_pais INTEGER,
+    id_artista INTEGER,
+    id_genero INTEGER,
+    id_detalhes INTEGER,
+    id_idioma INTEGER,
+    FOREIGN KEY (id_colecao) REFERENCES dim_colecao (id_colecao),
+    FOREIGN KEY (id_producao) REFERENCES dim_produtora (id_producao),
+    FOREIGN KEY (id_pais) REFERENCES dim_pais (id_pais),
+    FOREIGN KEY (id_artista) REFERENCES dim_artista (id_artista),
+    FOREIGN KEY (id_genero) REFERENCES dim_genero (id_genero),
+    FOREIGN KEY (id_detalhes) REFERENCES dim_detalhes (id_detalhes),
+    FOREIGN KEY (id_idioma) REFERENCES dim_idioma (id_idioma)
 );

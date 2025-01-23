@@ -1,0 +1,880 @@
+{
+  "id": "0",
+  "name": "sqlite-db",
+  "createdAt": "2025-01-23T19:28:18.210Z",
+  "updatedAt": "2025-01-23T19:28:18.210Z",
+  "databaseType": "sqlite",
+  "tables": [
+    {
+      "id": "1",
+      "name": "dim_produtora",
+      "x": -180,
+      "y": -260,
+      "fields": [
+        {
+          "id": "2",
+          "name": "id_producao",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        },
+        {
+          "id": "3",
+          "name": "company_name_dim",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        },
+        {
+          "id": "4",
+          "name": "company_id_dim",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        }
+      ],
+      "indexes": [],
+      "color": "#b067e9",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115857,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "5",
+      "name": "dim_detalhes",
+      "x": 720,
+      "y": 240,
+      "fields": [
+        {
+          "id": "6",
+          "name": "id_detalhes",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "7",
+          "name": "overview_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "8",
+          "name": "poster_path_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "9",
+          "name": "backdrop_path_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "10",
+          "name": "adult_tmdb",
+          "type": {
+            "id": "boolean",
+            "name": "boolean"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "11",
+          "name": "homepage_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "12",
+          "name": "status_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "13",
+          "name": "tagline_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "14",
+          "name": "video_tmdb",
+          "type": {
+            "id": "boolean",
+            "name": "boolean"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "15",
+          "name": "source_file_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "16",
+          "name": "popularity_tmdb",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        }
+      ],
+      "indexes": [],
+      "color": "#ff9f74",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115858,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "17",
+      "name": "dim_pais",
+      "x": -280,
+      "y": 0,
+      "fields": [
+        {
+          "id": "18",
+          "name": "id_pais",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        },
+        {
+          "id": "19",
+          "name": "country_iso_dim",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        },
+        {
+          "id": "20",
+          "name": "country_name_dim",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        }
+      ],
+      "indexes": [],
+      "color": "#b067e9",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115857,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "21",
+      "name": "dim_artista",
+      "x": -380,
+      "y": 200,
+      "fields": [
+        {
+          "id": "22",
+          "name": "id_artista",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "23",
+          "name": "nomeArtista_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "24",
+          "name": "generoArtista_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "25",
+          "name": "personagem_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "26",
+          "name": "anoNascimento_imdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "27",
+          "name": "anoFalecimento_imdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "28",
+          "name": "profissao_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "29",
+          "name": "titulosMaisConhecidos_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        }
+      ],
+      "indexes": [],
+      "color": "#ff6363",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115858,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "30",
+      "name": "dim_genero",
+      "x": 620,
+      "y": -20,
+      "fields": [
+        {
+          "id": "31",
+          "name": "id_genero",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "32",
+          "name": "genero",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "33",
+          "name": "genre_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        }
+      ],
+      "indexes": [],
+      "color": "#ffe374",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115858,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "34",
+      "name": "dim_colecao",
+      "x": 480,
+      "y": -260,
+      "fields": [
+        {
+          "id": "35",
+          "name": "id_colecao",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        },
+        {
+          "id": "36",
+          "name": "collection_id_tmdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        },
+        {
+          "id": "37",
+          "name": "collection_name_tmdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115857
+        }
+      ],
+      "indexes": [],
+      "color": "#ffe374",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115857,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "38",
+      "name": "dim_idioma",
+      "x": -140,
+      "y": 540,
+      "fields": [
+        {
+          "id": "39",
+          "name": "id_idioma",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "40",
+          "name": "original_language",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        }
+      ],
+      "indexes": [],
+      "color": "#8a61f5",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115858,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "41",
+      "name": "fato_principal",
+      "x": 140,
+      "y": -260,
+      "fields": [
+        {
+          "id": "42",
+          "name": "id_fato",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "43",
+          "name": "id_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "44",
+          "name": "id_tmdb_tmdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "45",
+          "name": "tituloPrincipal_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "46",
+          "name": "tituloOriginal_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "47",
+          "name": "anoLancamento_imdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "48",
+          "name": "release_date_tmdb",
+          "type": {
+            "id": "date",
+            "name": "date"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "49",
+          "name": "release_decade",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "50",
+          "name": "tempoMinutos_imdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "51",
+          "name": "notaMedia_imdb",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "52",
+          "name": "numeroVotos_imdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "53",
+          "name": "vote_average_tmdb",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "54",
+          "name": "budget_tmdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "55",
+          "name": "revenue_tmdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "56",
+          "name": "financial_result",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "57",
+          "name": "ROI",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "58",
+          "name": "id_colecao",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "59",
+          "name": "id_producao",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "60",
+          "name": "id_pais",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "61",
+          "name": "id_artista",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "62",
+          "name": "id_genero",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "63",
+          "name": "id_detalhes",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        },
+        {
+          "id": "64",
+          "name": "id_idioma",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1737660115858
+        }
+      ],
+      "indexes": [],
+      "color": "#7175fa",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1737660115858,
+      "diagramId": "0o6xg7af60sh"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "65",
+      "name": "fk_fato_principal_id_artista_dim_artista_id_artista",
+      "sourceTableId": "41",
+      "targetTableId": "21",
+      "sourceFieldId": "61",
+      "targetFieldId": "22",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "66",
+      "name": "fk_fato_principal_id_colecao_dim_colecao_id_colecao",
+      "sourceTableId": "41",
+      "targetTableId": "34",
+      "sourceFieldId": "58",
+      "targetFieldId": "35",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "67",
+      "name": "fk_fato_principal_id_detalhes_dim_detalhes_id_detalhes",
+      "sourceTableId": "41",
+      "targetTableId": "5",
+      "sourceFieldId": "63",
+      "targetFieldId": "6",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "68",
+      "name": "fk_fato_principal_id_genero_dim_genero_id_genero",
+      "sourceTableId": "41",
+      "targetTableId": "30",
+      "sourceFieldId": "62",
+      "targetFieldId": "31",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "69",
+      "name": "fk_fato_principal_id_idioma_dim_idioma_id_idioma",
+      "sourceTableId": "41",
+      "targetTableId": "38",
+      "sourceFieldId": "64",
+      "targetFieldId": "39",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "70",
+      "name": "fk_fato_principal_id_pais_dim_pais_id_pais",
+      "sourceTableId": "41",
+      "targetTableId": "17",
+      "sourceFieldId": "60",
+      "targetFieldId": "18",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    },
+    {
+      "id": "71",
+      "name": "fk_fato_principal_id_producao_dim_produtora_id_producao",
+      "sourceTableId": "41",
+      "targetTableId": "1",
+      "sourceFieldId": "59",
+      "targetFieldId": "2",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1737660115859,
+      "diagramId": "0o6xg7af60sh"
+    }
+  ],
+  "dependencies": []
+}
