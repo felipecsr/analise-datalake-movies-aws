@@ -73,7 +73,7 @@ Após ter as perguntas mais firmemente elaboradas, analisei os dados à disposi�
 
 Fiz uma (bem simples!) modelagem relacional, para enxergar visualmente os dados disponíveis e como realizaria a junção destes dados.
 
-![modelagem relacional](../evidencias/1-modelagem_relacional.png)
+![modelagem relacional](../evidencias/1-modelagem_relacional.png)  
 *movies_imdb têm origem no arquivo `csv`fornecido, e movies_TMDB têm origem nos dados que extraí via API do TMDB, alocados nos arquivos `json`.*
 <br/><br/>
 
