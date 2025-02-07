@@ -1,0 +1,1076 @@
+{
+  "id": "0",
+  "name": "sqlite-db",
+  "createdAt": "2025-01-28T16:52:31.355Z",
+  "updatedAt": "2025-01-28T16:52:31.355Z",
+  "databaseType": "sqlite",
+  "tables": [
+    {
+      "id": "1",
+      "name": "fact_film_produtora",
+      "x": -218.8887498281796,
+      "y": 590.6081465609747,
+      "fields": [
+        {
+          "id": "2",
+          "name": "id_fato",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "3",
+          "name": "id_produtora",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [
+        {
+          "id": "4",
+          "name": "sqlite_autoindex_fact_film_produtora_1",
+          "unique": "true",
+          "fieldIds": [
+            "2",
+            "3"
+          ],
+          "createdAt": 1738083015205
+        }
+      ],
+      "color": "#7175fa",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "5",
+      "name": "dim_colecao",
+      "x": 531.4093433084922,
+      "y": -209.09377384431977,
+      "fields": [
+        {
+          "id": "6",
+          "name": "id_colecao",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "7",
+          "name": "collection_id",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "8",
+          "name": "collection_name",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "9",
+          "name": "colecao_quantidade_filmes",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        }
+      ],
+      "indexes": [],
+      "color": "#42e0c0",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015204,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "10",
+      "name": "fact_film_pais",
+      "x": -305.22395131669373,
+      "y": 367.29233407283914,
+      "fields": [
+        {
+          "id": "11",
+          "name": "id_fato",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "12",
+          "name": "id_pais",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [
+        {
+          "id": "13",
+          "name": "sqlite_autoindex_fact_film_pais_1",
+          "unique": "true",
+          "fieldIds": [
+            "11",
+            "12"
+          ],
+          "createdAt": 1738083015205
+        }
+      ],
+      "color": "#ff6b8a",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "14",
+      "name": "dim_idioma",
+      "x": 572.2212341807943,
+      "y": 560.9414063891873,
+      "fields": [
+        {
+          "id": "15",
+          "name": "id_idioma",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "16",
+          "name": "original_language",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [],
+      "color": "#8eb7ff",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "17",
+      "name": "dim_produtora",
+      "x": -681.295252104724,
+      "y": 730.8023070295756,
+      "fields": [
+        {
+          "id": "18",
+          "name": "id_produtora",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "19",
+          "name": "nome_produtora",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [],
+      "color": "#8a61f5",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "20",
+      "name": "dim_genero",
+      "x": -786.5186678323304,
+      "y": -115.31200915663797,
+      "fields": [
+        {
+          "id": "21",
+          "name": "id_genero",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "22",
+          "name": "genero_item",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [],
+      "color": "#ff9f74",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "23",
+      "name": "dim_detalhes",
+      "x": 670.0014865173645,
+      "y": 91.43311914643677,
+      "fields": [
+        {
+          "id": "24",
+          "name": "id_detalhes",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "25",
+          "name": "overview",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "26",
+          "name": "poster_path",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "27",
+          "name": "backdrop_path",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "28",
+          "name": "homepage",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "29",
+          "name": "status",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "30",
+          "name": "tagline",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "31",
+          "name": "video",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "32",
+          "name": "source_file",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        }
+      ],
+      "indexes": [],
+      "color": "#ffe374",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015204,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "33",
+      "name": "fato_principal",
+      "x": 100,
+      "y": 100,
+      "fields": [
+        {
+          "id": "34",
+          "name": "id_fato",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "35",
+          "name": "f_filme_id_imdb",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "36",
+          "name": "f_filme_id_tmdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "37",
+          "name": "f_filme_tituloOriginal",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "38",
+          "name": "f_filme_tituloPincipal",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "39",
+          "name": "f_tempo_anoLancamento",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "40",
+          "name": "f_tempo_dataLancamento",
+          "type": {
+            "id": "date",
+            "name": "date"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "41",
+          "name": "f_tempo_minutos",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "42",
+          "name": "f_aval_notaMedia_imdb",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "43",
+          "name": "f_aval_numeroVotos_imdb",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "44",
+          "name": "f_aval_notaMedia_tmdb",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "45",
+          "name": "f_aval_popularity_tmdb",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "46",
+          "name": "f_filme_adult",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "47",
+          "name": "f_filme_genero_analise",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "48",
+          "name": "f_fin_orcamento",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "49",
+          "name": "f_fin_receita",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "50",
+          "name": "f_fin_resultado",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "51",
+          "name": "f_fin_roi",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "52",
+          "name": "f_release_decade",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "53",
+          "name": "f_fin_lucro_por_minuto",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "54",
+          "name": "f_fin_tempo_votos_por_minuto",
+          "type": {
+            "id": "real",
+            "name": "real"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "55",
+          "name": "id_colecao",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "56",
+          "name": "id_detalhes",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "57",
+          "name": "id_idioma",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [],
+      "color": "#b067e9",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "58",
+      "name": "dim_artista",
+      "x": -796.9977574180846,
+      "y": 132.98738315579595,
+      "fields": [
+        {
+          "id": "59",
+          "name": "id_artista",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "60",
+          "name": "nomeArtista",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "61",
+          "name": "artista_genero",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "62",
+          "name": "artista_profissao",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "63",
+          "name": "artista_outrosTitulos",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "64",
+          "name": "artista_ano_nascimento",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        },
+        {
+          "id": "65",
+          "name": "artista_ano_falecimento",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015204
+        }
+      ],
+      "indexes": [],
+      "color": "#ff6b8a",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015204,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "66",
+      "name": "dim_pais",
+      "x": -690.6666179751028,
+      "y": 515.9831103274157,
+      "fields": [
+        {
+          "id": "67",
+          "name": "id_pais",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": true,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "68",
+          "name": "pais_producao",
+          "type": {
+            "id": "text",
+            "name": "text"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "true",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [],
+      "color": "#ff9f74",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "69",
+      "name": "fact_film_genero",
+      "x": -288.00154846538896,
+      "y": -148.8041787561883,
+      "fields": [
+        {
+          "id": "70",
+          "name": "id_fato",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "71",
+          "name": "id_genero",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [
+        {
+          "id": "72",
+          "name": "sqlite_autoindex_fact_film_genero_1",
+          "unique": "true",
+          "fieldIds": [
+            "70",
+            "71"
+          ],
+          "createdAt": 1738083015205
+        }
+      ],
+      "color": "#9ef07a",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "73",
+      "name": "fact_film_artist",
+      "x": -319.72217751608287,
+      "y": 134.1229500135839,
+      "fields": [
+        {
+          "id": "74",
+          "name": "id_fato",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        },
+        {
+          "id": "75",
+          "name": "id_artista",
+          "type": {
+            "id": "integer",
+            "name": "integer"
+          },
+          "primaryKey": false,
+          "unique": false,
+          "nullable": "false",
+          "createdAt": 1738083015205
+        }
+      ],
+      "indexes": [
+        {
+          "id": "76",
+          "name": "sqlite_autoindex_fact_film_artist_1",
+          "unique": "true",
+          "fieldIds": [
+            "74",
+            "75"
+          ],
+          "createdAt": 1738083015205
+        }
+      ],
+      "color": "#9ef07a",
+      "isView": false,
+      "isMaterializedView": false,
+      "createdAt": 1738083015205,
+      "diagramId": "0o6xg7afm5qr"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "77",
+      "name": "fk_fact_film_artist_id_artista_dim_artista_id_artista",
+      "sourceTableId": "73",
+      "targetTableId": "58",
+      "sourceFieldId": "75",
+      "targetFieldId": "59",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "78",
+      "name": "fk_fact_film_artist_id_fato_fato_principal_id_fato",
+      "sourceTableId": "73",
+      "targetTableId": "33",
+      "sourceFieldId": "74",
+      "targetFieldId": "34",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "79",
+      "name": "fk_fact_film_genero_id_fato_fato_principal_id_fato",
+      "sourceTableId": "69",
+      "targetTableId": "33",
+      "sourceFieldId": "70",
+      "targetFieldId": "34",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "80",
+      "name": "fk_fact_film_genero_id_genero_dim_genero_id_genero",
+      "sourceTableId": "69",
+      "targetTableId": "20",
+      "sourceFieldId": "71",
+      "targetFieldId": "21",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "81",
+      "name": "fk_fact_film_pais_id_fato_fato_principal_id_fato",
+      "sourceTableId": "10",
+      "targetTableId": "33",
+      "sourceFieldId": "11",
+      "targetFieldId": "34",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "82",
+      "name": "fk_fact_film_pais_id_pais_dim_pais_id_pais",
+      "sourceTableId": "10",
+      "targetTableId": "66",
+      "sourceFieldId": "12",
+      "targetFieldId": "67",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "83",
+      "name": "fk_fact_film_produtora_id_fato_fato_principal_id_fato",
+      "sourceTableId": "1",
+      "targetTableId": "33",
+      "sourceFieldId": "2",
+      "targetFieldId": "34",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "84",
+      "name": "fk_fact_film_produtora_id_produtora_dim_produtora_id_produtora",
+      "sourceTableId": "1",
+      "targetTableId": "17",
+      "sourceFieldId": "3",
+      "targetFieldId": "18",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "85",
+      "name": "fk_fato_principal_id_colecao_dim_colecao_id_colecao",
+      "sourceTableId": "33",
+      "targetTableId": "5",
+      "sourceFieldId": "55",
+      "targetFieldId": "6",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "86",
+      "name": "fk_fato_principal_id_detalhes_dim_detalhes_id_detalhes",
+      "sourceTableId": "33",
+      "targetTableId": "23",
+      "sourceFieldId": "56",
+      "targetFieldId": "24",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    },
+    {
+      "id": "87",
+      "name": "fk_fato_principal_id_idioma_dim_idioma_id_idioma",
+      "sourceTableId": "33",
+      "targetTableId": "14",
+      "sourceFieldId": "57",
+      "targetFieldId": "15",
+      "sourceCardinality": "many",
+      "targetCardinality": "one",
+      "createdAt": 1738083015206,
+      "diagramId": "0o6xg7afm5qr"
+    }
+  ],
+  "dependencies": []
+}

@@ -35,5 +35,5 @@
 06. [Sprint06](Sprint06/README.md)
 07. [Sprint07](Sprint07/README.md)
 08. [Sprint08](Sprint08/README.md)
-09. [Sprint08](Sprint09/README.md)
-10. [Sprint08](Sprint10/README.md)
+09. [Sprint09](Sprint09/README.md)
+10. [Sprint10](Sprint10/README.md)
