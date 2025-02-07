@@ -19,7 +19,7 @@ Durante a construção inicial dos dashboards no QuickSight, foram identificadas
 **Modelagem ao final da sprint 09 - Star Schema**
 ![modelo estrela](../evidencias/1-Star_schema.png)
 <br/>
-**Modelagem ao final da sprint 09 - Galaxy Schema**
+**Ajuste da modelagem no início da sprint 10 - Galaxy Schema**
 ![modelo galáxia](../evidencias/2-Galaxy_schema.png)
 ---
 
