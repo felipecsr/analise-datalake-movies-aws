@@ -1,0 +1,132 @@
+Received: from CPUPR80MB7294.lamprd80.prod.outlook.com (2603:10d6:103:1fc::7)
+ by SCYPR80MB7204.lamprd80.prod.outlook.com with HTTPS; Thu, 24 Oct 2024
+ 20:30:44 +0000
+Received: from MW4PR03CA0093.namprd03.prod.outlook.com (2603:10b6:303:b7::8)
+ by CPUPR80MB7294.lamprd80.prod.outlook.com (2603:10d6:103:1fc::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8093.18; Thu, 24 Oct
+ 2024 20:30:42 +0000
+Received: from DS3PEPF000099D8.namprd04.prod.outlook.com
+ (2603:10b6:303:b7:cafe::ae) by MW4PR03CA0093.outlook.office365.com
+ (2603:10b6:303:b7::8) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8093.17 via Frontend
+ Transport; Thu, 24 Oct 2024 20:30:40 +0000
+Authentication-Results: spf=pass (sender IP is 54.240.48.120)
+ smtp.mailfrom=amazonses.com; dkim=pass (signature was verified)
+ header.d=compass.uol;dmarc=pass action=none
+ header.from=compass.uol;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of amazonses.com designates
+ 54.240.48.120 as permitted sender) receiver=protection.outlook.com;
+ client-ip=54.240.48.120; helo=a48-120.smtp-out.amazonses.com; pr=C
+Received: from a48-120.smtp-out.amazonses.com (54.240.48.120) by
+ DS3PEPF000099D8.mail.protection.outlook.com (10.167.17.9) with Microsoft SMTP
+ Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8093.14 via
+ Frontend Transport; Thu, 24 Oct 2024 20:30:39 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=uwejx3vhvgyywlgb7hvi3i3lljcpg56b; d=compass.uol; t=1729801839;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date;
+	bh=Q/u9DTLRlV9trPSQpfrRdO0DdOAgZd66kiID8QxBSS8=;
+	b=rFzBu6y2EDsBocyhkPqzEt+zC2W0lEcQKEThqvqYfIiqLnkuZG58PmaLCdfZd1XF
+	0oklRs08W/tuQVFAitH1iSTSttbeXfkK3I3Jbg6L/of7mJm0dY67m94iwTPnptN949C
+	zyNEG7jnmtjC3bWSjmevxXPmqa15ov2zm1DdUjuxjEnrMdKqwBI4OrFe7M6MiLZmw0Y
+	dtFFNAG8lZUA2J3mWIjgB64/uCl/Td4ZpGpsCRW1JGqsvbmoeej3WeB3hjzC1wo43b/
+	NCZmpxedo7SfKExnmp+XfcfJWFjRgOPNrDJOBVydkT5erduIH/ogIIpdru7VF5rIrI8
+	tdB6NgJC/Q==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1729801839;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;
+	bh=Q/u9DTLRlV9trPSQpfrRdO0DdOAgZd66kiID8QxBSS8=;
+	b=MxxGg1rUrPEpSMTK9zixvLBblI9ZTy1UzMsyWMbhe4xXuTcLmFnvS93cZDfy7ky1
+	JpcsGWSR+/sGtkVLAA/8etFd/Pp4MpNa6SyCUSt0VTYygQ+5l2KLuHm5Q/VXVoPEgQg
+	hckT+J0/LDPyeZ14FfzMhbgtIpzfmD3uMf/DU2Xg=
+From: studio.data.ai.pb@compass.uol
+To: felipe.reis.pb@compasso.com.br
+Subject: [ Programa de Bolsas - D&A ] Feedback Individual
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <01000192c03960ee-19ba0405-0b1f-4c03-8b99-0f0421628a60-000000@email.amazonses.com>
+Date: Thu, 24 Oct 2024 20:30:38 +0000
+Feedback-ID: ::1.us-east-1.A4WXuru60X1LlEDXA1XzsloMTIWcj4ZhHo3TFkrKPkw=:AmazonSES
+X-SES-Outgoing: 2024.10.24-54.240.48.120
+Return-Path: 01000192c03960ee-19ba0405-0b1f-4c03-8b99-0f0421628a60-000000@amazonses.com
+X-MS-Exchange-Organization-ExpirationStartTime: 24 Oct 2024 20:30:40.1436
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: ea959e7e-b862-4b3a-4460-08dcf46ab9d8
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 97fa1f96-7877-469f-aa37-1f8568e3a3ff:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: DS3PEPF000099D8:EE_|CPUPR80MB7294:EE_|SCYPR80MB7204:EE_
+X-MS-Exchange-Organization-AuthSource: DS3PEPF000099D8.namprd04.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: ea959e7e-b862-4b3a-4460-08dcf46ab9d8
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|32142699015|8096899003;
+X-Forefront-Antispam-Report: CIP:54.240.48.120;CTRY:US;LANG:pt;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:a48-120.smtp-out.amazonses.com;PTR:a48-120.smtp-out.amazonses.com;CAT:NONE;SFS:(13230040)(32142699015)(8096899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 24 Oct 2024 20:30:39.6124
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: ea959e7e-b862-4b3a-4460-08dcf46ab9d8
+X-MS-Exchange-CrossTenant-Id: 97fa1f96-7877-469f-aa37-1f8568e3a3ff
+X-MS-Exchange-CrossTenant-AuthSource: DS3PEPF000099D8.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CPUPR80MB7294
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.9985856
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8093.014
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?eDhoODJ2T1NVc2hvYzM5aTY5Y3V2ZnJQYzVYWWxubDg0dE1zZElSZm1namJQ?=
+ =?utf-8?B?NEkwbUUyUENIUEllMEZWVU9ycGVLYnQ2S0ZKMnBIaVdGRis2R2hVWi80bFJE?=
+ =?utf-8?B?SkRCM2RCQVZNWmdPV0ZRQ0pacFFNOEZMcHcyTEZBMlRZM054ZFBYNUNXa1hP?=
+ =?utf-8?B?NnJzcUUzRk5TTUdpMG9FRE5YOU1hamRSbVZ1V2t0WXZZOGhITUdMWUFBZEdW?=
+ =?utf-8?B?WTRZQWV1V3NJSW4vd29BYnBleFhKekFhZGRGTXNRT2hIQ09mL2RVK2tKWmVJ?=
+ =?utf-8?B?ME9nM1NMejQ3ZDdJYzU0d21IU1NDREN1a2JyZXNxbXJ4SEgyeDRud0pjZmpF?=
+ =?utf-8?B?eHFGWGhOaHUvOTlRV3ZRcCtUdWcwRS9CeS9NMW1pS2c3eG1uQlREeGVTcVg5?=
+ =?utf-8?B?cjZwV1hmcmZLQTFsQ0ZyckhqMnRKSEQzWkdobGhxMGJNcEtpaFZTUDJ5YnBu?=
+ =?utf-8?B?UkpLTEVmUTFrNUZWc3RTNStpQytUd0s5SlJjeWcrWHdaMWUvTHZRbDNWalds?=
+ =?utf-8?B?M2F6MnZwd2ZuSzJzSi9WKzViWHZqQ1lJMmRWWDc1TFV5cFBDMXl4azJFeE51?=
+ =?utf-8?B?U1VEajVOVUtSaUNmSk01SVIrenBtUGtpR1JwNitlR2NLdGowcDJ1dHhmcUZB?=
+ =?utf-8?B?MTRFZ3N3WEMxREh5WE1lak1BMThtUHBOWXd4YjBmTXdTeXF0WlYvVnJwZWFD?=
+ =?utf-8?B?dkJXOG5MR1lhWVU1YU9xOE9hL3d2YjZML1FDVGEwdmJYaUE0M2tQa25MZ2xX?=
+ =?utf-8?B?TU92RzcrUUc2L0NiMnE4QUJ3SmMwcWd3YzA3NWF2NTROR2hYWlpYZnoyMjZh?=
+ =?utf-8?B?QmQ0b09xQ1BOK2NFQURFb0NrRFBybHNaSHNTa2s1UEtiNi92ZjNxOUt1SlV3?=
+ =?utf-8?B?T0ZVREpnOHBGMDV4cURwdUhtWUVxWGFEcXlHYk8vNGN2VmticmRzZ1N1bFJt?=
+ =?utf-8?B?OWdqallwZ1dpSVdmRUZmYmVNVitaOTdZdCtjZWZBVHduK3luVSswT05aVHdV?=
+ =?utf-8?B?Q3hYclM4OFV6QkR2dFNaWkFDTzg2d1VPNXpqODVsc3hCMWxSbzdsL2swcFIw?=
+ =?utf-8?B?Z0dGc1hNQVh0V0xKV3phUEpWQVhET1R6ZWNjUkV2R3pmWnNoNDhlb2xQZVVz?=
+ =?utf-8?B?NmlIYXJJcWRmMlNmWllZQ0hZd2VUSURRUzlLQmZ0NXQ5M3ZlSlMySVAzT0Jq?=
+ =?utf-8?B?N2dEOGRvbXFhdnRPOWhpNHdObHhtNnlvclZmcHdDMEFLMU90d25OK2ZPY2lj?=
+ =?utf-8?B?RDViM1p0SllhTGFsNjh4S1oxRGlLS1VBVVVuN0FBQVdZRUVuT2E4ZDF3cG5x?=
+ =?utf-8?B?bm9xRWpTRU5iTVZPTWNGVVRjMnB4SmJjM0ZZcWRRZjV5OXZxRk9kbUU5Zmw2?=
+ =?utf-8?B?NDNaNWF2a244SkRqbncwUDliK1VVV3VQWTRvdGJxR29VcmpYdmw5WTU3TlFo?=
+ =?utf-8?B?T1o2UlZld2NRdHpOMmQvZjdnbVFQSDlGbm1DdFc0U1FCd2tBQlE4WFE0RzdQ?=
+ =?utf-8?B?TzloeDVRem1hWCsxeDVXMmZaNjk2VTBLWjlKMTRPci9BelJPVk1FNmpuUUND?=
+ =?utf-8?B?K0lMZENIbVB5Z0ZFeGszZFVIMGFBRUdYd1VqSDlJQWlQSlh5ZWxibWFxU2l0?=
+ =?utf-8?B?aGhmSklwWGRiUVZWTmwwZE01OHBxNy9CWEh1dW96RjNaOUZmUHV4Tys3bXBo?=
+ =?utf-8?Q?/dEg21ZRpfa4xv4yGI2i?=
+MIME-Version: 1.0
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><d=
+iv style=3D"background-color: #e7f3fe; padding: 20px; border-radius: 10px; =
+margin-bottom: 20px;">
+                    <p style=3D"font-size: large; font-weight: bold;">Ol=C3=
+=A1 Felipe Coelho Sampaio Reis, tudo bem?</p>
+                    <p style=3D"font-size: medium;">Estou aqui para dar um =
+Feedback Cultural a respeito da corre=C3=A7=C3=A3o da Sprint 1.</p>
+                    <p style=3D"font-size: medium;"><strong>Feedback Cultur=
+al:</strong> Boa apresenta=C3=A7=C3=A3o do desafio. Fez um =C3=B3timo v=C3=
+=ADdeo, mostrando ponto a ponto do c=C3=B3digo. Conseguiu transmitir confia=
+n=C3=A7a no que estava falando. Faltou apresentar o consolidador de relat=
+=C3=B3rios.</p>
+                    <p style=3D"font-size: medium;">O intuito desse feedbac=
+k =C3=A9 construtivo, onde voc=C3=AA deve continuar o que est=C3=A1 fazendo=
+ certo e melhorar os pontos que merecem aten=C3=A7=C3=A3o.</p>
+                    <p style=3D"font-size: medium;">Foco nos estudos e cont=
+inue se esfor=C3=A7ando!</p>
+                </div>
+               =20
