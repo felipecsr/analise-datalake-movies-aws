@@ -55,6 +55,10 @@ O projeto ocorreu durante um programa de bolsas oferecido pela Compass UOL e foi
 - [Sprint02 - Consultas SQL e Modelagem Relacional](Sprint02/README.md)
 - [Sprint06 - Consultas com AWS Athena](Sprint06/README.md)
 
+### 🔌 Integração de APIs e Dados Externos
+- [Sprint07 - Extração de dados da API TMDB](Sprint07/README.md)
+- [Sprint08 - Organização e Refino dos Dados TMDB](Sprint08/README.md)
+
 ### ⚙️ ETL (Extração, Transformação e Carga)
 - [Sprint03 - Pipeline ETL simples em Python](Sprint03/README.md)
 - [Sprint06 - Lambda + Docker + S3 para processamento ETL](Sprint06/README.md)
@@ -62,41 +66,35 @@ O projeto ocorreu durante um programa de bolsas oferecido pela Compass UOL e foi
 - [Sprint08 - Trusted Zone](Sprint08/README.md)
 - [Sprint09 - Refined Zone com Modelagem Dimensional](Sprint09/README.md)
 
-### 🐳 Docker
-- [Sprint04 - Criação de Dockerfile e Imagens](Sprint04/README.md)
-- [Sprint06 - Docker Layer para Lambda](Sprint06/README.md)
-- [Sprint07 - PySpark via Docker](Sprint07/README.md)
-
-### ☁️ AWS (por serviço)
-
-#### 📦 S3 (armazenamento)
-- [Sprint05 - Upload, Permissões e Site Estático](Sprint05/README.md)
-- [Sprint06 - Criação e Estruturação para ETL](Sprint06/README.md)
-- [Sprint07 - Uso no Data Lake (Glue + Athena)](Sprint07/README.md)
-
-#### ⚡ Lambda
-- [Sprint06 - Execução de Scripts Python com Camadas](Sprint06/README.md)
-
-#### 🦉 Athena
-- [Sprint06 - Criação de Tabela e Consultas](Sprint06/README.md)
-- [Sprint07 - Integração com Glue e Crawlers](Sprint07/README.md)
-
-#### 🧪 Glue
-- [Sprint07 - ETL com Glue + PySpark](Sprint07/README.md)
-- [Sprint08 - Camada Trusted](Sprint08/README.md)
-- [Sprint09 - Camada Refined e Star Schema](Sprint09/README.md)
-
-#### 📊 QuickSight
-- [Sprint10 - Dashboards e Storytelling com Dados](Sprint10/README.md)
-
 ### 🔄 Spark (PySpark)
 - [Sprint07 - Contador de Palavras com Spark](Sprint07/README.md)
 - [Sprint08 - Análise de Pessoas por País e Geração](Sprint08/README.md)
 - [Sprint09 - Transformações e Modelagem](Sprint09/README.md)
 
-### 🔌 Integração de APIs e Dados Externos
-- [Sprint07 - Extração de dados da API TMDB](Sprint07/README.md)
-- [Sprint08 - Organização e Refino dos Dados TMDB](Sprint08/README.md)
+### 🐳 Docker
+- [Sprint04 - Criação de Dockerfile e Imagens](Sprint04/README.md)
+- [Sprint06 - Docker Layer para Lambda](Sprint06/README.md)
+- [Sprint07 - PySpark via Docker](Sprint07/README.md)
+
+### 📦 AWS S3 (armazenamento)
+- [Sprint05 - Upload, Permissões e Site Estático](Sprint05/README.md)
+- [Sprint06 - Criação e Estruturação para ETL](Sprint06/README.md)
+- [Sprint07 - Uso no Data Lake (Glue + Athena)](Sprint07/README.md)
+
+### ⚡ AWS Lambda (serverless function, FaaS)
+- [Sprint06 - Execução de Scripts Python com Camadas](Sprint06/README.md)
+
+#### 🦉 AWS Athena (consultas SQL)
+- [Sprint06 - Criação de Tabela e Consultas](Sprint06/README.md)
+- [Sprint07 - Integração com Glue e Crawlers](Sprint07/README.md)
+
+#### 🧪 AWS Glue (serverless ETL pipeline)
+- [Sprint07 - ETL com Glue + PySpark](Sprint07/README.md)
+- [Sprint08 - Camada Trusted](Sprint08/README.md)
+- [Sprint09 - Camada Refined e Star Schema](Sprint09/README.md)
+
+#### 📊 AWS QuickSight (plataforma de BI)
+- [Sprint10 - Dashboards e Storytelling com Dados](Sprint10/README.md)
 
 ### 📈 Visualização de Dados e Storytelling
 - [Sprint10 - Fundamentos de Visualização + QuickSight](Sprint10/README.md)
