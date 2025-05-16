@@ -40,7 +40,7 @@ Abaixo, temos 2 opções de acompanhamento do projeto:
 07. [Sprint07 - TMDB, Spark e Glue ETL](Sprint07/README.md)  
 08. [Sprint08 - Criação da Camada Trusted e Dados Simulados](Sprint08/README.md)  
 09. [Sprint09 - Modelagem Multidimensional na Camada Refined](Sprint09/README.md)  
-10. [Sprint10 - Dashboards e Visualização com AWS QuickSight](Sprint10/README.md) --> no markdown do desafio, está o `Relatório Final` (visualização da anaĺise!)
+10. [Sprint10 - Dashboards e Visualização com AWS QuickSight](Sprint10/README.md) ⚠️ no markdown do desafio, está o `Relatório Final` (visualização da anaĺise!)
 
 ---
 
