@@ -28,7 +28,7 @@ O projeto ocorreu durante um programa de bolsas oferecido pela Compass UOL e foi
 
 ## 🗂️ 1. Visão por Sprints Semanais (ordem cronológica)
 
-📢 **Importante**: ao final de cada documento das sprints, há um link que leva para documento de cada DESAFIO - importante leitura!
+> 📢 **Importante**: ao final de cada documento das sprints, há um link que leva para documento de cada DESAFIO - importante leitura!
 
 01. [Sprint01 - Introdução ao Linux, Git e Shell Script](Sprint01/README.md)  
 02. [Sprint02 - Introdução a SQL e Modelagem Relacional](Sprint02/README.md)  
