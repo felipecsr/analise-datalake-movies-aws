@@ -20,15 +20,16 @@
 
 ---
 ## Histórico
-O projeto ocorreu durante um programa de bolsas oferecido pela Compass UOL e foi organizado por sprints semanais. Aqui abaixo teremos a possibilidade de enxergar estes conteúdos de 2 formas:
+O projeto ocorreu durante um programa de bolsas oferecido pela Compass UOL e foi organizado por sprints semanais. 
+Abaixo, temos 2 opções de acompanhamento do projeto:
 
-1. pela ordem cronológica das sprints
-2. pelos temas técnicos abordados
+1. pela ordem cronológica das sprints;
+2. pelos temas técnicos abordados no percursso.
 ---
 
 ## 🗂️ 1. Visão por Sprints Semanais (ordem cronológica)
 
-> 📢 **Importante**: ao final de cada documento das sprints, há um link que leva para documento de cada DESAFIO - importante leitura!
+> 📢 **Importante**: toda sprint, ao final tem um `Desafio` - a leitura complementar é muito relevante!
 
 01. [Sprint01 - Introdução ao Linux, Git e Shell Script](Sprint01/README.md)  
 02. [Sprint02 - Introdução a SQL e Modelagem Relacional](Sprint02/README.md)  
@@ -39,7 +40,7 @@ O projeto ocorreu durante um programa de bolsas oferecido pela Compass UOL e foi
 07. [Sprint07 - TMDB, Spark e Glue ETL](Sprint07/README.md)  
 08. [Sprint08 - Criação da Camada Trusted e Dados Simulados](Sprint08/README.md)  
 09. [Sprint09 - Modelagem Multidimensional na Camada Refined](Sprint09/README.md)  
-10. [Sprint10 - Dashboards e Visualização com AWS QuickSight](Sprint10/README.md)  
+10. [Sprint10 - Dashboards e Visualização com AWS QuickSight](Sprint10/README.md) --> no markdown do desafio, está o `Relatório Final` (visualização da anaĺise!)
 
 ---
 
