@@ -1,1 +1,0 @@
-Nesta pasta estão e-mails oferecidos como feedback em âmbito técnico e comportamental, a cada sprint, no programa de bolsas - oferecido pelos sêniors da Compass UOL.
