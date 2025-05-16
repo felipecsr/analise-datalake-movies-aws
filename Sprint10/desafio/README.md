@@ -75,7 +75,7 @@ A identificação de padrões em métricas avaliativas e financeiras foi suficie
 <br/>
 ### 🎥 Versão final do Relatório Executivo / Dashboards
 
-Neste link é possível [acessar o relatório consolidado](../desafio/relatorio/Analise_Crime_War_final.pdf) em `pdf`.
+Neste link é possível [acessar o relatório consolidado](../desafio/relatorio/Felipe.Reis-Relatório-Dashboard-Sprint10.pdf) em `pdf`.
 
 ![dashboard](../evidencias/4-thumbs_dashboard.png)
 
