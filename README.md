@@ -85,16 +85,16 @@ Abaixo, temos 2 opções de acompanhamento do projeto:
 ### ⚡ AWS Lambda (serverless function, FaaS)
 - [Sprint06 - Execução de Scripts Python com Camadas](Sprint06/README.md)
 
-#### 🦉 AWS Athena (consultas SQL)
+### 🦉 AWS Athena (consultas SQL)
 - [Sprint06 - Criação de Tabela e Consultas](Sprint06/README.md)
 - [Sprint07 - Integração com Glue e Crawlers](Sprint07/README.md)
 
-#### 🧪 AWS Glue (serverless ETL pipeline)
+### 🧪 AWS Glue (serverless ETL pipeline)
 - [Sprint07 - ETL com Glue + PySpark](Sprint07/README.md)
 - [Sprint08 - Camada Trusted](Sprint08/README.md)
 - [Sprint09 - Camada Refined e Star Schema](Sprint09/README.md)
 
-#### 📊 AWS QuickSight (plataforma de BI)
+### 📊 AWS QuickSight (plataforma de BI)
 - [Sprint10 - Dashboards e Storytelling com Dados](Sprint10/README.md)
 
 ### 📈 Visualização de Dados e Storytelling
