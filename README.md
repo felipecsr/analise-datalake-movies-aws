@@ -128,7 +128,7 @@ O "diário de bordo" detalhado, com códigos, desafios e aprendizados de cada fa
 
 * [**Sprint 06:** Definição do Escopo e Ingestão Inicial no S3](./Sprint06/Desafio/README.md)
 * [**Sprint 07:** Extração de Dados via API com Lambda e EventBridge](./Sprint07/Desafio/README.md)
-* [**Sprint 08:** Construção da Camada Trusted com AWS Glue e PySpark](./Sprint08/Desafio/README.md)
-* [**Sprint 09:** Modelagem Dimensional e Construção da Camada Refined](./Sprint09/Desafio/README.md)
-* [**Sprint 10:** Visualização de Dados com QuickSight e Finalização](./Sprint10/Desafio/README.md)
+* [**Sprint 08:** Construção da Camada Trusted com AWS Glue e PySpark](./Sprint08/desafio/README.md)
+* [**Sprint 09:** Modelagem Dimensional e Construção da Camada Refined](./Sprint09/desafio/README.md)
+* [**Sprint 10:** Visualização de Dados com QuickSight e Finalização](./Sprint10/desafio/README.md)
 
