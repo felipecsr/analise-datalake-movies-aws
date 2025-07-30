@@ -59,8 +59,7 @@ A análise foi sustentada por uma arquitetura de dados serverless, garantindo es
 **Fluxo de Dados:**
 `Fontes (CSV/API) -> S3 (Raw) -> AWS Glue (PySpark) -> S3 (Trusted) -> AWS Glue (PySpark) -> S3 (Refined) -> Athena -> QuickSight`
 
-*Insira aqui o diagrama da arquitetura. Ferramentas como draw.io ou Miro são ótimas para isso.*
-`![Arquitetura do Data Lake](./caminho/para/sua/imagem_arquitetura.png)`
+![Arquitetura do Data Lake](img/datalake_pipeline_serverless_aws.jpg)
 
 ---
 
